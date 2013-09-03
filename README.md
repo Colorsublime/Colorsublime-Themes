@@ -1,6 +1,9 @@
 Colorsublime-Themes
 ===================
 
+
+![Colorsublime Logo](http://colorsublime.com/img/ColorSublime_logo.png "Colorsublime")
+
 This repo hosts all the themes you can try and download on http://colorsublime.com/
 
 If you want to submit new Sublime Text themes please fork this repo and send us a pull request including them inside the themes folder remembering to update also the themes.json file.
