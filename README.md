@@ -24,4 +24,3 @@ New themes are welcome!
 ## Credits
 
  - [daylerees](https://github.com/daylerees/)
- - [mbixby](https://github.com/mbixby/)
