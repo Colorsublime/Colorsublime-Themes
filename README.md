@@ -21,4 +21,7 @@ Please make sure to update correctly the themes.json file
 
 New themes are welcome!
 
+## Credits
 
+ - [daylerees](https://github.com/daylerees/)
+ - [mbixby](https://github.com/mbixby/)
