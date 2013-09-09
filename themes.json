@@ -6,8 +6,8 @@
 		"Description": ""
 	},
 	{
-		"Title": "All Hallows Eve",
-		"FileName": "All Hallows Eve.tmTheme",
+		"Title": "All_Hallows_Eve",
+		"FileName": "All_Hallows_Eve.tmTheme",
 		"Author": "David Heinemeier Hansson",
 		"Description": ""
 	},
@@ -42,14 +42,14 @@
 		"Description": ""
 	},
 	{
-		"Title": "Brilliance Black",
-		"FileName": "Brilliance Black.tmTheme",
+		"Title": "Brilliance_Black",
+		"FileName": "Brilliance_Black.tmTheme",
 		"Author": "Thomas Aylott",
 		"Description": ""
 	},
 	{
-		"Title": "Brilliance Dull",
-		"FileName": "Brilliance Dull.tmTheme",
+		"Title": "Brilliance_Dull",
+		"FileName": "Brilliance_Dull.tmTheme",
 		"Author": "Thomas Aylott",
 		"Description": ""
 	},
@@ -72,20 +72,20 @@
 		"Description": ""
 	},
 	{
-		"Title": "Chrome DevTools",
-		"FileName": "Chrome DevTools.tmTheme",
+		"Title": "Chrome_DevTools",
+		"FileName": "Chrome_DevTools.tmTheme",
 		"Author": "Austin Cummings",
-		"Description": ""
-	},
-	{
-		"Title": "Clouds Midnight",
-		"FileName": "Clouds Midnight.tmTheme",
-		"Author": "",
 		"Description": ""
 	},
 	{
 		"Title": "Clouds",
 		"FileName": "Clouds.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Clouds_Midnight",
+		"FileName": "Clouds_Midnight.tmTheme",
 		"Author": "",
 		"Description": ""
 	},
@@ -138,8 +138,8 @@
 		"Description": ""
 	},
 	{
-		"Title": "Espresso Libre",
-		"FileName": "Espresso Libre.tmTheme",
+		"Title": "Espresso_Libre",
+		"FileName": "Espresso_Libre.tmTheme",
 		"Author": "Chris Thomas",
 		"Description": ""
 	},
@@ -258,8 +258,8 @@
 		"Description": ""
 	},
 	{
-		"Title": "MagicWB (Amiga)",
-		"FileName": "MagicWB (Amiga).tmTheme",
+		"Title": "MagicWB_Amiga",
+		"FileName": "MagicWB_Amiga.tmTheme",
 		"Author": "Allan Odgaard",
 		"Description": ""
 	},
@@ -276,14 +276,14 @@
 		"Description": ""
 	},
 	{
-		"Title": "Merbivore Soft",
-		"FileName": "Merbivore Soft.tmTheme",
+		"Title": "Merbivore",
+		"FileName": "Merbivore.tmTheme",
 		"Author": "",
 		"Description": ""
 	},
 	{
-		"Title": "Merbivore",
-		"FileName": "Merbivore.tmTheme",
+		"Title": "Merbivore_Soft",
+		"FileName": "Merbivore_Soft.tmTheme",
 		"Author": "",
 		"Description": ""
 	},
@@ -306,8 +306,8 @@
 		"Description": ""
 	},
 	{
-		"Title": "Pastels on Dark",
-		"FileName": "Pastels on Dark.tmTheme",
+		"Title": "Pastels_on_Dark",
+		"FileName": "Pastels_on_Dark.tmTheme",
 		"Author": "Mats Persson",
 		"Description": ""
 	},
@@ -354,8 +354,8 @@
 		"Description": ""
 	},
 	{
-		"Title": "Slush and Poppies",
-		"FileName": "Slush and Poppies.tmTheme",
+		"Title": "Slush_and_Poppies",
+		"FileName": "Slush_and_Poppies.tmTheme",
 		"Author": "William D. Neumann",
 		"Description": ""
 	},
@@ -420,8 +420,8 @@
 		"Description": ""
 	},
 	{
-		"Title": "Textmate (Mac Classic)",
-		"FileName": "Textmate (Mac Classic).tmTheme",
+		"Title": "Textmate",
+		"FileName": "Textmate.tmTheme",
 		"Author": "Chris Thomas",
 		"Description": ""
 	},
@@ -486,8 +486,8 @@
 		"Description": ""
 	},
 	{
-		"Title": "Vibrant Ink",
-		"FileName": "Vibrant Ink.tmTheme",
+		"Title": "Vibrant_Ink",
+		"FileName": "Vibrant_Ink.tmTheme",
 		"Author": "",
 		"Description": ""
 	},
