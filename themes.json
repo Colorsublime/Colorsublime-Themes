@@ -1,231 +1,536 @@
-[{
-	"Title": "Active4D",
-	"FileName": "Active4D.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "All Hallows Eve",
-	"FileName": "All Hallows Eve.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Amy",
-	"FileName": "Amy.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Blackboard",
-	"FileName": "Blackboard.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Brilliance Black",
-	"FileName": "Brilliance Black.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Brilliance Dull",
-	"FileName": "Brilliance Dull.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Carbonnight",
-	"FileName": "Carbonnight.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Chrome DevTools",
-	"FileName": "Chrome DevTools.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Clouds Midnight",
-	"FileName": "Clouds Midnight.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Clouds",
-	"FileName": "Clouds.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Cobalt",
-	"FileName": "Cobalt.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Darkside",
-	"FileName": "Darkside.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Dawn",
-	"FileName": "Dawn.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Dreamweaver",
-	"FileName": "Dreamweaver.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Eiffel",
-	"FileName": "Eiffel.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Espresso Libre",
-	"FileName": "Espresso Libre.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "FreshCut",
-	"FileName": "FreshCut.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "GitHub",
-	"FileName": "GitHub.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "IDLE",
-	"FileName": "IDLE.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "LAZY",
-	"FileName": "LAZY.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "MagicWB (Amiga)",
-	"FileName": "MagicWB (Amiga).tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Merbivore Soft",
-	"FileName": "Merbivore Soft.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Merbivore",
-	"FileName": "Merbivore.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Monokai",
-	"FileName": "Monokai.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Pastels on Dark",
-	"FileName": "Pastels on Dark.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Slush and Poppies",
-	"FileName": "Slush and Poppies.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Solarized-dark",
-	"FileName": "Solarized-dark.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Solarized-light",
-	"FileName": "Solarized-light.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "SpaceCadet",
-	"FileName": "SpaceCadet.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Sunburst",
-	"FileName": "Sunburst.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Textmate (Mac Classic)",
-	"FileName": "Textmate (Mac Classic).tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Tomorrow-Night-Blue",
-	"FileName": "Tomorrow-Night-Blue.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Tomorrow-Night-Bright",
-	"FileName": "Tomorrow-Night-Bright.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Tomorrow-Night-Eighties",
-	"FileName": "Tomorrow-Night-Eighties.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Tomorrow-Night",
-	"FileName": "Tomorrow-Night.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Tomorrow",
-	"FileName": "Tomorrow.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Twilight",
-	"FileName": "Twilight.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Vibrant Ink",
-	"FileName": "Vibrant Ink.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Xcode_default",
-	"FileName": "Xcode_default.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Zenburnesque",
-	"FileName": "Zenburnesque.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "iPlastic",
-	"FileName": "iPlastic.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "idleFingers",
-	"FileName": "idleFingers.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "krTheme",
-	"FileName": "krTheme.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "monoindustrial",
-	"FileName": "monoindustrial.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Colonoscopy",
-	"FileName": "Colonoscopy.tmTheme",
-	"Author": "",
-	"Description": ""
-}, {
-	"Title": "Mcedit",
-	"FileName": "Mcedit.tmTheme",
-	"Author": "",
-	"Description": ""
-}]
+[
+	{
+		"Title": "Active4D",
+		"FileName": "Active4D.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "All Hallows Eve",
+		"FileName": "All Hallows Eve.tmTheme",
+		"Author": "David Heinemeier Hansson",
+		"Description": ""
+	},
+	{
+		"Title": "Amy",
+		"FileName": "Amy.tmTheme",
+		"Author": "Amy",
+		"Description": ""
+	},
+	{
+		"Title": "Blackboard",
+		"FileName": "Blackboard.tmTheme",
+		"Author": "Blackboard",
+		"Description": ""
+	},
+	{
+		"Title": "BlueDawn",
+		"FileName": "BlueDawn.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "BlueLover",
+		"FileName": "BlueLover.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "BoxUK",
+		"FileName": "BoxUK.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Brilliance Black",
+		"FileName": "Brilliance Black.tmTheme",
+		"Author": "Thomas Aylott",
+		"Description": ""
+	},
+	{
+		"Title": "Brilliance Dull",
+		"FileName": "Brilliance Dull.tmTheme",
+		"Author": "Thomas Aylott",
+		"Description": ""
+	},
+	{
+		"Title": "Carbonight",
+		"FileName": "Carbonight.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "CarbonightBlue",
+		"FileName": "CarbonightBlue.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Carbonnight",
+		"FileName": "Carbonnight.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Chrome DevTools",
+		"FileName": "Chrome DevTools.tmTheme",
+		"Author": "Austin Cummings",
+		"Description": ""
+	},
+	{
+		"Title": "Clouds Midnight",
+		"FileName": "Clouds Midnight.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Clouds",
+		"FileName": "Clouds.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Cobalt",
+		"FileName": "Cobalt.tmTheme",
+		"Author": "Jacob Rus",
+		"Description": ""
+	},
+	{
+		"Title": "Colonoscopy",
+		"FileName": "Colonoscopy.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Darkside",
+		"FileName": "Darkside.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Dawn",
+		"FileName": "Dawn.tmTheme",
+		"Author": "David Powers",
+		"Description": ""
+	},
+	{
+		"Title": "Dreamweaver",
+		"FileName": "Dreamweaver.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Earthsong",
+		"FileName": "Earthsong.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "EarthsongLight",
+		"FileName": "EarthsongLight.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Eiffel",
+		"FileName": "Eiffel.tmTheme",
+		"Author": "Eiffel",
+		"Description": ""
+	},
+	{
+		"Title": "Espresso Libre",
+		"FileName": "Espresso Libre.tmTheme",
+		"Author": "Chris Thomas",
+		"Description": ""
+	},
+	{
+		"Title": "Facebook",
+		"FileName": "Facebook.tmTheme",
+		"Author": "Michael Obrocnik (mbixby)",
+		"Description": ""
+	},
+	{
+		"Title": "FreshCut",
+		"FileName": "FreshCut.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Frontier",
+		"FileName": "Frontier.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "GitHub",
+		"FileName": "GitHub.tmTheme",
+		"Author": "Martin Kühl",
+		"Description": ""
+	},
+	{
+		"Title": "Github",
+		"FileName": "Github.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Gloom",
+		"FileName": "Gloom.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Glowfish",
+		"FileName": "Glowfish.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Goldfish",
+		"FileName": "Goldfish.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Grunge",
+		"FileName": "Grunge.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "HalfLife",
+		"FileName": "HalfLife.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Hyrule",
+		"FileName": "Hyrule.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "IDLE",
+		"FileName": "IDLE.tmTheme",
+		"Author": "Domenico Carbotta",
+		"Description": ""
+	},
+	{
+		"Title": "Iceberg",
+		"FileName": "Iceberg.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Juicy",
+		"FileName": "Juicy.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "LAZY",
+		"FileName": "LAZY.tmTheme",
+		"Author": "Domenico Carbotta",
+		"Description": ""
+	},
+	{
+		"Title": "Laravel",
+		"FileName": "Laravel.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "LastNight",
+		"FileName": "LastNight.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Lava",
+		"FileName": "Lava.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Lavender",
+		"FileName": "Lavender.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "MagicWB (Amiga)",
+		"FileName": "MagicWB (Amiga).tmTheme",
+		"Author": "Allan Odgaard",
+		"Description": ""
+	},
+	{
+		"Title": "Mcedit",
+		"FileName": "Mcedit.tmTheme",
+		"Author": "Created by DeeJayy, http://deejayy.hu/",
+		"Description": ""
+	},
+	{
+		"Title": "Mellow",
+		"FileName": "Mellow.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Merbivore Soft",
+		"FileName": "Merbivore Soft.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Merbivore",
+		"FileName": "Merbivore.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Monokai",
+		"FileName": "Monokai.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "NaturalContrast",
+		"FileName": "NaturalContrast.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "NetBeans",
+		"FileName": "NetBeans.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Pastels on Dark",
+		"FileName": "Pastels on Dark.tmTheme",
+		"Author": "Mats Persson",
+		"Description": ""
+	},
+	{
+		"Title": "Patriot",
+		"FileName": "Patriot.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Peacock",
+		"FileName": "Peacock.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Potpourri",
+		"FileName": "Potpourri.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Poyeyo",
+		"FileName": "Poyeyo.tmTheme",
+		"Author": "Poyeyo",
+		"Description": ""
+	},
+	{
+		"Title": "Poyeyo_Blue",
+		"FileName": "Poyeyo_Blue.tmTheme",
+		"Author": "Poyeyo",
+		"Description": ""
+	},
+	{
+		"Title": "Revelation",
+		"FileName": "Revelation.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Slime",
+		"FileName": "Slime.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Slush and Poppies",
+		"FileName": "Slush and Poppies.tmTheme",
+		"Author": "William D. Neumann",
+		"Description": ""
+	},
+	{
+		"Title": "Snappy",
+		"FileName": "Snappy.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "SnappyLight",
+		"FileName": "SnappyLight.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Solarflare",
+		"FileName": "Solarflare.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Solarized-dark",
+		"FileName": "Solarized-dark.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Solarized-light",
+		"FileName": "Solarized-light.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Sourlick",
+		"FileName": "Sourlick.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "SpaceCadet",
+		"FileName": "SpaceCadet.tmTheme",
+		"Author": "Alex Ross",
+		"Description": ""
+	},
+	{
+		"Title": "Spearmint",
+		"FileName": "Spearmint.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Stark",
+		"FileName": "Stark.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Sunburst",
+		"FileName": "Sunburst.tmTheme",
+		"Author": "Stanley Rost",
+		"Description": ""
+	},
+	{
+		"Title": "Textmate (Mac Classic)",
+		"FileName": "Textmate (Mac Classic).tmTheme",
+		"Author": "Chris Thomas",
+		"Description": ""
+	},
+	{
+		"Title": "Tomorrow-Night-Blue",
+		"FileName": "Tomorrow-Night-Blue.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Tomorrow-Night-Bright",
+		"FileName": "Tomorrow-Night-Bright.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Tomorrow-Night-Eighties",
+		"FileName": "Tomorrow-Night-Eighties.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Tomorrow-Night",
+		"FileName": "Tomorrow-Night.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Tomorrow",
+		"FileName": "Tomorrow.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Tron",
+		"FileName": "Tron.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "TronLegacy",
+		"FileName": "TronLegacy.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "TronLight",
+		"FileName": "TronLight.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Twilight",
+		"FileName": "Twilight.tmTheme",
+		"Author": "Michael Sheets",
+		"Description": ""
+	},
+	{
+		"Title": "Userscape",
+		"FileName": "Userscape.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Vibrant Ink",
+		"FileName": "Vibrant Ink.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Xcode_default",
+		"FileName": "Xcode_default.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Yule",
+		"FileName": "Yule.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Zenburnesque",
+		"FileName": "Zenburnesque.tmTheme",
+		"Author": "William D. Neumann",
+		"Description": ""
+	},
+	{
+		"Title": "IPlastic",
+		"FileName": "iPlastic.tmTheme",
+		"Author": "Jeroen van der Ham",
+		"Description": ""
+	},
+	{
+		"Title": "IdleFingers",
+		"FileName": "idleFingers.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "KrTheme",
+		"FileName": "krTheme.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Monoindustrial",
+		"FileName": "monoindustrial.tmTheme",
+		"Author": "",
+		"Description": ""
+	}
+]
