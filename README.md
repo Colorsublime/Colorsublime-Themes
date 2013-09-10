@@ -23,4 +23,26 @@ New themes are welcome!
 
 ## Credits
 
- - [daylerees](https://github.com/daylerees/)
+Themes creators
+
+ - David Heinemeier Hansson
+ - Amy
+ - Blackboard
+ - Thomas Aylott
+ - Austin Cummings
+ - Jacob Rus
+ - David Powers
+ - Eiffel
+ - Chris Thomas
+ - Michael Obrocnik (mbixby)
+ - Martin Kühl
+ - Domenico Carbotta
+ - Allan Odgaard
+ - DeeJayy, http://deejayy.hu/
+ - Mats Persson
+ - Poyeyo
+ - William D. Neumann
+ - Alex Ross
+ - Stanley Rost
+ - Michael Sheets
+ - Jeroen van der Ham
