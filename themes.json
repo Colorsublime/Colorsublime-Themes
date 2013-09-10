@@ -6,7 +6,7 @@
 		"Description": ""
 	},
 	{
-		"Title": "All_Hallows_Eve",
+		"Title": "All Hallows_Eve",
 		"FileName": "All_Hallows_Eve.tmTheme",
 		"Author": "David Heinemeier Hansson",
 		"Description": ""
@@ -42,13 +42,13 @@
 		"Description": ""
 	},
 	{
-		"Title": "Brilliance_Black",
+		"Title": "Brilliance Black",
 		"FileName": "Brilliance_Black.tmTheme",
 		"Author": "Thomas Aylott",
 		"Description": ""
 	},
 	{
-		"Title": "Brilliance_Dull",
+		"Title": "Brilliance Dull",
 		"FileName": "Brilliance_Dull.tmTheme",
 		"Author": "Thomas Aylott",
 		"Description": ""
@@ -72,7 +72,7 @@
 		"Description": ""
 	},
 	{
-		"Title": "Chrome_DevTools",
+		"Title": "Chrome DevTools",
 		"FileName": "Chrome_DevTools.tmTheme",
 		"Author": "Austin Cummings",
 		"Description": ""
@@ -84,7 +84,7 @@
 		"Description": ""
 	},
 	{
-		"Title": "Clouds_Midnight",
+		"Title": "Clouds Midnight",
 		"FileName": "Clouds_Midnight.tmTheme",
 		"Author": "",
 		"Description": ""
@@ -138,7 +138,7 @@
 		"Description": ""
 	},
 	{
-		"Title": "Espresso_Libre",
+		"Title": "Espresso Libre",
 		"FileName": "Espresso_Libre.tmTheme",
 		"Author": "Chris Thomas",
 		"Description": ""
@@ -258,7 +258,7 @@
 		"Description": ""
 	},
 	{
-		"Title": "MagicWB_Amiga",
+		"Title": "MagicWB Amiga",
 		"FileName": "MagicWB_Amiga.tmTheme",
 		"Author": "Allan Odgaard",
 		"Description": ""
@@ -282,7 +282,7 @@
 		"Description": ""
 	},
 	{
-		"Title": "Merbivore_Soft",
+		"Title": "Merbivore Soft",
 		"FileName": "Merbivore_Soft.tmTheme",
 		"Author": "",
 		"Description": ""
@@ -306,7 +306,7 @@
 		"Description": ""
 	},
 	{
-		"Title": "Pastels_on_Dark",
+		"Title": "Pastels on_Dark",
 		"FileName": "Pastels_on_Dark.tmTheme",
 		"Author": "Mats Persson",
 		"Description": ""
@@ -336,7 +336,7 @@
 		"Description": ""
 	},
 	{
-		"Title": "Poyeyo_Blue",
+		"Title": "Poyeyo Blue",
 		"FileName": "Poyeyo_Blue.tmTheme",
 		"Author": "Poyeyo",
 		"Description": ""
@@ -354,7 +354,7 @@
 		"Description": ""
 	},
 	{
-		"Title": "Slush_and_Poppies",
+		"Title": "Slush and_Poppies",
 		"FileName": "Slush_and_Poppies.tmTheme",
 		"Author": "William D. Neumann",
 		"Description": ""
@@ -420,38 +420,32 @@
 		"Description": ""
 	},
 	{
-		"Title": "Textmate",
-		"FileName": "Textmate.tmTheme",
-		"Author": "Chris Thomas",
-		"Description": ""
-	},
-	{
-		"Title": "Tomorrow-Night-Blue",
-		"FileName": "Tomorrow-Night-Blue.tmTheme",
-		"Author": "",
-		"Description": ""
-	},
-	{
-		"Title": "Tomorrow-Night-Bright",
-		"FileName": "Tomorrow-Night-Bright.tmTheme",
-		"Author": "",
-		"Description": ""
-	},
-	{
-		"Title": "Tomorrow-Night-Eighties",
-		"FileName": "Tomorrow-Night-Eighties.tmTheme",
-		"Author": "",
-		"Description": ""
-	},
-	{
-		"Title": "Tomorrow-Night",
-		"FileName": "Tomorrow-Night.tmTheme",
-		"Author": "",
-		"Description": ""
-	},
-	{
 		"Title": "Tomorrow",
 		"FileName": "Tomorrow.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Tomorrow Night",
+		"FileName": "Tomorrow_Night.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Tomorrow Night_Blue",
+		"FileName": "Tomorrow_Night_Blue.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Tomorrow Night_Bright",
+		"FileName": "Tomorrow_Night_Bright.tmTheme",
+		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Tomorrow Night_Eighties",
+		"FileName": "Tomorrow_Night_Eighties.tmTheme",
 		"Author": "",
 		"Description": ""
 	},
@@ -486,13 +480,13 @@
 		"Description": ""
 	},
 	{
-		"Title": "Vibrant_Ink",
+		"Title": "Vibrant Ink",
 		"FileName": "Vibrant_Ink.tmTheme",
 		"Author": "",
 		"Description": ""
 	},
 	{
-		"Title": "Xcode_default",
+		"Title": "Xcode default",
 		"FileName": "Xcode_default.tmTheme",
 		"Author": "",
 		"Description": ""
@@ -531,6 +525,12 @@
 		"Title": "Monoindustrial",
 		"FileName": "monoindustrial.tmTheme",
 		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Textmate",
+		"FileName": "textmate.tmTheme",
+		"Author": "Chris Thomas",
 		"Description": ""
 	}
 ]
