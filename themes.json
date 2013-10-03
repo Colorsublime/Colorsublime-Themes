@@ -538,5 +538,11 @@
 		"FileName": "textmate.tmTheme",
 		"Author": "Chris Thomas",
 		"Description": ""
+	},
+	{
+		"Title": "Salmon On Ice",
+		"FileName": "SalmonOnIce.tmTheme",
+		"Author": "Koen Lageveen",
+		"Description": ""
 	}
 ]
