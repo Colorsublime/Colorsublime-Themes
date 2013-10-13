@@ -37,8 +37,9 @@ Themes creators
  - Michael Obrocnik (mbixby)
  - Martin Kühl
  - Domenico Carbotta
+ - Todd Werth
  - Allan Odgaard
- - DeeJayy, http://deejayy.hu/
+ - Created by DeeJayy, http://deejayy.hu/
  - Mats Persson
  - Poyeyo
  - William D. Neumann
