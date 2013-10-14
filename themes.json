@@ -96,6 +96,12 @@
 		"Description": ""
 	},
 	{
+		"Title": "CodeWarrior",
+		"FileName": "CodeWarrior.tmTheme",
+		"Author": "Blake Stephens",
+		"Description": "Modern evolution of the old CodeWarrior by MetroWorks theme"
+	},
+	{
 		"Title": "Colonoscopy",
 		"FileName": "Colonoscopy.tmTheme",
 		"Author": "",
