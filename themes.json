@@ -114,6 +114,30 @@
 		"Description": ""
 	},
 	{
+		"Title": "Dimmed",
+		"FileName": "dimmed.tmTheme",
+		"Author": "uonick",
+		"Description": "github.com/uonick"
+	},
+	{
+		"Title": "Dimmed-Monokai",
+		"FileName": "dimmed-monokai.tmTheme",
+		"Author": "uonick",
+		"Description": "github.com/uonick"
+	},
+	{
+		"Title": "Dimmed-Night",
+		"FileName": "dimmed-night.tmTheme",
+		"Author": "uonick",
+		"Description": "github.com/uonick"
+	},
+	{
+		"Title": "Dimmed-Storm",
+		"FileName": "dimmed-storm.tmTheme",
+		"Author": "uonick",
+		"Description": "github.com/uonick"
+	},
+	{
 		"Title": "Dreamweaver",
 		"FileName": "Dreamweaver.tmTheme",
 		"Author": "",
@@ -226,7 +250,7 @@
 		"FileName": "IR_Black.tmTheme",
 		"Author": "Todd Werth",
 		"Description": ""
-	},	
+	},
 	{
 		"Title": "Juicy",
 		"FileName": "Juicy.tmTheme",
