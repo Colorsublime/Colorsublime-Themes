@@ -144,6 +144,12 @@
 		"Description": "github.com/uonick"
 	},
 	{
+		"Title": "Dracula",
+		"FileName": "Dracula.tmTheme",
+		"Author": "zenorocha",
+		"Description": "https://github.com/zenorocha/dracula-theme"
+	},
+	{
 		"Title": "Dreamweaver",
 		"FileName": "Dreamweaver.tmTheme",
 		"Author": "",
