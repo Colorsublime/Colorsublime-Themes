@@ -624,7 +624,7 @@
                     <key>fontStyle</key>
                     <string/>
                     <key>foreground</key>
-                    <string>#ff</string>
+                    <string>#fff</string>
                 </dict>
             </dict>
             <dict>
