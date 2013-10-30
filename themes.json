@@ -198,6 +198,12 @@
 		"Description": ""
 	},
 	{
+		"Title": "Future Funk",
+		"FileName": "Future Funk.tmTheme",
+		"Author": "Twiebie",
+		"Description": "An easy to read dark color scheme for Sublime Text."
+	},
+	{
 		"Title": "GitHub",
 		"FileName": "GitHub.tmTheme",
 		"Author": "Martin Kühl",
