@@ -47,3 +47,4 @@ Themes creators
  - Stanley Rost
  - Michael Sheets
  - Jeroen van der Ham
+ - James Brooks
