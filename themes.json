@@ -540,6 +540,12 @@
 		"Description": ""
 	},
 	{
+		"Title": "Whiteboard",
+		"FileName": "Whiteboard.tmTheme",
+		"Author": "Whiteboard",
+		"Description": "A white version of the Blackboard theme."
+	},
+	{
 		"Title": "Xcode default",
 		"FileName": "Xcode_default.tmTheme",
 		"Author": "",
