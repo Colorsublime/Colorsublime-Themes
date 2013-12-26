@@ -72,6 +72,12 @@
 		"Description": ""
 	},
 	{
+		"Title": "Choco",
+		"FileName": "Choco.tmTheme",
+		"Author": "Ludvig Widman",
+		"Description": "Chocolate brown theme"
+	},
+	{
 		"Title": "Chrome DevTools",
 		"FileName": "Chrome_DevTools.tmTheme",
 		"Author": "Austin Cummings",
