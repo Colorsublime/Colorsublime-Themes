@@ -49,4 +49,4 @@ Themes creators
  - Jeroen van der Ham
  - James Brooks
  - Ludvig Widman
- - Ofer Reichman
+ - Ofer Reichman ([oferei](http://oferei.com/))
