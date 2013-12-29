@@ -323,6 +323,12 @@
 		"Description": "Color scheme inspired by Mount Kimbie's second album"
 	},
 	{
+		"Title": "KoralGreen",
+		"FileName": "KoralGreen.tmTheme",
+		"Author": "Enrico Friede",
+		"Description": "A dark, relaxing, simple color scheme"
+	},
+	{
 		"Title": "LAZY",
 		"FileName": "LAZY.tmTheme",
 		"Author": "Domenico Carbotta",
