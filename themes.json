@@ -1,5 +1,16 @@
 [
 	{
+		"Title": "3024 (Day)",
+		"FileName": "3024_Day.tmTheme",
+		"Author": "Jan T. Sott",
+		"Description": "Bright theme inspired by Dutch artist Erosie"
+	},	{
+		"Title": "3024 (Night)",
+		"FileName": "3024_Night.tmTheme",
+		"Author": "Jan T. Sott",
+		"Description": "Dark theme inspired by Dutch artist Erosie"
+	},
+	{
 		"Title": "Abyss",
 		"FileName": "Abyss.tmTheme",
 		"Author": "Ofer Reichman",
@@ -298,6 +309,18 @@
 		"FileName": "Juicy.tmTheme",
 		"Author": "",
 		"Description": ""
+	},
+	{
+		"Title": "Kimbie (dark)",
+		"FileName": "Kimbie_dark.tmTheme",
+		"Author": "Jan T. Sott",
+		"Description": "Color scheme inspired by Mount Kimbie's second album"
+	},
+	{
+		"Title": "Kimbie (light)",
+		"FileName": "Kimbie_light.tmTheme",
+		"Author": "Jan T. Sott",
+		"Description": "Color scheme inspired by Mount Kimbie's second album"
 	},
 	{
 		"Title": "LAZY",
