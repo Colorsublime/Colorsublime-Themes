@@ -281,6 +281,12 @@
 		"Description": ""
 	},
 	{
+		"Title": "Harper",
+		"FileName": "Harper.tmTheme",
+		"Author": "Jan T. Sott",
+		"Description": "Color scheme inspired by the art of Charley Harper (1922-2007)"
+	},,
+	{
 		"Title": "Hyrule",
 		"FileName": "Hyrule.tmTheme",
 		"Author": "",
@@ -662,6 +668,12 @@
 		"Title": "Solar Sooty",
 		"FileName": "SolarSooty.tmTheme",
 		"Author": "Chris Acky",
+		"Description": ""
+	},
+	{
+		"Title": "WarpOS",
+		"FileName": "WarpOS.tmTheme",
+		"Author": "Jan T. Sott",
 		"Description": ""
 	}
 ]
