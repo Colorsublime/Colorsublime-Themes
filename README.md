@@ -50,3 +50,5 @@ Themes creators
  - James Brooks
  - Ludvig Widman
  - Ofer Reichman ([oferei](http://oferei.com/))
+
+ [![Build Status](https://travis-ci.org/Colorsublime/Colorsublime-Themes.png?branch=master)](https://travis-ci.org/Colorsublime/Colorsublime-Themes)
