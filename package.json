@@ -1,0 +1,28 @@
+{
+  "name": "Colorsublime-Themes",
+  "version": "0.0.1",
+  "description": "Colorsublime themes collection http://colorsublime.com",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Colorsublime/Colorsublime-Themes.git"
+  },
+  "keywords": [
+    "sublime text",
+    "themes",
+    "colorsublime"
+  ],
+  "author": "Gianluca Guarini & Sidney Widmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Colorsublime/Colorsublime-Themes/issues"
+  },
+  "homepage": "http://colorsublime.com",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-jsonlint": "~1.0.4"
+  }
+}
