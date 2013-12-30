@@ -23,6 +23,7 @@
   "homepage": "http://colorsublime.com",
   "devDependencies": {
     "grunt": "~0.4.2",
-    "grunt-jsonlint": "~1.0.4"
+    "grunt-jsonlint": "~1.0.4",
+    "grunt-cli": "~0.1.11"
   }
 }
