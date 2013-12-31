@@ -180,6 +180,12 @@
 		"Description": ""
 	},
 	{
+		"Title": "Druid",
+		"FileName": "Druid.tmTheme",
+		"Author": "Ofer Reichman",
+		"Description": "Have you hugged a tree today?"
+	},
+	{
 		"Title": "Earthsong",
 		"FileName": "Earthsong.tmTheme",
 		"Author": "",
