@@ -49,6 +49,9 @@ Themes creators
  - Jeroen van der Ham
  - James Brooks
  - Ludvig Widman
+
  - Ofer Reichman ([oferei](http://oferei.com/))
+ - Jan T. Sott
 
  [![Build Status](https://travis-ci.org/Colorsublime/Colorsublime-Themes.png?branch=master)](https://travis-ci.org/Colorsublime/Colorsublime-Themes)
+

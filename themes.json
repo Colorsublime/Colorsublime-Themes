@@ -425,6 +425,18 @@
 		"Description": ""
 	},
 	{
+		"Title": "Paraíso (dark)",
+		"FileName": "Paraiso.dark.tmTheme",
+		"Author": "Jan T. Sott",
+		"Description": "Color scheme inspired by the art of Rubens LP "
+	},
+	{
+		"Title": "Paraíso (light)",
+		"FileName": "Paraiso.light.tmTheme",
+		"Author": "Jan T. Sott",
+		"Description": "Color scheme inspired by the art of Rubens LP "
+	},
+	{
 		"Title": "Pastels on Dark",
 		"FileName": "Pastels_on_Dark.tmTheme",
 		"Author": "Mats Persson",
