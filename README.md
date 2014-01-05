@@ -36,6 +36,7 @@ Themes creators
  - Chris Thomas
  - Michael Obrocnik (mbixby)
  - Martin Kühl
+ - Luke Shiels ([DancingPanda](https://github.com/dancingpanda))
  - Domenico Carbotta
  - Todd Werth
  - Allan Odgaard
@@ -49,9 +50,9 @@ Themes creators
  - Jeroen van der Ham
  - James Brooks
  - Ludvig Widman
-
  - Ofer Reichman ([oferei](http://oferei.com/))
  - Jan T. Sott
 
  [![Build Status](https://travis-ci.org/Colorsublime/Colorsublime-Themes.png?branch=master)](https://travis-ci.org/Colorsublime/Colorsublime-Themes)
+
 
