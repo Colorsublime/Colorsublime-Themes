@@ -431,14 +431,14 @@
 		"Description": ""
 	},
 	{
-		"Title": "Paraíso (dark)",
-		"FileName": "Paraiso.dark.tmTheme",
+		"Title": "Paraiso (dark)",
+		"FileName": "Paraiso_dark.tmTheme",
 		"Author": "Jan T. Sott",
 		"Description": "Color scheme inspired by the art of Rubens LP "
 	},
 	{
-		"Title": "Paraíso (light)",
-		"FileName": "Paraiso.light.tmTheme",
+		"Title": "Paraiso (light)",
+		"FileName": "Paraiso_light.tmTheme",
 		"Author": "Jan T. Sott",
 		"Description": "Color scheme inspired by the art of Rubens LP "
 	},
