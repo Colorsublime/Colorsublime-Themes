@@ -50,3 +50,4 @@ Themes creators
  - James Brooks
  - Ludvig Widman
  - Ofer Reichman
+ - Jan T. Sott
