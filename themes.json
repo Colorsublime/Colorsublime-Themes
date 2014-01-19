@@ -53,6 +53,12 @@
 		"Description": ""
 	},
 	{
+		"Title": "Boron",
+		"FileName": "Boron.tmTheme",
+		"Author": "Martin Jagusch",
+		"Description": "Colorful, dark color scheme based on the excellent Jellybeans color scheme for Vim."
+	},
+	{
 		"Title": "BoxUK",
 		"FileName": "BoxUK.tmTheme",
 		"Author": "",
