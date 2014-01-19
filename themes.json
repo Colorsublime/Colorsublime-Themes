@@ -699,5 +699,11 @@
 		"FileName": "WarpOS.tmTheme",
 		"Author": "Jan T. Sott",
 		"Description": ""
+	},
+	{
+		"Title": "Welded",
+		"FileName": "Welded.tmTheme",
+		"Author": "Manuel Ebert",
+		"Description": "github.com/maebert"
 	}
 ]
