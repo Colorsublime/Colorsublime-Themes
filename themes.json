@@ -711,5 +711,11 @@
 		"FileName": "Welded.tmTheme",
 		"Author": "Manuel Ebert",
 		"Description": "github.com/maebert"
+	},
+	{
+		"Title": "Monokai Vivid",
+		"FileName": "Monokai-Vivid.tmTheme",
+		"Author": "Steve Lacy",
+		"Description": "github.com/stevelacy"
 	}
 ]
