@@ -388,6 +388,6 @@
   <key>colorSpaceName</key>
   <string>sRGB</string>
   <key>semanticClass</key>
-  <string>theme.dark.monokai_bright</string>
+  <string>theme.dark.monokai_vivid</string>
 </dict>
 </plist>
