@@ -161,6 +161,12 @@
 		"Description": ""
 	},
 	{
+		"Title": "Deep Blue See",
+		"FileName": "Deep Blue See.tmTheme",
+		"Author": "JD Isaacks",
+		"Description": ""
+	},
+	{
 		"Title": "Dimmed",
 		"FileName": "dimmed.tmTheme",
 		"Author": "uonick",
@@ -488,6 +494,12 @@
 		"Title": "Revelation",
 		"FileName": "Revelation.tmTheme",
 		"Author": "",
+		"Description": ""
+	},
+	{
+		"Title": "Seahorse",
+		"FileName": "Seahorse.tmTheme",
+		"Author": "JD Isaacks",
 		"Description": ""
 	},
 	{
