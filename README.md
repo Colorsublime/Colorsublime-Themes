@@ -1,8 +1,8 @@
-Colorsublime-Themes
+Colorsublime Themes
 ===================
-
-
 ![Colorsublime Logo](http://colorsublime.com/img/ColorSublime_logo.png "Colorsublime")
+
+[![Build Status](https://travis-ci.org/Colorsublime/Colorsublime-Themes.png?branch=master)](https://travis-ci.org/Colorsublime/Colorsublime-Themes)
 
 This repo hosts all the themes you can try and download on http://colorsublime.com/
 
@@ -36,7 +36,7 @@ Themes creators
  - Chris Thomas
  - Michael Obrocnik (mbixby)
  - Martin Kühl
- - Luke Shiels ([DancingPanda](https://github.com/dancingpanda))
+ - Luke Shiels ([DancingPanda](https://github.com/shielsasaurus))
  - Domenico Carbotta
  - Todd Werth
  - Allan Odgaard
@@ -52,7 +52,3 @@ Themes creators
  - Ludvig Widman
  - Ofer Reichman ([oferei](http://oferei.com/))
  - Jan T. Sott
-
- [![Build Status](https://travis-ci.org/Colorsublime/Colorsublime-Themes.png?branch=master)](https://travis-ci.org/Colorsublime/Colorsublime-Themes)
-
-
