@@ -34,6 +34,12 @@
 		"Author": "Amy",
 		"Description": ""
 	},
+    {
+        "Title": "Ant",
+        "FileName": "ant.tmTheme",
+        "Author": "Antonia Ciocodeica",
+        "Description": ""
+    },
 	{
 		"Title": "Blackboard",
 		"FileName": "Blackboard.tmTheme",
@@ -236,6 +242,12 @@
 		"Title": "Facebook",
 		"FileName": "Facebook.tmTheme",
 		"Author": "Michael Obrocnik (mbixby)",
+		"Description": ""
+	},
+	{
+		"Title": "FireCode",
+		"FileName": "FireCode.tmTheme",
+		"Author": "Mark Herpich (Mark Michos)",
 		"Description": ""
 	},
 	{
