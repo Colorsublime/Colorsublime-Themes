@@ -741,5 +741,11 @@
 		"FileName": "Monokai-Vivid.tmTheme",
 		"Author": "Steve Lacy",
 		"Description": "github.com/stevelacy"
+	},
+		{
+		"Title": "Spectral",
+		"FileName": "spectral.tmTheme",
+		"Author": "Battlelore",
+		"Description": ""
 	}
 ]
