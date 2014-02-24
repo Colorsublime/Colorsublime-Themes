@@ -25,7 +25,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>caret</key>
 				<string>#F83333</string>
 				<key>foreground</key>
-				<string>#B0B0B0</string>
+				<string>#979797</string>
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
@@ -42,14 +42,14 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<string>#963131</string>
 
 				<key>bracketsForeground</key>
-				<string>#F8F8F2A5</string>
+				<string>#ffffff</string>
 				<key>bracketsOptions</key>
-				<string>underline</string>
+				<string>bold underline</string>
 
 				<key>bracketContentsForeground</key>
-				<string>#F8F8F2A5</string>
+				<string>#ffffff</string>
 				<key>bracketContentsOptions</key>
-				<string>underline</string>
+				<string>bold underline</string>
 
 				<key>tagsOptions</key>
 				<string>stippled_underline</string>
@@ -74,7 +74,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#77acc5</string>
+				<string>#33678B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -85,7 +85,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B0B0B0</string>
+				<string>#33678B</string>
 			</dict>
 		</dict>
 
@@ -97,7 +97,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B0B0B0</string>
+				<string>#979797</string>
 			</dict>
 		</dict>
 		<dict>
@@ -108,7 +108,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B0B0B0</string>
+				<string>#979797</string>
 			</dict>
 		</dict>
 		<dict>
@@ -130,7 +130,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E3E3E3</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -154,7 +154,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#737373</string>
 			</dict>
@@ -169,7 +169,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#CCCCCC</string>
+				<string>#c9c9c9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -182,7 +182,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#CCCCCC</string>
+				<string>#c9c9c9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -195,7 +195,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CCCCCC</string>
+				<string>#669ABE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -206,9 +206,9 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#B0B0B0</string>
+				<string>#979797</string>
 			</dict>
 		</dict>
 		<dict>
@@ -247,7 +247,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B0B0B0</string>
+				<string>#979797</string>
 			</dict>
 		</dict>
 		<dict>
@@ -260,7 +260,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B0B0B0</string>
+				<string>#979797</string>
 			</dict>
 		</dict>
 		<dict>
@@ -271,9 +271,9 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#B0B0B0</string>
+				<string>#979797</string>
 			</dict>
 		</dict>
 		<dict>
