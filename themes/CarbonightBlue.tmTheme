@@ -391,6 +391,29 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			</dict>
 		</dict>
 
+		<dict>
+		   <key>name</key>
+		      <string>Embedded Ruby Punctuation</string>
+		   <key>scope</key>
+		      <string>string punctuation.section.embedded.ruby</string>
+		   <key>settings</key>
+		   <dict>
+		      <key>foreground</key>
+		      <string>#d9d9d9</string>
+		   </dict>
+		</dict>
+		<dict>
+		   <key>name</key>
+		      <string>Embedded Ruby Source</string>
+		   <key>scope</key>
+		      <string>string source.ruby.embedded.source</string>
+		   <key>settings</key>
+		   <dict>
+		      <key>foreground</key>
+		      <string>#979797</string>
+		   </dict>
+		</dict>
+
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
