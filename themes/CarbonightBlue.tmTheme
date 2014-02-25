@@ -14,7 +14,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Carbonight</string>
+	<string>Carbonight Blue</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -63,7 +63,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#646464</string>
+				<string>#4B4B4B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +74,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#33678B</string>
+				<string>#4D81A5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -85,7 +85,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#33678B</string>
+				<string>#4D81A5</string>
 			</dict>
 		</dict>
 
@@ -156,7 +156,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#737373</string>
+				<string>#979797</string>
 			</dict>
 		</dict>
 		<dict>
@@ -169,7 +169,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#c9c9c9</string>
+				<string>#979797</string>
 			</dict>
 		</dict>
 		<dict>
@@ -180,9 +180,9 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic underline</string>
+				<string>underline</string>
 				<key>foreground</key>
-				<string>#c9c9c9</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -195,7 +195,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#669ABE</string>
+				<string>#979797</string>
 			</dict>
 		</dict>
 		<dict>
@@ -221,7 +221,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8C8C8C</string>
+				<string>#979797</string>
 			</dict>
 		</dict>
 		<dict>
@@ -410,7 +410,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 		   <key>settings</key>
 		   <dict>
 		      <key>foreground</key>
-		      <string>#979797</string>
+		      <string>#1A4E72</string>
 		   </dict>
 		</dict>
 
