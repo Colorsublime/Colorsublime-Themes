@@ -11,6 +11,18 @@
 		"Description": "Dark theme inspired by Dutch artist Erosie"
 	},
 	{
+		"Title": "Candy Land",
+		"FileName": "CandyLand.tmTheme",
+		"Author": "Ryan Burgess",
+		"Description": ""
+	},
+	{
+		"Title": "Toy Machine",
+		"FileName": "ToyMachine.tmTheme",
+		"Author": "Ryan Burgess",
+		"Description": ""
+	},
+	{
 		"Title": "Abyss",
 		"FileName": "Abyss.tmTheme",
 		"Author": "Ofer Reichman",
