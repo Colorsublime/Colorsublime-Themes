@@ -4,13 +4,13 @@
 		"FileName": "Muukii.tmTheme",
 		"Author": "Muukii",
 		"Description": "Inspired by monokai"
-	},	
+	},
 	{
 		"Title": "3024 (Day)",
 		"FileName": "3024_Day.tmTheme",
 		"Author": "Jan T. Sott",
 		"Description": "Bright theme inspired by Dutch artist Erosie"
-	},	
+	},
 	{
 		"Title": "3024 (Night)",
 		"FileName": "3024_Night.tmTheme",
@@ -58,6 +58,12 @@
         "FileName": "ant.tmTheme",
         "Author": "Antonia Ciocodeica",
         "Description": ""
+    },
+    {
+        "Title": "Aurora",
+        "FileName": "Aurora.tmTheme",
+        "Author": "Palmer Oliveira",
+        "Description": "A dark theme inspired by an Aurora Borealis."
     },
 	{
 		"Title": "Blackboard",
