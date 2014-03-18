@@ -52,3 +52,4 @@ Themes creators
  - Ludvig Widman
  - Ofer Reichman ([oferei](http://oferei.com/))
  - Jan T. Sott
+ - Ricardo Muniz Crespo, [http://github.com/ricardomuniz](http://github.com/ricardomuniz)
