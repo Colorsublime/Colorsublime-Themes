@@ -796,5 +796,11 @@
         "FileName": "Batman.tmTheme",
         "Author": "Ethan Welborn",
         "Description": "https://github.com/ethanwelborn"
+    },
+    {
+        "Title": "BatmanLight",
+        "FileName": "BatmanLight.tmTheme",
+        "Author": "Ethan Welborn",
+        "Description": "https://github.com/ethanwelborn"
     }
 ]
