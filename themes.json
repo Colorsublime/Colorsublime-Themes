@@ -802,5 +802,11 @@
         "FileName": "BatmanLight.tmTheme",
         "Author": "Ethan Welborn",
         "Description": "https://github.com/ethanwelborn"
+    },
+    {
+        "Title": "Sublime Xoria",
+        "FileName": "sublime_xoria.tmTheme",
+        "Author": "Christopher Kaster",
+        "Description": "https://github.com/kasoki"
     }
 ]
