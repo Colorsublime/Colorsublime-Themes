@@ -808,5 +808,11 @@
         "FileName": "sublime_xoria.tmTheme",
         "Author": "Christopher Kaster",
         "Description": "https://github.com/kasoki"
+    },
+    {
+        "Title": "Zenburn",
+        "FileName": "zenburn.tmTheme",
+        "Author": "",
+        "Description": ""
     }
 ]
