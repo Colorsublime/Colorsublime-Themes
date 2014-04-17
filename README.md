@@ -15,7 +15,7 @@ Please make sure to update correctly the themes.json file
 	"Title": "Title to display on the page",
 	"FileName": "Name_of_your_theme.tmTheme",
 	"Author": "Your Name and Surname",
-	"Description": "A short description [it is not necessary at moment]"
+	"Description": "A short description"
 }
 ```
 
