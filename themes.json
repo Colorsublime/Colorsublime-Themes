@@ -789,7 +789,7 @@
         "Title": "Flat",
         "FileName": "Flat.tmTheme",
         "Author": "Ricardo Muniz Crespo",
-        "Description": "https://github.com/ricardomuniz"
+        "Description": "http://kotarodesign.com"
     },
     {
         "Title": "Batman",
@@ -814,5 +814,11 @@
         "FileName": "zenburn.tmTheme",
         "Author": "",
         "Description": ""
+    },
+    {
+        "Title": "Flat Dark",
+        "FileName": "Flat_Dark.tmTheme",
+        "Author": "Ricardo Muniz Crespo",
+        "Description": "http://kotarodesign.com"
     }
 ]
