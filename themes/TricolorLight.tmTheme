@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<!-- Tricolor Light
+
+Created by dbaker
+https://github.com/d-baker
+
+Light version of Tricolor
+
+ -->
+
+<plist version="1.0">
+<dict>
+    <key>name</key>
+    <string>Tricolor Light</string>
+    <key>author</key>
+    <string>dbaker</string>
+
+    <key>settings</key>
+    <array>
+        <dict>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#f8f8f8</string>
+                <key>caret</key>
+                <string>#CCC</string>
+                <key>foreground</key>
+                <string>#444</string>
+                <key>lineHighlight</key>
+                <string>#9ab359</string>
+
+                <key>selection</key>
+                <string>#4a8daa</string>
+                <key>selectionForeground</key>
+                <string>#fff</string>
+
+                <key>gutter</key>
+                <string>#f8f8f8</string>
+                <key>gutterForeground</key>
+                <string>#555</string>
+
+                <key>findHighlight</key>
+                <string>#e66800</string>
+            </dict>
+        </dict>
+
+
+        <!-- Comment -->
+        <dict>
+            <key>name</key>
+            <string>Comment</string>
+            <key>scope</key>
+            <string>comment</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#888</string>
+            </dict>
+        </dict>
+
+
+        <!-- Constants -->
+        <dict>
+            <key>scope</key>
+            <string>constant, constant.numeric, keyword.other, support.constant</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#4a8daa</string>
+            </dict>
+        </dict>
+
+
+        <!-- Strings -->
+        <dict>
+            <key>name</key>
+            <string>String</string>
+            <key>scope</key>
+            <string>string</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#79962C</string>
+            </dict>
+        </dict>
+
+
+        <!-- Entity  -->
+        <!-- meta.tags -->
+        <dict>
+            <key>name</key>
+            <string>Entity</string>
+            <key>scope</key>
+            <string>entity, meta.tag, punctuation.definition.tag, variable, meta.function-call</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#000</string>
+            </dict>
+        </dict>
+
+
+        <!-- Keyword -->
+        <dict>
+            <key>name</key>
+            <string>Keyword</string>
+            <key>scope</key>
+            <string>keyword.control</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#8d64a9</string>
+            </dict>
+        </dict>
+
+
+        <!-- storage  function-->
+        <dict>
+            <key>name</key>
+            <string>storage</string>
+            <key>scope</key>
+            <string>storage, support.function, variable</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string>bold</string>
+                <key>foreground</key>
+                <string>#8d64a9</string>
+            </dict>
+        </dict>
+
+
+        <!-- Markup -->
+        <dict>
+            <key>name</key>
+            <string>Tag name</string>
+            <key>scope</key>
+            <string>entity.name.tag</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string>bold</string>
+                <key>foreground</key>
+                <string>#8d64a9</string>
+            </dict>
+        </dict>
+
+    </array>
+
+    <key>uuid</key>
+    <string>2ad9a660-c5e0-11e3-9c1a-0800200c9a66</string>
+
+</dict>
+</plist>
