@@ -814,5 +814,17 @@
         "FileName": "zenburn.tmTheme",
         "Author": "",
         "Description": ""
+    },
+    {
+        "Title": "Tricolor",
+        "FileName": "Tricolor.tmTheme",
+        "Author": "dbaker",
+        "Description": "Minimal dark theme using complementary colors"
+    },
+    {
+        "Title": "Tricolor Light",
+        "FileName": "TricolorLight.tmTheme",
+        "Author": "dbaker",
+        "Description": "Light version of Tricolor for sunny days"
     }
 ]
