@@ -693,4 +693,14 @@
     "FileName": "Flat_Dark.tmTheme",
     "Author": "Ricardo Muniz Crespo",
     "Description": "http://kotarodesign.com"
+}, {
+    "Title": "LastRoom Light",
+    "FileName": "LastRoom Light.tmTheme",
+    "Author": "@ralts00, @jceb",
+    "Description": "Pink beauty theme for day"
+}, {
+    "Title": "LastRoom Dark",
+    "FileName": "LastRoom Dark.tmTheme",
+    "Author": "@ralts00, @jceb",
+    "Description": "Pink beauty theme for night"
 }]
