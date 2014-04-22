@@ -695,12 +695,12 @@
     "Description": "http://kotarodesign.com"
 }, {
     "Title": "LastRoom Light",
-    "FileName": "LastRoom Light.tmTheme",
+    "FileName": "LastRoom_Light.tmTheme",
     "Author": "@ralts00, @jceb",
     "Description": "Pink beauty theme for day"
 }, {
     "Title": "LastRoom Dark",
-    "FileName": "LastRoom Dark.tmTheme",
+    "FileName": "LastRoom_Dark.tmTheme",
     "Author": "@ralts00, @jceb",
     "Description": "Pink beauty theme for night"
 }]
