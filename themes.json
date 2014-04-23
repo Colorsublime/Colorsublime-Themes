@@ -703,4 +703,9 @@
     "FileName": "LastRoom_Dark.tmTheme",
     "Author": "@ralts00, @jceb",
     "Description": "Pink beauty theme for night"
+}, {
+    "Title": "Heroku",
+    "FileName": "Heroku.tmTheme",
+    "Author": "Rubens Stulzer",
+    "Description": "Color scheme inspired on Heroku dashboard colors"
 }]
