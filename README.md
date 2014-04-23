@@ -54,3 +54,4 @@ Themes creators
  - Jan T. Sott
  - Ricardo Muniz Crespo, [http://github.com/ricardomuniz](http://github.com/ricardomuniz)
  - dbaker ([https://github.com/d-baker](https://github.com/d-baker))
+ - Rubens ([Stulzer](https://github.com/stulzer))
