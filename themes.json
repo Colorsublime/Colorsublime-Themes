@@ -713,4 +713,9 @@
     "FileName": "WarmNeon.tmTheme",
     "Author": "Onrik",
     "Description": ""
+},{
+    "Title": "Quiet Light",
+    "FileName": "QuietLight.tmTheme",
+    "Author": "Martin Kühl",
+    "Description": "Similar to IR_Black, a calming theme made originally for Espresso by One Crayon"
 }]
