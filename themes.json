@@ -723,4 +723,9 @@
     "FileName": "Girlfriend.tmTheme",
     "Author": "Arjen de Vries",
     "Description": "Your girlfriend will finally love looking at your code"
+},{
+    "Title": "Nette",
+    "FileName": "Nette.tmTheme",
+    "Author": "@Jzechy",
+    "Description": "Theme inspired by Nette framework documentation."
 }]
