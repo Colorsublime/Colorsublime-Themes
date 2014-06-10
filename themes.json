@@ -728,4 +728,9 @@
     "FileName": "Nette.tmTheme",
     "Author": "@Jzechy",
     "Description": "Theme inspired by Nette framework documentation."
+},{
+    "Title": "Spring",
+    "FileName": "Spring.tmTheme",
+    "Author": "@JZechy",
+    "Description": "Theme created in Spring colors."
 }]
