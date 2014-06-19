@@ -734,6 +734,21 @@
     "Author": "@JZechy",
     "Description": "Theme created in Spring colors."
 },{
+    "Title": "Solarized Ocean",
+    "FileName": "SolarizedOcean.tmTheme",
+    "Author": "Saad Quadri",
+    "Description": "Theme inspired by Solarized and base16 Ocean color schemes."
+},{
+    "Title": "Hail",
+    "FileName": "Hail.tmTheme",
+    "Author": "Saad Quadri",
+    "Description": "A modified version of Dayle Reese's Tron color scheme."
+},{
+    "Title": "Bliss",
+    "FileName": "Bliss.tmTheme",
+    "Author": "Saad Quadri",
+    "Description": "Theme inspired by the vivid colors used on JSHint."
+},{
     "Title": "Eden",
     "FileName": "Eden.tmTheme",
     "Author": "Saad Quadri",
