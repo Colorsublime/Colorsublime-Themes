@@ -3,11 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Jacob Rus</string>
-	<key>comment</key>
-	<string>Created by Jacob Rus.  Based on ‘Slate’ by Wilson Miner</string>
+	<string>Michael Chapman</string>
 	<key>name</key>
-	<string>Cobalt</string>
+	<string>Kabbotta</string>
 	<key>settings</key>
 	<array>
 		<dict>
