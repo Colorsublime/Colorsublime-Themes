@@ -56,3 +56,4 @@ Themes creators
  - dbaker ([https://github.com/d-baker](https://github.com/d-baker))
  - Rubens ([Stulzer](https://github.com/stulzer))
  - Saad Quadri ([saadq](https://github.com/saadq))
+ - Ethan Welborn (https://github.com/ethanwelborn)
