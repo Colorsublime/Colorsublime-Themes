@@ -57,3 +57,4 @@ Themes creators
  - Rubens ([Stulzer](https://github.com/stulzer))
  - Saad Quadri ([saadq](https://github.com/saadq))
  - Ethan Welborn (https://github.com/ethanwelborn)
+ - Travis Lehman ([tehtrav](http://twitter.com/tehtrav))
