@@ -159,6 +159,11 @@
     "Author": "",
     "Description": ""
 }, {
+    "Title": "Darkside (light selection)",
+    "FileName": "Darkside_light_selection.tmTheme",
+    "Author": "Sascha Wolf",
+    "Description": "The Darkside theme with a lighter selection for better readablility."
+}, {
     "Title": "Dawn",
     "FileName": "Dawn.tmTheme",
     "Author": "David Powers",
