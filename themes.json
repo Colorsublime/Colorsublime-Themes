@@ -778,5 +778,10 @@
     "FileName": "Acai.tmTheme",
     "Author": "Travis Lehman",
     "Description": "A dark theme designed to be easy on the eyes."
+},{
+    "Title": "Monokai - Easy White for Retina",
+    "FileName": "MonokaiEasyForRetina.tmTheme",
+    "Author": "Marian Zagoruiko",
+    "Description": "Basic Monokai theme with grey instead of white and some other improvements."
 }]
 
