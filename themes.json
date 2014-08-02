@@ -783,5 +783,10 @@
     "FileName": "MonokaiEasyForRetina.tmTheme",
     "Author": "Marian Zagoruiko",
     "Description": "Basic Monokai theme with grey instead of white and some other improvements."
+},{
+    "Title": "Monokai Best",
+    "FileName": "monokai-best.tmTheme",
+    "Author": "Shakeel Mohamed",
+    "Description": "Based on Monokai vivid with: Monokai's selection color, Monokai Gray's background color, and colored JSON."
 }]
 
