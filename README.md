@@ -58,3 +58,4 @@ Themes creators
  - Saad Quadri ([saadq](https://github.com/saadq))
  - Ethan Welborn (https://github.com/ethanwelborn)
  - Travis Lehman ([tehtrav](http://twitter.com/tehtrav))
+ - Shakeel Mohamed ([_Shakeel](http://twitter.com/_Shakeel))
