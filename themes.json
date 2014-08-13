@@ -793,5 +793,10 @@
     "FileName": "monokai-best.tmTheme",
     "Author": "Shakeel Mohamed",
     "Description": "Based on Monokai vivid with: Monokai's selection color, Monokai Gray's background color, and colored JSON."
+},{
+    "Title": "Metropolis",
+    "FileName": "Metropolis.tmTheme",
+    "Author": "Adi",
+    "Description": "A theme with lots of modern lite colors with dark blue background that works just perfect."
 }]
 
