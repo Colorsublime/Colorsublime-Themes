@@ -753,5 +753,40 @@
     "FileName": "Eden.tmTheme",
     "Author": "Saad Quadri",
     "Description": "Modified version of Tomorrow Night"
+},{
+    "Title": "Nouba",
+    "FileName": "Nouba.tmTheme",
+    "Author": "Fernando Guisso",
+    "Description": "Theme inspired by Cirque du Soleil, La Nouba"
+},{
+    "Title": "Kabbotta",
+    "FileName": "Kabbotta.tmTheme",
+    "Author": "Michael Chapman",
+    "Description": "A dark and earthy theme."
+},{
+    "Title": "Acai",
+    "FileName": "Acai.tmTheme",
+    "Author": "Travis Lehman",
+    "Description": "A dark theme designed to be easy on the eyes."
+},{
+    "Title": "Monokai - Easy White for Retina",
+    "FileName": "MonokaiEasyForRetina.tmTheme",
+    "Author": "Marian Zagoruiko",
+    "Description": "Basic Monokai theme with grey instead of white and some other improvements."
+},{
+    "Title": "Monokai Best",
+    "FileName": "monokai-best.tmTheme",
+    "Author": "Shakeel Mohamed",
+    "Description": "Based on Monokai vivid with: Monokai's selection color, Monokai Gray's background color, and colored JSON."
+},{
+    "Title": "Metropolis",
+    "FileName": "Metropolis.tmTheme",
+    "Author": "Adi",
+    "Description": "A theme with lots of modern lite colors with dark blue background that works just perfect."
+}, {
+    "Title": "Ocean Dark Soda",
+    "FileName": "Ocean-Dark-Soda.tmTheme",
+    "Author": "Saad Quadri",
+    "Description": "A modified version of Base16's Ocean Dark color scheme to match Soda's Dark theme."
 }]
 
