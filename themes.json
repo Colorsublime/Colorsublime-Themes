@@ -798,5 +798,10 @@
     "FileName": "Metropolis.tmTheme",
     "Author": "Adi",
     "Description": "A theme with lots of modern lite colors with dark blue background that works just perfect."
+},{
+    "Title": "Ocean Dark Soda",
+    "FileName": "Ocean-Dark-Soda.tmTheme",
+    "Author": "Saad Quadri",
+    "Description": "A modified version of Base16's Ocean Dark color scheme to match Soda's Dark theme."
 }]
 
