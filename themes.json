@@ -803,5 +803,10 @@
     "FileName": "Ocean-Dark-Soda.tmTheme",
     "Author": "Saad Quadri",
     "Description": "A modified version of Base16's Ocean Dark color scheme to match Soda's Dark theme."
+},{
+    "Title": "MonoKate",
+    "FileName": "monokate.tmTheme",
+    "Author": "Grant Eagon",
+    "Description": "Monokai like theme for Sublime Text that is easy on the eyes, like Kate Upton."
 }]
 
