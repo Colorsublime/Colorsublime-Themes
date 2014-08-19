@@ -808,5 +808,10 @@
     "FileName": "monokate.tmTheme",
     "Author": "Grant Eagon",
     "Description": "Monokai like theme for Sublime Text that is easy on the eyes, like Kate Upton."
+},{
+    "Title": "Monokai-Midnight",
+    "FileName": "Monokai-Midnight.tmTheme",
+    "Author": "Evan Dull",
+    "Description": "Monokai, but with a pure black background."
 }]
 
