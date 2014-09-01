@@ -524,10 +524,15 @@
     "Author": "Stanley Rost",
     "Description": ""
 }, {
-    "Title": "Themeby Dark V1",
+    "Title": "Themeby Dark v1",
     "FileName": "ThemebyDarkV1.tmTheme",
     "Author": "Aleksander Fras",
     "Description": "Derivated from Visual Studio Dark Theme. Purpose of this theme is to make coding not as tiring for my eyes as it used to be. My focus was on php and javascript. I've also added some less compatibility."
+}, {
+    "Title": "Themeby Dark v2",
+    "FileName": "ThemebyDarkV2.tmTheme",
+    "Author": "Aleksander Fras",
+    "Description": "A modified version of Themeby Dark v1. Brighter background than in v1, embedded source background is a little bit darker."
 }, {
     "Title": "Tomorrow",
     "FileName": "Tomorrow.tmTheme",
