@@ -59,3 +59,4 @@ Themes creators
  - Ethan Welborn (https://github.com/ethanwelborn)
  - Travis Lehman ([tehtrav](http://twitter.com/tehtrav))
  - Shakeel Mohamed ([_Shakeel](http://twitter.com/_Shakeel))
+ - Aleksander Fras ([AlFra432](http://twitter.com/AlFra432))
