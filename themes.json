@@ -823,5 +823,14 @@
     "FileName": "Monokai-Midnight.tmTheme",
     "Author": "Evan Dull",
     "Description": "Monokai, but with a pure black background."
+},{
+    "Title": "Focus Dark",
+    "FileName": "Focus_Dark.tmTheme",
+    "Author": "Sindre Sorhus",
+    "Description": "Lets you focus on the content"
+},{
+    "Title": "Focus Light",
+    "FileName": "Focus_Light.tmTheme",
+    "Author": "Sindre Sorhus",
+    "Description": "Lets you focus on the content"
 }]
-
