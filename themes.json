@@ -833,4 +833,14 @@
     "FileName": "Focus_Light.tmTheme",
     "Author": "Sindre Sorhus",
     "Description": "Lets you focus on the content"
+},{
+    "Title": "Capo Light",
+    "FileName": "Capo-Light.tmTheme",
+    "Author": "Cimpean Andrei",
+    "Description": "Cool relaxing light theme."
+},{
+    "Title": "Capo Dark",
+    "FileName": "Capo-Dark.tmTheme",
+    "Author": "Cimpean Andrei",
+    "Description": "Cool relaxing dark theme."
 }]
