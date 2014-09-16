@@ -16,9 +16,9 @@
 		<string>#75715E</string>
 	</dict>
 	<key>name</key>
-	<string>Girlfriend</string>
+	<string>Pastel</string>
 	<key>semanticClass</key>
-	<string>theme.light.girlfriend_loves_my_code</string>
+	<string>theme.light.pastel</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -297,6 +297,6 @@
 	<key>author</key>
 	<string>dasblitz</string>
 	<key>comment</key>
-	<string>A theme created for the sole purpose of keeping my girlfriend interested for more than one second when showing her some code ;)</string>
+	<string>A theme full of pastels.</string>
 </dict>
 </plist>
