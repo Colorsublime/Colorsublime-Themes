@@ -1,4 +1,19 @@
 [{
+    "Title": "Flatland Dark",
+    "FileName": "Flatland_Dark.tmTheme",
+    "Author": "Pixel Lab",
+    "Description": "A simple dark theme mostly derived from Soda."
+},{
+    "Title": "Flatland Black",
+    "FileName": "Flatland_Black.tmTheme",
+    "Author": "Pixel Lab",
+    "Description": "Flatland Dark theme with a pure black background."
+},{
+    "Title": "Flatland Monokai",
+    "FileName": "Flatland_Monokai.tmTheme",
+    "Author": "Pixel Lab",
+    "Description": "Monokai theme with Flatland Dark's background color."
+},{
     "Title": "IridiumStar",
     "FileName": "IridiumStar.tmTheme",
     "Author": "Justin Loudermilk",

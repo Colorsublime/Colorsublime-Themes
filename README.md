@@ -61,3 +61,4 @@ Themes creators
  - Shakeel Mohamed ([_Shakeel](http://twitter.com/_Shakeel))
  - Aleksander Fras ([AlFra432](http://twitter.com/AlFra432))
  - [Sindre Sorhus](http://sindresorhus.com)
+ - [Pixel Lab](http://thinkpixellab.com/)
