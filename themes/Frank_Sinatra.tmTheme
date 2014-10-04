@@ -12,6 +12,8 @@
 	<string>Frank Sinatra</string>
 	<key>comment</key>
 	<string>https://davelukejr.com</string>
+	<key>semanticClass</key>
+	<string>theme.sinatra</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<array>
@@ -554,11 +556,5 @@
 			</dict>
 		</dict>
 	</array>
-	<key>colorSpaceName</key>
-	<string>sRGB</string>
-	<key>semanticClass</key>
-	<string>theme.sinatra</string>
-	<key>author</key>
-	<string>Dave Luke</string>
 </dict>
 </plist>
