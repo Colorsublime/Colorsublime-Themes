@@ -1,15 +1,19 @@
-<!--
-Author: Dave Luke Jr (http://davelukejr.com)
-Description: A theme inspired by Frank Sinatra himself. Light colors and easy on the eyes.
--->
 <?xml version="1.0" encoding="UTF-8"?>
 <plist version="1.0">
+<!--
+	Author: 	Dave Luke Jr (http://davelukejr.com)
+	Description: 	A theme inspired by Frank Sinatra himself.
+			Light colors and easy on the eyes.
+-->
 <dict>
-	<key>comment</key>
-	<string>github.com&#x2f;uonick</string>
+	<key>author</key>
+	<string>Dave Luke Jr</string>
 	<key>name</key>
-	<string>Frank-Sinatra</string>
-	<key>settings</key>
+	<string>Frank Sinatra</string>
+	<key>comment</key>
+	<string>https://davelukejr.com</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<array>
 		<dict>
 			<key>settings</key>
