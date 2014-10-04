@@ -25,6 +25,7 @@ New themes are welcome!
 
 Themes creators
 
+ - [Dave Luke Jr](http://davelukejr.com)
  - David Heinemeier Hansson
  - Amy
  - Blackboard
