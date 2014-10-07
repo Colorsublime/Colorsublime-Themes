@@ -16,6 +16,7 @@
 	<string>theme.sinatra</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
+	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
@@ -170,7 +171,7 @@
 				<key>foreground</key>
 				<string>#0094A3</string>
 			</dict>
-		</dict>	
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Function</string>
