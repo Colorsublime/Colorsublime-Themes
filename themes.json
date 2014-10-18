@@ -3,32 +3,32 @@
     "FileName": "Frank_Sinatra.tmTheme",
     "Author": "Dave Luke Jr",
     "Description": "If Frank were still with us today, he would code using this theme and this theme only"
-},{
+}, {
     "Title": "Bittersweet",
     "FileName": "Bittersweet.tmTheme",
     "Author": "Nhat Nguyen",
     "Description": "Dark and easy on the eyes theme"
-},{
+}, {
     "Title": "Flatland Dark",
     "FileName": "Flatland_Dark.tmTheme",
     "Author": "Pixel Lab",
     "Description": "A simple dark theme mostly derived from Soda."
-},{
+}, {
     "Title": "Flatland Black",
     "FileName": "Flatland_Black.tmTheme",
     "Author": "Pixel Lab",
     "Description": "Flatland Dark theme with a pure black background."
-},{
+}, {
     "Title": "Flatland Monokai",
     "FileName": "Flatland_Monokai.tmTheme",
     "Author": "Pixel Lab",
     "Description": "Monokai theme with Flatland Dark's background color."
-},{
+}, {
     "Title": "IridiumStar",
     "FileName": "IridiumStar.tmTheme",
     "Author": "Justin Loudermilk",
     "Description": "A bluish monokai."
-},{
+}, {
     "Title": "Muukii",
     "FileName": "Muukii.tmTheme",
     "Author": "Muukii",
@@ -758,124 +758,129 @@
     "FileName": "Heroku.tmTheme",
     "Author": "Rubens Stulzer",
     "Description": "Color scheme inspired on Heroku dashboard colors"
-},{
+}, {
     "Title": "WarmNeon",
     "FileName": "WarmNeon.tmTheme",
     "Author": "Onrik",
     "Description": ""
-},{
+}, {
     "Title": "Quiet Light",
     "FileName": "QuietLight.tmTheme",
     "Author": "Martin Kühl",
     "Description": "Similar to IR_Black, a calming theme made originally for Espresso by One Crayon"
-},{
+}, {
     "Title": "Pastel",
     "FileName": "Pastel.tmTheme",
     "Author": "Arjen de Vries",
     "Description": "A theme full of pastels."
-},{
+}, {
     "Title": "Nette",
     "FileName": "Nette.tmTheme",
     "Author": "@Jzechy",
     "Description": "Theme inspired by Nette framework documentation."
-},{
+}, {
     "Title": "Spring",
     "FileName": "Spring.tmTheme",
     "Author": "@JZechy",
     "Description": "Theme created in Spring colors."
-},{
+}, {
     "Title": "Solarized Ocean",
     "FileName": "Solarized-ocean.tmTheme",
     "Author": "Saad Quadri",
     "Description": "Theme inspired by Solarized and base16 Ocean color schemes."
-},{
+}, {
     "Title": "Hail",
     "FileName": "Hail.tmTheme",
     "Author": "Saad Quadri",
     "Description": "A modified version of Dayle Reese's Tron color scheme."
-},{
+}, {
     "Title": "Bliss",
     "FileName": "Bliss.tmTheme",
     "Author": "Saad Quadri",
     "Description": "Theme inspired by the vivid colors used on JSHint."
-},{
+}, {
     "Title": "Eden",
     "FileName": "Eden.tmTheme",
     "Author": "Saad Quadri",
     "Description": "Modified version of Tomorrow Night"
-},{
+}, {
     "Title": "Nouba",
     "FileName": "Nouba.tmTheme",
     "Author": "Fernando Guisso",
     "Description": "Theme inspired by Cirque du Soleil, La Nouba"
-},{
+}, {
     "Title": "Kabbotta",
     "FileName": "Kabbotta.tmTheme",
     "Author": "Michael Chapman",
     "Description": "A dark and earthy theme."
-},{
+}, {
     "Title": "Acai",
     "FileName": "Acai.tmTheme",
     "Author": "Travis Lehman",
     "Description": "A dark theme designed to be easy on the eyes."
-},{
+}, {
     "Title": "Monokai - Easy White for Retina",
     "FileName": "MonokaiEasyForRetina.tmTheme",
     "Author": "Marian Zagoruiko",
     "Description": "Basic Monokai theme with grey instead of white and some other improvements."
-},{
+}, {
     "Title": "Monokai Best",
     "FileName": "monokai-best.tmTheme",
     "Author": "Shakeel Mohamed",
     "Description": "Based on Monokai vivid with: Monokai's selection color, Monokai Gray's background color, and colored JSON."
-},{
+}, {
     "Title": "Metropolis",
     "FileName": "Metropolis.tmTheme",
     "Author": "Adi",
     "Description": "A theme with lots of modern lite colors with dark blue background that works just perfect."
-},{
+}, {
     "Title": "Ocean Dark Soda",
     "FileName": "Ocean-Dark-Soda.tmTheme",
     "Author": "Saad Quadri",
     "Description": "A modified version of Base16's Ocean Dark color scheme to match Soda's Dark theme."
-},{
+}, {
     "Title": "MonoKate",
     "FileName": "monokate.tmTheme",
     "Author": "Grant Eagon",
     "Description": "Monokai like theme for Sublime Text that is easy on the eyes, like Kate Upton."
-},{
+}, {
     "Title": "Monokai-Midnight",
     "FileName": "Monokai-Midnight.tmTheme",
     "Author": "Evan Dull",
     "Description": "Monokai, but with a pure black background."
-},{
+}, {
     "Title": "Focus Dark",
     "FileName": "Focus_Dark.tmTheme",
     "Author": "Sindre Sorhus",
     "Description": "Lets you focus on the content"
-},{
+}, {
     "Title": "Focus Light",
     "FileName": "Focus_Light.tmTheme",
     "Author": "Sindre Sorhus",
     "Description": "Lets you focus on the content"
-},{
+}, {
     "Title": "Capo Light",
     "FileName": "Capo-Light.tmTheme",
     "Author": "Cimpean Andrei",
     "Description": "Cool relaxing light theme."
-},{
+}, {
     "Title": "Capo Dark",
     "FileName": "Capo-Dark.tmTheme",
     "Author": "Cimpean Andrei",
     "Description": "Cool relaxing dark theme."
-},{
+}, {
     "Title": "Brogrammer",
     "FileName": "Brogrammer.tmTheme",
     "Author": "Ken Wheeler",
     "Description": "Push ups not included."
-},{
+}, {
     "Title": "Zombies Ate My Neighbors",
     "FileName": "zombies_ate_my_neighbors.tmTheme",
     "Author": "bmxryder711",
     "Description": "Dark theme with cool colors."
+}, {
+    "Title": "Afterglow",
+    "FileName": "Afterglow.tmTheme",
+    "Author": "Yabata Design",
+    "Description": "A minimal dark Theme."
 }]
