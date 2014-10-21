@@ -883,4 +883,9 @@
     "FileName": "Afterglow.tmTheme",
     "Author": "Yabata Design",
     "Description": "A minimal dark Theme."
+}, {
+    "Title": "Grandson of Obsidian",
+    "FileName": "GrandsonOfObsidian.tmTheme",
+    "Author": "José F. Romaniello",
+    "Description": "Dark theme inspired by Obsidian"
 }]
