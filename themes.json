@@ -888,4 +888,9 @@
     "FileName": "GrandsonOfObsidian.tmTheme",
     "Author": "José F. Romaniello",
     "Description": "Dark theme inspired by Obsidian"
+}, {
+    "Title": "Chelevra",
+    "FileName": "Chelevra.tmTheme",
+    "Author": "Jonas Hermsmeier",
+    "Description": "Dark, minimal theme (perfect fit for Spacegray UI theme)"
 }]
