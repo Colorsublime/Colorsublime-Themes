@@ -903,4 +903,9 @@
     "FileName": "Chelevra.tmTheme",
     "Author": "Jonas Hermsmeier",
     "Description": "Dark, minimal theme (perfect fit for Spacegray UI theme)"
+}, {
+    "Title": "Monokai Aurora",
+    "FileName": "Monokai-Aurora.tmTheme",
+    "Author": "Josema Enzo",
+    "Description": "The best of Monokai and Aurora themes."
 }]
