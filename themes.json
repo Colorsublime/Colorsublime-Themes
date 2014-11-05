@@ -908,4 +908,9 @@
     "FileName": "Monokai-Aurora.tmTheme",
     "Author": "Josema Enzo",
     "Description": "The best of Monokai and Aurora themes."
+}, {
+    "Title": "Bungler",
+    "FileName": "Bungler.tmTheme",
+    "Author": "Josh Burgess",
+    "Description": "A colorful dark theme."
 }]
