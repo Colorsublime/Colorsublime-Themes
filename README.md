@@ -46,3 +46,4 @@ Themes creators
  - Stanley Rost
  - Michael Sheets
  - Jeroen van der Ham
+ - [Mims H. Wright](https://github.com/mimshwright)
