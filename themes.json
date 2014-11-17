@@ -279,6 +279,11 @@
     "Author": "Mark Herpich (Mark Michos)",
     "Description": ""
 }, {
+    "Title": "Flatgammer",
+    "FileName": "Flatgrammer.tmTheme",
+    "Author": "ART-ifact Dev | Jeremias Arnstadt",
+    "Description": "Color Scheme of the Sublime Flatgrammer Theme"
+}, {
     "Title": "FreshCut",
     "FileName": "FreshCut.tmTheme",
     "Author": "",
