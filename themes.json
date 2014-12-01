@@ -1,4 +1,14 @@
 [{
+    "Title": " Dark Room (Normal)",
+    "FileName": "DarkRoomNormal.tmTheme",
+    "Author": "Neil Cresswell",
+    "Description": "Easy on eyes dark theme with accented comments and GitGutter support. See https://github.com/NeilCresswell/themes for other IDEs."
+}, {
+    "Title": "Dark Room (Contrast)",
+    "FileName": "DarkRoomContrast.tmTheme",
+    "Author": "Neil Cresswell",
+    "Description": "Easy on eyes dark theme with accented comments and GitGutter support. See https://github.com/NeilCresswell/themes for other IDEs."
+}, {
     "Title": "Wild Cherry",
     "FileName": "wild-cherry.tmTheme",
     "Author": "Omar Mashaal",
