@@ -25,6 +25,7 @@ New themes are welcome!
 
 Themes creators
 
+ - Neil Cresswell ([Dark Room](https://github.com/NeilCresswell/themes) themes)
  - [Dave Luke Jr](http://davelukejr.com)
  - David Heinemeier Hansson
  - Amy
