@@ -938,4 +938,9 @@
     "FileName": "Bungler.tmTheme",
     "Author": "Josh Burgess",
     "Description": "A colorful dark theme."
+}, {
+    "Title": "KyzDark",
+    "FileName": "KyzDark.tmTheme",
+    "Author": "Kiswono Prayogo",
+    "Description": "Dark Theme especially for Go."
 }]
