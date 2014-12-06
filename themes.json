@@ -9,6 +9,11 @@
     "Author": "Neil Cresswell",
     "Description": "Easy on eyes dark theme with accented comments and GitGutter support. See https://github.com/NeilCresswell/themes for other IDEs."
 }, {
+    "Title": "Dark-Dracula",
+    "FileName": "Dark-Dracula.tmTheme",
+    "Author": "Zeno Rocha and Kaushalya Mandaliya",
+    "Description": "Just Changed background color and lineHighlight color in Dracula Theme (Which is developed by Zeno Rocha). For more info: https://github.com/krman009/Dark-Dracula-Theme"
+}, {
     "Title": "Wild Cherry",
     "FileName": "wild-cherry.tmTheme",
     "Author": "Omar Mashaal",
