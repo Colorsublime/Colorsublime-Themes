@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>JZechy</string>
+	<key>comment</key>
+	<string>https:&#x2f;&#x2f;github.com&#x2f;JZechy&#x2f;tmThemes</string>
+	<key>name</key>
+	<string>Spring</string>
+	<key>settings</key>
+	<array>
+		<!-- Základní nastavení -->
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#f0f8ff</string>
+				<key>foreground</key>
+				<string>#484848</string>
+				<key>lineHighlight</key>
+				<string>#99C5FF</string>
+				<key>selection</key>
+				<string>#99C5FF</string>
+			</dict>
+		</dict>
+
+		<!-- Klíčová slova -->
+		<dict>
+			<key>name</key>
+			<string>Keyword</string>
+			<key>scope</key>
+			<string>keyword</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#008000</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
+		<!-- Proměnné -->
+		<dict>
+			<key>name</key>
+			<string>Variable</string>
+			<key>scope</key>
+			<string>variable</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#4169e1</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variable other property</string>
+			<key>scope</key>
+			<string>variable.other.property</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
+		<!-- Storage -->
+		<dict>
+			<key>name</key>
+			<string>Storage</string>
+			<key>scope</key>
+			<string>storage</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#008000</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Storage modifier</string>
+			<key>scope</key>
+			<string>storage.modifier</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Storage modifier extends</string>
+			<key>scope</key>
+			<string>storage.modifier.extends</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Storage modifier implements</string>
+			<key>scope</key>
+			<string>storage.modifier.implements</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold italic</string>
+			</dict>
+		</dict>
+
+		<!-- Konstanty -->
+		<dict>
+			<key>name</key>
+			<string>Constant</string>
+			<key>scope</key>
+			<string>constant</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#daa520</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Constant numeric</string>
+			<key>scope</key>
+			<string>constant.numeric</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#2e8b57</string>
+				<key>fontStyle</key>
+				<string>normal</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Constant language</string>
+			<key>scope</key>
+			<string>constant.language</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#2e8b57</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Constant other</string>
+			<key>scope</key>
+			<string>constant.other</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#484848</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
+		<!-- Operátory -->
+		<dict>
+			<key>name</key>
+			<string>Keyword operator</string>
+			<key>scope</key>
+			<string>keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
+				<key>foreground</key>
+				<string>#484848</string>
+			</dict>
+		</dict>
+
+		<!-- Support -->
+		<dict>
+			<key>name</key>
+			<string>Support class</string>
+			<key>scope</key>
+			<string>support.class</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#484848</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Support class</string>
+			<key>scope</key>
+			<string>support.class.implements</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold italic</string>
+				<key>foreground</key>
+				<string>#484848</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Support function construct</string>
+			<key>scope</key>
+			<string>support.function.construct</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#008000</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
+		<!-- Meta -->
+		<dict>
+			<key>name</key>
+			<string>Meta function typehinted</string>
+			<key>scope</key>
+			<string>meta.function.argument.typehinted</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
+				<key>foreground</key>
+				<string>#484848</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Meta function-call object</string>
+			<key>scope</key>
+			<string>meta.function-call.object</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#4169e1</string>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Meta function-call static</string>
+			<key>scope</key>
+			<string>meta.function-call.static</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#4169e1</string>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Meta function-call</string>
+			<key>scope</key>
+			<string>meta.function-call</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#7c7c7c</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Meta class</string>
+			<key>scope</key>
+			<string>meta.class</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold italic</string>
+			</dict>
+		</dict>
+
+		<!-- Ostatní -->
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
+			<string>string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#dc143c</string>
+			</dict>
+		</dict>
+
+		<!-- Komentáře -->
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ff8c00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword other PHPDoc</string>
+			<key>scope</key>
+			<string>keyword.other.phpdoc</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ff8c00</string>
+			</dict>
+		</dict>
+
+		<!-- Entity -->
+		<dict>
+			<key>name</key>
+			<string>Entity name tag</string>
+			<key>scope</key>
+			<string>entity.name.tag, punctuation.definition.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#008000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Entity atribute name</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#dc143c</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Quoted string html</string>
+			<key>scope</key>
+			<string>string.quoted.double.html, string.quoted.single.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#1e90ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DOCTYPE</string>
+			<key>scope</key>
+			<string>keyword.doctype.xml, meta.tag.sgml.doctype.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#008000</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
+		<!-- CSS -->
+		<dict>
+			<key>name</key>
+			<string>CSS property</string>
+			<key>scope</key>
+			<string>support.type.property-name.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#1e90ff</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

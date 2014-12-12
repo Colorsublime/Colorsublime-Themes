@@ -1,58 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!--
-======================================================================
-Carbonight
-======================================================================
-A Sublime Text 2 / Textmate theme.
-Copyright (c) 2012 Dayle Rees.
-Released under the MIT License <http://opensource.org/licenses/MIT>
-======================================================================
-Find more themes at : https://github.com/daylerees/colour-schemes
-======================================================================
--->
 <plist version="1.0">
 <dict>
+	<key>gutterSettings</key>
+	<dict>
+		<key>background</key>
+		<string>#49483E</string>
+		<key>divider</key>
+		<string>#75715E</string>
+		<key>foreground</key>
+		<string>#75715E</string>
+	</dict>
 	<key>name</key>
-	<string>Carbonight Blue</string>
+	<string>dA1</string>
+	<key>semanticClass</key>
+	<string>theme.dark.atom_dark</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#25292a</string>
+				<string>#17314a</string>
 				<key>caret</key>
-				<string>#F83333</string>
+				<string>#F8F8F0</string>
 				<key>foreground</key>
-				<string>#979797</string>
+				<string>#F8F8F2</string>
 				<key>invisibles</key>
-				<string>#3B3A32</string>
+				<string>#49483E</string>
 				<key>lineHighlight</key>
-				<string>#3B3633</string>
+				<string>#49483E</string>
 				<key>selection</key>
-				<string>#433131</string>
-				<key>findHighlight</key>
-				<string>#3aa6d0</string>
-				<key>findHighlightForeground</key>
-				<string>#000000</string>
-				<key>selectionBorder</key>
-				<string>#222218</string>
-				<key>activeGuide</key>
-				<string>#963131</string>
-
-				<key>bracketsForeground</key>
-				<string>#ffffff</string>
-				<key>bracketsOptions</key>
-				<string>bold underline</string>
-
-				<key>bracketContentsForeground</key>
-				<string>#ffffff</string>
-				<key>bracketContentsOptions</key>
-				<string>bold underline</string>
-
-				<key>tagsOptions</key>
-				<string>stippled_underline</string>
+				<string>#5c5c5c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -63,7 +42,9 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4B4B4B</string>
+				<string>#000000</string>
+				<key>fontStyle</key>
+				<string>   italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +55,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4D81A5</string>
+				<string>#96ceb4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -85,10 +66,9 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4D81A5</string>
+				<string>#fff3c5</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
 			<string>Built-in constant</string>
@@ -97,7 +77,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#979797</string>
+				<string>#ff6f6a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -108,7 +88,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#979797</string>
+				<string>#90cc99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -118,8 +98,8 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<string>variable</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
+				<key>foreground</key>
+				<string>#c8c5ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -130,7 +110,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string></string>
+				<string>#d09399</string>
 			</dict>
 		</dict>
 		<dict>
@@ -143,7 +123,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#9E9E9E</string>
+				<string>#F92672</string>
 			</dict>
 		</dict>
 		<dict>
@@ -154,9 +134,9 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
-				<string>#979797</string>
+				<string>#66D9EF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -166,10 +146,10 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<string>entity.name.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>underline</string>
 				<key>foreground</key>
-				<string>#979797</string>
+				<string>#bfccec</string>
+				<key>fontStyle</key>
+				<string> underline</string>
 			</dict>
 		</dict>
 		<dict>
@@ -180,9 +160,9 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>underline</string>
+				<string>italic underline</string>
 				<key>foreground</key>
-				<string></string>
+				<string>#9b5c2e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -195,7 +175,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#979797</string>
+				<string>#ffd2a7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -206,9 +186,9 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
-				<string>#979797</string>
+				<string>#c0c5fe</string>
 			</dict>
 		</dict>
 		<dict>
@@ -221,7 +201,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#979797</string>
+				<string>#c44a87</string>
 			</dict>
 		</dict>
 		<dict>
@@ -234,7 +214,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C4C4C4</string>
+				<string>#A6E22E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -247,7 +227,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#979797</string>
+				<string>#4f7377</string>
 			</dict>
 		</dict>
 		<dict>
@@ -260,20 +240,18 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#979797</string>
+				<string>#28aaaa</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Library class/type</string>
+			<string>Library class&#x2f;type</string>
 			<key>scope</key>
 			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
-				<string>#979797</string>
+				<string>#a06a34</string>
 			</dict>
 		</dict>
 		<dict>
@@ -289,133 +267,179 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Invalid</string>
+			<string>Ruby Source Text</string>
 			<key>scope</key>
-			<string>invalid</string>
+			<string>source.ruby</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#00A8C6</string>
+				<key>foreground</key>
+				<string>#c5c8c6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ruby Key</string>
+			<key>scope</key>
+			<string>constant.other.symbol.ruby.19syntax</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#99cc99</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ruby Constant</string>
+			<key>scope</key>
+			<string>variable.other.constant.ruby</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c6c5e2</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ruby Class</string>
+			<key>scope</key>
+			<string>entity.name.type.class.ruby</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffff9a</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ruby Module</string>
+			<key>scope</key>
+			<string>entity.name.type.module.ruby</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffeb9b</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ruby Embeded Text</string>
+			<key>scope</key>
+			<string>source.ruby.embedded.source</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ededed</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ruby Embeded Punctuation</string>
+			<key>scope</key>
+			<string>source.ruby.embedded.source punctuation.section.embedded.ruby</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0b9ba0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Java Import</string>
+			<key>scope</key>
+			<string>storage.modifier.import.java</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#95cbfe</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Java Storage Modifier</string>
+			<key>scope</key>
+			<string>storage.modifier.java</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#a0d2ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Java Class Name</string>
+			<key>scope</key>
+			<string>entity.name.type.class.java</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffffb6</string>
 				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#F8F8F0</string>
+				<string> underline</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Invalid deprecated</string>
+			<string>Java Primitive</string>
 			<key>scope</key>
-			<string>invalid.deprecated</string>
+			<string>storage.type.primitive.array.java</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#8FBE00</string>
 				<key>foreground</key>
-				<string>#F8F8F0</string>
+				<string>#cfcb82</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JSON String</string>
+			<string>Java Object</string>
 			<key>scope</key>
-			<string>meta.structure.dictionary.json string.quoted.double.json</string>
+			<string>storage.type.object.array.java</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CFCFC2</string>
-			</dict>
-		</dict>
-
-		<dict>
-			<key>name</key>
-			<string>diff.header</string>
-			<key>scope</key>
-			<string>meta.diff, meta.diff.header</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#75715E</string>
+				<string>#cfcb90</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>diff.deleted</string>
+			<string>Java Integer</string>
 			<key>scope</key>
-			<string>markup.deleted</string>
+			<string>constant.numeric.java</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#00A8C6</string>
+				<string>#f770fd</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>diff.inserted</string>
+			<string>Java Type</string>
 			<key>scope</key>
-			<string>markup.inserted</string>
+			<string>storage.type.java</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#cfcb89</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>diff.changed</string>
+			<string>Java Dereference</string>
 			<key>scope</key>
-			<string>markup.changed</string>
+			<string>keyword.operator.dereference.java</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E6DB74</string>
+				<string>#ededed</string>
 			</dict>
 		</dict>
-
-		<dict>
-			<key>scope</key>
-			<string>constant.numeric.line-number.find-in-files - match</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#8FBE00A0</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>scope</key>
-			<string>entity.name.filename.find-in-files</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E6DB74</string>
-			</dict>
-		</dict>
-
-		<dict>
-		   <key>name</key>
-		      <string>Embedded Ruby Punctuation</string>
-		   <key>scope</key>
-		      <string>string punctuation.section.embedded.ruby</string>
-		   <key>settings</key>
-		   <dict>
-		      <key>foreground</key>
-		      <string>#d9d9d9</string>
-		   </dict>
-		</dict>
-		<dict>
-		   <key>name</key>
-		      <string>Embedded Ruby Source</string>
-		   <key>scope</key>
-		      <string>string source.ruby.embedded.source</string>
-		   <key>settings</key>
-		   <dict>
-		      <key>foreground</key>
-		      <string>#1A4E72</string>
-		   </dict>
-		</dict>
-
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>author</key>
+	<string>Adi</string>
+	<key>comment</key>
+	<string>My personal favorite, I made this for myself but if you like something similar please do try it.</string>
 </dict>
 </plist>
