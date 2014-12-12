@@ -1,5 +1,11 @@
 [
 	{
+		"Title": "1337",
+		"FileName": "1337.tmTheme",
+		"Author": "Mark Michos",
+		"Description": "A color scheme for dark Sublime Text"
+	},
+	{
 		"Title": "3024 (Day)",
 		"FileName": "3024_Day.tmTheme",
 		"Author": "Jan T. Sott",
