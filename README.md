@@ -2,7 +2,7 @@ Colorsublime Themes
 ===================
 ![Colorsublime Logo](http://colorsublime.com/img/ColorSublime_logo.png "Colorsublime")
 
-[![Build Status](https://travis-ci.org/Colorsublime/Colorsublime-Themes.png?branch=master)](https://travis-ci.org/Colorsublime/Colorsublime-Themes)
+[![Build Status](https://travis-ci.org/Colorsublime/Colorsublime-Themes.svg?branch=master)](https://travis-ci.org/Colorsublime/Colorsublime-Themes)
 
 This repo hosts all the themes you can try and download on http://colorsublime.com/
 
