@@ -1,4 +1,9 @@
 [{
+    "Title": " 1337",
+    "FileName": "1337.tmTheme",
+    "Author": "Mark Michos",
+    "Description": "A color scheme for dark Sublime Text themes."
+}, {
     "Title": " Dark Room (Normal)",
     "FileName": "DarkRoomNormal.tmTheme",
     "Author": "Neil Cresswell",

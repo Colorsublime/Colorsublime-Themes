@@ -68,3 +68,4 @@ Themes creators
  - [George Kampolis](http://www.gkampolis.com)
  - [dncrews](http://github.com/dncrews)
  - [Kiswono Prayogo](http://github.com/kokizzu)
+ - [Mark Michos](https://www.twitter.com/TheMarkWithK)
