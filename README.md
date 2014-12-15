@@ -69,3 +69,4 @@ Themes creators
  - [dncrews](http://github.com/dncrews)
  - [Kiswono Prayogo](http://github.com/kokizzu)
  - [Mark Michos](https://www.twitter.com/TheMarkWithK)
+ - Justin .K ([SirWags](https://github.com/SirWags))
