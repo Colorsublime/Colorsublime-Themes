@@ -983,4 +983,9 @@
 "FileName": "Hopscotch.tmTheme",
 "Author": "Jan T. Sott",
 "Description": "Color scheme inspired by the Hopscotch learning platform for kids"
+}, {
+    "Title": "8 Color Dark",
+    "FileName": "8-Colour-Dark.tmTheme",
+    "Author": "Shane Knysh (shaneknysh)",
+    "Description": "A dark color scheme with only 8 defined colors"
 }]
