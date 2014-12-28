@@ -9,6 +9,11 @@
     "Author": "Neil Cresswell",
     "Description": "Easy on eyes dark theme with accented comments and GitGutter support. See https://github.com/NeilCresswell/themes for other IDEs."
 }, {
+    "Title": "Dropin",
+    "FileName": "dropin.tmTheme",
+    "Author": "Cipriani Mike",
+    "Description": ""
+}, {
     "Title": "Dark Room (Contrast)",
     "FileName": "DarkRoomContrast.tmTheme",
     "Author": "Neil Cresswell",
@@ -294,10 +299,10 @@
     "Author": "Eiffel",
     "Description": ""
 }, {
-	"Title": "Eggplant Parm",
-	"FileName": "EggplantParm.tmTheme",
-	"Author": "Mims H. Wright",
-	"Description": "An delicious, aubergine color theme."
+    "Title": "Eggplant Parm",
+    "FileName": "EggplantParm.tmTheme",
+    "Author": "Mims H. Wright",
+    "Description": "An delicious, aubergine color theme."
 }, {
     "Title": "Espresso Libre",
     "FileName": "Espresso_Libre.tmTheme",
@@ -333,6 +338,11 @@
     "FileName": "Future_Funk.tmTheme",
     "Author": "Twiebie",
     "Description": "An easy to read dark color scheme for Sublime Text."
+}, {
+    "Title": "Funkenum",
+    "FileName": "Funkenum.tmTheme",
+    "Author": "Victor Fabiano Gomes",
+    "Description": "Old School?"
 }, {
     "Title": "GitHub",
     "FileName": "GitHub.tmTheme",
@@ -979,10 +989,10 @@
     "Author": "Justin .K (SirWags)",
     "Description": "A berry flavored theme for Sublime"
 }, {
-"Title": "Hopscotch",
-"FileName": "Hopscotch.tmTheme",
-"Author": "Jan T. Sott",
-"Description": "Color scheme inspired by the Hopscotch learning platform for kids"
+    "Title": "Hopscotch",
+    "FileName": "Hopscotch.tmTheme",
+    "Author": "Jan T. Sott",
+    "Description": "Color scheme inspired by the Hopscotch learning platform for kids"
 }, {
     "Title": "8 Color Dark",
     "FileName": "8-Colour-Dark.tmTheme",

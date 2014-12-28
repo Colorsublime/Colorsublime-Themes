@@ -1,10 +1,10 @@
 {
   "name": "Colorsublime-Themes",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Colorsublime themes collection http://colorsublime.com",
   "main": "Gruntfile.js",
   "scripts": {
-    "test": "grunt"
+    "test": "mocha tests/runner.js"
   },
   "repository": {
     "type": "git",
@@ -22,8 +22,9 @@
   },
   "homepage": "http://colorsublime.com",
   "devDependencies": {
-    "grunt": "~0.4.2",
-    "grunt-jsonlint": "~1.0.4",
-    "grunt-cli": "~0.1.11"
+    "chai": "^1.10.0",
+    "jsonlint": "^1.6.2",
+    "mocha": "^2.1.0",
+    "walk": "^2.3.4"
   }
 }
