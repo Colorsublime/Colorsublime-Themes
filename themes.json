@@ -9,6 +9,11 @@
     "Author": "Neil Cresswell",
     "Description": "Easy on eyes dark theme with accented comments and GitGutter support. See https://github.com/NeilCresswell/themes for other IDEs."
 }, {
+    "Title": "Dropin",
+    "FileName": "dropin.tmTheme",
+    "Author": "Cipriani Mike",
+    "Description": ""
+}, {
     "Title": "Dark Room (Contrast)",
     "FileName": "DarkRoomContrast.tmTheme",
     "Author": "Neil Cresswell",
