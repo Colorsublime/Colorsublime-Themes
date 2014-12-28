@@ -988,4 +988,9 @@
     "FileName": "8-Colour-Dark.tmTheme",
     "Author": "Shane Knysh (shaneknysh)",
     "Description": "A dark color scheme with only 8 defined colors"
+}, {
+    "Title": "Tireless",
+    "FileName": "Tireless.tmTheme",
+    "Author": "Victor Fabiano Gomes[godotAndCoffee|BlackLeMore]",
+    "Description": "For programmers who have floaters like me."
 }]
