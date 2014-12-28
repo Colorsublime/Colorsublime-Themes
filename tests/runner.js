@@ -1,12 +1,23 @@
-/* jshint node:true */
 'use strict';
 
 var chai = require('chai'),
-	fs = require('fs');
+	fs = require('fs'),
+	walk = require('walk'),
+	themesFiles = [],
+	walker = walk.walkSync('./themes', {
+		listeners: {
+			file: function(root, fileStats, next) {
+				themesFiles.push(fileStats);
+			}
+		}
+	});
 
+// I know globals are never a good idea
+// but in this case they work pretty well
+global.themesFiles = themesFiles;
 global.expect = chai.expect;
-global.themes = JSON.parse(fs.readFileSync('./themes.json', 'utf8'));
+global.themesJSON = fs.readFileSync('./themes.json', 'utf8');
 
 require('./jsonlint.spec');
-require('./themes-exsist.spec');
+require('./themes-exist.spec');
 require('./themes-parsing.spec');

@@ -21,6 +21,21 @@ Please make sure to update correctly the themes.json file
 
 New themes are welcome!
 
+## Run the tests
+
+Before running the tests install the npm dependencies
+
+```shell
+$ npm install
+```
+
+Your theme could be correctly imported only if it passes all the tests.
+Run the tests using the following command:
+
+```shell
+$ npm run test
+```
+
 ## Credits
 
 Themes creators
