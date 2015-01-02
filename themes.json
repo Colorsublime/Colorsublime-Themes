@@ -1,10 +1,10 @@
 [{
-    "Title": " 1337",
+    "Title": "1337",
     "FileName": "1337.tmTheme",
     "Author": "Mark Michos",
     "Description": "A color scheme for dark Sublime Text themes."
 }, {
-    "Title": " Dark Room (Normal)",
+    "Title": "Dark Room (Normal)",
     "FileName": "DarkRoomNormal.tmTheme",
     "Author": "Neil Cresswell",
     "Description": "Easy on eyes dark theme with accented comments and GitGutter support. See https://github.com/NeilCresswell/themes for other IDEs."

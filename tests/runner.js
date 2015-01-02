@@ -16,7 +16,7 @@ var chai = require('chai'),
 // but in this case they work pretty well
 global.themesFiles = themesFiles;
 global.expect = chai.expect;
-global.themesJSON = fs.readFileSync('./themes.json', 'utf8');
+global.themesJSON = require('../themes.json');
 
 require('./jsonlint.spec');
 require('./themes-exist.spec');
