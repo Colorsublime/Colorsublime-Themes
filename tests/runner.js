@@ -16,7 +16,15 @@ var chai = require('chai'),
 // but in this case they work pretty well
 global.themesFiles = themesFiles;
 global.expect = chai.expect;
-global.themesJSON = require('../themes.json');
+global.themesJSON = [];
+
+// Load and validate themes.json
+describe('Check the themes.json file', function() {
+	it('The themes.json is a valid json file', function() {
+		global.themesJSON = require('../themes.json');
+		expect(themesJSON).to.be.an('array');
+	});
+});
 
 require('./jsonlint.spec');
 require('./themes-exist.spec');
