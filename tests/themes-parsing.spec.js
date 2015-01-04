@@ -256,3 +256,11 @@ describe('The themes can be parsed correctly', function() {
 		});
 	});
 });
+
+describe('Check the themes.json entries are valid', function() {
+	it('Title should not have surrounding whitespace', function() {
+		themesJSON.forEach(function(theme) {
+			expect(theme.Title.trim()).to.equal(theme.Title);
+		});
+	});
+});
