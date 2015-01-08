@@ -993,4 +993,9 @@
     "FileName": "Tireless.tmTheme",
     "Author": "Victor Fabiano Gomes[godotAndCoffee|BlackLeMore]",
     "Description": "For programmers who have floaters like me."
+}, {
+    "Title": "Wombat",
+    "FileName": "Wombat.tmTheme",
+    "Author": "Randy Lai, Jon Schlinkert",
+    "Description": "Derived from sublime-monokai-extended with Wombat color scheme. https://github.com/randy3k/Wombat"
 }]
