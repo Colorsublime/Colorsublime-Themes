@@ -993,4 +993,9 @@
     "FileName": "Tireless.tmTheme",
     "Author": "Victor Fabiano Gomes[godotAndCoffee|BlackLeMore]",
     "Description": "For programmers who have floaters like me."
+}, {
+    "Title": "Red",
+    "FileName": "red.tmTheme",
+    "Author": "1ClickComputing",
+    "Description": "A striking dark red theme"
 }]
