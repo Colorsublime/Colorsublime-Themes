@@ -242,6 +242,7 @@ function extractStyles(theme) {
 
 describe('The themes can be parsed correctly', function() {
 	it('I could get the colors for all the themes', function(done) {
+		this.timeout(5000);
 		themesFiles.forEach(function(theme, i) {
 			currentTheme = theme.name;
 			var tmTheme = fs.readFileSync(THEMES_DIR + theme.name, 'utf8'),
