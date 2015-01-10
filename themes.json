@@ -998,4 +998,9 @@
     "FileName": "red.tmTheme",
     "Author": "1ClickComputing",
     "Description": "A striking dark red theme"
+}, {
+    "Title": "Wombat",
+    "FileName": "Wombat.tmTheme",
+    "Author": "Randy Lai, Jon Schlinkert",
+    "Description": "Derived from sublime-monokai-extended with Wombat color scheme. https://github.com/randy3k/Wombat"
 }]
