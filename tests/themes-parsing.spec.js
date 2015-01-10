@@ -113,10 +113,10 @@ function parseColor(color, elementId) {
 		return null;
 	} else {
 
-		expect(color.length).to.be.within(4, 9, message);
-		expect(color.length).to.not.be.equal(5, message);
-		expect(color.length).to.not.be.equal(6, message);
-		expect(color.length).to.not.be.equal(8, message);
+		expect(color).to.have.length.within(4, 9, message);
+		expect(color).to.not.have.length.equal(5, message);
+		expect(color).to.not.have.length.equal(6, message);
+		expect(color).to.have.length.below(10, message);
 
 		if (color.length > 7) {
 			alpha = parseInt(color.substring(7, 9), 16) / 100;
