@@ -539,6 +539,26 @@
     "Author": "Poyeyo",
     "Description": ""
 }, {
+    "Title": "Rebecca gray",
+    "FileName": "Rebecca.tmTheme",
+    "Author": "sam0hack",
+    "Description": "light gray background theme"
+}, {
+    "Title": "Rebecca dark",
+    "FileName": "Rebecca-dark.tmTheme",
+    "Author": "sam0hach",
+    "Description": "Dark rebecca theme"
+}, {
+    "Title": "Rebecca mint",
+    "FileName": "Rebecca-mint.tmTheme",
+    "Author": "sam0hack",
+    "Description": "mint theme"
+}, {
+    "Title": "Rebecca sky",
+    "FileName": "Rebecca-sky.tmTheme",
+    "Author": "sam0hack",
+    "Description": "sky theme"
+}, {
     "Title": "Revelation",
     "FileName": "Revelation.tmTheme",
     "Author": "",
@@ -993,6 +1013,7 @@
     "FileName": "Tireless.tmTheme",
     "Author": "Victor Fabiano Gomes[godotAndCoffee|BlackLeMore]",
     "Description": "For programmers who have floaters like me."
+
 }, {
     "Title": "Red",
     "FileName": "red.tmTheme",
@@ -1004,3 +1025,4 @@
     "Author": "Randy Lai, Jon Schlinkert",
     "Description": "Derived from sublime-monokai-extended with Wombat color scheme. https://github.com/randy3k/Wombat"
 }]
+
