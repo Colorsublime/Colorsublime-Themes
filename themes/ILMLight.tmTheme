@@ -1,39 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!-- author:sameer AKA sam0hack https://twitter.com/sam_codex8    GITHUB https://github.com/codex8/           -->
-
+<!-- Created by: ilm techno solutions                 -->
+<!-- ============================================ -->
+<!-- code: https://github.com/codex8/Colorsublime-Themes -->
 <plist version="1.0">
 <dict>
-	<key>gutterSettings</key>
-	<dict>
-		<key>background</key>
-		<string>#49483E</string>
-		<key>divider</key>
-		<string>#75715E</string>
-		<key>foreground</key>
-		<string>#75715E</string>
-	</dict>
 	<key>name</key>
-	<string>Rebecca</string>
-	<key>semanticClass</key>
-	<string>theme.dark.monokai</string>
+	<string>ILM 2</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ddddda</string>
+				<string>#FFFFFF</string>
 				<key>caret</key>
-				<string>#0300ff</string>
+				<string>#000000</string>
 				<key>foreground</key>
 				<string>#000000</string>
 				<key>invisibles</key>
-				<string>#49483E</string>
+				<string>#BFBFBF</string>
 				<key>lineHighlight</key>
-				<string>#49483E</string>
+				<string>#FFFBD1</string>
 				<key>selection</key>
-				<string>#baefeb</string>
+				<string>#BDD5FC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -43,10 +33,10 @@
 			<string>comment</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#9f9f9fff</string>
 				<key>fontStyle</key>
-				<string> bold  underline italic</string>
+				<string></string>
+				<key>foreground</key>
+				<string>#c5c8baff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -56,8 +46,10 @@
 			<string>string</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#f006e0</string>
+				<string>#5dcdbfff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -68,7 +60,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0022ffff</string>
+				<string>#a69d09ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -78,10 +70,10 @@
 			<string>constant.language</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#07ac90ff</string>
 				<key>fontStyle</key>
-				<string> bold</string>
+				<string></string>
+				<key>foreground</key>
+				<string>#459439ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -91,34 +83,54 @@
 			<string>constant.character, constant.other</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#0022ffff</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
 			<key>scope</key>
-			<string>variable</string>
+			<string>variable.language, variable.other</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#5b6dd4ff</string>
 				<key>fontStyle</key>
-				<string> italic </string>
+				<string></string>
+				<key>foreground</key>
+				<string>#7f991bff</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Keyword</string>
 			<key>scope</key>
-			<string>keyword</string>
+			<string>keyword, support.constant.property-value, constant.other.color</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string> bold</string>
+				<key>foreground</key>
+				<string>#ef1967ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword -&gt; Unit</string>
+			<key>scope</key>
+			<string>keyword.other.unit</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7100f5</string>
-				<key>fontStyle</key>
-				<string> bold</string>
+				<string>#dccf5fff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword -&gt; Operator</string>
+			<key>scope</key>
+			<string>keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#5a5465ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -128,21 +140,10 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#d300d1ff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Storage type</string>
-			<key>scope</key>
-			<string>storage.type</string>
-			<key>settings</key>
-			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#1f8d5d</string>
+				<string>#c52790ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -153,9 +154,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>underline </string>
+				<string> bold</string>
 				<key>foreground</key>
-				<string>#fc0000ff</string>
+				<string>#27b464ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -166,9 +167,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic underline</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#fc0000ff</string>
+				<string>#858585ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -178,10 +179,10 @@
 			<string>entity.name.function</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#0000ffff</string>
 				<key>fontStyle</key>
-				<string>  italic  </string>
+				<string> bold</string>
+				<key>foreground</key>
+				<string>#1947b5ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -191,10 +192,6 @@
 			<string>variable.parameter</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic </string>
-				<key>foreground</key>
-				<string>#358100ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -207,7 +204,29 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff00ffff</string>
+				<string>#606060ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HTML Entity</string>
+			<key>scope</key>
+			<string>constant.character.entity</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#8778ccff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS Support Class</string>
+			<key>scope</key>
+			<string>support.class.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#8778ccff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -220,7 +239,31 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8c4600ff</string>
+				<string>#606060ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS Selector</string>
+			<key>scope</key>
+			<string>meta.selector.css, entity.name.tag.css, entity.other.attribute-name.id.css, entity.other.attribute-name.class.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#c52790ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS Property</string>
+			<key>scope</key>
+			<string>meta.property-name.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#484848ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -231,7 +274,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0f9f30</string>
+				<string>#c52790ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -241,8 +284,6 @@
 			<string>support.constant</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#1f7a53</string>
 			</dict>
 		</dict>
 		<dict>
@@ -252,10 +293,6 @@
 			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic </string>
-				<key>foreground</key>
-				<string>#039532</string>
 			</dict>
 		</dict>
 		<dict>
@@ -265,10 +302,8 @@
 			<string>support.other.variable</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#ffffffff</string>
-				<key>background</key>
-				<string>#194000ff</string>
+				<key>fontStyle</key>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -279,34 +314,56 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ff00ffff</string>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#ffffffff</string>
+				<string>#ff00d4ff</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Invalid deprecated</string>
+			<string>Punctuation&#x2f;Widgets</string>
 			<key>scope</key>
-			<string>invalid.deprecated</string>
+			<string>punctuation.section.embedded</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#74acffff</string>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#ffffffff</string>
+				<string>#c52790ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Punctuation (Tags)</string>
+			<key>scope</key>
+			<string>punctuation.definition.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#606060ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword -&gt; CSS</string>
+			<key>scope</key>
+			<string>constant.other.color.rgb-value.css, support.constant.property-value.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#8778ccff</string>
 			</dict>
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
+	<string>47536290-6FC1-4B09-A08F-B219909E1A69</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
+	<key>semanticClass</key>
+	<string>theme.light.ILM light</string>
 	<key>author</key>
 	<string>sameer</string>
 	<key>comment</key>
-	<string>http:&#x2f;&#x2f;www.twitter.com&#x2f;sam_codex8</string>
+	<string>sam0hack</string>
 </dict>
 </plist>
