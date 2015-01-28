@@ -1059,5 +1059,10 @@
     "FileName": "Shadows.tmTheme",
     "Author": "Michelle Liu (anonmily)",
     "Description": "Dark (yet not too dark) theme with subtle highlighting of PHP code/comments, and LESS syntax coloring"
+}, {
+    "Title": "Code-Lover",
+    "FileName": "Code-Lover.tmTheme",
+    "Author": "HaCk3D",
+    "Description": "A dark and colorful theme for coding :3"
 }]
 
