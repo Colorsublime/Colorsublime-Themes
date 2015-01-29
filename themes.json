@@ -1,4 +1,9 @@
 [{
+    "Title": "Monokai inversed",
+    "FileName": "monokai-inverse.tmTheme",
+    "Author": "Devin Rhode",
+    "Description": "Inverse all colors of Sublime's standard Monokai"
+},{
     "Title": "Purrora",
     "FileName": "Purrora.tmTheme",
     "Author": "Yucheng Tu",
