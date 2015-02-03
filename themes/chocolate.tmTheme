@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
 ======================================================================
-Patriot
+Chocolate
 ======================================================================
 A Sublime Text 2 / Textmate theme.
 Copyright (c) 2014 Dayle Rees.
@@ -14,24 +14,24 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Patriot</string>
+    <string>Chocolate</string>
     <key>settings</key>
     <array>
         <dict>
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#2D3133</string>
+                <string>#150f08</string>
                 <key>caret</key>
                 <string>#f8f8f0</string>
                 <key>foreground</key>
-                <string>#CAD9E3</string>
+                <string>#ffffff</string>
                 <key>invisibles</key>
                 <string>#3b3a32</string>
                 <key>lineHighlight</key>
-                <string>#40484D</string>
+                <string>#362715</string>
                 <key>selection</key>
-                <string>#DE333C</string>
+                <string>#8B6E46</string>
                 <key>selectionForeground</key>
                 <string>#ffffff</string>
                 <key>findHighlight</key>
@@ -44,12 +44,12 @@ Find more themes at : https://github.com/daylerees/colour-schemes
                 <string>#9d550fb0</string>
 
                 <key>bracketsForeground</key>
-                <string>#69ADB5</string>
+                <string>#8B6E46</string>
                 <key>bracketsOptions</key>
                 <string>underline</string>
 
                 <key>bracketContentsForeground</key>
-                <string>#25808A</string>
+                <string>#CCB697</string>
                 <key>bracketContentsOptions</key>
                 <string>underline</string>
 
@@ -65,7 +65,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#515E66</string>
+                <string>#795431</string>
             </dict>
         </dict>
         <dict>
@@ -76,7 +76,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#3790DE</string>
+                <string>#F7A21B</string>
             </dict>
         </dict>
         <dict>
@@ -87,7 +87,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#2E6FD9</string>
+                <string>#F7A21B</string>
             </dict>
         </dict>
 
@@ -99,7 +99,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#2E6FD9</string>
+                <string>#CCB697</string>
             </dict>
         </dict>
         <dict>
@@ -110,7 +110,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#2E6FD9</string>
+                <string>#CCB697</string>
             </dict>
         </dict>
         <dict>
@@ -132,7 +132,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#BBBCC4</string>
+                <string>#B99768</string>
             </dict>
         </dict>
         <dict>
@@ -145,7 +145,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#2E6FD9</string>
+                <string>#CCB697</string>
             </dict>
         </dict>
         <dict>
@@ -158,7 +158,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#DE333C</string>
+                <string>#8B6E46</string>
             </dict>
         </dict>
         <dict>
@@ -171,7 +171,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
                 <key>fontStyle</key>
                 <string>underline</string>
                 <key>foreground</key>
-                <string>#2E6FD9</string>
+                <string>#CCB697</string>
             </dict>
         </dict>
         <dict>
@@ -184,7 +184,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
                 <key>fontStyle</key>
                 <string>italic underline</string>
                 <key>foreground</key>
-                <string>#2E6FD9</string>
+                <string>#CCB697</string>
             </dict>
         </dict>
         <dict>
@@ -197,7 +197,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#ffffff</string>
+                <string>#E2CDB0</string>
             </dict>
         </dict>
         <dict>
@@ -223,7 +223,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#DE333C</string>
+                <string>#8B6E46</string>
             </dict>
         </dict>
         <dict>
@@ -236,7 +236,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#2E6FD9</string>
+                <string>#CCB697</string>
             </dict>
         </dict>
         <dict>
@@ -249,7 +249,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#DE333C</string>
+                <string>#8B6E46</string>
             </dict>
         </dict>
         <dict>
@@ -262,7 +262,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#2E6FD9</string>
+                <string>#CCB697</string>
             </dict>
         </dict>
         <dict>
@@ -275,7 +275,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
                 <key>fontStyle</key>
                 <string>italic</string>
                 <key>foreground</key>
-                <string>#2E6FD9</string>
+                <string>#CCB697</string>
             </dict>
         </dict>
         <dict>
@@ -325,7 +325,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#3790DE</string>
+                <string>#F7A21B</string>
             </dict>
         </dict>
 
@@ -398,7 +398,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#798b96</string>
+                <string>#795431</string>
             </dict>
         </dict>
         <dict>
@@ -407,7 +407,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#3790DE</string>
+                <string>#F7A21B</string>
             </dict>
         </dict>
         <dict>
@@ -416,7 +416,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#2E6FD9</string>
+                <string>#CCB697</string>
             </dict>
         </dict>
         <dict>
@@ -425,7 +425,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#3790DE</string>
+                <string>#F7A21B</string>
             </dict>
         </dict>
         <dict>
@@ -447,7 +447,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#CAD9E3</string>
+                <string>#ffffff</string>
             </dict>
         </dict>
         <dict>
@@ -458,7 +458,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#DE333C</string>
+                <string>#8B6E46</string>
             </dict>
         </dict>
         <dict>
@@ -469,7 +469,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#CAD9E3</string>
+                <string>#ffffff</string>
                 <key>fontStyle</key>
                 <string>normal</string>
             </dict>
@@ -495,7 +495,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#2E6FD9</string>
+                <string>#F7A21B</string>
                 <key>fontStyle</key>
                 <string>italic</string>
             </dict>
@@ -510,7 +510,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#2E6FD9</string>
+                <string>#CCB697</string>
             </dict>
         </dict>
 
@@ -522,7 +522,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#BBBCC4</string>
+                <string>#B99768</string>
             </dict>
         </dict>
 
@@ -534,7 +534,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#3790DE</string>
+                <string>#F7A21B</string>
             </dict>
         </dict>
 
@@ -546,7 +546,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#BBBCC4</string>
+                <string>#B99768</string>
             </dict>
         </dict>
 
@@ -558,7 +558,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#BBBCC4</string>
+                <string>#B99768</string>
             </dict>
         </dict>
 
@@ -570,7 +570,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#BBBCC4</string>
+                <string>#B99768</string>
             </dict>
         </dict>
 
@@ -582,7 +582,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#DE333C</string>
+                <string>#8B6E46</string>
                 <key>fontStyle</key>
                 <string>italic</string>
             </dict>
@@ -596,7 +596,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#DE333C</string>
+                <string>#8B6E46</string>
             </dict>
         </dict>
 
@@ -677,11 +677,11 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#ffffff</string>
+                <string>#E2CDB0</string>
             </dict>
         </dict>
     </array>
     <key>uuid</key>
-    <string>fac0490b-44c0-7d87-f82b-c6d669f94a5f</string>
+    <string>6ea408ea-56e8-b710-aa24-0004af7580c1</string>
 </dict>
 </plist>
