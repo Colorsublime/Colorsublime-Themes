@@ -747,5 +747,11 @@
 		"FileName": "spectral.tmTheme",
 		"Author": "Battlelore",
 		"Description": ""
+	},
+		{
+		"Title": "Deer Antler Dark",
+		"FileName": "DeerAntlerDark.tmTheme",
+		"Author": "JP Fairchild",
+		"Description": "Dark Sublime Theme"
 	}
 ]
