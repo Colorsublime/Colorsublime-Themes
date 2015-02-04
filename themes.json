@@ -1,4 +1,9 @@
 [{
+    "Title": "Riot",
+    "FileName": "Riot.tmTheme",
+    "Author": "Wes Cravens",
+    "Description": "A theme based on the riot.js guide. See https://muut.com/riotjs/guide/"
+},{
     "Title": "Monokai inversed",
     "FileName": "monokai-inverse.tmTheme",
     "Author": "Devin Rhode",
