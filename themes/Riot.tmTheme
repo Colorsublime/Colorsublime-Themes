@@ -2,9 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
 ======================================================================
-Riot
+riot
 ======================================================================
-A Sublime Text 3 theme.
+A Sublime Text 2 / Textmate theme.
 Copyright (c) 2015 Wes Cravens.
 Released under the MIT License <http://opensource.org/licenses/MIT>
 ======================================================================
@@ -591,7 +591,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string></string>
+                <string>#cccccc</string>
                 <key>fontStyle</key>
                 <string>normal</string>
             </dict>
