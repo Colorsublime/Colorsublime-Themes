@@ -1180,5 +1180,10 @@
     "FileName": "zacks.tmTheme",
     "Author": "Dayle Rees.",
     "Description": ""
+}, {
+    "Title": "Github Clean White",
+    "FileName": "GithubCleanWhite.tmTheme",
+    "Author": "Ankur Gupta",
+    "Description": "Github-like color scheme. White background, bold and italic fonts, diff color highlighting and BracketHighlighter color."
 }]
 
