@@ -1180,5 +1180,9 @@
     "FileName": "zacks.tmTheme",
     "Author": "Dayle Rees.",
     "Description": ""
+}, {
+    "Title": "Neon",
+    "FileName": "Neon.tmTheme",
+    "Author": "MattDMo",
+    "Description": "A colorful bright-on-black color scheme with multi-language support http://git.io/b4kU"
 }]
-

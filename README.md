@@ -87,3 +87,4 @@ Themes creators
  - Justin .K ([SirWags](https://github.com/SirWags))
  - Michelle Liu([anonmily](http://github.com/anonmily))
  - [HaCk3D](https://github.com/HaCk3Dq)
+ - [MattDMo](https://github.com/MattDMo)
