@@ -1181,9 +1181,9 @@
     "Author": "Dayle Rees.",
     "Description": ""
 }, {
-    "Title": "Github Clean White",
-    "FileName": "GithubCleanWhite.tmTheme",
+    "Title": "GitHub Clean White",
+    "FileName": "GitHubCleanWhite.tmTheme",
     "Author": "Ankur Gupta",
-    "Description": "Github-like color scheme. White background, bold and italic fonts, diff color highlighting and BracketHighlighter color."
+    "Description": "GitHub-like color scheme. White background, bold and italic fonts, diff color highlighting and BracketHighlighter color."
 }]
 
