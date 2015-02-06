@@ -85,3 +85,5 @@ Themes creators
  - [Kiswono Prayogo](http://github.com/kokizzu)
  - [Mark Michos](https://www.twitter.com/TheMarkWithK)
  - Justin .K ([SirWags](https://github.com/SirWags))
+ - Michelle Liu([anonmily](http://github.com/anonmily))
+ - [HaCk3D](https://github.com/HaCk3Dq)
