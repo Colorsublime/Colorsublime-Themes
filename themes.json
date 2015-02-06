@@ -1,14 +1,19 @@
 [{
+    "Title": "Riot",
+    "FileName": "Riot.tmTheme",
+    "Author": "Wes Cravens",
+    "Description": "A theme based on the riot.js guide. See https://muut.com/riotjs/guide/"
+}, {
     "Title": "Monokai inversed",
     "FileName": "monokai-inverse.tmTheme",
     "Author": "Devin Rhode",
     "Description": "Inverse all colors of Sublime's standard Monokai"
-},{
+}, {
     "Title": "Purrora",
     "FileName": "Purrora.tmTheme",
     "Author": "Yucheng Tu",
     "Description": "A purrety dark color scheme with contrast based on Aurora. See https://github.com/Pirolf/Colorsublime-Themes."
-},{
+}, {
     "Title": "1337",
     "FileName": "1337.tmTheme",
     "Author": "Mark Michos",
@@ -1181,9 +1186,16 @@
     "Author": "Dayle Rees.",
     "Description": ""
 }, {
+
     "Title": "GitHub Clean White",
     "FileName": "GitHubCleanWhite.tmTheme",
     "Author": "Ankur Gupta",
     "Description": "GitHub-like color scheme. White background, bold and italic fonts, diff color highlighting and BracketHighlighter color."
+}, {
+    "Title": "Neon",
+    "FileName": "Neon.tmTheme",
+    "Author": "MattDMo",
+    "Description": "A colorful bright-on-black color scheme with multi-language support http://git.io/b4kU"
+
 }]
 
