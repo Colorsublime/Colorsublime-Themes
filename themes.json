@@ -1,4 +1,9 @@
 [{
+    "Title": "Golden Dragon",
+    "FileName": "GoldenDragon.tmTheme",
+    "Author": "Zayn Ali",
+    "Description": "https://github.com/zaynali53/golden-dragon"
+}, {
     "Title": "Riot",
     "FileName": "Riot.tmTheme",
     "Author": "Wes Cravens",
