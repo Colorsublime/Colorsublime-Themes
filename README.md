@@ -39,7 +39,7 @@ $ npm run test
 ## Credits
 
 Themes creators
-
+ - [Zayn Ali](https://twitter.com/zaynali53)
  - Neil Cresswell ([Dark Room](https://github.com/NeilCresswell/themes) themes)
  - [Dave Luke Jr](http://davelukejr.com)
  - David Heinemeier Hansson
