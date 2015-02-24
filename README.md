@@ -88,3 +88,4 @@ Themes creators
  - Michelle Liu([anonmily](http://github.com/anonmily))
  - [HaCk3D](https://github.com/HaCk3Dq)
  - [MattDMo](https://github.com/MattDMo)
+ - [Ritashugisha](https://github.com/ritashugisha)
