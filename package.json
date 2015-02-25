@@ -22,10 +22,10 @@
   },
   "homepage": "http://colorsublime.com",
   "devDependencies": {
-    "chai": "^1.10.0",
+    "chai": "^2.1.0",
     "color-parser": "^0.1.0",
     "mocha": "^2.1.0",
     "plist": "^1.1.0",
-    "walk": "^2.3.4"
+    "walk": "^2.3.9"
   }
 }
