@@ -1217,5 +1217,9 @@
     "FileName": "DeerAntlerDark.tmTheme",
     "Author": "JP Fairchild",
     "Description": "Dark Sublime Theme"
+}, {
+    "Title": "Amber",
+    "FileName": "Amber.tmTheme",
+    "Author": "Kristopher Johnson",
+    "Description": "Monochrome terminal-like theme"
 }]
-
