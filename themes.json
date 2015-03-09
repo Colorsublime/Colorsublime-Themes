@@ -309,6 +309,11 @@
     "Author": "",
     "Description": ""
 }, {
+    "Title": "Preap",
+    "FileName": "preap.tmTheme",
+    "Author": "Mattia Astorino",
+    "Description": "Preap theme released with Preap Dark UI (https://github.com/equinusocio/preap)"
+}, {
     "Title": "EarthsongLight",
     "FileName": "earthsong-light.tmTheme",
     "Author": "",
