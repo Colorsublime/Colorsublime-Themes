@@ -1221,5 +1221,15 @@
     "Title": "Amber",
     "FileName": "Amber.tmTheme",
     "Author": "Kristopher Johnson",
-    "Description": "Monochrome terminal-like theme"
+    "Description": "Amber monochrome terminal-like theme"
+}, {
+    "Title": "Green",
+    "FileName": "Green.tmTheme",
+    "Author": "Kristopher Johnson",
+    "Description": "Green monochrome terminal-like theme"
+}, {
+    "Title": "Blueprint",
+    "FileName": "Blueprint.tmTheme",
+    "Author": "Kristopher Johnson",
+    "Description": "Blue monochrome theme"
 }]
