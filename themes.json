@@ -1237,4 +1237,9 @@
     "FileName": "Blueprint.tmTheme",
     "Author": "Kristopher Johnson",
     "Description": "Blue monochrome theme"
+}, {
+    "Title": "Oceanic Next",
+    "FileName": "Oceanic_Next.tmTheme",
+    "Author": "Dmitri Voronianski",
+    "Description": "Color scheme optimized for babel-sublime JavaScript syntax highlighter. Inspired by Base16 Ocean Dark Theme."
 }]
