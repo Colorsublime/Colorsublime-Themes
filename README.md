@@ -74,7 +74,7 @@ Themes creators
  - dbaker ([https://github.com/d-baker](https://github.com/d-baker))
  - Rubens ([Stulzer](https://github.com/stulzer))
  - Saad Quadri ([saadq](https://github.com/saadq))
- - Ethan Welborn (https://github.com/ethanwelborn)
+ - Ethan Welborn ([welbornio](https://github.com/welbornio))
  - Travis Lehman ([tehtrav](http://twitter.com/tehtrav))
  - Shakeel Mohamed ([_Shakeel](http://twitter.com/_Shakeel))
  - Aleksander Fras ([AlFra432](http://twitter.com/AlFra432))
