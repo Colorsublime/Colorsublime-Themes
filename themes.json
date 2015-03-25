@@ -1247,4 +1247,9 @@
     "FileName": "Oceanic_Next.tmTheme",
     "Author": "Dmitri Voronianski",
     "Description": "Color scheme optimized for babel-sublime JavaScript syntax highlighter. Inspired by Base16 Ocean Dark Theme."
+}, {
+    "Title": "Monokai Cobalt",
+    "FileName": "Monokai-Cobalt.tmTheme",
+    "Author": "Jarno van Rhijn",
+    "Description": "A Monokai color scheme especially for cobalt 2 theme (https://github.com/wesbos/cobalt2)."
 }]
