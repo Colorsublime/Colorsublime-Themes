@@ -1252,4 +1252,9 @@
     "FileName": "Monokai-Cobalt.tmTheme",
     "Author": "Jarno van Rhijn",
     "Description": "A Monokai color scheme (https://github.com/jarnovanrhijn) especially for cobalt 2 theme (https://github.com/wesbos/cobalt2)."
+}, {
+    "Title": "Jellybeams",
+    "FileName": "Jellybeams.tmTheme",
+    "Author": "Stephen Underwood",
+    "Description": "A dark color scheme, based on the awesome Jellybeans color scheme for vim"
 }]
