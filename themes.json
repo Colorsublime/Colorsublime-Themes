@@ -1,4 +1,9 @@
 [{
+    "Title": "Neon Glow",
+    "FileName": "NeonGlow.tmTheme",
+    "Author": "Stephen Kamenar",
+    "Description": "Goes great with techno music. https://github.com/farzher/Sublime-Text-Themes"
+}, {
     "Title": "Trixie",
     "FileName": "Trixie.tmTheme",
     "Author": "Ivan Kuzmin",
