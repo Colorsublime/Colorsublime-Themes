@@ -232,6 +232,17 @@
 				<string>#fbe3bf</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>String Interpolation</string>
+			<key>scope</key>
+			<string>constant.character.escaped, constant.character.escape, string source, string source.ruby</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#b4c973</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>4e4cdb00-2fb2-11e2-81c1-0800200c9a66</string>
