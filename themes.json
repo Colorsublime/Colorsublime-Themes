@@ -1283,4 +1283,10 @@
     "FileName": "Jellybeams.tmTheme",
     "Author": "Stephen Underwood",
     "Description": "A dark color scheme, based on the awesome Jellybeans color scheme for vim"
-}]
+}, {
+    "Title": "Hot Dog Stand",
+    "FileName": "HotDogStand.tmTheme",
+    "Author": "Randall Koutnik",
+    "Description": "https://github.com/SomeKittens/ST-Hot-Dog-Stand"
+}
+]
