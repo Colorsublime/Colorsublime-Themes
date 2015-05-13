@@ -8,7 +8,7 @@
 	<key>website</key>
 	<string>https:&#x2f;&#x2f;bitbucket.org&#x2f;sphvn&#x2f;jellybeams-tmtheme</string>
 	<key>comment</key>
-	<string>Based on the amazing Jellybeans theme for vim</string>
+	<string>Based on NanoTech&apos;s theme Jellybeans for vim.</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -221,6 +221,28 @@
 				<string>#8197BF</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Library Class&#x2f;Type</string>
+			<key>scope</key>
+			<string>support.type, support.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#fbe3bf</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String Interpolation</string>
+			<key>scope</key>
+			<string>constant.character.escaped, constant.character.escape, string source, string source.ruby</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#b4c973</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>4e4cdb00-2fb2-11e2-81c1-0800200c9a66</string>
@@ -228,5 +250,7 @@
 	<string>sRGB</string>
 	<key>semanticClass</key>
 	<string>theme.dark.jellybeams</string>
+	<key>author</key>
+	<string>Stephen Underwood</string>
 </dict>
 </plist>
