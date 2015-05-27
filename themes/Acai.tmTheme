@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
--------------------------------------------------------
 * Acai *
 
 A Sublime Text theme by Travis Lehman (@tehtrav)
 A dark theme designed to be easy on the eyes.
--------------------------------------------------------
 -->
 <plist version="1.0">
 <dict>
@@ -39,7 +37,7 @@ A dark theme designed to be easy on the eyes.
                 <string>#000000</string>
                 <key>selectionBorder</key>
                 <string></string>
-            
+
                 <key>guide</key>
                 <string>#FFFFFF10</string>
 
@@ -725,7 +723,7 @@ A dark theme designed to be easy on the eyes.
                 <string>#B553BF</string>
             </dict>
         </dict>
-        
+
         <dict>
             <key>name</key>
             <string>CSS Property</string>
