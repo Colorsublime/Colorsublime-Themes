@@ -2,13 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 
 <!--
----------------------------------------------------------------------
 Ant - Sublime text theme
----------------------------------------------------------------------
+
 Sublime Text 2 / 3
 (c) 2014 Antonia Ciocodeica
 https://github.com/ant7/ant-sublime-theme
----------------------------------------------------------------------
 -->
 
 <plist version="1.0">
@@ -333,7 +331,7 @@ https://github.com/ant7/ant-sublime-theme
             </dict>
         </dict>
 
-        
+
 
 
 
@@ -416,7 +414,7 @@ https://github.com/ant7/ant-sublime-theme
                 <string> underline italic</string>
             </dict>
         </dict>
-        
+
 
 
 
@@ -444,7 +442,7 @@ https://github.com/ant7/ant-sublime-theme
                 <string>#FFCD08</string>
             </dict>
         </dict>
-        
+
         <dict>
             <key>name</key>
             <string>Markup List</string>
@@ -482,7 +480,7 @@ https://github.com/ant7/ant-sublime-theme
             </dict>
         </dict>
 
- 
+
         <dict>
             <key>name</key>
             <string>§ css tag-name</string>
@@ -564,7 +562,7 @@ https://github.com/ant7/ant-sublime-theme
             </dict>
         </dict>
 
-        
+
 
         <dict>
             <key>name</key>
@@ -633,7 +631,7 @@ https://github.com/ant7/ant-sublime-theme
                 <string>#F8F8F8</string>
             </dict>
         </dict>
-        
+
     </array>
 
     <key>uuid</key>

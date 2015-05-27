@@ -250,6 +250,7 @@ describe('The themes can be parsed correctly', function() {
 	});
 
 	it('Themes are valid XML', function(done) {
+		this.timeout(15000);
 		themes.forEach(function(theme, i) {
 			try {
 				libxml.parseXmlString(theme.body);
@@ -257,15 +258,17 @@ describe('The themes can be parsed correctly', function() {
 				e.message = 'Can\'t parse ' + theme.name + '. ' + e.message;
 				throw e;
 			}
+			if (i === themes.length - 1) {done();}
 		});
 	});
 
-	it('I could get the colors for all the themes', function() {
+	it('I could get the colors for all the themes', function(done) {
 		this.timeout(15000);
 		themes.forEach(function(theme, i) {
 			currentTheme = theme.name;
 			var themeParsed = plist.parse(theme.body);
 			extractStyles(themeParsed);
+			if (i === themes.length - 1) {done();}
 		});
 	});
 });

@@ -574,7 +574,7 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>CSS: Key Value (Seperator & Terminator)</string>
+            <string>CSS: Key Value (Seperator and Terminator)</string>
             <key>scope</key>
             <string>punctuation.separator.key-value.css, punctuation.terminator.rule.css</string>
             <key>settings</key>
