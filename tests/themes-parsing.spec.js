@@ -6,6 +6,7 @@
  */
 
 var plist = require('plist'),
+	libxml = require('libxmljs'),
 	colorParser = require('color-parser'),
 	fs = require('fs'),
 	THEMES_DIR = './themes/',
@@ -241,19 +242,33 @@ function extractStyles(theme) {
 }
 
 describe('The themes can be parsed correctly', function() {
+	var themes = themesFiles.map(function(theme, i) {
+		return {
+			'body': fs.readFileSync(THEMES_DIR + theme.name, 'utf8'),
+			'name': theme.name
+		};
+	});
+
+	it('Themes are valid XML', function(done) {
+		this.timeout(15000);
+		themes.forEach(function(theme, i) {
+			try {
+				libxml.parseXmlString(theme.body);
+			} catch (e) {
+				e.message = 'Can\'t parse ' + theme.name + '. ' + e.message;
+				throw e;
+			}
+			if (i === themes.length - 1) {done();}
+		});
+	});
+
 	it('I could get the colors for all the themes', function(done) {
 		this.timeout(15000);
-		themesFiles.forEach(function(theme, i) {
+		themes.forEach(function(theme, i) {
 			currentTheme = theme.name;
-			var tmTheme = fs.readFileSync(THEMES_DIR + theme.name, 'utf8'),
-				themeParsed = plist.parse(tmTheme);
-
-			var colors = extractStyles(themeParsed);
-
-			if (i === themesFiles.length - 1) {
-				done();
-			}
-
+			var themeParsed = plist.parse(theme.body);
+			extractStyles(themeParsed);
+			if (i === themes.length - 1) {done();}
 		});
 	});
 });

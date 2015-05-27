@@ -11,7 +11,7 @@ describe('All the themes exist', function() {
 		return theme.FileName;
 	}).sort();
 
-	console.log(fileNames,'-',jsonNames);
+	// console.log(fileNames,'-',jsonNames);
 
 	it('All theme files exist in themes JSON', function() {
 		fileNames.forEach(function(fileName, i) {
