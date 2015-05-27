@@ -621,7 +621,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>™ Function Call</string>
+			<string>Function Call</string>
 			<key>scope</key>
 			<string>keyword.other.special-method, meta.function-call entity.name.function -(meta.function-call meta.function), support.function - variable</string>
 			<key>settings</key>
@@ -632,7 +632,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>™ Library Function Call</string>
+			<string>Library Function Call</string>
 			<key>scope</key>
 			<string>meta.function-call support.function - variable</string>
 			<key>settings</key>
@@ -645,7 +645,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>™ Library Function Name</string>
+			<string>Library Function Name</string>
 			<key>scope</key>
 			<string>support.function</string>
 			<key>settings</key>
@@ -658,7 +658,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>™ Function Call Arguments Punctuation</string>
+			<string>Function Call Arguments Punctuation</string>
 			<key>scope</key>
 			<string>punctuation.section.function, meta.brace.curly.function, meta.function-call punctuation.section.scope.ruby, meta.function-call punctuation.separator.object</string>
 			<key>settings</key>
@@ -671,7 +671,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>™ Function Punctuation</string>
+			<string>Function Punctuation</string>
 			<key>scope</key>
 			<string>meta.group.braces.round punctuation.section.scope,
 meta.group.braces.round meta.delimiter.object.comma,
@@ -687,7 +687,7 @@ meta.brace.round</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>™ Function Call Without Arguments</string>
+			<string>Function Call Without Arguments</string>
 			<key>scope</key>
 			<string>meta.function-call.method.without-arguments, meta.function-call.method.without-arguments entity.name.function</string>
 			<key>settings</key>
@@ -704,7 +704,7 @@ meta.brace.round</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>™ Keyword Control</string>
+			<string>Keyword Control</string>
 			<key>scope</key>
 			<string>keyword.control</string>
 			<key>settings</key>
@@ -715,7 +715,7 @@ meta.brace.round</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>™ Keyword</string>
+			<string>Keyword</string>
 			<key>scope</key>
 			<string>keyword</string>
 			<key>settings</key>
@@ -723,7 +723,7 @@ meta.brace.round</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>™ Keyword other</string>
+			<string>Keyword other</string>
 			<key>scope</key>
 			<string>keyword.other</string>
 			<key>settings</key>
@@ -734,7 +734,7 @@ meta.brace.round</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>™ Regex Keyword</string>
+			<string>Regex Keyword</string>
 			<key>scope</key>
 			<string>source.regexp keyword.operator</string>
 			<key>settings</key>
@@ -742,7 +742,7 @@ meta.brace.round</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>™ Keyword Operator</string>
+			<string>Keyword Operator</string>
 			<key>scope</key>
 			<string>keyword.operator, declaration.function.operator, meta.preprocessor.c.include, punctuation.separator.operator</string>
 			<key>settings</key>
@@ -753,7 +753,7 @@ meta.brace.round</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>™ Keyword Operator Assignment</string>
+			<string>Keyword Operator Assignment</string>
 			<key>scope</key>
 			<string>keyword.operator.assignment</string>
 			<key>settings</key>
@@ -766,7 +766,7 @@ meta.brace.round</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>™ Keyword Operator Arithmetic</string>
+			<string>Keyword Operator Arithmetic</string>
 			<key>scope</key>
 			<string>keyword.operator.arithmetic</string>
 			<key>settings</key>
@@ -777,7 +777,7 @@ meta.brace.round</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>™ Keyword Operator Logical</string>
+			<string>Keyword Operator Logical</string>
 			<key>scope</key>
 			<string>keyword.operator.logical</string>
 			<key>settings</key>
@@ -790,7 +790,7 @@ meta.brace.round</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>™ Keyword Operator Comparison</string>
+			<string>Keyword Operator Comparison</string>
 			<key>scope</key>
 			<string>keyword.operator.comparison</string>
 			<key>settings</key>
