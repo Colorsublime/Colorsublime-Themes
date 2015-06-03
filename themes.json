@@ -1288,5 +1288,10 @@
     "FileName": "HotDogStand.tmTheme",
     "Author": "Randall Koutnik",
     "Description": "https://github.com/SomeKittens/ST-Hot-Dog-Stand"
+}, {
+    "Title": "monokaiDaytime",
+    "FileName": "monokaiDaytime.tmTheme",
+    "Author": "David Vanlangenaker",
+    "Description": "monokai extended light with a solarized light background color"
 }
 ]
