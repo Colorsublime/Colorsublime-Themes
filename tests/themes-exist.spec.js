@@ -24,4 +24,10 @@ describe('All the themes exist', function() {
 			expect(jsonName).to.equal(fileNames[i]);
 		});
 	});
+
+	it('No spaces allowed in the themes files names', function() {
+		jsonNames.forEach(function(jsonName, i) {
+			expect(jsonName).to.not.match(/\s/g, 'the theme "' + jsonName + '" must not contain spaces!');
+		});
+	});
 });
