@@ -1299,4 +1299,10 @@
     "Author": "Paul Denya",
     "Description": ""
 }
+{
+    "Title": "Chameleon",
+    "FileName": "Chameleon.tmTheme",
+    "Author": "Michael Hrishenko",
+    "Description": "Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure."
+}
 ]
