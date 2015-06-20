@@ -1,4 +1,16 @@
 [{
+	"Title": "Seafoam Pastel Light",
+	"FileName": "Seafoam-Pastel-Light.tmTheme",
+	"Author": "unforswearing",
+	"Description": "A port of the Seafoam Pastel theme, originally for iTerm2. Easy on the eyes. https://github.com/unforswearing/seafoam-pastel-theme"
+},
+{
+	"Title": "Seafoam Pastel Dark",
+	"FileName": "Seafoam-Pastel-Dark.tmTheme",
+	"Author": "unforswearing",
+	"Description": "A port of the Seafoam Pastel theme, originally for iTerm2. Easy on the eyes. https://github.com/unforswearing/seafoam-pastel-theme"
+},
+{
     "Title": "Feel Good",
     "FileName": "feel_good.tmTheme",
     "Author": "seanwooj",
