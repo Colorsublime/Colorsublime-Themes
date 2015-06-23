@@ -1315,5 +1315,10 @@
     "FileName": "Chameleon.tmTheme",
     "Author": "Michael Hrishenko",
     "Description": "Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure."
+}, {
+    "Title": "Smyck",
+    "FileName": "Smyck.tmTheme",
+    "Author": "John-Paul Bader",
+    "Description": "This is a color scheme for terminals and text editors to create a homogenous work environment which is pleasant for the eyes. The colors are carefully chosen and should work well in many different situations."
 }
 ]
