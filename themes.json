@@ -1,14 +1,14 @@
 [{
-	"Title": "Seafoam Pastel Light",
-	"FileName": "Seafoam-Pastel-Light.tmTheme",
-	"Author": "unforswearing",
-	"Description": "A port of the Seafoam Pastel theme, originally for iTerm2. Easy on the eyes. https://github.com/unforswearing/seafoam-pastel-theme"
+    "Title": "Seafoam Pastel Light",
+    "FileName": "Seafoam-Pastel-Light.tmTheme",
+    "Author": "unforswearing",
+    "Description": "A port of the Seafoam Pastel theme, originally for iTerm2. Easy on the eyes. https://github.com/unforswearing/seafoam-pastel-theme"
 },
 {
-	"Title": "Seafoam Pastel Dark",
-	"FileName": "Seafoam-Pastel-Dark.tmTheme",
-	"Author": "unforswearing",
-	"Description": "A port of the Seafoam Pastel theme, originally for iTerm2. Easy on the eyes. https://github.com/unforswearing/seafoam-pastel-theme"
+    "Title": "Seafoam Pastel Dark",
+    "FileName": "Seafoam-Pastel-Dark.tmTheme",
+    "Author": "unforswearing",
+    "Description": "A port of the Seafoam Pastel theme, originally for iTerm2. Easy on the eyes. https://github.com/unforswearing/seafoam-pastel-theme"
 },
 {
     "Title": "Feel Good",
@@ -1320,5 +1320,10 @@
     "FileName": "Smyck.tmTheme",
     "Author": "John-Paul Bader",
     "Description": "This is a color scheme for terminals and text editors to create a homogenous work environment which is pleasant for the eyes. The colors are carefully chosen and should work well in many different situations."
+}, {
+    "Title": "Monokai-HighFructose",
+    "FileName": "Monokai-HighFructose.tmTheme",
+    "Author": "Jules Ries",
+    "Description": "A tangy, succulent Monokai that steals heavily from Shakeel Mohamed's Monokai Best."
 }
 ]
