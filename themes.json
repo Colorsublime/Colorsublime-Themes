@@ -1335,5 +1335,10 @@
     "FileName": "DarkCF.tmTheme",
     "Author": "Nath Arduini",
     "Description": "Dark syntax highlighting for cfml and html inspired by the One Dark theme in Atom -- best used with the 'Enhanced HTML and CFML' package"
+}, {
+    "Title": "Ascetic",
+    "FileName": "Ascetic.tmTheme",
+    "Author": "Tomek Wiszniewski",
+    "Description": "Downright minimal."
 }
 ]
