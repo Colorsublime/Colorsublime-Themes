@@ -1340,5 +1340,10 @@
     "FileName": "Ascetic.tmTheme",
     "Author": "Tomek Wiszniewski",
     "Description": "Downright minimal."
+}, {
+    "Title": "Resesif",
+    "FileName": "Resesif.tmTheme",
+    "Author": "Nick Eddy",
+    "Description": "A dark theme found at http://www.textmatetheme.com/resesif"
 }
 ]
