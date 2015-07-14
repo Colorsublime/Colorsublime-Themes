@@ -1345,5 +1345,11 @@
     "FileName": "Resesif.tmTheme",
     "Author": "Nick Eddy",
     "Description": "A dark theme found at http://www.textmatetheme.com/resesif"
+},
+{
+    "Title": "Monokai Contrast",
+    "FileName": "Monokai-Contrast.tmTheme",
+    "Author": "Manuel Barkhau",
+    "Description": "A high contrast variant of Monokai. Black background and bright colors."
 }
 ]
