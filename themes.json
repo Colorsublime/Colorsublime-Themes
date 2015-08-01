@@ -1356,5 +1356,11 @@
     "FileName": "Monokai-Contrast.tmTheme",
     "Author": "Manuel Barkhau",
     "Description": "A high contrast variant of Monokai. Black background and bright colors."
+},
+{
+    "Title": "Gooey",
+    "FileName": "Gooey.tmTheme",
+    "Author": "Simon Goellner",
+    "Description": "A pretty, gooey theme in mostly greens and blues."
 }
 ]
