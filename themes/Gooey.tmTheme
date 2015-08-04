@@ -18,7 +18,7 @@
 	<key>name</key>
 	<string>Gooey</string>
 	<key>semanticClass</key>
-	<string>theme.dark.flat_dark</string>
+	<string>theme.dark.gooey</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -61,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFF99E</string>
+				<string>#FFE59C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -118,7 +118,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F54977</string>
+				<string>#F06082</string>
 			</dict>
 		</dict>
 		<dict>
@@ -271,9 +271,9 @@
 				<key>fontStyle</key>
 				<string> bold</string>
 				<key>foreground</key>
-				<string>#b1b8c1</string>
+				<string>#960319</string>
 				<key>background</key>
-				<string>#DF332D</string>
+				<string>#FF6B81</string>
 			</dict>
 		</dict>
 		<dict>
@@ -286,7 +286,7 @@
 				<key>fontStyle</key>
 				<string> bold</string>
 				<key>foreground</key>
-				<string>#B2B8C2</string>
+				<string>#3B0966</string>
 				<key>background</key>
 				<string>#9252B0</string>
 			</dict>
