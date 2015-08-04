@@ -1362,5 +1362,11 @@
     "FileName": "Gooey.tmTheme",
     "Author": "Simon Goellner",
     "Description": "A pretty, gooey theme in mostly greens and blues."
+},
+{
+    "Title": "Gooey Pastel",
+    "FileName": "GooeyPastel.tmTheme",
+    "Author": "Simon Goellner",
+    "Description": "A more sudued gooey."
 }
 ]
