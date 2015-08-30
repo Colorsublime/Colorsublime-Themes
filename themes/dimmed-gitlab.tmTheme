@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plist version="1.0">
 <dict>
+	<key>author</key>
+	<string>uonick</string>
 	<key>comment</key>
-	<string>github.com&#x2f;uonick</string>
+	<string>Dimmed Gitlab</string>
 	<key>name</key>
-	<string>Dimmed</string>
+	<string>Dimmed Gitlab</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ffffff</string>
+				<string>#1D1F21</string>
 				<key>caret</key>
-				<string>#ed0909</string>
+				<string>#fc5604</string>
 				<key>foreground</key>
-				<string>#5d5d5d</string>
-				<key>selection</key>
-				<string>#E3FC8D</string>
+				<string>#959996</string>
+				<key>invisibles</key>
+				<string>#4B4E55</string>
 				<key>lineHighlight</key>
-				<string>#F9F9F9</string>
+				<string>#282A2E</string>
+				<key>selection</key>
+				<string>#373B41</string>
 			</dict>
 		</dict>
 		<dict>
@@ -40,7 +44,7 @@
 				<string>
         </string>
 				<key>foreground</key>
-				<string>#9A9B99</string>
+				<string>#707070</string>
 			</dict>
 		</dict>
 		<dict>
@@ -51,10 +55,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#9aa83a</string>
+				<string>#B5BD68</string>
 			</dict>
 		</dict>
 		<dict>
@@ -65,10 +68,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#cb602d</string>
+				<string>#718545</string>
 			</dict>
 		</dict>
 		<dict>
@@ -79,10 +81,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#6089B4</string>
+				<string>#de935f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -93,10 +94,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#408080</string>
+				<string>#2c3c3c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -107,26 +107,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#8080FF</string>
-				<key>background</key>
-				<string>#F2F2FF</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Keyword</string>
-			<key>scope</key>
-			<string>keyword</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>
-    </string>
-				<key>foreground</key>
-				<string>#6089B4</string>
+				<string>#98581F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -137,10 +120,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#C7444A</string>
+				<string>#7d3a3d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -151,10 +133,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#9872A2</string>
+				<string>#b294bb</string>
 			</dict>
 		</dict>
 		<dict>
@@ -165,10 +146,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#6089B4</string>
+				<string>#f4bf75</string>
 			</dict>
 		</dict>
 		<dict>
@@ -179,10 +159,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-     bold</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#C7444A</string>
+				<string>#6a9fb5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -193,10 +172,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-     bold</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#cb602d</string>
+				<string>#81a2be</string>
 			</dict>
 		</dict>
 		<dict>
@@ -207,10 +185,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#6089B4</string>
+				<string>#576b73</string>
 			</dict>
 		</dict>
 		<dict>
@@ -221,10 +198,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#9872A2</string>
+				<string>#5f5f5f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -235,10 +211,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#9872A2</string>
+				<string>#5f5f5f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -249,10 +224,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#9872A2</string>
+				<string>#B294BB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -263,10 +237,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#676867</string>
+				<string>#81a2be</string>
 			</dict>
 		</dict>
 		<dict>
@@ -277,10 +250,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string> </string>
 				<key>foreground</key>
-				<string>#6089B4</string>
+				<string>#505f70</string>
 			</dict>
 		</dict>
 		<dict>
@@ -291,10 +263,22 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#FF0080</string>
+				<string>#CC6666</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Meta Brace</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded, meta.brace.erb.html</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#002b00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -305,24 +289,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#FF0B00</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Meta Brace</string>
-			<key>scope</key>
-			<string>punctuation.section.embedded -(source string source punctuation.section.embedded), meta.brace.erb.html</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>
-    </string>
-				<key>foreground</key>
-				<string>#9aa83a</string>
+				<string>#603737</string>
 			</dict>
 		</dict>
 		<dict>
@@ -333,10 +302,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#6089b4</string>
+				<string>#cc6666</string>
 			</dict>
 		</dict>
 		<dict>
@@ -347,10 +315,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#6089b4</string>
+				<string>#505f70</string>
 			</dict>
 		</dict>
 		<dict>
@@ -361,10 +328,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#9872A2</string>
+				<string>#5f5f5f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -375,10 +341,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#9872A2</string>
+				<string>#6a9fb5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -389,10 +354,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#9872A2</string>
+				<string>#b294bb</string>
 			</dict>
 		</dict>
 		<dict>
@@ -403,10 +367,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#D0B344</string>
+				<string>#897836</string>
 			</dict>
 		</dict>
 		<dict>
@@ -417,10 +380,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#6089B4</string>
+				<string>#505f70</string>
 			</dict>
 		</dict>
 		<dict>
@@ -431,10 +393,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#c0c0c0</string>
+				<string>#B5BD68</string>
 			</dict>
 		</dict>
 		<dict>
@@ -445,10 +406,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#9aa83a</string>
+				<string>#565C2F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -459,10 +419,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#9872A2</string>
+				<string>#585858</string>
 			</dict>
 		</dict>
 		<dict>
@@ -473,10 +432,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#D0B344</string>
+				<string>#B5BD68</string>
 			</dict>
 		</dict>
 		<dict>
@@ -487,10 +445,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#6089B4</string>
+				<string>#505f70</string>
 			</dict>
 		</dict>
 		<dict>
@@ -501,10 +458,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#D0B344</string>
+				<string>#897836</string>
 			</dict>
 		</dict>
 		<dict>
@@ -515,7 +471,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9aa83a</string>
+				<string>#565c2f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -526,10 +482,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#9aa83a</string>
+				<string>#718545</string>
 			</dict>
 		</dict>
 		<dict>
@@ -540,10 +495,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#6089B4</string>
+				<string>#505f70</string>
 			</dict>
 		</dict>
 		<dict>
@@ -554,10 +508,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#9872A2</string>
+				<string>#5f5f5f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -568,24 +521,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#676867</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>CSS Property Value</string>
-			<key>scope</key>
-			<string>meta.property-group support.constant.property-value.css, meta.property-value support.constant.property-value.css</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>
-    </string>
-				<key>foreground</key>
-				<string>#C7444A</string>
+				<string>#f1f181</string>
 			</dict>
 		</dict>
 		<dict>
@@ -596,7 +534,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC555A</string>
+				<string>#8c4144</string>
 			</dict>
 		</dict>
 		<dict>
@@ -607,10 +545,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#D0B344</string>
+				<string>#81a2be</string>
 			</dict>
 		</dict>
 		<dict>
@@ -621,7 +558,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9aa83a</string>
+				<string>#B5BD68</string>
 			</dict>
 		</dict>
 		<dict>
@@ -632,7 +569,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#676867</string>
+				<string>#B5BD68</string>
 			</dict>
 		</dict>
 		<dict>
@@ -642,64 +579,8 @@
 			<string>punctuation.section.embedded.begin.php, punctuation.section.embedded.end.php</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>
-    </string>
 				<key>foreground</key>
-				<string>#cb602d</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Ruby Symbol</string>
-			<key>scope</key>
-			<string>constant.other.symbol.ruby</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>
-    </string>
-				<key>foreground</key>
-				<string>#9aa83a</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Ruby Variable</string>
-			<key>scope</key>
-			<string>variable.language.ruby</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>
-    </string>
-				<key>foreground</key>
-				<string>#D0B344</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Ruby Special Method</string>
-			<key>scope</key>
-			<string>keyword.other.special-method.ruby</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>
-    </string>
-				<key>foreground</key>
-				<string>#D9B700</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Ruby Embedded Source</string>
-			<key>scope</key>
-			<string>source.ruby.embedded.source</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#cb602d</string>
+				<string>#718545</string>
 			</dict>
 		</dict>
 		<dict>
@@ -710,18 +591,15 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>
-    </string>
+				<string></string>
 				<key>foreground</key>
-				<string>#e8bc7b</string>
+				<string>#829950</string>
 			</dict>
 		</dict>
 	</array>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.dimmed</string>
-	<key>author</key>
-	<string>uonick</string>
+	<string>theme.dark.dimmed.gitlab</string>
 </dict>
 </plist>
