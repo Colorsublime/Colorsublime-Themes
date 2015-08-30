@@ -312,13 +312,38 @@
     "Author": "uonick",
     "Description": "github.com/uonick"
 }, {
-    "Title": "Dimmed-Monokai",
+    "Title": "Dimmed Base16",
+    "FileName": "dimmed-base16.tmTheme",
+    "Author": "uonick",
+    "Description": "github.com/uonick"
+},  {
+    "Title": "Dimmed GitLab",
+    "FileName": "dimmed-gitlab.tmTheme",
+    "Author": "uonick",
+    "Description": "github.com/uonick"
+},  {
+    "Title": "Dimmed Fluid",
+    "FileName": "dimmed-fluid.tmTheme",
+    "Author": "uonick",
+    "Description": "github.com/uonick"
+}, {
+    "Title": "Dimmed Monokai",
     "FileName": "dimmed-monokai.tmTheme",
     "Author": "uonick",
     "Description": "github.com/uonick"
 }, {
-    "Title": "Dimmed-Monokai-NoContrast",
-    "FileName": "dimmed-monokai-no-contrast.tmTheme",
+    "Title": "Dimmed NoContrast",
+    "FileName": "dimmed-no-contrast.tmTheme",
+    "Author": "uonick",
+    "Description": "github.com/uonick"
+}, {
+    "Title": "Dimmed NoContrast v2",
+    "FileName": "dimmed-monokai-no-contrast-v2.tmTheme",
+    "Author": "uonick",
+    "Description": "github.com/uonick"
+},{
+    "Title": "Dimmed Phalcon",
+    "FileName": "dimmed-phalcon.tmTheme",
     "Author": "uonick",
     "Description": "github.com/uonick"
 }, {

@@ -6,7 +6,7 @@
 	<key>author</key>
 	<string>uonick</string>
 	<key>name</key>
-	<string>Dimmed-Night</string>
+	<string>Dimmed Night</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -708,6 +708,6 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.dimmed_night</string>
+	<string>theme.dark.dimmed.night</string>
 </dict>
 </plist>
