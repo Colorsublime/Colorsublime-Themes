@@ -1,4 +1,10 @@
 [{
+    "Title": "Agola Dark",
+    "FileName": "AgolaDark.tmTheme",
+    "Author": "Fatih Kececi",
+    "Description": "A dark color scheme for Sublime Text."
+},
+{
     "Title": "Seafoam Pastel Light",
     "FileName": "Seafoam-Pastel-Light.tmTheme",
     "Author": "unforswearing",
