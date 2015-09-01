@@ -1262,4 +1262,9 @@
     "FileName": "Jellybeams.tmTheme",
     "Author": "Stephen Underwood",
     "Description": "A dark color scheme, based on the awesome Jellybeans color scheme for vim"
+}, {
+    "Title": "Dark Forest",
+    "FileName": "DarkForest.tmTheme",
+    "Author": "robbies1",
+    "Description": "A forest colored theme with added highlights."
 }]
