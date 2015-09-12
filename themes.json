@@ -1374,5 +1374,11 @@
     "FileName": "GooeyPastel.tmTheme",
     "Author": "Simon Goellner",
     "Description": "A more sudued gooey."
+},
+{
+    "Title": "Dark Forest",
+    "FileName": "DarkForest.tmTheme",
+    "Author": "rselwyn",
+    "Description": "A forest themed scheme with some highlights."
 }
 ]
