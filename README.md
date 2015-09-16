@@ -90,3 +90,4 @@ Themes creators
  - [MattDMo](https://github.com/MattDMo)
  - [Ritashugisha](https://github.com/ritashugisha)
  - [Younes Zakaria](https://github.com/drcd)
+ - [Taiwo Kareem](https://github.com/tushortz)
