@@ -1380,5 +1380,16 @@
     "FileName": "SpaceRave.tmTheme",
     "Author": "Younes Zakaria",
     "Description": "A dark and techy theme, with a blue background and bright, neon-like colors."
-}
+},
+{
+    "Title": "Wildlife - Day",
+    "FileName": "Wildlife - Day.tmTheme",
+    "Author": "Taiwo Kareem",
+    "Description": "A vibrant light color scheme with support for over 75 languages, gitgutter and sublime linter"
+},
+{
+    "Title": "Wildlife - Night",
+    "FileName": "Wildlife - Night.tmTheme",
+    "Author": "Taiwo Kareem",
+    "Description": "A vibrant dark color scheme with support for over 75 languages, gitgutter and sublime linter"
 ]
