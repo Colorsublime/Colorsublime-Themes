@@ -39,54 +39,55 @@ $ npm run test
 ## Credits
 
 Themes creators
- - [Zayn Ali](https://twitter.com/zaynali53)
- - Neil Cresswell ([Dark Room](https://github.com/NeilCresswell/themes) themes)
  - [Dave Luke Jr](http://davelukejr.com)
- - David Heinemeier Hansson
- - Amy
- - Blackboard
- - Thomas Aylott
- - Austin Cummings
- - Jacob Rus
- - David Powers
- - Eiffel
- - Chris Thomas
- - Michael Obrocnik (mbixby)
- - Martin Kühl
- - Luke Shiels ([DancingPanda](https://github.com/shielsasaurus))
- - Domenico Carbotta
- - Todd Werth
- - Allan Odgaard
- - Created by DeeJayy, http://deejayy.hu/
- - Mats Persson
- - Poyeyo
- - William D. Neumann
- - Alex Ross
- - Stanley Rost
- - Michael Sheets
- - Jeroen van der Ham
- - [Mims H. Wright](https://github.com/mimshwright)
- - James Brooks
- - Ludvig Widman
- - Ofer Reichman ([oferei](http://oferei.com/))
- - Jan T. Sott
- - Ricardo Muniz Crespo, [http://github.com/ricardomuniz](http://github.com/ricardomuniz)
- - dbaker ([https://github.com/d-baker](https://github.com/d-baker))
- - Rubens ([Stulzer](https://github.com/stulzer))
- - Saad Quadri ([saadq](https://github.com/saadq))
- - Ethan Welborn ([welbornio](https://github.com/welbornio))
- - Travis Lehman ([tehtrav](http://twitter.com/tehtrav))
- - Shakeel Mohamed ([_Shakeel](http://twitter.com/_Shakeel))
- - Aleksander Fras ([AlFra432](http://twitter.com/AlFra432))
- - [Sindre Sorhus](http://sindresorhus.com)
- - [Pixel Lab](http://thinkpixellab.com/)
- - [George Kampolis](http://www.gkampolis.com)
  - [dncrews](http://github.com/dncrews)
+ - [George Kampolis](http://www.gkampolis.com)
+ - [HaCk3D](https://github.com/HaCk3Dq)
  - [Kiswono Prayogo](http://github.com/kokizzu)
  - [Mark Michos](https://www.twitter.com/TheMarkWithK)
- - Justin .K ([SirWags](https://github.com/SirWags))
- - Michelle Liu([anonmily](http://github.com/anonmily))
- - [HaCk3D](https://github.com/HaCk3Dq)
  - [MattDMo](https://github.com/MattDMo)
+ - [Mims H. Wright](https://github.com/mimshwright)
+ - [LingTalfi](https://github.com/lingtalfi)
+ - [Pixel Lab](http://thinkpixellab.com/)
  - [Ritashugisha](https://github.com/ritashugisha)
+ - [Sindre Sorhus](http://sindresorhus.com)
  - [Younes Zakaria](https://github.com/drcd)
+ - [Zayn Ali](https://twitter.com/zaynali53)
+ - Aleksander Fras ([AlFra432](http://twitter.com/AlFra432))
+ - Alex Ross
+ - Allan Odgaard
+ - Amy
+ - Austin Cummings
+ - Blackboard
+ - Chris Thomas
+ - Created by DeeJayy, http://deejayy.hu/
+ - David Heinemeier Hansson
+ - David Powers
+ - dbaker ([https://github.com/d-baker](https://github.com/d-baker))
+ - Domenico Carbotta
+ - Eiffel
+ - Ethan Welborn ([welbornio](https://github.com/welbornio))
+ - Jacob Rus
+ - James Brooks
+ - Jan T. Sott
+ - Jeroen van der Ham
+ - Justin .K ([SirWags](https://github.com/SirWags))
+ - Ludvig Widman
+ - Luke Shiels ([DancingPanda](https://github.com/shielsasaurus))
+ - Martin Kühl
+ - Mats Persson
+ - Michael Obrocnik (mbixby)
+ - Michael Sheets
+ - Michelle Liu([anonmily](http://github.com/anonmily))
+ - Neil Cresswell ([Dark Room](https://github.com/NeilCresswell/themes) themes)
+ - Ofer Reichman ([oferei](http://oferei.com/))
+ - Poyeyo
+ - Ricardo Muniz Crespo, [http://github.com/ricardomuniz](http://github.com/ricardomuniz)
+ - Rubens ([Stulzer](https://github.com/stulzer))
+ - Saad Quadri ([saadq](https://github.com/saadq))
+ - Shakeel Mohamed ([_Shakeel](http://twitter.com/_Shakeel))
+ - Stanley Rost
+ - Thomas Aylott
+ - Todd Werth
+ - Travis Lehman ([tehtrav](http://twitter.com/tehtrav))
+ - William D. Neumann
