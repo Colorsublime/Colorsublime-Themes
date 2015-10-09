@@ -1409,5 +1409,11 @@
     "FileName": "Wildlife-Night.tmTheme",
     "Author": "Taiwo Kareem",
     "Description": "A vibrant dark color scheme with support for over 75 languages, gitgutter and sublime linter"
+},
+{
+    "Title": "Massive",
+    "FileName": "Massive.tmTheme",
+    "Author": "Filipe Craveiro",
+    "Description": "A minimal massive scheme. red tones rules here."
 }
 ]
