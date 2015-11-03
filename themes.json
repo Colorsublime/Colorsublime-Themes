@@ -1415,5 +1415,28 @@
     "FileName": "Meteor.tmTheme",
     "Author": "Alex King",
     "Description": "A bright theme inspired by the Artwork Meteor by Nina Geometrieva. Best Paired with the Flatron theme."
+},{
+    "Title": "santojon",
+    "FileName": "santojon.tmTheme",
+    "Author": "Jonathan Santos",
+    "Description": "A theme to keep it clean. And vibrant. And light."
+},
+{
+    "Title": "santojon dark",
+    "FileName": "santojon-dark.tmTheme",
+    "Author": "Jonathan Santos",
+    "Description": "A theme to keep it clean. And vibrant. But dark."
+},
+{
+    "Title": "LightBulb",
+    "FileName": "LightBulb.tmTheme",
+    "Author": "@rselwyn",
+    "Description": "A dark theme with bright offset colors."
+},
+{
+    "Title": "Hack(er)",
+    "FileName": "Hack(er).tmTheme",
+    "Author": "@rselwyn",
+    "Description": "A dark background with bright green, red, and blue code highlighting."
 }
 ]
