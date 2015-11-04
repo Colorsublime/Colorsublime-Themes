@@ -1411,14 +1411,11 @@
     "Description": "A vibrant dark color scheme with support for over 75 languages, gitgutter and sublime linter"
 },
 {
-<<<<<<< HEAD
     "Title": "Meteor",
     "FileName": "Meteor.tmTheme",
     "Author": "Alex King",
     "Description": "A bright theme inspired by the Artwork Meteor by Nina Geometrieva. Best Paired with the Flatron theme."
 },{
-=======
->>>>>>> 257736a7db9ce32065bf370a4b26bb528ced84a4
     "Title": "santojon",
     "FileName": "santojon.tmTheme",
     "Author": "Jonathan Santos",
