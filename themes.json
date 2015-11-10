@@ -1438,5 +1438,11 @@
     "FileName": "Hack(er).tmTheme",
     "Author": "@rselwyn",
     "Description": "A dark background with bright green, red, and blue code highlighting."
+},
+{
+    "Title": "Better JS",
+    "FileName": "Better_JS.tmTheme",
+    "Author": "Arkadiusz Wieczorek",
+    "Description": "A theme for better highlighting JavaScript syntax. https://github.com/debian-sh"
 }
 ]
