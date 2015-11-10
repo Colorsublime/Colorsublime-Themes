@@ -1643,7 +1643,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>FF0</string>
+				<string>#FF0</string>
 			</dict>
 		</dict>
 
