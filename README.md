@@ -91,4 +91,4 @@ Themes creators
  - [MattDMo](https://github.com/MattDMo)
  - [Ritashugisha](https://github.com/ritashugisha)
  - [Younes Zakaria](https://github.com/drcd)
- - [Taiwo Kareem](https://github.com/tushortz) - [Wildlife](https://packagecontrol.io/packages/Wildlife)
+ - [Taiwo Kareem](https://github.com/tushortz) - [Wildlife](https://packagecontrol.io/packages/Wildlife%20Color%20Scheme)

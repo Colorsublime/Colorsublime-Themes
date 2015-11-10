@@ -39,6 +39,14 @@
 				<string>#FF0</string>
 				<key>selection</key>
 				<string>#001F4C</string>
+				<key>bracketContentsForeground</key>
+				<string>#FFFF00</string>
+				<key>bracketContentsOptions</key>
+				<string>stippled_underline</string>
+				<key>bracketsForeground</key>
+				<string>#FFFF77</string>
+				<key>tagsForeground</key>
+				<string>#FF9900</string>
 			</dict>
 		</dict>
 
@@ -969,7 +977,7 @@
 				<key>background</key>
 				<string>#101</string>
 				<key>foreground</key>
-				<string>#800000</string>
+				<string>#FE960F</string>
 			</dict>
 		</dict>
 
@@ -1639,6 +1647,20 @@
 			</dict>
 		</dict>
 
+		<dict>
+			<key>name</key>
+			<string>Python: Language Variable </string>
+			<key>scope</key>
+			<string>variable.language.python</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#fac</string>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Rd Documentation: </string>
