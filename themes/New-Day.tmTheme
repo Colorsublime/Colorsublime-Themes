@@ -418,7 +418,7 @@
 			</dict>
 		</dict>
 
-		<dict>
+<!-- 		<dict>
 			<key>name</key>
 			<string>Javascript keyword operator</string>
 			<key>scope</key>
@@ -428,7 +428,7 @@
 				<key>foreground</key>
 				<string>#8246a8</string>
 			</dict>
-		</dict>
+		</dict> -->
 
 		<dict>
 			<key>name</key>
