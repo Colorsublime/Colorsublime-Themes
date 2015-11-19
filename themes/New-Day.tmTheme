@@ -250,7 +250,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#038500</string><!-- 559D00 -->
+				<string>#038500</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 			</dict>
@@ -289,7 +289,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#2b7dc5</string> <!-- blu -->
+				<string>#2b7dc5</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 			</dict>
@@ -335,6 +335,24 @@
 				<string>bold</string>
 			</dict>
 		</dict>
+
+
+
+
+		<!-- SCSS ******************** -->
+
+		<dict>
+			<key>name</key>
+			<string>Scss</string>
+			<key>scope</key>
+			<string>support.constant.property-value.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0064c2</string>
+			</dict>
+		</dict>
+
 
 
 
@@ -400,7 +418,53 @@
 			</dict>
 		</dict>
 
+		<dict>
+			<key>name</key>
+			<string>Javascript keyword operator</string>
+			<key>scope</key>
+			<string>source.js keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#8246a8</string>
+			</dict>
+		</dict>
 
+		<dict>
+			<key>name</key>
+			<string>Javascript keyword operator</string>
+			<key>scope</key>
+			<string>source.js keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0057a7</string> <!-- blu -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Javascript class</string>
+			<key>scope</key>
+			<string>source.js support.class.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0057a7</string> <!-- blu -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Javascript docs keyword</string>
+			<key>scope</key>
+			<string>source.js comment.block.documentation.js keyword.other.documentation.custom.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#929292</string> <!-- grigio -->
+			</dict>
+		</dict>
 
 
 		<!-- JADE **************** -->
