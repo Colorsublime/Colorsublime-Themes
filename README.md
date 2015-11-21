@@ -92,3 +92,4 @@ Themes creators
  - [Ritashugisha](https://github.com/ritashugisha)
  - [Younes Zakaria](https://github.com/drcd)
  - [Taiwo Kareem](https://github.com/tushortz) - [Wildlife](https://packagecontrol.io/packages/Wildlife%20Color%20Scheme)
+ - [irstacks](https://github.com/irstacks)

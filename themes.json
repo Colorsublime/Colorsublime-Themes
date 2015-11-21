@@ -1,5 +1,11 @@
 [
 {
+    "Title": "Art School",
+    "FileName": "ArtSchool.tmTheme",
+    "Author": "irstacks",
+    "Description": "Theme developed primarily for front-end work with JS. Uses Sass. Shoulda joined the Marines instead."
+},
+{
     "Title": "Gedit",
     "FileName": "Gedit.tmTheme",
     "Author": "Aron Wouters",
