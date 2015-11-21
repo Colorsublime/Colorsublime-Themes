@@ -1,5 +1,11 @@
 [
 {
+    "Title": "Art School",
+    "FileName": "ArtSchool.tmTheme",
+    "Author": "irbanana",
+    "Description": "Shoulda joined the Marines instead. Theme developed primarily for front-end work with JS. Uses Sass."
+},
+{
     "Title": "Gedit",
     "FileName": "Gedit.tmTheme",
     "Author": "Aron Wouters",
