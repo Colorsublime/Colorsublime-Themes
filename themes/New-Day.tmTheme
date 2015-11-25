@@ -371,6 +371,41 @@
 			</dict>
 		</dict>
 
+		<dict>
+			<key>name</key>
+			<string>meta.property-value.scss</string>
+			<key>scope</key>
+			<string>meta.property-value.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0064c2</string> <!-- blu -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>punctuation.separator.key-value.scss</string>
+			<key>scope</key>
+			<string>punctuation.separator.key-value.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>punctuation.terminator.rule.scss</string>
+			<key>scope</key>
+			<string>punctuation.terminator.rule.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
 
 
 
