@@ -355,7 +355,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0064c2</string>
+				<string>#0064c2</string> <!-- blu -->
 			</dict>
 		</dict>
 
@@ -367,7 +367,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d59401</string>
+				<string>#d59401</string> <!-- yellow -->
 			</dict>
 		</dict>
 
