@@ -339,6 +339,12 @@
 
 
 
+
+
+
+
+
+
 		<!-- SCSS ******************** -->
 
 		<dict>
@@ -352,6 +358,21 @@
 				<string>#0064c2</string>
 			</dict>
 		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>support.function.misc.scss</string>
+			<key>scope</key>
+			<string>source.scss meta.property-list.scss meta.at-rule.include.scss support.function.misc.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d59401</string>
+			</dict>
+		</dict>
+
+
+
 
 
 
@@ -467,6 +488,12 @@
 		</dict>
 
 
+
+
+
+
+
+
 		<!-- JADE **************** -->
 
 		<dict>
@@ -516,6 +543,11 @@
 				<string>#008000</string>
 			</dict>
 		</dict>
+
+
+
+
+
 
 
 
