@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Monokai Dev</string>
+	<string>Monokai-Dev</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -16,15 +16,15 @@
 				<key>background</key>
 				<string>#000000</string>
 				<key>caret</key>
-				<string>#F8F8F0</string>
+				<string>#00FF15</string>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 				<key>invisibles</key>
-				<string>#3B3A32</string>
+				<string>#87D160</string>
 				<key>lineHighlight</key>
-				<string>#3E3D32</string>
+				<string>#A6E87B</string>
 				<key>selection</key>
-				<string>#49483E</string>
+				<string>#74AB32AD</string>
 				<key>findHighlight</key>
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>
@@ -34,7 +34,7 @@
 				<key>activeGuide</key>
 				<string>#9D550FB0</string>
 				<key>bracketsForeground</key>
-				<string>#F8F8F2A5</string>
+				<string>#6ABDDE</string>
 				<key>bracketsOptions</key>
 				<string>underline</string>
 				<key>bracketContentsForeground</key>
@@ -385,7 +385,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai_contrast</string>
+	<string>theme.dark.monokai_dev</string>
 	<key>author</key>
 	<string>Maximiliano Canellas</string>
 	<key>comment</key>
