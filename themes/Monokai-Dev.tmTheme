@@ -24,7 +24,7 @@
 				<key>lineHighlight</key>
 				<string>#A6E87B</string>
 				<key>selection</key>
-				<string>#74AB32AD</string>
+				<string>#FFFFFF70</string>
 				<key>findHighlight</key>
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>
@@ -38,7 +38,7 @@
 				<key>bracketsOptions</key>
 				<string>underline</string>
 				<key>bracketContentsForeground</key>
-				<string>#F8F8F2A5</string>
+				<string>#F8F8F2A6</string>
 				<key>bracketContentsOptions</key>
 				<string>underline</string>
 				<key>tagsOptions</key>
