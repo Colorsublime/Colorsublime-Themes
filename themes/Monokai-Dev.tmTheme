@@ -67,10 +67,10 @@
 			<string>string</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#000000</string>
 				<key>background</key>
-				<string>#B39C3E</string>
+				<string>#4D4B4B61</string>
+				<key>foreground</key>
+				<string>#FFE792</string>
 			</dict>
 		</dict>
 		<dict>
@@ -199,11 +199,11 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E6E6E6</string>
+				<string>#FF7214</string>
 				<key>background</key>
-				<string>#4D4B4B</string>
+				<string>#242424</string>
 				<key>fontStyle</key>
-				<string> italic</string>
+				<string>   italic</string>
 			</dict>
 		</dict>
 		<dict>
