@@ -339,6 +339,12 @@
 
 
 
+
+
+
+
+
+
 		<!-- SCSS ******************** -->
 
 		<dict>
@@ -349,9 +355,59 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0064c2</string>
+				<string>#0064c2</string> <!-- blu -->
 			</dict>
 		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>support.function.misc.scss</string>
+			<key>scope</key>
+			<string>source.scss meta.property-list.scss meta.at-rule.include.scss support.function.misc.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d59401</string> <!-- yellow -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>meta.property-value.scss</string>
+			<key>scope</key>
+			<string>meta.property-value.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0064c2</string> <!-- blu -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>punctuation.separator.key-value.scss</string>
+			<key>scope</key>
+			<string>punctuation.separator.key-value.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>punctuation.terminator.rule.scss</string>
+			<key>scope</key>
+			<string>punctuation.terminator.rule.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+
+
 
 
 
@@ -418,7 +474,7 @@
 			</dict>
 		</dict>
 
-<!-- 		<dict>
+		<dict>
 			<key>name</key>
 			<string>Javascript keyword operator</string>
 			<key>scope</key>
@@ -428,7 +484,7 @@
 				<key>foreground</key>
 				<string>#8246a8</string>
 			</dict>
-		</dict> -->
+		</dict>
 
 		<dict>
 			<key>name</key>
@@ -465,6 +521,12 @@
 				<string>#929292</string> <!-- grigio -->
 			</dict>
 		</dict>
+
+
+
+
+
+
 
 
 		<!-- JADE **************** -->
@@ -519,6 +581,11 @@
 
 
 
+
+
+
+
+
 		<!-- PHP *************************** -->
 
 		<dict>
@@ -537,7 +604,7 @@
 			<key>name</key>
 			<string>Php embedding begin</string>
 			<key>scope</key>
-			<string>text.html.basic source.php.embedded.block.html punctuation.section.embedded.end.php</string>
+			<string>punctuation.section.embedded.end.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -549,7 +616,7 @@
 			<key>name</key>
 			<string>Php embedding end</string>
 			<key>scope</key>
-			<string>text.html.basic source.php.embedded.line.empty.html punctuation.section.embedded.begin.php</string>
+			<string>punctuation.section.embedded.begin.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -669,13 +736,25 @@
 
 		<dict>
 			<key>name</key>
-			<string>Php doc omments @labels</string>
+			<string>Php doc comments @labels</string>
 			<key>scope</key>
 			<string>text.html.basic source.php.embedded.block.html comment.block.documentation.phpdoc.php keyword.other.phpdoc.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#929292</string> <!-- grigio -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Php source.php.embedded.line.html</string>
+			<key>scope</key>
+			<string>source.php.embedded.line.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000</string>
 			</dict>
 		</dict>
 
