@@ -1382,6 +1382,11 @@
     "Author": "Tomek Wiszniewski",
     "Description": "Downright minimal."
 }, {
+    "Title": "Ascetic-Night",
+    "FileName": "Ascetic-Night.tmTheme",
+    "Author": "Dmitry Pinchukov",
+    "Description": "Night variant of Ascetic: inverted and slightly tuned colors. Credits to Tomek Wiszniewski for the original theme."
+}, {
     "Title": "Resesif",
     "FileName": "Resesif.tmTheme",
     "Author": "Nick Eddy",
