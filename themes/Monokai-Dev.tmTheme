@@ -22,7 +22,7 @@
 				<key>invisibles</key>
 				<string>#87D160</string>
 				<key>lineHighlight</key>
-				<string>#7CAB67</string>
+				<string>#FFFFFF4F</string>
 				<key>selection</key>
 				<string>#FFFFFF70</string>
 				<key>findHighlight</key>
@@ -53,11 +53,11 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BABABA</string>
+				<string>#B5B5B5</string>
 				<key>background</key>
-				<string>#2929294F</string>
+				<string>#24242496</string>
 				<key>fontStyle</key>
-				<string>   italic</string>
+				<string>   italic </string>
 			</dict>
 		</dict>
 		<dict>
@@ -68,7 +68,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#4D4B4B61</string>
+				<string>#5C5C5C61</string>
 				<key>foreground</key>
 				<string>#FFE792</string>
 			</dict>
