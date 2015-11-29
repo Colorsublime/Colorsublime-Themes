@@ -1463,5 +1463,11 @@
     "FileName": "New-Day.tmTheme",
     "Author": "Luca Reghellin",
     "Description": "A light theme, prepared for html, scss, javascript, php, jade, smarty"
+},
+{
+    "Title": "Monokai Dev",
+    "FileName": "Monokai-Dev.tmTheme",
+    "Author": "Maximiliano Canellas",
+    "Description": "A Monokai Contrast based theme for programmers"
 }
 ]
