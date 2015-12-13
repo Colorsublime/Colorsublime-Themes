@@ -39,7 +39,8 @@ $ npm run test
 ## Credits
 
 Themes creators
-
+ - [LingTalfi](https://github.com/lingtalfi)
+ - [Zayn Ali](https://twitter.com/zaynali53)
  - Neil Cresswell ([Dark Room](https://github.com/NeilCresswell/themes) themes)
  - [Dave Luke Jr](http://davelukejr.com)
  - David Heinemeier Hansson
@@ -74,7 +75,7 @@ Themes creators
  - dbaker ([https://github.com/d-baker](https://github.com/d-baker))
  - Rubens ([Stulzer](https://github.com/stulzer))
  - Saad Quadri ([saadq](https://github.com/saadq))
- - Ethan Welborn (https://github.com/ethanwelborn)
+ - Ethan Welborn ([welbornio](https://github.com/welbornio))
  - Travis Lehman ([tehtrav](http://twitter.com/tehtrav))
  - Shakeel Mohamed ([_Shakeel](http://twitter.com/_Shakeel))
  - Aleksander Fras ([AlFra432](http://twitter.com/AlFra432))
@@ -88,3 +89,7 @@ Themes creators
  - Michelle Liu([anonmily](http://github.com/anonmily))
  - [HaCk3D](https://github.com/HaCk3Dq)
  - [MattDMo](https://github.com/MattDMo)
+ - [Ritashugisha](https://github.com/ritashugisha)
+ - [Younes Zakaria](https://github.com/drcd)
+ - [Taiwo Kareem](https://github.com/tushortz) - [Wildlife](https://packagecontrol.io/packages/Wildlife%20Color%20Scheme)
+ - [irstacks](https://github.com/irstacks)

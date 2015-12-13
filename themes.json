@@ -1,14 +1,103 @@
-[{
+[
+{
+    "Title": "Art School",
+    "FileName": "ArtSchool.tmTheme",
+    "Author": "irstacks",
+    "Description": "Theme developed primarily for front-end work with JS. Uses Sass. Shoulda joined the Marines instead."
+},
+{
+    "Title": "Gedit",
+    "FileName": "Gedit.tmTheme",
+    "Author": "Aron Wouters",
+    "Description": "Gedit look alike theme for sublime text"
+},
+{
+    "Title": "bashling",
+    "FileName": "bashling.tmTheme",
+    "Author": "lingTalfi",
+    "Description": "Simple bash theme with strong color contrasts for comments/finding/selection"
+},
+{
+    "Title": "Agola Dark",
+    "FileName": "AgolaDark.tmTheme",
+    "Author": "Fatih Kececi",
+    "Description": "A dark color scheme for Sublime Text. https://github.com/UnderlineWords/Agola-Color-Schemes"
+},
+{
+    "Title": "Seafoam Pastel Light",
+    "FileName": "Seafoam-Pastel-Light.tmTheme",
+    "Author": "unforswearing",
+    "Description": "A port of the Seafoam Pastel theme, originally for iTerm2. Easy on the eyes. https://github.com/unforswearing/seafoam-pastel-theme"
+},
+{
+    "Title": "Monokai Soft MD",
+    "FileName": "Monokai-Soft-MD.tmTheme",
+    "Author": "Youssef Haiti, youssman",
+    "Description": "A Sublime Text Color Theme suited for Material Design Theme. Original theme : Monokai Soft"
+},
+{
+    "Title": "Seafoam Pastel Dark",
+    "FileName": "Seafoam-Pastel-Dark.tmTheme",
+    "Author": "unforswearing",
+    "Description": "A port of the Seafoam Pastel theme, originally for iTerm2. Easy on the eyes. https://github.com/unforswearing/seafoam-pastel-theme"
+},
+{
+    "Title": "Feel Good",
+    "FileName": "feel_good.tmTheme",
+    "Author": "seanwooj",
+    "Description": "Relax in the bask of the pastels. Feel more human while coding."
+},
+{
+    "Title": "Neon Glow",
+    "FileName": "NeonGlow.tmTheme",
+    "Author": "Stephen Kamenar",
+    "Description": "Goes great with techno music. https://github.com/farzher/Sublime-Text-Themes"
+}, {
+    "Title": "Trixie",
+    "FileName": "Trixie.tmTheme",
+    "Author": "Ivan Kuzmin",
+    "Description": "The great and powerful Trixie theme"
+}, {
+    "Title": "Hammer",
+    "FileName": "Hammer.tmTheme",
+    "Author": "Jared Christensen",
+    "Description": "A Dark theme focused on front end languages. Based off of the Bespin theme fond in Notepad ++"
+},{
+    "Title": "Daguiheso",
+    "FileName": "Daguiheso.tmTheme",
+    "Author": "Daniel Hernandez",
+    "Description": "Black"
+}, {
+    "Title": "Anarchist",
+    "FileName": "Anarchist.tmTheme",
+    "Author": "Ritashugisha",
+    "Description": "To be used with Spacegray UI"
+}, {
+    "Title": "Anarchist Eighties",
+    "FileName": "AnarchistEighties.tmTheme",
+    "Author": "Ritashugisha",
+    "Description": "To be used with Spacegray Eighties UI"
+}, {
+    "Title": "Golden Dragon",
+    "FileName": "GoldenDragon.tmTheme",
+    "Author": "Zayn Ali",
+    "Description": "https://github.com/zaynali53/golden-dragon"
+}, {
+    "Title": "Riot",
+    "FileName": "Riot.tmTheme",
+    "Author": "Wes Cravens",
+    "Description": "A theme based on the riot.js guide. See https://muut.com/riotjs/guide/"
+}, {
     "Title": "Monokai inversed",
     "FileName": "monokai-inverse.tmTheme",
     "Author": "Devin Rhode",
     "Description": "Inverse all colors of Sublime's standard Monokai"
-},{
+}, {
     "Title": "Purrora",
     "FileName": "Purrora.tmTheme",
     "Author": "Yucheng Tu",
     "Description": "A purrety dark color scheme with contrast based on Aurora. See https://github.com/Pirolf/Colorsublime-Themes."
-},{
+}, {
     "Title": "1337",
     "FileName": "1337.tmTheme",
     "Author": "Mark Michos",
@@ -294,6 +383,11 @@
     "Author": "",
     "Description": ""
 }, {
+    "Title": "Preap",
+    "FileName": "preap.tmTheme",
+    "Author": "Mattia Astorino",
+    "Description": "Preap theme released with Preap Dark UI (https://github.com/equinusocio/preap)"
+}, {
     "Title": "EarthsongLight",
     "FileName": "earthsong-light.tmTheme",
     "Author": "",
@@ -343,6 +437,11 @@
     "FileName": "Frontier.tmTheme",
     "Author": "",
     "Description": ""
+}, {
+    "Title": "Frozen",
+    "FileName": "Frozen.tmTheme",
+    "Author": "Felipe Martinin",
+    "Description": "Cool your mind"
 }, {
     "Title": "Future Funk",
     "FileName": "Future_Funk.tmTheme",
@@ -433,6 +532,11 @@
     "FileName": "Juicy.tmTheme",
     "Author": "",
     "Description": ""
+}, {
+    "Title": "Kane",
+    "FileName": "Kane.tmTheme",
+    "Author": "kaneofawesome",
+    "Description": "High contrast - dark with bright highlights"
 }, {
     "Title": "Kimbie (dark)",
     "FileName": "Kimbie_dark.tmTheme",
@@ -754,6 +858,11 @@
     "Author": "William D. Neumann",
     "Description": ""
 }, {
+    "Title": "Zeus",
+    "FileName": "Zeus-Sublime-Text.tmTheme",
+    "Author": "Zayn Ali",
+    "Description": "https://github.com/zaynali53/Zeus-Theme"
+}, {
     "Title": "IPlastic",
     "FileName": "iPlastic.tmTheme",
     "Author": "Jeroen van der Ham",
@@ -827,12 +936,12 @@
     "Title": "Batman",
     "FileName": "Batman.tmTheme",
     "Author": "Ethan Welborn",
-    "Description": "A dark theme inspired by the Dark Knight himself. https://github.com/ethanwelborn"
+    "Description": "A dark theme inspired by the Dark Knight himself. https://github.com/welbornio"
 }, {
     "Title": "BatmanLight",
     "FileName": "BatmanLight.tmTheme",
     "Author": "Ethan Welborn",
-    "Description": "A lighter version of the Batman theme. https://github.com/ethanwelborn"
+    "Description": "A lighter version of the Batman theme. https://github.com/welbornio"
 }, {
     "Title": "Sublime Xoria",
     "FileName": "sublime_xoria.tmTheme",
@@ -1181,8 +1290,189 @@
     "Author": "Dayle Rees.",
     "Description": ""
 }, {
+
+    "Title": "GitHub Clean White",
+    "FileName": "GitHubCleanWhite.tmTheme",
+    "Author": "Ankur Gupta",
+    "Description": "GitHub-like color scheme. White background, bold and italic fonts, diff color highlighting and BracketHighlighter color."
+}, {
     "Title": "Neon",
     "FileName": "Neon.tmTheme",
     "Author": "MattDMo",
     "Description": "A colorful bright-on-black color scheme with multi-language support http://git.io/b4kU"
-}]
+
+}, {
+    "Title": "Deer Antler Dark",
+    "FileName": "DeerAntlerDark.tmTheme",
+    "Author": "JP Fairchild",
+    "Description": "Dark Sublime Theme"
+}, {
+    "Title": "Amber",
+    "FileName": "Amber.tmTheme",
+    "Author": "Kristopher Johnson",
+    "Description": "Amber monochrome terminal-like theme"
+}, {
+    "Title": "Green",
+    "FileName": "Green.tmTheme",
+    "Author": "Kristopher Johnson",
+    "Description": "Green monochrome terminal-like theme"
+}, {
+    "Title": "Blueprint",
+    "FileName": "Blueprint.tmTheme",
+    "Author": "Kristopher Johnson",
+    "Description": "Blue monochrome theme"
+}, {
+    "Title": "Oceanic Next",
+    "FileName": "Oceanic_Next.tmTheme",
+    "Author": "Dmitri Voronianski",
+    "Description": "Color scheme optimized for babel-sublime JavaScript syntax highlighter. Inspired by Base16 Ocean Dark Theme."
+}, {
+    "Title": "Monokai Cobalt",
+    "FileName": "Monokai-Cobalt.tmTheme",
+    "Author": "Jarno van Rhijn",
+    "Description": "A Monokai color scheme (https://github.com/jarnovanrhijn) especially for cobalt 2 theme (https://github.com/wesbos/cobalt2)."
+}, {
+    "Title": "Jellybeams",
+    "FileName": "Jellybeams.tmTheme",
+    "Author": "Stephen Underwood",
+    "Description": "A dark color scheme, based on the awesome Jellybeans color scheme for vim"
+}, {
+    "Title": "Hot Dog Stand",
+    "FileName": "HotDogStand.tmTheme",
+    "Author": "Randall Koutnik",
+    "Description": "https://github.com/SomeKittens/ST-Hot-Dog-Stand"
+}, {
+    "Title": "Birds of Paradise",
+    "FileName": "Birds_of_Paradise.tmTheme",
+    "Author": "Joe Bergantine",
+    "Description": "based on a warmer color palette than it’s older brother, Specials Board, it’s a little bit more natural, a little bit more tropcial. The background is a rich dark brown with complimentary colors over the top. Birds of Paradise is named for the Paradisaeidae family of birds in New Guinea from which it draws inspiration."
+}, {
+    "Title": "Daily Grind",
+    "FileName": "Daily-Grind.tmTheme",
+    "Author": "Paul Denya",
+    "Description": ""
+}, {
+    "Title": "Humane",
+    "FileName": "Humane.tmTheme",
+    "Author": "Damien Guard",
+    "Description": "Earthy background and consistent soft colours for reduced eye-strain"
+}, {
+    "Title": "Chameleon",
+    "FileName": "Chameleon.tmTheme",
+    "Author": "Michael Hrishenko",
+    "Description": "Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure."
+}, {
+    "Title": "Smyck",
+    "FileName": "Smyck.tmTheme",
+    "Author": "John-Paul Bader",
+    "Description": "This is a color scheme for terminals and text editors to create a homogenous work environment which is pleasant for the eyes. The colors are carefully chosen and should work well in many different situations."
+}, {
+    "Title": "Monokai-HighFructose",
+    "FileName": "Monokai-HighFructose.tmTheme",
+    "Author": "Jules Ries",
+    "Description": "A tangy, succulent Monokai that steals heavily from Shakeel Mohamed's Monokai Best."
+}, {
+    "Title": "DarkCF",
+    "FileName": "DarkCF.tmTheme",
+    "Author": "Nath Arduini",
+    "Description": "Dark syntax highlighting for cfml and html inspired by the One Dark theme in Atom -- best used with the 'Enhanced HTML and CFML' package"
+}, {
+    "Title": "Ascetic",
+    "FileName": "Ascetic.tmTheme",
+    "Author": "Tomek Wiszniewski",
+    "Description": "Downright minimal."
+}, {
+    "Title": "Ascetic-Night",
+    "FileName": "Ascetic-Night.tmTheme",
+    "Author": "Dmitry Pinchukov",
+    "Description": "Night variant of Ascetic: inverted and slightly tuned colors. Credits to Tomek Wiszniewski for the original theme."
+}, {
+    "Title": "Resesif",
+    "FileName": "Resesif.tmTheme",
+    "Author": "Nick Eddy",
+    "Description": "A dark theme found at http://www.textmatetheme.com/resesif"
+},
+{
+    "Title": "Monokai Contrast",
+    "FileName": "Monokai-Contrast.tmTheme",
+    "Author": "Manuel Barkhau",
+    "Description": "A high contrast variant of Monokai. Black background and bright colors."
+},
+{
+    "Title": "Gooey",
+    "FileName": "Gooey.tmTheme",
+    "Author": "Simon Goellner",
+    "Description": "A pretty, gooey theme in mostly greens and blues."
+},
+{
+    "Title": "Gooey Pastel",
+    "FileName": "GooeyPastel.tmTheme",
+    "Author": "Simon Goellner",
+    "Description": "A more sudued gooey."
+},
+{
+    "Title": "Space Rave",
+    "FileName": "SpaceRave.tmTheme",
+    "Author": "Younes Zakaria",
+    "Description": "A dark and techy theme, with a blue background and bright, neon-like colors."
+},
+{
+    "Title": "Wildlife-Day",
+    "FileName": "Wildlife-Day.tmTheme",
+    "Author": "Taiwo Kareem",
+    "Description": "A vibrant light color scheme with support for over 75 languages, gitgutter and sublime linter"
+},
+{
+    "Title": "Wildlife-Night",
+    "FileName": "Wildlife-Night.tmTheme",
+    "Author": "Taiwo Kareem",
+    "Description": "A vibrant dark color scheme with support for over 75 languages, gitgutter and sublime linter"
+},
+{
+    "Title": "Meteor",
+    "FileName": "Meteor.tmTheme",
+    "Author": "Alex King",
+    "Description": "A bright theme inspired by the Artwork Meteor by Nina Geometrieva. Best Paired with the Flatron theme."
+},{
+    "Title": "santojon",
+    "FileName": "santojon.tmTheme",
+    "Author": "Jonathan Santos",
+    "Description": "A theme to keep it clean. And vibrant. And light."
+},
+{
+    "Title": "santojon dark",
+    "FileName": "santojon-dark.tmTheme",
+    "Author": "Jonathan Santos",
+    "Description": "A theme to keep it clean. And vibrant. But dark."
+},
+{
+    "Title": "LightBulb",
+    "FileName": "LightBulb.tmTheme",
+    "Author": "@rselwyn",
+    "Description": "A dark theme with bright offset colors."
+},
+{
+    "Title": "Hack(er)",
+    "FileName": "Hack(er).tmTheme",
+    "Author": "@rselwyn",
+    "Description": "A dark background with bright green, red, and blue code highlighting."
+},
+{
+    "Title": "Better JS",
+    "FileName": "Better_JS.tmTheme",
+    "Author": "Arkadiusz Wieczorek",
+    "Description": "A theme for better highlighting JavaScript syntax. https://github.com/debian-sh"
+},
+{
+    "Title": "New Day",
+    "FileName": "New-Day.tmTheme",
+    "Author": "Luca Reghellin",
+    "Description": "A light theme, prepared for html, scss, javascript, php, jade, smarty"
+},
+{
+    "Title": "Monokai Dev",
+    "FileName": "Monokai-Dev.tmTheme",
+    "Author": "Maximiliano Canellas",
+    "Description": "A Monokai Contrast based theme for programmers"
+}
+]

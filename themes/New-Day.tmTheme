@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Luca Reghellin</string>
+	<key>comment</key>
+	<string>Based on JZechy's "Nette" theme: https:&#x2f;&#x2f;github.com&#x2f;JZechy&#x2f;tmThemes</string>
+	<key>name</key>
+	<string>New Day</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#faf9f7</string>
+				<key>foreground</key>
+				<string>#000000</string>
+				<key>lineHighlight</key>
+				<string>#ffffff</string>
+				<key>selection</key>
+				<string>#dddddd</string>
+				<key>selectionBorder</key>
+				<string></string>
+			</dict>
+		</dict>
+
+		<!-- Klíčová slova -->
+		<dict>
+			<key>name</key>
+			<string>Keyword</string>
+			<key>scope</key>
+			<string>keyword</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E03C3C</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword operator</string>
+			<key>scope</key>
+			<string>keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+				<key>fontStyle</key>
+				<string>normal</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Constant language</string>
+			<key>scope</key>
+			<string>constant.language</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E03C3C</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword control import</string>
+			<key>scope</key>
+			<string>keyword.control.import</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E03C3C</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
+		<!-- Storage -->
+		<dict>
+			<key>name</key>
+			<string>Storage</string>
+			<key>scope</key>
+			<string>storage</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E03C3C</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
+		<!-- Proměnné -->
+		<dict>
+			<key>name</key>
+			<string>Variable</string>
+			<key>scope</key>
+			<string>variable</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d59401</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variable other property</string>
+			<key>scope</key>
+			<string>variable.other.property</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+				<key>fontStyle</key>
+				<string>normal</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Constant</string>
+			<key>scope</key>
+			<string>constant</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d59401</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
+		<!-- Ostatní -->
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
+			<string>string, constant.other.symbol</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#008000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Numeric constant</string>
+			<key>scope</key>
+			<string>constant.numeric</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cd0673</string>
+				<key>fontStyle</key>
+				<string>normal</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Support class</string>
+			<key>scope</key>
+			<string>support.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d59401</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Meta function call static</string>
+			<key>scope</key>
+			<string>meta.function-call.static</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E03C3C</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Support built-in function</string>
+			<key>scope</key>
+			<string>support.function.builtin_functions</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E03C3C</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Support class</string>
+			<key>scope</key>
+			<string>support.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+				<key>fontStyle</key>
+				<string>normal</string>
+			</dict>
+		</dict>
+
+
+		<!-- Komentáře -->
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#929292</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>comment.block.documentation</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#929292</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
+		<!-- entity -->
+		<dict>
+			<key>name</key>
+			<string>Entity tag</string>
+			<key>scope</key>
+			<string>entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#038500</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Entity open close</string>
+			<key>scope</key>
+			<string>punctuation.definition.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#038500</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Entity attribute name</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#89a315</string>
+				<key>fontStyle</key>
+				<string>normal</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Quoted string html</string>
+			<key>scope</key>
+			<string>string.quoted.double.html, string.quoted.single.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#2b7dc5</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DOCTYPE</string>
+			<key>scope</key>
+			<string>keyword.doctype.xml</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#666969</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>DOCTYPE name</string>
+			<key>scope</key>
+			<string>text.html.basic meta.tag.sgml.html meta.tag.sgml.doctype.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#666969</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>DOCTYPE punct</string>
+			<key>scope</key>
+			<string>text.html.basic meta.tag.sgml.html punctuation.definition.tag.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#666969</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
+
+
+
+
+
+
+
+
+
+		<!-- SCSS ******************** -->
+
+		<dict>
+			<key>name</key>
+			<string>Scss</string>
+			<key>scope</key>
+			<string>support.constant.property-value.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0064c2</string> <!-- blu -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>support.function.misc.scss</string>
+			<key>scope</key>
+			<string>source.scss meta.property-list.scss meta.at-rule.include.scss support.function.misc.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d59401</string> <!-- yellow -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>meta.property-value.scss</string>
+			<key>scope</key>
+			<string>meta.property-value.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0064c2</string> <!-- blu -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>punctuation.separator.key-value.scss</string>
+			<key>scope</key>
+			<string>punctuation.separator.key-value.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>punctuation.terminator.rule.scss</string>
+			<key>scope</key>
+			<string>punctuation.terminator.rule.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+
+
+
+
+
+
+		<!-- JAVASCRIPT ******************** -->
+
+		<dict>
+			<key>name</key>
+			<string>Javascript object function name</string>
+			<key>scope</key>
+			<string>source.js entity.name.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9d5900</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Javascript support function</string>
+			<key>scope</key>
+			<string>source.js support.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0057a7</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Javascript support constant</string>
+			<key>scope</key>
+			<string>source.js support.constant.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#8d4f93</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Javascript function parameter</string>
+			<key>scope</key>
+			<string>source.js meta.function.js variable.parameter.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cf5fb1</string> <!-- viola pastello -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Javascript this</string>
+			<key>scope</key>
+			<string>source.js variable.language.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c48801</string> <!-- senape scuro -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Javascript keyword operator</string>
+			<key>scope</key>
+			<string>source.js keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#8246a8</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Javascript keyword operator</string>
+			<key>scope</key>
+			<string>source.js keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0057a7</string> <!-- blu -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Javascript class</string>
+			<key>scope</key>
+			<string>source.js support.class.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0057a7</string> <!-- blu -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Javascript docs keyword</string>
+			<key>scope</key>
+			<string>source.js comment.block.documentation.js keyword.other.documentation.custom.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#929292</string> <!-- grigio -->
+			</dict>
+		</dict>
+
+
+
+
+
+
+
+
+		<!-- JADE **************** -->
+
+		<dict>
+			<key>name</key>
+			<string>Jade html attributes</string>
+			<key>scope</key>
+			<string>text.jade meta.tag.other string.quoted.jade</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#2b7dc5</string> <!-- blu -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Jade comments</string>
+			<key>scope</key>
+			<string>text.jade string.comment.buffered.block.jade</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#929292</string> <!-- blu -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Jade interpolation</string>
+			<key>scope</key>
+			<string>text.jade string.interpolated.jade</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Jade interpolated string</string>
+			<key>scope</key>
+			<string>text.jade string.interpolated.jade string.quoted.single.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#008000</string>
+			</dict>
+		</dict>
+
+
+
+
+
+
+
+
+		<!-- PHP *************************** -->
+
+		<dict>
+			<key>name</key>
+			<string>Php embedding begin</string>
+			<key>scope</key>
+			<string>text.html.basic source.php.embedded.block.html punctuation.section.embedded.begin.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cf5fb1</string> <!-- viola pastello -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Php embedding begin</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded.end.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cf5fb1</string> <!-- viola pastello -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Php embedding end</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded.begin.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cf5fb1</string> <!-- viola pastello -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Php embedding end</string>
+			<key>scope</key>
+			<string>text.html.basic source.php.embedded.line.empty.html punctuation.section.embedded.end.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cf5fb1</string> <!-- viola pastello -->
+			</dict>
+		</dict>
+
+
+
+		<dict>
+			<key>name</key>
+			<string>Php function name</string>
+			<key>scope</key>
+			<string>text.html.basic source.php.embedded.block.html meta.function.php entity.name.function.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9d5900</string> <!-- marrone -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Php function name</string>
+			<key>scope</key>
+			<string>text.html.basic source.php.embedded.block.html meta.function.php support.function.magic.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9d5900</string> <!-- marrone -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Php function arguments defaults</string>
+			<key>scope</key>
+			<string>text.html.basic source.php.embedded.block.html meta.function.php meta.function.arguments.php meta.function.argument.default.php variable.other.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cf5fb1</string> <!-- viola pastello -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Php function arguments</string>
+			<key>scope</key>
+			<string>text.html.basic source.php.embedded.block.html meta.function.php meta.function.arguments.php meta.function.argument.no-default.php variable.other.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cf5fb1</string> <!-- viola pastello -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Php variabili</string>
+			<key>scope</key>
+			<string>text.html.basic source.php.embedded.block.html variable.other.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c48801</string> <!--  -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Php class Names</string>
+			<key>scope</key>
+			<string>text.html.basic source.php.embedded.block.html support.class.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0057a7</string> <!-- blu -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Php class definition</string>
+			<key>scope</key>
+			<string>text.html.basic source.php.embedded.block.html meta.class.php entity.name.type.class.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0057a7</string> <!-- blu -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Php inherited class</string>
+			<key>scope</key>
+			<string>text.html.basic source.php.embedded.block.html meta.class.php meta.other.inherited-class.php entity.other.inherited-class.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0057a7</string> <!-- blu -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Php doc comments @labels</string>
+			<key>scope</key>
+			<string>text.html.basic source.php.embedded.block.html comment.block.documentation.phpdoc.php keyword.other.phpdoc.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#929292</string> <!-- grigio -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Php source.php.embedded.line.html</string>
+			<key>scope</key>
+			<string>source.php.embedded.line.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000</string>
+			</dict>
+		</dict>
+
+	</array>
+</dict>
+</plist>
