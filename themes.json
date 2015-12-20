@@ -1474,5 +1474,11 @@
     "FileName": "Monokai-Dev.tmTheme",
     "Author": "Maximiliano Canellas",
     "Description": "A Monokai Contrast based theme for programmers"
+},
+{
+    "Title": "Poppins",
+    "FileName": "Poppins.tmTheme",
+    "Author": "Praveen Puglia",
+    "Description": "A light theme with popping colors for razor sharp clarity."
 }
 ]
