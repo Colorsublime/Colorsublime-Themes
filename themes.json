@@ -1429,8 +1429,8 @@
     "Description": "A dark theme with bright offset colors."
 },
 {
-    "Title": "Hack(er)",
-    "FileName": "Hack(er).tmTheme",
+    "Title": "Hacker",
+    "FileName": "Hacker.tmTheme",
     "Author": "@rselwyn",
     "Description": "A dark background with bright green, red, and blue code highlighting."
 }
