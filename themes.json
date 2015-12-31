@@ -1485,5 +1485,11 @@
     "FileName": "Poppins.tmTheme",
     "Author": "Praveen Puglia",
     "Description": "A light theme with popping colors for razor sharp clarity."
+},
+{
+    "Title": "Legacy Pack",
+    "FileName": "LegacyPack.tmTheme",
+    "Author": "Ryan Pack",
+    "Description": "A Sublime Text theme based off of TronLegacy."
 }
 ]
