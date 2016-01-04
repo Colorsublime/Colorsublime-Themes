@@ -275,6 +275,55 @@
 				<string> bold</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag</string>
+			<key>scope</key>
+			<string>tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF9D00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Html Embedds</string>
+			<key>scope</key>
+			<string>text.html.mt source.smarty.embedded.html,
+source.ruby.embedded.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#3591E6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS Selector</string>
+			<key>scope</key>
+			<string>meta.selector.css entity.other.attribute-name.class.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7DD6FA</string>
+				<key>fontStyle</key>
+				<string> bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS Property</string>
+			<key>scope</key>
+			<string>meta.property-list.css meta.property-name.css support.type.property-name.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF9D00</string>
+				<key>fontStyle</key>
+				<string> italic</string>
+			</dict>
+		</dict>
 	</array>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
