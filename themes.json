@@ -1,4 +1,17 @@
-[{
+[
+{
+    "Title": "Art School",
+    "FileName": "ArtSchool.tmTheme",
+    "Author": "irstacks",
+    "Description": "Theme developed primarily for front-end work with JS. Uses Sass. Shoulda joined the Marines instead."
+},
+{
+    "Title": "Gedit",
+    "FileName": "Gedit.tmTheme",
+    "Author": "Aron Wouters",
+    "Description": "Gedit look alike theme for sublime text"
+},
+{
     "Title": "bashling",
     "FileName": "bashling.tmTheme",
     "Author": "lingTalfi",
@@ -554,6 +567,11 @@
     "FileName": "LastNight.tmTheme",
     "Author": "",
     "Description": ""
+}, {
+    "Title": "Late Night",
+    "FileName": "Late_Night.tmTheme",
+    "Author": "YemSalat",
+    "Description": "A dark theme for better readablility"
 }, {
     "Title": "Lava",
     "FileName": "Lava.tmTheme",
@@ -1369,6 +1387,11 @@
     "Author": "Tomek Wiszniewski",
     "Description": "Downright minimal."
 }, {
+    "Title": "Ascetic-Night",
+    "FileName": "Ascetic-Night.tmTheme",
+    "Author": "Dmitry Pinchukov",
+    "Description": "Night variant of Ascetic: inverted and slightly tuned colors. Credits to Tomek Wiszniewski for the original theme."
+}, {
     "Title": "Resesif",
     "FileName": "Resesif.tmTheme",
     "Author": "Nick Eddy",
@@ -1434,8 +1457,8 @@
     "Description": "A dark theme with bright offset colors."
 },
 {
-    "Title": "Hack(er)",
-    "FileName": "Hack(er).tmTheme",
+    "Title": "Hacker",
+    "FileName": "Hacker.tmTheme",
     "Author": "@rselwyn",
     "Description": "A dark background with bright green, red, and blue code highlighting."
 },
@@ -1450,5 +1473,29 @@
     "FileName": "DarkGrk.tmTheme",
     "Author": "Konstantinos Koukouvis",
     "Description": "Dark, simple, cyan-based theme for CoffeeScript. Best suited for Material-Theme-Darker by Mattia Astorino."
+},
+{
+    "Title": "New Day",
+    "FileName": "New-Day.tmTheme",
+    "Author": "Luca Reghellin",
+    "Description": "A light theme, prepared for html, scss, javascript, php, jade, smarty"
+},
+{
+    "Title": "Monokai Dev",
+    "FileName": "Monokai-Dev.tmTheme",
+    "Author": "Maximiliano Canellas",
+    "Description": "A Monokai Contrast based theme for programmers"
+},
+{
+    "Title": "Poppins",
+    "FileName": "Poppins.tmTheme",
+    "Author": "Praveen Puglia",
+    "Description": "A light theme with popping colors for razor sharp clarity."
+},
+{
+    "Title": "Legacy Pack",
+    "FileName": "LegacyPack.tmTheme",
+    "Author": "Ryan Pack",
+    "Description": "A Sublime Text theme based off of TronLegacy."
 }
 ]

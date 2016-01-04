@@ -379,7 +379,7 @@
 			<key>name</key>
 			<string>Function definition</string>
 			<key>scope</key>
-			<string>meta.function entity.name.function, entity.name.function.abp, meta.prototype.function.js, entity.name.function.js</string>
+			<string>meta.function entity.name.function, entity.name.function.abp, meta.prototype.function.js, entity.name.function.js, entity.name.function.makefile</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
@@ -727,19 +727,6 @@
 			<string>Keyword.other.mark</string>
 			<key>scope</key>
 			<string>keyword.other.mark</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold italic</string>
-				<key>foreground</key>
-				<string>#FF71BB</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tester Function</string>
-			<key>scope</key>
-			<string>support.function.tester</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -1701,15 +1688,112 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Error</string>
+			<string>=========== Logcat ==========</string>
 			<key>scope</key>
-			<string>invalid.illegal.adb</string>
+			<string></string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FF0000</string>
+				<string></string>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
+				<key>foreground</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logcat Timestamp</string>
+			<key>scope</key>
+			<string>string.logcat.timestamp</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FE7DF5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logcat Tag</string>
+			<key>scope</key>
+			<string>entity.name.tag.logcat.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string></string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#10FF07</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logcat pid</string>
+			<key>scope</key>
+			<string>constant.numeric.logcat</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF8000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logcat Verbose</string>
+			<key>scope</key>
+			<string>entity.name.function.logcat</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string></string>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#777777</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logcat Debug</string>
+			<key>scope</key>
+			<string>entity.name.function.logcat</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string></string>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#CCCCCC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logcat Info</string>
+			<key>scope</key>
+			<string>entity.name.class.logcat</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string></string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#08F2FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>logcat Warning</string>
+			<key>scope</key>
+			<string>keyword.logcat</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#DBBE07</string>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 			</dict>
@@ -1740,7 +1824,7 @@
 			<key>name</key>
 			<string>Markup Link URL</string>
 			<key>scope</key>
-			<string>meta.link.inline markup.underline, meta.image.inline markup.underline</string>
+			<string>meta.link.inline markup.underline, meta.image.inline markup.underline, markup.underline.link</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
@@ -1751,15 +1835,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Markup Link parens</string>
+			<string>Markup Link brackets/parens</string>
 			<key>scope</key>
-			<string>punctuation.definition.metadata</string>
+			<string>punctuation.definition.metadata, punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>background</key>
-				<string>#212121</string>
+				<string></string>
+				<key>fontStyle</key>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#FF07A2</string>
 			</dict>
@@ -2361,7 +2445,7 @@
 			<key>name</key>
 			<string>Regex Group</string>
 			<key>scope</key>
-			<string>storage.type.regexp.group, string meta.group.regexp punctuation.definition.group</string>
+			<string>storage.type.regexp.group, string meta.group.regexp punctuation.definition.group, punctuation.definition.group.regexp</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -2442,6 +2526,131 @@
 			<dict>
 				<key>foreground</key>
 				<string>#23FFB0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>=========== RAML ==========</string>
+			<key>scope</key>
+			<string>source.raml</string>
+			<key>settings</key>
+			<dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAML Document control</string>
+			<key>scope</key>
+			<string>source.raml constant.language.document.yaml</string>
+			<key>settings</key>
+			<dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAML Language directive</string>
+			<key>scope</key>
+			<string>source.raml constant.other.directive.yaml constant.language.directive.yaml</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c2e978</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAML Method name</string>
+			<key>scope</key>
+			<string>source.raml meta.key-value entity.name.function.yaml</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#df31fc</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAML Resource name</string>
+			<key>scope</key>
+			<string>source.raml meta.resource entity.name.tag.yaml</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#fca628</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAML value</string>
+			<key>scope</key>
+			<string>source.raml meta.key-value</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAML include statement</string>
+			<key>scope</key>
+			<string>source.raml meta.key-value.include</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#212121</string>
+				<key>foreground</key>
+				<string>#8080FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAML include path/target</string>
+			<key>scope</key>
+			<string>source.raml meta.key-value.include.path</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#a080FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAML description</string>
+			<key>scope</key>
+			<string>source.raml markup.raw.description.raml</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#1c1c1c</string>
+				<key>foreground</key>
+				<string>#c2e978</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAML schema description</string>
+			<key>scope</key>
+			<string>source.raml string.quoted.single.yaml</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#1c1c1c</string>
+				<key>foreground</key>
+				<string>#90f060</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAML HTML method</string>
+			<key>scope</key>
+			<string>source.raml meta.method constant.character.method.yaml</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#4281fb</string>
 			</dict>
 		</dict>
 		<dict>
