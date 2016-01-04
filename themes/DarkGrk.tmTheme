@@ -302,7 +302,8 @@ source.ruby.embedded.html</string>
 			<key>name</key>
 			<string>CSS Selector</string>
 			<key>scope</key>
-			<string>meta.selector.css entity.other.attribute-name.class.css</string>
+			<string>meta.selector.css entity.other.attribute-name.css
+,source.css meta.selector.css entity.name.tag.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
