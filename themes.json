@@ -1469,6 +1469,12 @@
     "Description": "A theme for better highlighting JavaScript syntax. https://github.com/debian-sh"
 },
 {
+    "Title": "DarkGrk",
+    "FileName": "DarkGrk.tmTheme",
+    "Author": "Konstantinos Koukouvis",
+    "Description": "Dark, simple, cyan-based theme for CoffeeScript. Best suited for Material-Theme-Darker by Mattia Astorino."
+},
+{
     "Title": "New Day",
     "FileName": "New-Day.tmTheme",
     "Author": "Luca Reghellin",
