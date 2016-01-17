@@ -19,7 +19,7 @@ describe('All the themes exist', function() {
 		});
 	});
 
-	it('All theme JSON entries exist in thems folder', function() {
+	it('All theme JSON entries exist in themes folder', function() {
 		jsonNames.forEach(function(jsonName, i) {
 			expect(jsonName).to.equal(fileNames[i]);
 		});
