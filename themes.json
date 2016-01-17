@@ -42,6 +42,12 @@
     "Description": "A port of the Seafoam Pastel theme, originally for iTerm2. Easy on the eyes. https://github.com/unforswearing/seafoam-pastel-theme"
 },
 {
+    "Title": "Purple Haze",
+    "FileName": "PurpleHaze.tmTheme",
+    "Author": "Branko Tomić – klomontes",
+    "Description": "Custom dark theme for those who love purple. Contrast was adjusted to be easy for your eyes ad it makes your switch from Monokai easy."
+},
+{
     "Title": "Feel Good",
     "FileName": "feel_good.tmTheme",
     "Author": "seanwooj",
