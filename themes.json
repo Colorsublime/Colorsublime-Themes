@@ -1503,6 +1503,12 @@
     "FileName": "VivoSub.tmTheme",
     "Author": "Victor Volle",
     "Description": "A dark theme with muted colours and little variation"
+},
+{
+    "Title": "Into the Dark",
+    "FileName": "Into-the-Dark.tmTheme",
+    "Author": "Ben de Castro",
+    "Description": "Based on the 'Tomorrow Night' Theme"
 }
 
 ]
