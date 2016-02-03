@@ -1503,6 +1503,12 @@
     "FileName": "VivoSub.tmTheme",
     "Author": "Victor Volle",
     "Description": "A dark theme with muted colours and little variation"
+},
+{
+    "Title": "Earthworm",
+    "FileName": "Earthworm.tmTheme",
+    "Author": "Dave Tate",
+    "Description": "Dark color scheme, low-contrast, natural tones."
 }
 
 ]
