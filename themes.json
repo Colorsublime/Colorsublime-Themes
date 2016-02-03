@@ -1505,6 +1505,12 @@
     "Description": "A dark theme with muted colours and little variation"
 },
 {
+    "Title": "Into the Dark",
+    "FileName": "Into-the-Dark.tmTheme",
+    "Author": "Ben de Castro",
+    "Description": "Based on the 'Tomorrow Night' Theme"
+},
+{
     "Title": "Earthworm",
     "FileName": "Earthworm.tmTheme",
     "Author": "Dave Tate",
