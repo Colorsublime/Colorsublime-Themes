@@ -1515,6 +1515,12 @@
     "FileName": "Earthworm.tmTheme",
     "Author": "Dave Tate",
     "Description": "Dark color scheme, low-contrast, natural tones."
+},
+{
+    "name": "Milotic",
+    "FileName": "Milotic.tmTheme",
+    "Author": "Vikesh Tiwari",
+    "description": "The best colorful theme ever.",
 }
 
 ]
