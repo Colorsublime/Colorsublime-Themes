@@ -18,13 +18,13 @@
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#BBCF54</string>
 				<key>invisibles</key>
 				<string>#31333D</string>
 				<key>lineHighlight</key>
-				<string>#373947</string>
+				<string>#3F4152</string>
 				<key>selection</key>
-				<string>#373947</string>
+				<string>#535566</string>
 			</dict>
 		</dict>
 		<dict>
@@ -35,7 +35,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#585964</string>
+				<string>#707180</string>
 			</dict>
 		</dict>
 		<dict>
@@ -46,7 +46,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DAEAF0</string>
+				<string>#B4C757</string>
 			</dict>
 		</dict>
 		<dict>
@@ -68,7 +68,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D1E1E7</string>
+				<string>#E7E7E7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -79,7 +79,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9DB14B</string>
+				<string>#A2BA43</string>
 			</dict>
 		</dict>
 		<dict>
@@ -92,7 +92,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A3CBE3</string>
+				<string>#9EC9E3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -103,7 +103,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BBCF54</string>
+				<string>#DB7C6D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -116,7 +116,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BBCF54</string>
+				<string>#DBBD46</string>
 			</dict>
 		</dict>
 		<dict>
@@ -129,7 +129,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#BBCF54</string>
+				<string>#A3CBE3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -140,7 +140,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D69846</string>
+				<string>#C77E77</string>
 			</dict>
 		</dict>
 		<dict>
@@ -153,7 +153,7 @@
 				<key>fontStyle</key>
 				<string>   italic</string>
 				<key>foreground</key>
-				<string>#D1E1E7</string>
+				<string>#A3CBE3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -166,7 +166,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D69846</string>
+				<string>#E8A64B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -179,7 +179,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#D69846</string>
+				<string>#E7E7E7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -192,7 +192,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#9DB14B</string>
+				<string>#E7E7E7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -205,7 +205,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D69846</string>
+				<string>#E8A64B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -218,7 +218,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A3CBE3</string>
+				<string>#D49E52</string>
 			</dict>
 		</dict>
 		<dict>
@@ -231,7 +231,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A3CBE3</string>
+				<string>#DB7C6D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -244,7 +244,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#A3CBE3</string>
+				<string>#E7E7E7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -292,7 +292,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.agoladark</string>
+	<string>theme.dark.agola_dark</string>
 	<key>author</key>
 	<string>Fatih Kececi</string>
 	<key>comment</key>
