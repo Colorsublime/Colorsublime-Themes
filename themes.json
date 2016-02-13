@@ -1515,6 +1515,12 @@
     "FileName": "Earthworm.tmTheme",
     "Author": "Dave Tate",
     "Description": "Dark color scheme, low-contrast, natural tones."
+},
+{
+    "Title": "Cake",
+    "FileName": "Cake.tmTheme",
+    "Author": "Daniel Pintilei",
+    "Description": "Yummy syntax theme. https://danielpintilei.cf/Cake"
 }
 
 ]
