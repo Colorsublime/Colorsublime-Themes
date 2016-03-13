@@ -1521,6 +1521,12 @@
     "FileName": "Cake.tmTheme",
     "Author": "Daniel Pintilei",
     "Description": "Yummy syntax theme. https://danielpintilei.cf/Cake"
+},
+{
+    "Title": "GitHub v2",
+    "FileName": "Github-v2.tmTheme",
+    "Author": "Consigliere",
+    "Description": "Github color scheme version 2"
 }
 
 ]
