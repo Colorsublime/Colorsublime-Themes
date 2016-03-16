@@ -1527,6 +1527,12 @@
     "FileName": "Github-v2.tmTheme",
     "Author": "Consigliere",
     "Description": "Github color scheme version 2"
+},
+{
+    "Title": "Monokai SD",
+    "FileName": "Monokai_SD.tmTheme",
+    "Author": "Gary Kenneally",
+    "Description": "Dark color scheme, medium-contrast."
 }
 
 ]
