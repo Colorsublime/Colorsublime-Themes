@@ -4,7 +4,8 @@
   "description": "Colorsublime themes collection http://colorsublime.com",
   "main": "Gruntfile.js",
   "scripts": {
-    "test": "mocha tests/runner.js"
+    "test": "mocha tests/runner.js",
+    "update": "node updateLocalThemes.js"
   },
   "repository": {
     "type": "git",
