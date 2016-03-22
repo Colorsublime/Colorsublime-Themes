@@ -15,9 +15,12 @@ Please make sure to update correctly the themes.json file
 	"Title": "Title to display on the page",
 	"FileName": "Name_of_your_theme.tmTheme",
 	"Author": "Your Name and Surname",
+	"Url": "Url_of_your_theme",
 	"Description": "A short description"
 }
 ```
+
+The Url entry allows us to periodically download the latest version of your theme and include it in new releases of Color Sublime.  If you have previously added a theme without a Url value then consider adding one now.
 
 New themes are welcome!
 
