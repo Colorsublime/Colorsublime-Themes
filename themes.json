@@ -1527,6 +1527,12 @@
     "FileName": "Github-v2.tmTheme",
     "Author": "Consigliere",
     "Description": "Github color scheme version 2"
+},
+{
+    "Title": "Solarized Dark (Nitrous.io version)",
+    "FileName": "Solarized-dark (Nitrous).tmTheme",
+    "Author": "Consigliere",
+    "Description": "Solarized Dark used in Nitrous.io"
 }
 
 ]
