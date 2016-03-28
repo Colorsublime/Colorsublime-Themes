@@ -48,7 +48,7 @@
             <key>name</key>
             <string>Comment</string>
             <key>scope</key>
-            <string>comment</string>
+            <string>comment, comment entity.name.tag.slim, comment entity.name.tag-name.slim, comment meta.line.ruby.slim, comment source.ruby, comment punctuation, comment punctuation.section.function.ruby, comment string, comment constant.other.symbol, comment punctuation.section.scope, comment punctuation.section.embedded.ruby, comment variable.other, comment punctuation.definition.variable, comment keyword, comment support.function, comment keyword.operator.assignment, comment punctuation.separator.continuation, comment constant.language, comment punctuation.separator.key-value, comment punctuation.separator.other</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -63,7 +63,7 @@
             <key>name</key>
             <string>String</string>
             <key>scope</key>
-            <string>string, constant.character.escape.coffee</string>
+            <string>string, constant.character.escape, source.coffee string meta.property, source.ruby punctuation.section.embedded.begin, source.ruby punctuation.section.embedded.end</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -78,7 +78,7 @@
             <key>name</key>
             <string>Regexp</string>
             <key>scope</key>
-            <string>string.regexp, constant.character.escape.ruby</string>
+            <string>string.regexp, constant.character.escape.ruby, keyword.control.anchor.regexp</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -108,7 +108,7 @@
             <key>name</key>
             <string>Ruby Source</string>
             <key>scope</key>
-            <string>source.ruby</string>
+            <string>source.ruby, variable.other.ruby</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -152,8 +152,6 @@
             <string>storage</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>bold</string>
                 <key>foreground</key>
                 <string>#93A1A1</string>
             </dict>
@@ -171,9 +169,20 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>JavaScript Class name</string>
+            <key>scope</key>
+            <string>entity.name.class.js, variable.other.class.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#008CCE</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Function name</string>
             <key>scope</key>
-            <string>entity.name.function</string>
+            <string>entity.name.function, support.function.console.js, source.ruby meta.function-call.method.without-arguments.ruby support.function.core.ruby, source.ruby variable.other.block</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -275,8 +284,6 @@
             <string>entity.name.tag</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>bold</string>
                 <key>foreground</key>
                 <string>#268BD2</string>
             </dict>
@@ -428,7 +435,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#008CCE</string>
+                <string>#00A198</string>
             </dict>
         </dict>
 
@@ -436,7 +443,7 @@
             <key>name</key>
             <string>Punctuation - Object Separator</string>
             <key>scope</key>
-            <string>punctuation.separator.object</string>
+            <string>punctuation.separator.object, punctuation.separator.continuation</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -448,7 +455,7 @@
             <key>name</key>
             <string>Assignment Operator</string>
             <key>scope</key>
-            <string>keyword.operator.assignment</string>
+            <string>keyword.operator.assignment, keyword.operator.logical</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -460,7 +467,7 @@
             <key>name</key>
             <string>Curly Braces</string>
             <key>scope</key>
-            <string>punctuation.section.scope</string>
+            <string>punctuation.section.scope, source.ruby punctuation.section.array, source.ruby punctuation.section.function</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -472,7 +479,7 @@
             <key>name</key>
             <string>JavaScript Class</string>
             <key>scope</key>
-            <string>support.class.js</string>
+            <string>support.class.js, support.class.coffee</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -508,7 +515,7 @@
             <key>name</key>
             <string>JavaScript object property, function call</string>
             <key>scope</key>
-            <string>meta.property, variable.function.js</string>
+            <string>meta.property, variable.function.js, source.js variable.other.property, source.js entity.name.type.new</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -544,7 +551,7 @@
             <key>name</key>
             <string>JavaScript dom variables</string>
             <key>scope</key>
-            <string>support.type.object.dom</string>
+            <string>support.type.object.dom, source.js meta.instance.constructor, support.type.object.console</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -556,7 +563,7 @@
             <key>name</key>
             <string>JavaScript object literal key</string>
             <key>scope</key>
-            <string>meta.object-literal.key.js</string>
+            <string>meta.object-literal.key.js, constant.other.object.key.js string</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -568,7 +575,7 @@
             <key>name</key>
             <string>CoffeeScript</string>
             <key>scope</key>
-            <string>source.coffee, entity.name.function.coffee</string>
+            <string>source.coffee, entity.name.function.coffee, source.coffee variable.parameter</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -590,21 +597,9 @@
 
         <dict>
             <key>name</key>
-            <string>CoffeeScript keyword operator</string>
-            <key>scope</key>
-            <string>variable.assignment.coffee keyword.operator.coffee</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#829496</string>
-            </dict>
-        </dict>
-
-        <dict>
-            <key>name</key>
             <string>CoffeeScript variable assignment</string>
             <key>scope</key>
-            <string>source.coffee punctuation.separator.key-value, text.slim  punctuation.section.embedded.ruby, text.slim punctuation.section.function.ruby, text.html.ruby punctuation.section.embedded.ruby, text.html.ruby entity.name.tag</string>
+            <string>punctuation.separator.key-value, text.slim  punctuation.section.embedded.ruby, text.slim punctuation.section.function.ruby, text.html.ruby punctuation.section.embedded.ruby, text.html.ruby entity.name.tag, keyword.operator.accessor.js, entity.name.tag-name.slim, source.coffee meta.delimiter.object, source.coffee meta.delimiter.method</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -628,7 +623,7 @@
             <key>name</key>
             <string>Sass attribute id</string>
             <key>scope</key>
-            <string>entity.other.attribute-name.id.sass</string>
+            <string>entity.other.attribute-name.id.sass, entity.name.tag.yaml</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -693,6 +688,26 @@
             <dict>
                 <key>foreground</key>
                 <string>#008CCE</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>scope</key>
+            <string>function.jQuery.binder.coffee</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D8377F</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>scope</key>
+            <string>support.type.property.vendor.name.css.sass</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#7D9826</string>
             </dict>
         </dict>
     </array>
