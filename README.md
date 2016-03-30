@@ -95,3 +95,4 @@ Themes creators
  - [irstacks](https://github.com/irstacks)
  - [Praveen Puglia](http://praveenpuglia.com)
  - [Consigliere](http://github.com/clthck)
+ - Giovane de Oliveira ([Mosquito13](https://github.com/Mosquito13))
