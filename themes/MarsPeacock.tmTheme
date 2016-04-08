@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+See http://manual.macromates.com/en/language_grammars
+See http://docs.sublimetext.info/en/latest/reference/color_schemes.html
+
+COLOR PALETTE
+
+comment    #728083
+docstring  #26B5A3
+
+keyword    #269FD9
+symbol     #FD4040
+type       #FF942C
+string     #B4DC35
+
+background #2E2B28
+foreground #EDE7CB
+-->
+<plist version="1.0">
+<dict>
+<key>name</key>
+<string>Mars Peacock</string>
+<key>settings</key>
+<array>
+
+<!--    GLOBAL SETTINGS
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<dict>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+		<key>background</key><string>#2E2B28</string>
+
+		<key>caret</key><string>#EDE7CB</string>
+		<key>lineHighlight</key><string>#1E1B18</string>
+
+		<key>selection</key><string>#9D550F88</string>
+		<key>selectionBorder</key><string>#222222</string>
+
+		<key>findHighlight</key><string>#FFE792</string>
+		<key>findHighlightForeground</key><string>#000000</string>
+
+		<key>guide</key><string>#77777788</string>
+		<key>activeGuide</key><string>#9D550F88</string>
+
+		<key>tagsOptions</key><string>stippled_underline</string>
+
+		<key>bracketsForeground</key><string>#F8F8F2A5</string>
+		<key>bracketsOptions</key><string>underline</string>
+
+		<key>bracketContentsForeground</key><string>#F8F8F2A5</string>
+		<key>bracketContentsOptions</key><string>underline</string>
+	</dict>
+</dict>
+
+<!--    COMMENT
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<dict>
+	<key>scope</key><string>comment</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#728083</string>
+	</dict>
+</dict>
+
+<!--    CONSTANT
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!--
+constant.numeric: 42, 1.3f, 0x4AB1U
+constant.character: &lt;, \e, \031
+constant.language: true, false, nil, yes, no, etc
+constant.other: colors in CSS
+-->
+<dict>
+	<key>scope</key><string>constant</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>constant.other.placeholder, constant.character.escape</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+
+<!--    ENTITY
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!--
+entity
+entity.name
+entity.name.function
+entity.name.type: classes / interfaces
+entity.name.tag: <html>
+entity.name.section
+entity.other
+entity.other.inherited-class: classes / interfaces
+entity.other.attribute-name: html attributes
+-->
+<dict>
+	<key>scope</key><string>entity, support.class, support.type</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+
+<!--    INVALID
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!--
+invalid.illegal: & or < in HTML
+invalid.deprecated
+-->
+<dict>
+	<key>scope</key><string>invalid</string>
+	<key>settings</key>
+	<dict>
+		<key>background</key><string>#FD4040</string>
+	</dict>
+</dict>
+
+<!--    KEYWORD
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!--
+keyword.control: if, try, continue, while, return
+keyword.operator: &&, or, <<, +, *, ->
+keyword.other
+-->
+<dict>
+	<key>scope</key><string>keyword</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+
+<!--    MARKUP
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!--
+markup.underline
+markup.underline.link
+markup.heading: # foo
+markup.italic: _foo_
+markup.bold: __foo__
+markup.list
+markup.list.numbered
+markup.list.unnumbered
+markup.quote: > foo
+markup.raw: `foo`, ``` foo ```
+markup.other
+-->
+<dict>
+	<key>scope</key><string>markup</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+
+<!--    STORAGE
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!--
+storage.type: class, function, int, var
+storage.modifier: static, final, abstract
+-->
+<dict>
+	<key>scope</key><string>storage</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#26B5A3</string>
+	</dict>
+</dict>
+
+<!--    STRING
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!--
+string.quoted
+string.quoted.single
+string.quoted.double
+string.quoted.triple: """Python docstring"""
+string.quoted.other: $'shell', %s{...}
+string.unquoted: here-docs
+string.interpolated: `ls`, $(pwd).
+string.regexp: /(\w+)/
+string.other
+-->
+<dict>
+	<key>scope</key><string>string</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+
+<!--    VARIABLE
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!--
+variable.parameter
+variable.language: this, super, self
+variable.other: $x
+-->
+<dict>
+	<key>scope</key><string>variable.language</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+
+<!--    META
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!--
+meta.function
+-->
+
+<!--    SUPPORT
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!--
+support: * from framework / library
+support.function
+support.class
+support.type
+support.constant
+support.variable
+support.other
+-->
+
+<!--    C# ADDITIONS
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<dict>
+	<key>scope</key><string>constant.language.source.cs</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>meta.new-object.source.cs storage.modifier, meta.method.body.source.cs storage.modifier</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>meta.new-object.source.cs meta.method</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>meta.keyword.using.source.cs</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>entity.name.function.source.cs</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>source.cs storage.type</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>meta.method.return-type.source.cs</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>comment.block.documentation.source.cs entity, comment.block.documentation.source.cs punctuation.definition.tag</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#26B5A3</string>
+	</dict>
+</dict>
+
+<!--    C++ ADDITIONS
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<dict>
+	<key>scope</key><string>meta.class-struct-block.base-classes.c++</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>storage.type.c</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>entity.name.function.c++, entity.name.function.c</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>comment.block.documentation.javadoc keyword.other.documentation</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#26B5A3</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>meta.function.destructor.c++ entity.name.function.c++, meta.function.constructor.c++ entity.name.function.c++</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+
+<!--    JAVA ADDITIONS
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<dict>
+	<key>scope</key><string>storage.modifier.import.java</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>source.java storage.type</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>entity.name.function.java</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>comment.block.documentation.javadoc keyword.other.documentation</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#26B5A3</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>storage.type.annotation.java</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#26B5A3</string>
+	</dict>
+</dict>
+
+<!--    BRACKETHIGHLIGHTER ADDITIONS
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<dict>
+	<key>scope</key><string>brackethighlighter.curly</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>brackethighlighter.round</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>brackethighlighter.square</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>brackethighlighter.tag</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>brackethighlighter.angle</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>brackethighlighter.quote</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>brackethighlighter.unmatched</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+
+<!--    GITGUTTER ADDITIONS
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<dict>
+	<key>scope</key><string>markup.deleted</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>markup.inserted</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>markup.changed</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>markup.ignored</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#728083</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>markup.untracked</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#728083</string>
+	</dict>
+</dict>
+
+<!--    PHP ADDITIONS
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<dict>
+	<key>scope</key><string>support.function.construct.php</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>source.php variable.other.global</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>keyword.other.phpdoc.php</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#26B5A3</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>support.other.namespace.use.php</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>support.function.magic.php</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+
+<!--    JAVASCRIPT ADDITIONS
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<dict>
+	<key>scope</key><string>variable.function.constructor.js, variable.other.class.js</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>punctuation.separator.key-value.js</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#EDE7CB</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>source.js support.type.object</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+
+<!--    SCSS ADDITIONS
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<dict>
+	<key>scope</key><string>support.type.property-name.scss</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>support.constant.property-value.scss, support.constant.font-name.scss, support.constant.color.w3c-standard-color-name.scss</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>support.function.misc.scss</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>punctuation.definition.entity.scss</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>variable.interpolation.scss</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>variable.parameter.url.scss</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+
+<!--    CSS ADDITIONS
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<dict>
+	<key>scope</key><string>support.type.property-name.css</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>support.constant.property-value.css, support.constant.font-name.css, support.constant.color.w3c-standard-color-name.css</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>support.function.misc.css</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>punctuation.definition.entity.css</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+
+<!--    XML / SVG / HTML ADDITIONS
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<dict>
+	<key>scope</key><string>punctuation.definition.tag</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+
+<!--    MARKDOWN ADDITIONS
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<dict>
+	<key>scope</key><string>punctuation.definition.heading.markdown</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>meta.dummy.line-break</string>
+	<key>settings</key>
+	<dict>
+		<key>background</key><string>#728083</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>meta.separator.markdown</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#728083</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>markup.italic</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#269FD9</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>markup.bold</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FF942C</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>markup.quote</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#B4DC35</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>markup.raw</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#FD4040</string>
+	</dict>
+</dict>
+<dict>
+	<key>scope</key><string>markup.underline.link</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key><string>#26B5A3</string>
+	</dict>
+</dict>
+
+</array>
+<key>uuid</key>
+<string>53F7AEA9-E40C-A75F-A325-D093843EE2EA</string>
+</dict>
+</plist>
