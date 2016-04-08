@@ -1251,6 +1251,11 @@
     "Author": "Dayle Rees.",
     "Description": ""
 }, {
+    "Title": "Mars Peacock",
+    "FileName": "MarsPeacock.tmTheme",
+    "Author": "Odepax",
+    "Description": "A dark contrasted syntax color scheme for Sublime Text. Inspired by Peacock theme."
+}, {
     "Title": "peel",
     "FileName": "peel.tmTheme",
     "Author": "Dayle Rees.",
