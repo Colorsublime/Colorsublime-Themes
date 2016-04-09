@@ -1544,5 +1544,11 @@
     "FileName": "DarkMosquito.tmTheme",
     "Author": "Giovane de Oliveira",
     "Description": "A dark color scheme for Sublime Text, the colors are based on Google Chrome Dev Tools (Default Dark Theme). https://github.com/Mosquito13/DarkMosquito-Color-Scheme"
+},
+{
+    "Title": "Toothpaste",
+    "FileName": "toothpaste.tmTheme",
+    "Author": "Cat Noone",
+    "Description": "A custom editor theme with flavorful colors that pop and are muted where necessary. https://github.com/imcatnoone/toothpaste"
 }
 ]
