@@ -1544,5 +1544,11 @@
     "FileName": "DarkMosquito.tmTheme",
     "Author": "Giovane de Oliveira",
     "Description": "A dark color scheme for Sublime Text, the colors are based on Google Chrome Dev Tools (Default Dark Theme). https://github.com/Mosquito13/DarkMosquito-Color-Scheme"
+},
+{
+    "Title": "Humble Night",
+    "FileName": "Humble.tmTheme",
+    "Author": "weop",
+    "Description": "A minimalistic dark color theme that's easy on the eyes."
 }
 ]

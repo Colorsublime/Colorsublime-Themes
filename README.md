@@ -97,3 +97,4 @@ Themes creators
  - [Consigliere](http://github.com/clthck)
  - Giovane de Oliveira ([Mosquito13](https://github.com/Mosquito13))
  - Odepax ([Mars Peacock](https://github.com/Odepax/mars-peacock))
+ - weop ([weop](https://github.com/weop))
