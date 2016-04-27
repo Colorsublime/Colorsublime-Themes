@@ -1550,5 +1550,11 @@
     "FileName": "Humble.tmTheme",
     "Author": "weop",
     "Description": "A minimalistic dark color theme that's easy on the eyes."
+},
+{
+    "Title": "Monokai Charcoal",
+    "FileName": "Monokai-Charcoal.tmTheme",
+    "Author": "Luka Kotar",
+    "Description": "A Monokai theme with a near-black purple background and a soft orange selection color."
 }
 ]
