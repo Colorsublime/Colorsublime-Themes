@@ -80,13 +80,24 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>Other variable</string>
+      <string>Other variable objct</string>
       <key>scope</key>
-      <string>variable.other.class</string>
+      <string>variable.other.object</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
         <string>#CAB990</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Other variable class</string>
+      <key>scope</key>
+      <string>variable.other.class, variable.other.constant</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#F1C050</string>
       </dict>
     </dict>
     <dict>
