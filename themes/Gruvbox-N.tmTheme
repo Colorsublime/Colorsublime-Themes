@@ -104,7 +104,7 @@
       <key>name</key>
       <string>Keyword</string>
       <key>scope</key>
-      <string>keyword</string>
+      <string>keyword, string.regexp punctuation.definition</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -229,7 +229,7 @@
       <key>name</key>
       <string>Library class/type</string>
       <key>scope</key>
-      <string>support.type, support.class, support.function, variable.language, support.constant</string>
+      <string>support.type, support.class, support.function, variable.language, support.constant, string.regexp keyword.control</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -240,7 +240,7 @@
       <key>name</key>
       <string>Template string element</string>
       <key>scope</key>
-      <string>punctuation.template-string.element</string>
+      <string>punctuation.template-string.element, string.regexp punctuation.definition.group, constant.character.escape</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
