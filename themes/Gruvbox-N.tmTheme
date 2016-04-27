@@ -148,13 +148,11 @@
       <key>name</key>
       <string>Class name</string>
       <key>scope</key>
-      <string>entity.name.class</string>
+      <string>entity.name.class, entity.name.type.class</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
         <string>#BABC52</string>
-        <key>fontStyle</key>
-        <string> italic</string>
       </dict>
     </dict>
     <dict>
@@ -165,7 +163,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#8AB572</string>
+        <string>#7BA093</string>
       </dict>
     </dict>
     <dict>
@@ -176,7 +174,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#7BA093</string>
+        <string>#8AB572</string>
       </dict>
     </dict>
     <dict>
