@@ -1556,6 +1556,8 @@
     "FileName": "Monokai-Charcoal.tmTheme",
     "Author": "Luka Kotar",
     "Description": "A Monokai theme with a near-black purple background and a soft orange selection color."
+},
+{
     "Title": "Toothpaste",
     "FileName": "toothpaste.tmTheme",
     "Author": "Cat Noone",
