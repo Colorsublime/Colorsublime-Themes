@@ -80,9 +80,9 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>Variable oject</string>
+      <string>Other variable</string>
       <key>scope</key>
-      <string>variable.other</string>
+      <string>variable.other.class</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
