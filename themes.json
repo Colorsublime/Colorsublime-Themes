@@ -1251,6 +1251,11 @@
     "Author": "Dayle Rees.",
     "Description": ""
 }, {
+    "Title": "Mars Peacock",
+    "FileName": "MarsPeacock.tmTheme",
+    "Author": "Odepax",
+    "Description": "A dark contrasted syntax color scheme for Sublime Text. Inspired by Peacock theme."
+}, {
     "Title": "peel",
     "FileName": "peel.tmTheme",
     "Author": "Dayle Rees.",
@@ -1539,5 +1544,17 @@
     "FileName": "DarkMosquito.tmTheme",
     "Author": "Giovane de Oliveira",
     "Description": "A dark color scheme for Sublime Text, the colors are based on Google Chrome Dev Tools (Default Dark Theme). https://github.com/Mosquito13/DarkMosquito-Color-Scheme"
+},
+{
+    "Title": "Humble Night",
+    "FileName": "Humble.tmTheme",
+    "Author": "weop",
+    "Description": "A minimalistic dark color theme that's easy on the eyes."
+},
+{
+    "Title": "Monokai Charcoal",
+    "FileName": "Monokai-Charcoal.tmTheme",
+    "Author": "Luka Kotar",
+    "Description": "A Monokai theme with a near-black purple background and a soft orange selection color."
 }
 ]
