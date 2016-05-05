@@ -68,7 +68,12 @@
     "FileName": "Hammer.tmTheme",
     "Author": "Jared Christensen",
     "Description": "A Dark theme focused on front end languages. Based off of the Bespin theme fond in Notepad ++"
-},{
+}, {
+    "Title": "Henanigans",
+    "FileName": "Henanigans.tmTheme",
+    "Author": "Alex Braun",
+    "Description": "Henanigans theme for Sublime.  Theme available for iPython Notebook, Stylish, iTerm and others."
+}, {
     "Title": "Daguiheso",
     "FileName": "Daguiheso.tmTheme",
     "Author": "Daniel Hernandez",
