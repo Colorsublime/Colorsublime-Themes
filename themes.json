@@ -1567,5 +1567,17 @@
     "FileName": "toothpaste.tmTheme",
     "Author": "Cat Noone",
     "Description": "A custom editor theme with flavorful colors that pop and are muted where necessary. https://github.com/imcatnoone/toothpaste"
+},
+{
+    "Title": "Candy_Brights",
+    "FileName": "Candy_Brights.tmTheme",
+    "Author": "fullerenedream",
+    "Description": "Candy Land modified to have some more saturated colors. https://github.com/fullerenedream/sublime-themes/blob/master/Candy_Brights.tmTheme"
+},
+{
+    "Title": "FluoroMachine",
+    "FileName": "FluoroMachine.tmTheme",
+    "Author": "fullerenedream",
+    "Description": "Evokes the glow of fluorescent pigments under ultraviolet light. https://github.com/fullerenedream/sublime-themes/blob/master/FluoroMachine.tmTheme"
 }
 ]
