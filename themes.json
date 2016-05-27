@@ -1579,5 +1579,17 @@
     "FileName": "FluoroMachine.tmTheme",
     "Author": "fullerenedream",
     "Description": "Evokes the glow of fluorescent pigments under ultraviolet light. https://github.com/fullerenedream/sublime-themes/blob/master/FluoroMachine.tmTheme"
+},
+{
+    "Title": "Another Kolor (Dark)",
+    "FileName": "Another_Kolor_Dark.tmTheme",
+    "Author": "danyadsmith",
+    "Description": "A dark theme inspired by Kolor for Espresso 2. https://github.com/danyadsmith/AnotherKolor/"
+},
+{
+    "Title": "Another Kolor (Light)",
+    "FileName": "Another_Kolor_Light.tmTheme",
+    "Author": "danyadsmith",
+    "Description": "A light theme inspired by Kolor for Espresso 2. https://github.com/danyadsmith/AnotherKolor/"
 }
 ]
