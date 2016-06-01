@@ -28,7 +28,7 @@
 				<key>findHighlightForeground</key>
 				<string>#FFFFFF</string>
 				<key>foreground</key>
-				<string>#878787</string>
+				<string>#FFFFFF</string>
 				<key>guide</key>
 				<string>#525252</string>
 				<key>inactiveSelection</key>
@@ -154,7 +154,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FCD660</string>
+				<string>#abe9fb</string>
 			</dict>
 		</dict>
 		<dict>
@@ -261,7 +261,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FCD660</string>
+				<string>#BDEC35</string>
 			</dict>
 		</dict>
 		<dict>
