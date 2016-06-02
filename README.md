@@ -56,7 +56,7 @@ Themes creators
  - Ankur Gupta
  - Antonia Ciocodeica
  - Arjen de Vries
- - [Arkadiusz Wieczorek](https://github.com/debian-sh)
+ - Arkadiusz Wieczorek
  - Aron Wouters
  - ART-ifact Dev | Jeremias Arnstadt
  - Austin Cummings
@@ -127,6 +127,7 @@ Themes creators
  - Justin .K ([SirWags](https://github.com/SirWags))
  - Justin Loudermilk
  - kaneofawesome
+ - Kaushalya Mandaliya [krman009](https://github.com/krman009)
  - Ken Wheeler
  - [Kiswono Prayogo](http://github.com/kokizzu)
  - Koen Lageveen
@@ -137,13 +138,13 @@ Themes creators
  - Luka Kotar
  - Luke Shiels ([DancingPanda](https://github.com/shielsasaurus))
  - Manuel Barkhau
- - [Manuel Ebert](github.com/maebert)
+ - Manuel Ebert
  - Marian Zagoruiko
  - Mark Herpich (Mark Michos)
- - [Mark Michos](https://www.twitter.com/TheMarkWithK)
+ - Mark Michos
  - Martin Jagusch
  - Martin KÃ¼hl
- - [MattDMo github](https://github.com/MattDMo) [MattDMo git.io](http://git.io/b4kU)
+ - [MattDMo github](https://github.com/MattDMo)
  - [Mattia Astorino](https://github.com/equinusocio)
  - Mats Persson
  - Maximiliano Canellas
@@ -151,13 +152,13 @@ Themes creators
  - Michael Hrishenko
  - Michael Obrocnik (mbixby)
  - Michael Sheets
- - Michelle Liu([anonmily](http://github.com/anonmily))
+ - Michelle Liu ([anonmily](http://github.com/anonmily))
  - [Mims H. Wright](https://github.com/mimshwright)
  - Muukii
  - Nath Arduini
  - Neil Cresswell ([Dark Room](https://github.com/NeilCresswell/themes) themes)
  - Nhat Nguyen
- - [Nick Eddy](http://www.textmatetheme.com/resesif)
+ - Nick Eddy
  - Odepax ([Mars Peacock](https://github.com/Odepax/mars-peacock))
  - Ofer Reichman ([oferei](http://oferei.com/))
  - [Omar Mashaal](https://github.com/mashaal)
@@ -170,7 +171,7 @@ Themes creators
  - Rafal Lindemann
  - [Randall Koutnik](https://github.com/SomeKittens/ST-Hot-Dog-Stand)
  - Randy Lai, Jon Schlinkert
- - Ricardo Muniz Crespo, [http://github.com/ricardomuniz](http://github.com/ricardomuniz)
+ - Ricardo Muniz Crespo
  - [Ritashugisha](https://github.com/ritashugisha)
  - Rubens ([Stulzer](https://github.com/stulzer))
  - Ryan Burgess
@@ -186,8 +187,8 @@ Themes creators
  - Stanley Rost
  - [Stephen Kamenar](https://github.com/farzher)
  - Stephen Underwood
- - [Steve Lacy](github.com/stevelacy)
- - [Taiwo Kareem](https://github.com/tushortz)[Wildlife](https://packagecontrol.io/packages/Wildlife%20Color%20Scheme)
+ - Steve Lacy
+ - [Taiwo Kareem](https://github.com/tushortz) - [Wildlife](https://packagecontrol.io/packages/Wildlife%20Color%20Scheme)
  - Thomas Aylott
  - Todd Budnikas
  - [Todd Miller](https://github.com/Toddses/coffee/)
@@ -211,4 +212,4 @@ Themes creators
  - Youssef Haiti, youssman
  - [Yucheng Tu](https://github.com/Pirolf)
  - [Zayn Ali](https://github.com/zaynali53)
- - Zeno Rocha and Kaushalya Mandaliya [zenorocha](https://github.com/zenorocha) [krman009](https://github.com/krman009)
+ - Zeno Rocha [zenorocha](https://github.com/zenorocha)
