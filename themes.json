@@ -605,6 +605,11 @@
     "Author": "Allan Odgaard",
     "Description": ""
 }, {
+    "Title": "Material",
+    "FileName": "Material.tmTheme",
+    "Author": "Bernardo Anderson",
+    "Description": "A modified Material theme based on equinusocio's original"
+}, {
     "Title": "Mcedit",
     "FileName": "Mcedit.tmTheme",
     "Author": "Created by DeeJayy, http://deejayy.hu/",
