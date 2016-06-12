@@ -1608,5 +1608,11 @@
     "FileName": "DarkKorokai.tmTheme",
     "Author": "WhosMyName",
     "Description": "A darker theme inspired by Monokai for Sublime, VSCode and others. Black Background and a Striking Color Scheme. https://github.com/WhosMyName/Dark-Korokai"
+},
+{
+    "Title": "LightBlue",
+    "FileName": "LightBlue.tmTheme",
+    "Author": "svencicky",
+    "Description": "A simple light blue theme. https://github.com/svencicky/sublime"
 }
 ]
