@@ -1614,5 +1614,11 @@
     "FileName": "Cozy.tmTheme",
     "Author": "zchen9",
     "Description": "A custom editor theme with colorful colors. https://github.com/zchen9/sublime-color-scheme"
+},
+{
+    "Title": "LightBlue",
+    "FileName": "LightBlue.tmTheme",
+    "Author": "svencicky",
+    "Description": "A simple light blue theme. https://github.com/svencicky/sublime"
 }
 ]
