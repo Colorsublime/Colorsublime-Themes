@@ -1,5 +1,11 @@
 [
 {
+    "Title": "Sister Tardis",
+    "FileName": "SisterTardis.tmTheme",
+    "Author": "@sayhellotovanessa",
+    "Description": "Based on the BBC show, Dr.Who."
+},
+{
     "Title": "Art School",
     "FileName": "ArtSchool.tmTheme",
     "Author": "irstacks",
@@ -68,7 +74,12 @@
     "FileName": "Hammer.tmTheme",
     "Author": "Jared Christensen",
     "Description": "A Dark theme focused on front end languages. Based off of the Bespin theme fond in Notepad ++"
-},{
+}, {
+    "Title": "Henanigans",
+    "FileName": "Henanigans.tmTheme",
+    "Author": "Alex Braun",
+    "Description": "Henanigans theme for Sublime.  Theme available for iPython Notebook, Stylish, iTerm and others."
+}, {
     "Title": "Daguiheso",
     "FileName": "Daguiheso.tmTheme",
     "Author": "Daniel Hernandez",
@@ -593,6 +604,11 @@
     "FileName": "MagicWB_Amiga.tmTheme",
     "Author": "Allan Odgaard",
     "Description": ""
+}, {
+    "Title": "Material",
+    "FileName": "Material.tmTheme",
+    "Author": "Bernardo Anderson",
+    "Description": "A modified Material theme based on equinusocio's original"
 }, {
     "Title": "Mcedit",
     "FileName": "Mcedit.tmTheme",
@@ -1556,6 +1572,48 @@
     "FileName": "Monokai-Charcoal.tmTheme",
     "Author": "Luka Kotar",
     "Description": "A Monokai theme with a near-black purple background and a soft orange selection color."
+},
+{
+    "Title": "Toothpaste",
+    "FileName": "toothpaste.tmTheme",
+    "Author": "Cat Noone",
+    "Description": "A custom editor theme with flavorful colors that pop and are muted where necessary. https://github.com/imcatnoone/toothpaste"
+},
+{
+    "Title": "Candy_Brights",
+    "FileName": "Candy_Brights.tmTheme",
+    "Author": "fullerenedream",
+    "Description": "Candy Land modified to have some more saturated colors. https://github.com/fullerenedream/sublime-themes/blob/master/Candy_Brights.tmTheme"
+},
+{
+    "Title": "FluoroMachine",
+    "FileName": "FluoroMachine.tmTheme",
+    "Author": "fullerenedream",
+    "Description": "Evokes the glow of fluorescent pigments under ultraviolet light. https://github.com/fullerenedream/sublime-themes/blob/master/FluoroMachine.tmTheme"
+},
+{
+    "Title": "Another Kolor (Dark)",
+    "FileName": "Another_Kolor_Dark.tmTheme",
+    "Author": "danyadsmith",
+    "Description": "A dark theme inspired by Kolor for Espresso 2. https://github.com/danyadsmith/AnotherKolor/"
+},
+{
+    "Title": "Another Kolor (Light)",
+    "FileName": "Another_Kolor_Light.tmTheme",
+    "Author": "danyadsmith",
+    "Description": "A light theme inspired by Kolor for Espresso 2. https://github.com/danyadsmith/AnotherKolor/"
+},
+{
+    "Title": "Dark Korokai",
+    "FileName": "DarkKorokai.tmTheme",
+    "Author": "WhosMyName",
+    "Description": "A darker theme inspired by Monokai for Sublime, VSCode and others. Black Background and a Striking Color Scheme. https://github.com/WhosMyName/Dark-Korokai"
+},
+{
+    "Title": "LightBlue",
+    "FileName": "LightBlue.tmTheme",
+    "Author": "svencicky",
+    "Description": "A simple light blue theme. https://github.com/svencicky/sublime"
 },
 {
     "Title": "Gruvbox-N",
