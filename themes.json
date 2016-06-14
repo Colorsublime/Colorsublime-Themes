@@ -1556,5 +1556,11 @@
     "FileName": "Monokai-Charcoal.tmTheme",
     "Author": "Luka Kotar",
     "Description": "A Monokai theme with a near-black purple background and a soft orange selection color."
+},
+{
+    "Title": "Gruvbox-N",
+    "FileName": "Gruvbox-N.tmTheme",
+    "Author": "Nicola Peduzzi",
+    "Description": "A Gruvbox inspired theme with a retro look, pastel colors."
 }
 ]

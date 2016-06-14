@@ -137,18 +137,7 @@
       <key>name</key>
       <string>Storage</string>
       <key>scope</key>
-      <string>storage</string>
-      <key>settings</key>
-      <dict>
-        <key>foreground</key>
-        <string>#FB4938</string>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>Storage type</string>
-      <key>scope</key>
-      <string>storage.type</string>
+      <string>storage, storage.type</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -181,7 +170,7 @@
       <key>name</key>
       <string>Inherited class</string>
       <key>scope</key>
-      <string>entity.other.inherited-class</string>
+      <string>entity.other.inherited-class, tag.decorator, tag.decorator entity.name.tag</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -192,7 +181,7 @@
       <key>name</key>
       <string>Function name</string>
       <key>scope</key>
-      <string>meta.function entity.name.function</string>
+      <string>entity.name.function, meta.function entity.name.function</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -203,7 +192,7 @@
       <key>name</key>
       <string>Function argument</string>
       <key>scope</key>
-      <string>variable.parameter</string>
+      <string>variable.parameter, meta.function storage.type</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -290,7 +279,7 @@
       <key>name</key>
       <string>Operator</string>
       <key>scope</key>
-      <string>keyword.operator, keyword.operator.logical, meta.property-name, meta.brace, punctuation.definition.parameters.begin,  punctuation.definition.parameters.end</string>
+      <string>keyword.operator, keyword.operator.logical, meta.property-name, meta.brace, punctuation.definition.parameters.begin, punctuation.definition.parameters.end, keyword.other.parenthesis</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
