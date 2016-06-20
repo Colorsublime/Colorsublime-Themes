@@ -1614,5 +1614,11 @@
     "FileName": "LightBlue.tmTheme",
     "Author": "svencicky",
     "Description": "A simple light blue theme. https://github.com/svencicky/sublime"
+},
+{
+    "Title": "Yuba",
+    "FileName": "yuba.tmTheme",
+    "Author": "yuriybabenko",
+    "Description": "Clean look & feel based on 'Green Chaud' for Aptana & Eclipse. https://github.com/yuriybabenko/sublime-yuba"
 }
 ]
