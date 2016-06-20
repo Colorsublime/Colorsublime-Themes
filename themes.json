@@ -1616,6 +1616,12 @@
     "Description": "A darker theme inspired by Monokai for Sublime, VSCode and others. Black Background and a Striking Color Scheme. https://github.com/WhosMyName/Dark-Korokai"
 },
 {
+    "Title": "Cozy",
+    "FileName": "Cozy.tmTheme",
+    "Author": "zchen9",
+    "Description": "A custom editor theme with colorful colors. https://github.com/zchen9/sublime-color-scheme"
+},
+{
     "Title": "LightBlue",
     "FileName": "LightBlue.tmTheme",
     "Author": "svencicky",
