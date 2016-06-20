@@ -2,3 +2,5 @@
 autoloader.js
 themes_tmp.json
 node_modules
+npm-debug.log
+.DS_Store

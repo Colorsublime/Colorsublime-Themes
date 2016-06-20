@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+# Focus
+# Code editor color theme that lets you focus on the content
+# https://github.com/sindresorhus/focus
+# MIT license © Sindre Sorhus - sindresorhus.com
+-->
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Focus (dark)</string>
+	<key>author</key>
+	<string>Sindre Sorhus</string>
+	<key>comment</key>
+	<string>https://github.com/sindresorhus/focus</string>
+	<key>semanticClass</key>
+	<string>theme.dark.focus</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#1b1d1f</string>
+				<key>caret</key>
+				<string>#b6b7b5</string>
+				<key>foreground</key>
+				<string>#c2c5bd</string>
+				<key>invisibles</key>
+				<string>#43464c</string>
+				<key>lineHighlight</key>
+				<string>#212325</string>
+				<key>selection</key>
+				<string>#34373b</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>All</string>
+			<key>scope</key>
+			<string>comment, constant, entity, invalid, keyword, markup, meta, storage, string, support, variable, source</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#34373b</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Show</string>
+			<key>scope</key>
+			<string>string.quoted, meta.paragraph, entity.name.section</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c5c8c6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Show LaTeX</string>
+			<key>scope</key>
+			<!--
+			inline macros like: \LaTeX{}
+				text.tex.latex support.function.general.tex, support.function.section.latex
+
+			block math
+				string.other.math.block.environment.latex, string.other.math.block.environment.latex support.function.general.tex
+
+			inline math
+				text.tex.latex string.other.math.tex, text.tex.latex constant.other.general.math.tex, text.tex.latex string.other.math.tex meta.group.braces.tex
+
+			quotes doesn't nessecarily mean a string in latex. don't hide them.
+				text.tex.latex invalid.illegal.string
+			-->
+			<string>text.tex.latex support.function.general.tex, support.function.section.latex, string.other.math.block.environment.latex, string.other.math.block.environment.latex support.function.general.tex, text.tex.latex string.other.math.tex, text.tex.latex constant.other.general.math.tex, text.tex.latex string.other.math.tex meta.group.braces.tex, text.tex.latex invalid.illegal.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#999b99</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hide quoted strings in HTML/XML</string>
+			<key>scope</key>
+			<string>string.quoted.double.html, string.quoted.double.xml</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#34373b</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown show</string>
+			<key>scope</key>
+			<string>markup.raw.inline.markdown, string.other.link.title.markdown, string.other.link.description.markdown, markup.quote.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c5c8c6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown show subtle</string>
+			<key>scope</key>
+			<string>markup.underline.link.markdown, markup.underline.link.image.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#999b99</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown hide</string>
+			<key>scope</key>
+			<string>meta.image.inline.markdown, meta.link.inline.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#34373b</string>
+			</dict>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>6c2ee786-f793-4425-a706-81cb9f883a9e</string>
+</dict>
+</plist>
