@@ -1614,5 +1614,11 @@
     "FileName": "LightBlue.tmTheme",
     "Author": "svencicky",
     "Description": "A simple light blue theme. https://github.com/svencicky/sublime"
+},
+{
+    "Title": "Gruvbox-N",
+    "FileName": "Gruvbox-N.tmTheme",
+    "Author": "Nicola Peduzzi",
+    "Description": "A Gruvbox inspired theme with a retro look, pastel colors."
 }
 ]
