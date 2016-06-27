@@ -1632,5 +1632,11 @@
     "FileName": "Gruvbox-N.tmTheme",
     "Author": "Nicola Peduzzi",
     "Description": "A Gruvbox inspired theme with a retro look, pastel colors."
+},
+{
+    "Title": "Zero Dark Matrix",
+    "FileName": "ZeroDarkMatrix.tmTheme",
+    "Author": "Maurice Cruz",
+    "Description": "Zero Dark Matrix for SublimeText. https://gist.github.com/mauricecruz/9e0501a34ec1382fb509"
 }
 ]
