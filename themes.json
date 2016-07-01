@@ -1605,13 +1605,13 @@
 },
 {
     "Title": "Foggy Evening",
-    "FileName": "Foggy Evening.tmTheme",
+    "FileName": "Foggy-Evening.tmTheme",
     "Author": "Brian Mock (@wavebeem)",
     "Description": "A dark and foggy theme https://github.com/wavebeem/sublime-theme-foggy-evening"
 },
 {
     "Title": "Foggy Morning",
-    "FileName": "Foggy Morning.tmTheme",
+    "FileName": "Foggy-Morning.tmTheme",
     "Author": "Brian Mock (@wavebeem)",
     "Description": "A light and foggy theme https://github.com/wavebeem/sublime-theme-foggy-morning"
 },
