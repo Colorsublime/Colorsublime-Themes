@@ -1638,5 +1638,11 @@
     "FileName": "ZeroDarkMatrix.tmTheme",
     "Author": "Maurice Cruz",
     "Description": "Zero Dark Matrix for SublimeText. https://gist.github.com/mauricecruz/9e0501a34ec1382fb509"
+},
+{
+    "Title": "anamo",
+    "FileName": "anamo.tmTheme",
+    "Author": "theelous3",
+    "Description": "A clear semi-neon-pastel theme on a calm blue-grey background."
 }
 ]
