@@ -1156,6 +1156,11 @@
     "Author": "Josema Enzo",
     "Description": "The best of Monokai and Aurora themes."
 }, {
+    "Title": "dop",
+    "FileName": "dop.tmTheme",
+    "Author": "Josema Enzo",
+    "Description": "Distributed Object Protocol theme."
+}, {
     "Title": "Bungler",
     "FileName": "Bungler.tmTheme",
     "Author": "Josh Burgess",
