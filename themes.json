@@ -1638,5 +1638,11 @@
     "FileName": "ZeroDarkMatrix.tmTheme",
     "Author": "Maurice Cruz",
     "Description": "Zero Dark Matrix for SublimeText. https://gist.github.com/mauricecruz/9e0501a34ec1382fb509"
+},
+{
+    "Title": "EditPlus",
+    "FileName": "EditPlus.tmTheme",
+    "Author": "George Stockfisch, orig. auth Kobzarev Mikhail ",
+    "Description": "A copy of the ditplus theme, originally from https://github.com/mihdan/Editplus-Theme-for-Sublime-Text-2/blob/master/EditPlus.tmTheme"
 }
 ]
