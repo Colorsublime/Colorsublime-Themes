@@ -1156,6 +1156,11 @@
     "Author": "Josema Enzo",
     "Description": "The best of Monokai and Aurora themes."
 }, {
+    "Title": "dop",
+    "FileName": "dop.tmTheme",
+    "Author": "Josema Enzo",
+    "Description": "Distributed Object Protocol theme."
+}, {
     "Title": "Bungler",
     "FileName": "Bungler.tmTheme",
     "Author": "Josh Burgess",
@@ -1604,6 +1609,18 @@
     "Description": "A dark theme inspired by Kolor for Espresso 2. https://github.com/danyadsmith/AnotherKolor/"
 },
 {
+    "Title": "Foggy Evening",
+    "FileName": "Foggy-Evening.tmTheme",
+    "Author": "Brian Mock (@wavebeem)",
+    "Description": "A dark and foggy theme https://github.com/wavebeem/sublime-theme-foggy-evening"
+},
+{
+    "Title": "Foggy Morning",
+    "FileName": "Foggy-Morning.tmTheme",
+    "Author": "Brian Mock (@wavebeem)",
+    "Description": "A light and foggy theme https://github.com/wavebeem/sublime-theme-foggy-morning"
+},
+{
     "Title": "Another Kolor (Light)",
     "FileName": "Another_Kolor_Light.tmTheme",
     "Author": "danyadsmith",
@@ -1638,6 +1655,12 @@
     "FileName": "ZeroDarkMatrix.tmTheme",
     "Author": "Maurice Cruz",
     "Description": "Zero Dark Matrix for SublimeText. https://gist.github.com/mauricecruz/9e0501a34ec1382fb509"
+},
+{
+    "Title": "EditPlus",
+    "FileName": "EditPlus.tmTheme",
+    "Author": "George Stockfisch, orig. auth Kobzarev Mikhail ",
+    "Description": "A copy of the ditplus theme, originally from https://github.com/mihdan/Editplus-Theme-for-Sublime-Text-2/blob/master/EditPlus.tmTheme"
 },
 {
     "Title": "anamo",
