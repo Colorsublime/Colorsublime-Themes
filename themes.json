@@ -1661,5 +1661,11 @@
     "FileName": "EditPlus.tmTheme",
     "Author": "George Stockfisch, orig. auth Kobzarev Mikhail ",
     "Description": "A copy of the ditplus theme, originally from https://github.com/mihdan/Editplus-Theme-for-Sublime-Text-2/blob/master/EditPlus.tmTheme"
+},
+{
+    "Title": "Muted Rainbow",
+    "FileName": "mutedrainbow_sky.tmTheme",
+    "Author": "lxzdxmxn",
+    "Description": ""
 }
 ]
