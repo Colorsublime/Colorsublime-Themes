@@ -1,5 +1,17 @@
 [
 {
+    "Title": "Kary Foundation - Light",
+    "FileName": "karyfoundation-light.tmTheme",
+    "Author": "Kary Foundation",
+    "Description": "The candy theme that makes your code a rainbow of joy!"
+},
+{
+    "Title": "Kary Foundation - Dark",
+    "FileName": "karyfoundation-dark.tmTheme",
+    "Author": "Kary Foundation",
+    "Description": "The candy theme that makes your code a rainbow of joy!"
+},
+{
     "Title": "Neon Dark",
     "FileName": "NeonDark.tmTheme",
     "Author": "Jack Doyle",
