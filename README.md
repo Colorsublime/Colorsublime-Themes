@@ -39,62 +39,177 @@ $ npm run test
 ## Credits
 
 Themes creators
- - [LingTalfi](https://github.com/lingtalfi)
- - [Zayn Ali](https://twitter.com/zaynali53)
- - Neil Cresswell ([Dark Room](https://github.com/NeilCresswell/themes) themes)
- - [Dave Luke Jr](http://davelukejr.com)
- - David Heinemeier Hansson
- - Amy
- - Blackboard
- - Thomas Aylott
- - Austin Cummings
- - Jacob Rus
- - David Powers
- - Eiffel
- - Chris Thomas
- - Michael Obrocnik (mbixby)
- - Martin Kühl
- - Luke Shiels ([DancingPanda](https://github.com/shielsasaurus))
- - Domenico Carbotta
- - Todd Werth
- - Allan Odgaard
- - Created by DeeJayy, http://deejayy.hu/
- - Mats Persson
- - Poyeyo
- - William D. Neumann
- - Alex Ross
- - Stanley Rost
- - Michael Sheets
- - Jeroen van der Ham
- - [Mims H. Wright](https://github.com/mimshwright)
- - James Brooks
- - Ludvig Widman
- - Ofer Reichman ([oferei](http://oferei.com/))
- - Jan T. Sott
- - Ricardo Muniz Crespo, [http://github.com/ricardomuniz](http://github.com/ricardomuniz)
- - dbaker ([https://github.com/d-baker](https://github.com/d-baker))
- - Rubens ([Stulzer](https://github.com/stulzer))
- - Saad Quadri ([saadq](https://github.com/saadq))
- - Ethan Welborn ([welbornio](https://github.com/welbornio))
- - Travis Lehman ([tehtrav](http://twitter.com/tehtrav))
- - Shakeel Mohamed ([_Shakeel](http://twitter.com/_Shakeel))
+ - @codex8
+ - @Jzechy
+ - @ralts00, @jceb
+ - @rselwyn
+ - @sayhellotovanessa
+ - 1ClickComputing
+ - Adi
  - Aleksander Fras ([AlFra432](http://twitter.com/AlFra432))
- - [Sindre Sorhus](http://sindresorhus.com)
- - [Pixel Lab](http://thinkpixellab.com/)
- - [George Kampolis](http://www.gkampolis.com)
- - [dncrews](http://github.com/dncrews)
- - [Kiswono Prayogo](http://github.com/kokizzu)
- - [Mark Michos](https://www.twitter.com/TheMarkWithK)
- - Justin .K ([SirWags](https://github.com/SirWags))
- - Michelle Liu([anonmily](http://github.com/anonmily))
- - [HaCk3D](https://github.com/HaCk3Dq)
- - [MattDMo](https://github.com/MattDMo)
- - [Ritashugisha](https://github.com/ritashugisha)
- - [Younes Zakaria](https://github.com/drcd)
- - [Taiwo Kareem](https://github.com/tushortz) - [Wildlife](https://packagecontrol.io/packages/Wildlife%20Color%20Scheme)
- - [irstacks](https://github.com/irstacks)
- - [Praveen Puglia](http://praveenpuglia.com)
+ - Alex Braun
+ - Alex King
+ - Alex Ross
+ - Allan Odgaard
+ - Amy
+ - Anderson Brantes
+ - Ankur Gupta
+ - Antonia Ciocodeica
+ - Arjen de Vries
+ - Arkadiusz Wieczorek
+ - Aron Wouters
+ - ART-ifact Dev | Jeremias Arnstadt
+ - Austin Cummings
+ - Author
+ - Battlelore
+ - Ben de Castro
+ - Blackboard
+ - Blake Stephens
+ - bmxryder711
+ - Branko Tomi? â€“ klomontes
+ - CalebAmesbury.com
+ - [Cat Noone](https://github.com/imcatnoone)
+ - Chris Acky
+ - [Christopher Kaster](https://github.com/kasoki)
+ - Chris Thomas
+ - Cimpean Andrei
+ - Cipriani Mike
+ - [Colin T.A. Gray](https://github.com/colinta)
  - [Consigliere](http://github.com/clthck)
+ - Created by DeeJayy, http://deejayy.hu/
+ - Damien Guard
+ - Daniel Hernandez
+ - [Daniel Pintilei](https://danielpintilei.cf)
+ - [danyadsmith](https://github.com/danyadsmith)
+ - [Dave Luke Jr](http://davelukejr.com)
+ - Dave Tate
+ - David Heinemeier Hansson
+ - David Powers
+ - Dayle Rees.
+ - dbaker ([https://github.com/d-baker](https://github.com/d-baker))
+ - Devin Rhode
+ - Dmitri Voronianski
+ - Dmitry Pinchukov
+ - [dncrews](http://github.com/dncrews)
+ - Domenico Carbotta
+ - Eiffel
+ - Enrico Friede
+ - Ethan Welborn ([welbornio](https://github.com/welbornio))
+ - Evan Dull
+ - [Fatih Kececi](https://github.com/UnderlineWords)
+ - Felipe Martinin
+ - Fernando Guisso
+ - [fullerenedream](https://github.com/fullerenedream)
+ - [George Kampolis](http://www.gkampolis.com)
  - Giovane de Oliveira ([Mosquito13](https://github.com/Mosquito13))
+ - Grant Eagon
+ - [HaCk3D](https://github.com/HaCk3Dq)
+ - [irstacks](https://github.com/irstacks)
+ - Ivan Kuzmin
+ - Jacob Rus
+ - James Brooks
+ - Jan T. Sott
+ - Jared Christensen
+ - [Jarno van Rhijn](https://github.com/jarnovanrhijn)
+ - JD Isaacks
+ - Jefersson Nathan
+ - Jeroen van der Ham
+ - Joe Bergantine
+ - Johan Tique
+ - John-Paul Bader
+ - Jonas Hermsmeier
+ - Jonathan Santos
+ - JosÃ© F. Romaniello
+ - Josema Enzo
+ - Josh Burgess
+ - JP Fairchild
+ - Jules Ries
+ - Justin .K ([SirWags](https://github.com/SirWags))
+ - Justin Loudermilk
+ - kaneofawesome
+ - Kaushalya Mandaliya [krman009](https://github.com/krman009)
+ - Ken Wheeler
+ - [Kiswono Prayogo](http://github.com/kokizzu)
+ - Koen Lageveen
+ - Kristopher Johnson
+ - [LingTalfi](https://github.com/lingtalfi)
+ - Luca Reghellin
+ - Ludvig Widman
+ - Luka Kotar
+ - Luke Shiels ([DancingPanda](https://github.com/shielsasaurus))
+ - Manuel Barkhau
+ - Manuel Ebert
+ - Marian Zagoruiko
+ - Mark Herpich (Mark Michos)
+ - Mark Michos
+ - Martin Jagusch
+ - Martin KÃ¼hl
+ - [MattDMo github](https://github.com/MattDMo)
+ - [Mattia Astorino](https://github.com/equinusocio)
+ - Mats Persson
+ - Maximiliano Canellas
+ - Michael Chapman
+ - Michael Hrishenko
+ - Michael Obrocnik (mbixby)
+ - Michael Sheets
+ - Michelle Liu ([anonmily](http://github.com/anonmily))
+ - [Mims H. Wright](https://github.com/mimshwright)
+ - Muukii
+ - Nath Arduini
+ - Neil Cresswell ([Dark Room](https://github.com/NeilCresswell/themes) themes)
+ - Nhat Nguyen
+ - Nick Eddy
  - Odepax ([Mars Peacock](https://github.com/Odepax/mars-peacock))
+ - Ofer Reichman ([oferei](http://oferei.com/))
+ - [Omar Mashaal](https://github.com/mashaal)
+ - Onrik
+ - Palmer Oliveira
+ - Paul Denya
+ - [Pixel Lab](http://thinkpixellab.com/)
+ - Poyeyo
+ - [Praveen Puglia](http://praveenpuglia.com)
+ - Rafal Lindemann
+ - [Randall Koutnik](https://github.com/SomeKittens/ST-Hot-Dog-Stand)
+ - Randy Lai, Jon Schlinkert
+ - Ricardo Muniz Crespo
+ - [Ritashugisha](https://github.com/ritashugisha)
+ - Rubens ([Stulzer](https://github.com/stulzer))
+ - Ryan Burgess
+ - Ryan Pack
+ - Saad Quadri ([saadq](https://github.com/saadq))
+ - sam0hack
+ - Sascha Wolf
+ - seanwooj
+ - Shakeel Mohamed ([_Shakeel](http://twitter.com/_Shakeel))
+ - Shane Knysh (shaneknysh)
+ - Simon Goellner
+ - [Sindre Sorhus](http://sindresorhus.com)
+ - Stanley Rost
+ - [Stephen Kamenar](https://github.com/farzher)
+ - Stephen Underwood
+ - Steve Lacy
+ - [Taiwo Kareem](https://github.com/tushortz) - [Wildlife](https://packagecontrol.io/packages/Wildlife%20Color%20Scheme)
+ - Thomas Aylott
+ - Todd Budnikas
+ - [Todd Miller](https://github.com/Toddses/coffee/)
+ - Todd Werth
+ - Tomek Wiszniewski
+ - Travis Lehman ([tehtrav](http://twitter.com/tehtrav))
+ - Twiebie
+ - [unforswearing](https://github.com/unforswearing)
+ - uonick
+ - Victor Fabiano Gomes[godotAndCoffee|BlackLeMore]
+ - Victor Volle
  - weop ([weop](https://github.com/weop))
+ - [Wes Cravens](https://muut.com/riotjs/guide/)
+ - Whiteboard
+ - [WhosMyName](https://github.com/WhosMyName)
+ - William D. Neumann
+ - [x3ns](https://github.com/x3ns)
+ - Yabata Design
+ - YemSalat
+ - [Younes Zakaria](https://github.com/drcd)
+ - Youssef Haiti, youssman
+ - [Yucheng Tu](https://github.com/Pirolf)
+ - [Zayn Ali](https://github.com/zaynali53)
+ - Zeno Rocha [zenorocha](https://github.com/zenorocha)
