@@ -1,5 +1,11 @@
 [
 {
+    "Title": "Adventure Time",
+    "FileName": "Adventure_Time.tmTheme",
+    "Author": "Kyle Wilcox",
+    "Description": "An adventure time based theme for sublime"
+},
+{
     "Title": "Kary Foundation - Light",
     "FileName": "karyfoundation-light.tmTheme",
     "Author": "Kary Foundation",
