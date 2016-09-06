@@ -689,6 +689,11 @@
     "Author": "",
     "Description": ""
 }, {
+    "Title": "North Pole",
+	"FileName": "NorthPole.tmTheme",
+	"Author": "Alvaro Carmona",
+	"Description": "This is an excellent and original theme, inspired by the frozen north polar passage and tundra"
+}, {
     "Title": "Oblivion",
     "FileName": "Oblivion.tmTheme",
     "Author": "James Brooks",
