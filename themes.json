@@ -1700,5 +1700,11 @@
     "FileName": "mutedrainbow_sky.tmTheme",
     "Author": "lxzdxmxn",
     "Description": ""
+},
+{
+    "Title": "2112",
+    "FileName": "2112.tmTheme",
+    "Author": "Glenn Arseneau",
+    "Description": "Inspired by Rush's 2112 album. https://github.com/garseneau/2112-Sublime-theme"
 }
 ]
