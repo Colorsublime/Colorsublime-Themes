@@ -1336,6 +1336,11 @@
     "Author": "Dayle Rees.",
     "Description": ""
 }, {
+    "Title": "Those Lights",
+    "FileName": "those_lights.tmTheme",
+    "Author": "Ankush Thakur",
+    "Description": "A graceful, soothing dark color scheme for those seeking balance in colors"
+}, {
     "Title": "super",
     "FileName": "super.tmTheme",
     "Author": "Dayle Rees.",
@@ -1695,5 +1700,16 @@
     "FileName": "mutedrainbow_sky.tmTheme",
     "Author": "lxzdxmxn",
     "Description": ""
+},
+{
+    "Title": "Monokai Dev",
+    "FileName": "monikai_dev.tmTheme",
+    "Author": "Sandeep Yadav",
+    "Description": "A soft version monokai original monokai theme"
+},{
+    "Title": "Sandeep Yadav",
+    "FileName": "monokai-dev.tmTheme",
+    "Author": "Sandeep Yadav",
+    "Description": "A soft theme based on monokai. https://github.com/sande3p/monokai-dev.tmTheme"
 }
 ]
