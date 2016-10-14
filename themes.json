@@ -1700,5 +1700,11 @@
     "FileName": "mutedrainbow_sky.tmTheme",
     "Author": "lxzdxmxn",
     "Description": ""
+},
+{
+    "Title": "Turn Off Syntax Highlighting",
+    "FileName": "Turn-Off-Syntax-Highlighting.tmTheme",
+    "Author": "maxpleaner",
+    "Description": "Super minimal: grey on black with yellow cursor and only grey outline for selections"
 }
 ]
