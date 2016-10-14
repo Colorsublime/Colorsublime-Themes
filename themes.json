@@ -1700,5 +1700,11 @@
     "FileName": "mutedrainbow_sky.tmTheme",
     "Author": "lxzdxmxn",
     "Description": ""
+},
+{
+    "Title": "Sandeep Yadav",
+    "FileName": "monokai-dev.tmTheme",
+    "Author": "Sandeep Yadav",
+    "Description": "A soft theme based on monokai. https://github.com/sande3p/monokai-dev.tmTheme"
 }
 ]
