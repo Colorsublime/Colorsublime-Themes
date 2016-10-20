@@ -1,5 +1,23 @@
 [
 {
+    "Title": "Adventure Time",
+    "FileName": "Adventure_Time.tmTheme",
+    "Author": "Kyle Wilcox",
+    "Description": "An adventure time based theme for sublime"
+},
+{
+    "Title": "Kary Foundation - Light",
+    "FileName": "karyfoundation-light.tmTheme",
+    "Author": "Kary Foundation",
+    "Description": "The candy theme that makes your code a rainbow of joy!"
+},
+{
+    "Title": "Kary Foundation - Dark",
+    "FileName": "karyfoundation-dark.tmTheme",
+    "Author": "Kary Foundation",
+    "Description": "The candy theme that makes your code a rainbow of joy!"
+},
+{
     "Title": "Neon Dark",
     "FileName": "NeonDark.tmTheme",
     "Author": "Jack Doyle",
@@ -165,6 +183,11 @@
     "FileName": "Bittersweet.tmTheme",
     "Author": "Nhat Nguyen",
     "Description": "Dark and easy on the eyes theme"
+}, {
+    "Title": "BlockNinja",
+    "FileName": "blockninja.tmTheme",
+    "Author": "Alex Dunmow",
+    "Description": "Dark theme, with blues & purples"
 }, {
     "Title": "Flatland Dark",
     "FileName": "Flatland_Dark.tmTheme",
@@ -666,6 +689,11 @@
     "Author": "",
     "Description": ""
 }, {
+    "Title": "North Pole",
+	"FileName": "NorthPole.tmTheme",
+	"Author": "Alvaro Carmona",
+	"Description": "This is an excellent and original theme, inspired by the frozen north polar passage and tundra"
+}, {
     "Title": "Oblivion",
     "FileName": "Oblivion.tmTheme",
     "Author": "James Brooks",
@@ -1156,6 +1184,11 @@
     "Author": "Josema Enzo",
     "Description": "The best of Monokai and Aurora themes."
 }, {
+    "Title": "dop",
+    "FileName": "dop.tmTheme",
+    "Author": "Josema Enzo",
+    "Description": "Distributed Object Protocol theme."
+}, {
     "Title": "Bungler",
     "FileName": "Bungler.tmTheme",
     "Author": "Josh Burgess",
@@ -1302,6 +1335,11 @@
     "FileName": "slate.tmTheme",
     "Author": "Dayle Rees.",
     "Description": ""
+}, {
+    "Title": "Those Lights",
+    "FileName": "those_lights.tmTheme",
+    "Author": "Ankush Thakur",
+    "Description": "A graceful, soothing dark color scheme for those seeking balance in colors"
 }, {
     "Title": "super",
     "FileName": "super.tmTheme",
@@ -1604,6 +1642,18 @@
     "Description": "A dark theme inspired by Kolor for Espresso 2. https://github.com/danyadsmith/AnotherKolor/"
 },
 {
+    "Title": "Foggy Evening",
+    "FileName": "Foggy-Evening.tmTheme",
+    "Author": "Brian Mock (@wavebeem)",
+    "Description": "A dark and foggy theme https://github.com/wavebeem/sublime-theme-foggy-evening"
+},
+{
+    "Title": "Foggy Morning",
+    "FileName": "Foggy-Morning.tmTheme",
+    "Author": "Brian Mock (@wavebeem)",
+    "Description": "A light and foggy theme https://github.com/wavebeem/sublime-theme-foggy-morning"
+},
+{
     "Title": "Another Kolor (Light)",
     "FileName": "Another_Kolor_Light.tmTheme",
     "Author": "danyadsmith",
@@ -1644,5 +1694,23 @@
     "FileName": "Angular-io-Code.tmTheme",
     "Author": "Ivo Stratev",
     "Description": "Angular.io inspired Color Theme"
+},
+{
+    "Title": "EditPlus",
+    "FileName": "EditPlus.tmTheme",
+    "Author": "George Stockfisch, orig. auth Kobzarev Mikhail ",
+    "Description": "A copy of the ditplus theme, originally from https://github.com/mihdan/Editplus-Theme-for-Sublime-Text-2/blob/master/EditPlus.tmTheme"
+},
+{
+    "Title": "Muted Rainbow",
+    "FileName": "mutedrainbow_sky.tmTheme",
+    "Author": "lxzdxmxn",
+    "Description": ""
+},
+{
+    "Title": "Turn Off Syntax Highlighting",
+    "FileName": "Turn-Off-Syntax-Highlighting.tmTheme",
+    "Author": "maxpleaner",
+    "Description": "Super minimal: grey on black with yellow cursor and only grey outline for selections"
 }
 ]
