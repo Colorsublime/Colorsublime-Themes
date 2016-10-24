@@ -1690,6 +1690,12 @@
     "Description": "Zero Dark Matrix for SublimeText. https://gist.github.com/mauricecruz/9e0501a34ec1382fb509"
 },
 {
+    "Title": "Angular-io-Code",
+    "FileName": "Angular-io-Code.tmTheme",
+    "Author": "Ivo Stratev",
+    "Description": "Angular.io inspired Color Theme"
+},
+{
     "Title": "EditPlus",
     "FileName": "EditPlus.tmTheme",
     "Author": "George Stockfisch, orig. auth Kobzarev Mikhail ",
