@@ -1174,10 +1174,15 @@
     "Author": "José F. Romaniello",
     "Description": "Dark theme inspired by Obsidian"
 }, {
-    "Title": "Chelevra",
-    "FileName": "Chelevra.tmTheme",
+    "Title": "Chelevra Ayu",
+    "FileName": "Chelevra-Ayu.tmTheme",
     "Author": "Jonas Hermsmeier",
-    "Description": "Dark, minimal theme (perfect fit for Spacegray UI theme)"
+    "Description": "Dark, minimal theme (perfect fit for Ayu UI theme)"
+}, {
+    "Title": "Chelevra Material",
+    "FileName": "Chelevra-Material.tmTheme",
+    "Author": "Jonas Hermsmeier",
+    "Description": "Dark, minimal theme (perfect fit for Material UI theme)"
 }, {
     "Title": "Monokai Aurora",
     "FileName": "Monokai-Aurora.tmTheme",
