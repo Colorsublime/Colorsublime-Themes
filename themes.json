@@ -1718,5 +1718,11 @@
     "FileName": "Minteresting.tmTheme",
     "Author": "Dayton Nolan",
     "Description": "A minty theme that's easy on the eyes."
+},
+{
+    "Title": "Sandeep Yadav",
+    "FileName": "candy-crush.tmTheme",
+    "Author": "Sandeep Yadav",
+    "Description": "A soft dark theme. https://github.com/sande3p/monokai-dev.tmTheme"
 }
 ]
