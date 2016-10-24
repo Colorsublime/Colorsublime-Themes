@@ -1706,5 +1706,11 @@
     "FileName": "Turn-Off-Syntax-Highlighting.tmTheme",
     "Author": "maxpleaner",
     "Description": "Super minimal: grey on black with yellow cursor and only grey outline for selections"
+},
+{
+    "Title": "Candy Crush",
+    "FileName": "candy-crush.tmTheme",
+    "Author": "Sandeep Yadav",
+    "Description": "A soft color theme. https://github.com/sande3p/candy-crush.tmTheme"
 }
 ]

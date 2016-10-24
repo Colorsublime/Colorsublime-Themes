@@ -99,3 +99,4 @@ Themes creators
  - Giovane de Oliveira ([Mosquito13](https://github.com/Mosquito13))
  - Odepax ([Mars Peacock](https://github.com/Odepax/mars-peacock))
  - weop ([weop](https://github.com/weop))
+ - [Sandeep Yadav](http://sandeepyadav.net)
