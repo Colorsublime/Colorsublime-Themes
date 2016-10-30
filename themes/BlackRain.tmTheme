@@ -2124,7 +2124,7 @@
                     <key>background</key>
                     <string>#000</string>
                 </dict>
-            </ddict>
+            </dict>
             <dict>
                 <key>name</key>
                 <string>Bracket c_define</string>
