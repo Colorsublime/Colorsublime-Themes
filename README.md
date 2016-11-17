@@ -46,6 +46,7 @@ Themes creators
  - David Heinemeier Hansson
  - Amy
  - Blackboard
+ - [Kary Foundation](https://github.com/karyfoundation)
  - Thomas Aylott
  - Austin Cummings
  - Jacob Rus
