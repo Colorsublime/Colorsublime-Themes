@@ -46,7 +46,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8ccff8</string>
+				<string>#EBBB84</string>
 			</dict>
 		</dict>
 		<dict>
@@ -57,9 +57,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1fa1f1</string>
+				<string>#1FA1F1</string>
 				<key>fontStyle</key>
-        		<string>bold</string>
+				<string>bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -70,7 +70,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1fa1f1</string>
+				<string>#1FA1F1</string>
 				<key>fontStyle</key>
 				<string> bold</string>
 			</dict>
@@ -131,7 +131,7 @@
 				<key>foreground</key>
 				<string>#E12977</string>
 				<key>fontStyle</key>
-				<string>bold italic</string>
+				<string>bold italic </string>
 				<key>background</key>
 				<string></string>
 			</dict>
@@ -170,7 +170,7 @@
 				<key>foreground</key>
 				<string>#CFE36D</string>
 				<key>fontStyle</key>
-        		<string>bold</string>
+				<string>bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -185,7 +185,7 @@
 				<key>background</key>
 				<string>#000000</string>
 				<key>fontStyle</key>
-				<string>bold italic</string>
+				<string> bold italic </string>
 			</dict>
 		</dict>
 		<dict>
@@ -195,11 +195,8 @@
 			<string>entity.name.tag</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#E12977</string>
-				
 			</dict>
 		</dict>
 		<dict>
@@ -279,7 +276,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#000</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -296,5 +293,7 @@
 			</dict>
 		</dict>
 	</array>
+	<key>semanticClass</key>
+	<string>theme.dark.dop</string>
 </dict>
 </plist>
