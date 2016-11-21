@@ -6,6 +6,12 @@
     "Description": "A theme that has nice colors like nature in it!"
 }
 {
+    "Title": "Ubunty Style",
+    "FileName": "UbuntyStyle.tmTheme",
+    "Author": "Robert Englund",
+    "Description": "A theme that has Ubuntys color scheme!"
+}
+{
     "Title": "GitHub Bold",
     "FileName": "GitHub_Bold.tmTheme",
     "Author": "Sean Ballinger",
