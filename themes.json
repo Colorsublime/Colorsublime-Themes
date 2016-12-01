@@ -1,5 +1,17 @@
 [
 {
+    "Title": "Nature",
+    "FileName": "Nature.tmTheme",
+    "Author": "Robert Englund",
+    "Description": "A theme that has nice colors like nature in it!"
+},
+{
+    "Title": "Ubuntu Style",
+    "FileName": "UbuntuStyle.tmTheme",
+    "Author": "Robert Englund",
+    "Description": "A theme that has Ubuntu color scheme!"
+},
+{
     "Title": "GitHub Bold",
     "FileName": "GitHub_Bold.tmTheme",
     "Author": "Sean Ballinger",
