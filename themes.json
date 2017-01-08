@@ -1752,5 +1752,11 @@
     "FileName": "candy-crush.tmTheme",
     "Author": "Sandeep Yadav",
     "Description": "A soft dark theme. https://github.com/sande3p/candy-crush.tmTheme"
+},
+{
+    "Title": "RamdaJS",
+    "FileName": "RamdaJS.tmTheme",
+    "Author": "Kenji Katahira",
+    "Description": "A syntax theme based on the RamdaJS"
 }
 ]
