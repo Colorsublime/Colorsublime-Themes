@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- A theme based on the RamdaJS                 -->
+<!-- Kenji Katahira  						      -->
+<!-- Generated with TmTheme-Editor                -->
+<!-- ============================================ -->
+<!-- app:  http://tmtheme-editor.herokuapp.com    -->
+<!-- code: https://github.com/aziz/tmTheme-Editor -->
 <plist version="1.0">
 <dict>
-	<key>name</key>
-	<string>dop</string>
-	<key>author</key>
-	<string>Josema Enzo</string>
-	<key>colorSpaceName</key>
-	<string>sRGB</string>
+	<key>Ramda</key>
+	<string>Ramda</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#152122</string>
+				<string>#27282E</string>
 				<key>caret</key>
-				<string>#DDDDDD</string>
+				<string>#FFFFFF</string>
 				<key>foreground</key>
-				<string>#DDDDDD</string>
+				<string>#F0F0F0</string>
 				<key>invisibles</key>
-				<string>#383838</string>
+				<string>#5C5B53</string>
 				<key>lineHighlight</key>
-				<string>#223637</string>
+				<string>#424135</string>
 				<key>selection</key>
-				<string>#383742</string>
+				<string>#C9CEF00A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -35,7 +37,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#686868</string>
+				<string>#6272A4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -46,7 +48,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EBBB84</string>
+				<string>#F1FA8C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -57,9 +59,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1FA1F1</string>
-				<key>fontStyle</key>
-				<string>bold</string>
+				<string>#BD93F9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -70,9 +70,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1FA1F1</string>
-				<key>fontStyle</key>
-				<string> bold</string>
+				<string>#BD93F9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -83,9 +81,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1fa1f1</string>
-				<key>fontStyle</key>
-				<string>bold</string>
+				<string>#BD93F9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -97,6 +93,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#FF79C6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -107,7 +105,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E12977</string>
+				<string>#FF79C6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -117,8 +115,10 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#E12977</string>
+				<string>#FF79C6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -129,11 +129,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E12977</string>
-				<key>fontStyle</key>
-				<string>bold italic </string>
-				<key>background</key>
-				<string></string>
+				<string>#FF79C6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -144,7 +140,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CFE36D</string>
+				<string>#FF79C6</string>
+				<key>fontStyle</key>
+				<string> underline</string>
 			</dict>
 		</dict>
 		<dict>
@@ -154,10 +152,10 @@
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#CFE36D</string>
 				<key>fontStyle</key>
-				<string> bold </string>
+				<string> underline</string>
+				<key>foreground</key>
+				<string>#FF79C6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -168,9 +166,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CFE36D</string>
-				<key>fontStyle</key>
-				<string>bold</string>
+				<string>#50FA7B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -181,11 +177,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
-				<key>background</key>
-				<string>#000000</string>
-				<key>fontStyle</key>
-				<string> bold italic </string>
+				<string>#FD971F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -196,7 +188,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E12977</string>
+				<string>#F92672</string>
 			</dict>
 		</dict>
 		<dict>
@@ -207,11 +199,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#CFE36D</string>
-				<key>background</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#A6E22E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -222,9 +212,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#FFA000</string>
+				<string>#66D9EF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -237,7 +227,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#EEEEEE</string>
+				<string>#66D9EF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -248,9 +238,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
-				<string>#FFA000</string>
+				<string>#66d9ef</string>
 			</dict>
 		</dict>
 		<dict>
@@ -260,8 +250,8 @@
 			<string>support.other.variable</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -272,11 +262,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#e12a48</string>
+				<string>#F92672</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#000000</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -287,13 +277,17 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#e12977</string>
+				<string>#AE81FF</string>
 				<key>foreground</key>
-				<string>#ffff05</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 	</array>
+	<key>uuid</key>
+	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.dop</string>
+	<string>theme.dark.monokai</string>
 </dict>
 </plist>

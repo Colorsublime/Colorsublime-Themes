@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>name</key>
+    <string>Turn Off Syntax Highlighting</string>
+    <key>settings</key>
+    <array>
+      <dict>
+        <key>settings</key>
+        <dict>
+
+<!-- COLOR DEFINITIONS -->
+  <!-- (can search and replace these hexes) -->
+  <!-- black  = #000000 -->
+  <!-- grey   = #606060 -->
+  <!-- yellow = #efdc0b -->
+  <!-- white  = #FFFFFF -->
+
+          <key>background</key>
+          <string>#000000</string>
+          <key>caret</key>
+          <string>#efdc0b</string>
+          <key>foreground</key>
+          <string>#606060</string>
+          <key>lineHighlight</key>
+          <string>#101010</string>
+          <key>selection</key>
+          <string>#000000</string>
+          <key>selectionBorder</key>
+          <string>#606060</string>
+                    
+
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
