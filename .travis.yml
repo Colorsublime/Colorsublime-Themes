@@ -1,14 +1,7 @@
 sudo: false
 language: node_js
 node_js:
-  - 6
-
-before_install:
-  - sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
-  - sudo apt-get -qq update
-  - sudo apt-get -qq install g++-4.8
-env:
-  - CXX=g++-4.8
+  - 0.12
 
 branches:
   only:
