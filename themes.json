@@ -707,6 +707,11 @@
     "Author": "",
     "Description": ""
 }, {
+	"Title": "Neon Kush",
+	"FileName": "Neon_Kush.tmTheme",
+	"Author": "Josh Trujillo",
+	"Description": ""
+}, {
     "Title": "NetBeans",
     "FileName": "NetBeans.tmTheme",
     "Author": "",
@@ -1758,5 +1763,11 @@
     "FileName": "BigBend.tmTheme",
     "Author": "Abraham Howland",
     "Description": "A theme loosely inspired by the national park."
+},
+{
+    "Title": "RamdaJS",
+    "FileName": "RamdaJS.tmTheme",
+    "Author": "Kenji Katahira",
+    "Description": "A syntax theme based on the RamdaJS"
 }
 ]
