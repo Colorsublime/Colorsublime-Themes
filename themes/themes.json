@@ -1,23 +1,5 @@
 [
 {
-    "Title": "Nature",
-    "FileName": "Nature.tmTheme",
-    "Author": "Robert Englund",
-    "Description": "A theme that has nice colors like nature in it!"
-},
-{
-    "Title": "Ubuntu Style",
-    "FileName": "UbuntuStyle.tmTheme",
-    "Author": "Robert Englund",
-    "Description": "A theme that has Ubuntu color scheme!"
-},
-{
-    "Title": "GitHub Bold",
-    "FileName": "GitHub_Bold.tmTheme",
-    "Author": "Sean Ballinger",
-    "Description": "GitHub-inspired theme with bold keywords and brighter colors."
-},
-{
     "Title": "Adventure Time",
     "FileName": "Adventure_Time.tmTheme",
     "Author": "Kyle Wilcox",
@@ -76,12 +58,6 @@
     "FileName": "Seafoam-Pastel-Light.tmTheme",
     "Author": "unforswearing",
     "Description": "A port of the Seafoam Pastel theme, originally for iTerm2. Easy on the eyes. https://github.com/unforswearing/seafoam-pastel-theme"
-},
-{
-    "Title": "Seth",
-    "FileName": "seth.tmTheme",
-    "Author": "bertolinimarco",
-    "Description": "A more readable and low eyestrain focused Sublime Text color scheme. https://github.com/bertolinimarco/Seth-Color-Scheme"
 },
 {
     "Title": "Monokai Soft MD",
@@ -297,11 +273,6 @@
     "FileName": "Blackboard.tmTheme",
     "Author": "Blackboard",
     "Description": ""
-}, {
-    "Title": "BlackRain",
-    "FileName": "BlackRain.tmTheme",
-    "Author": "Ed Heltze4l - Ginfuru",
-    "Description": "A Sublime Text color scheme that is bright and dark"
 }, {
     "Title": "BlueDawn",
     "FileName": "BlueDawn.tmTheme",
@@ -712,11 +683,6 @@
     "FileName": "NaturalContrast.tmTheme",
     "Author": "",
     "Description": ""
-}, {
-	"Title": "Neon Kush",
-	"FileName": "Neon_Kush.tmTheme",
-	"Author": "Josh Trujillo",
-	"Description": ""
 }, {
     "Title": "NetBeans",
     "FileName": "NetBeans.tmTheme",
@@ -1208,15 +1174,10 @@
     "Author": "José F. Romaniello",
     "Description": "Dark theme inspired by Obsidian"
 }, {
-    "Title": "Chelevra Ayu",
-    "FileName": "Chelevra-Ayu.tmTheme",
+    "Title": "Chelevra",
+    "FileName": "Chelevra.tmTheme",
     "Author": "Jonas Hermsmeier",
-    "Description": "Dark, minimal theme (perfect fit for Ayu UI theme)"
-}, {
-    "Title": "Chelevra Material",
-    "FileName": "Chelevra-Material.tmTheme",
-    "Author": "Jonas Hermsmeier",
-    "Description": "Dark, minimal theme (perfect fit for Material UI theme)"
+    "Description": "Dark, minimal theme (perfect fit for Spacegray UI theme)"
 }, {
     "Title": "Monokai Aurora",
     "FileName": "Monokai-Aurora.tmTheme",
@@ -1729,12 +1690,6 @@
     "Description": "Zero Dark Matrix for SublimeText. https://gist.github.com/mauricecruz/9e0501a34ec1382fb509"
 },
 {
-    "Title": "Angular-io-Code",
-    "FileName": "Angular-io-Code.tmTheme",
-    "Author": "Ivo Stratev",
-    "Description": "Angular.io inspired Color Theme"
-},
-{
     "Title": "EditPlus",
     "FileName": "EditPlus.tmTheme",
     "Author": "George Stockfisch, orig. auth Kobzarev Mikhail ",
@@ -1751,35 +1706,5 @@
     "FileName": "2112.tmTheme",
     "Author": "Glenn Arseneau",
     "Description": "Inspired by Rush's 2112 album. https://github.com/garseneau/2112-Sublime-theme"
-},
-    "Title": "Turn Off Syntax Highlighting",
-    "FileName": "Turn-Off-Syntax-Highlighting.tmTheme",
-    "Author": "maxpleaner",
-    "Description": "Super minimal: grey on black with yellow cursor and only grey outline for selections"
-},
-{
-    "Title": "Minteresting",
-    "FileName": "Minteresting.tmTheme",
-    "Author": "Dayton Nolan",
-    "Description": "A minty theme that's easy on the eyes."
-},
-{
-    "Title": "Candy Crush",
-    "FileName": "candy-crush.tmTheme",
-    "Author": "Sandeep Yadav",
-    "Description": "A soft dark theme. https://github.com/sande3p/candy-crush.tmTheme"
-},
-{
-    "Title": "Big Bend",
-    "FileName": "BigBend.tmTheme",
-    "Author": "Abraham Howland",
-    "Description": "A theme loosely inspired by the national park."
-},
-{
-    "Title": "RamdaJS",
-    "FileName": "RamdaJS.tmTheme",
-    "Author": "Kenji Katahira",
-    "Description": "A syntax theme based on the RamdaJS"
-
 }
 ]
