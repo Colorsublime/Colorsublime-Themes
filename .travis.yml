@@ -1,10 +1,12 @@
 language: node_js
 node_js:
-  - "0.12"
+  - 6
 
 branches:
   only:
     - master
 
 notifications:
-    email: false
+  email: false
+
+sudo: false
