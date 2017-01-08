@@ -1,1785 +1,2060 @@
 [
-{
-    "Title": "Nature",
+  {
+    "Author": "Robert Englund",
+    "Description": "A theme that has nice colors like nature in it!",
     "FileName": "Nature.tmTheme",
+    "Title": "Nature"
+  },
+  {
     "Author": "Robert Englund",
-    "Description": "A theme that has nice colors like nature in it!"
-},
-{
-    "Title": "Ubuntu Style",
+    "Description": "A theme that has Ubuntu color scheme!",
     "FileName": "UbuntuStyle.tmTheme",
-    "Author": "Robert Englund",
-    "Description": "A theme that has Ubuntu color scheme!"
-},
-{
-    "Title": "GitHub Bold",
-    "FileName": "GitHub_Bold.tmTheme",
+    "Title": "Ubuntu Style"
+  },
+  {
     "Author": "Sean Ballinger",
-    "Description": "GitHub-inspired theme with bold keywords and brighter colors."
-},
-{
-    "Title": "Adventure Time",
-    "FileName": "Adventure_Time.tmTheme",
+    "Description": "GitHub-inspired theme with bold keywords and brighter colors.",
+    "FileName": "GitHub_Bold.tmTheme",
+    "Title": "GitHub Bold"
+  },
+  {
     "Author": "Kyle Wilcox",
-    "Description": "An adventure time based theme for sublime"
-},
-{
-    "Title": "Kary Foundation - Light",
+    "Description": "An adventure time based theme for sublime",
+    "FileName": "Adventure_Time.tmTheme",
+    "Title": "Adventure Time"
+  },
+  {
+    "Author": "Kary Foundation",
+    "Description": "The candy theme that makes your code a rainbow of joy!",
     "FileName": "karyfoundation-light.tmTheme",
+    "Title": "Kary Foundation - Light"
+  },
+  {
     "Author": "Kary Foundation",
-    "Description": "The candy theme that makes your code a rainbow of joy!"
-},
-{
-    "Title": "Kary Foundation - Dark",
+    "Description": "The candy theme that makes your code a rainbow of joy!",
     "FileName": "karyfoundation-dark.tmTheme",
-    "Author": "Kary Foundation",
-    "Description": "The candy theme that makes your code a rainbow of joy!"
-},
-{
-    "Title": "Neon Dark",
-    "FileName": "NeonDark.tmTheme",
+    "Title": "Kary Foundation - Dark"
+  },
+  {
     "Author": "Jack Doyle",
-    "Description": "A punchy yet simple dark neon theme."
-},
-{
-    "Title": "Sister Tardis",
-    "FileName": "SisterTardis.tmTheme",
+    "Description": "A punchy yet simple dark neon theme.",
+    "FileName": "NeonDark.tmTheme",
+    "Title": "Neon Dark"
+  },
+  {
     "Author": "@sayhellotovanessa",
-    "Description": "Based on the BBC show, Dr.Who."
-},
-{
-    "Title": "Art School",
-    "FileName": "ArtSchool.tmTheme",
+    "Description": "Based on the BBC show, Dr.Who.",
+    "FileName": "SisterTardis.tmTheme",
+    "Title": "Sister Tardis"
+  },
+  {
     "Author": "irstacks",
-    "Description": "Theme developed primarily for front-end work with JS. Uses Sass. Shoulda joined the Marines instead."
-},
-{
-    "Title": "Gedit",
-    "FileName": "Gedit.tmTheme",
+    "Description": "Theme developed primarily for front-end work with JS. Uses Sass. Shoulda joined the Marines instead.",
+    "FileName": "ArtSchool.tmTheme",
+    "Title": "Art School"
+  },
+  {
     "Author": "Aron Wouters",
-    "Description": "Gedit look alike theme for sublime text"
-},
-{
-    "Title": "bashling",
-    "FileName": "bashling.tmTheme",
+    "Description": "Gedit look alike theme for sublime text",
+    "FileName": "Gedit.tmTheme",
+    "Title": "Gedit"
+  },
+  {
     "Author": "lingTalfi",
-    "Description": "Simple bash theme with strong color contrasts for comments/finding/selection"
-},
-{
-    "Title": "Agola Dark",
-    "FileName": "AgolaDark.tmTheme",
+    "Description": "Simple bash theme with strong color contrasts for comments/finding/selection",
+    "FileName": "bashling.tmTheme",
+    "Title": "bashling"
+  },
+  {
     "Author": "Fatih Kececi",
-    "Description": "A dark color scheme for Sublime Text. https://github.com/UnderlineWords/Agola-Color-Schemes"
-},
-{
-    "Title": "Seafoam Pastel Light",
+    "Description": "A dark color scheme for Sublime Text. https://github.com/UnderlineWords/Agola-Color-Schemes",
+    "FileName": "AgolaDark.tmTheme",
+    "Title": "Agola Dark"
+  },
+  {
+    "Author": "unforswearing",
+    "Description": "A port of the Seafoam Pastel theme, originally for iTerm2. Easy on the eyes. https://github.com/unforswearing/seafoam-pastel-theme",
     "FileName": "Seafoam-Pastel-Light.tmTheme",
-    "Author": "unforswearing",
-    "Description": "A port of the Seafoam Pastel theme, originally for iTerm2. Easy on the eyes. https://github.com/unforswearing/seafoam-pastel-theme"
-},
-{
-    "Title": "Seth",
-    "FileName": "seth.tmTheme",
+    "Title": "Seafoam Pastel Light"
+  },
+  {
     "Author": "bertolinimarco",
-    "Description": "A more readable and low eyestrain focused Sublime Text color scheme. https://github.com/bertolinimarco/Seth-Color-Scheme"
-},
-{
-    "Title": "Monokai Soft MD",
-    "FileName": "Monokai-Soft-MD.tmTheme",
+    "Description": "A more readable and low eyestrain focused Sublime Text color scheme. https://github.com/bertolinimarco/Seth-Color-Scheme",
+    "FileName": "seth.tmTheme",
+    "Title": "Seth"
+  },
+  {
     "Author": "Youssef Haiti, youssman",
-    "Description": "A Sublime Text Color Theme suited for Material Design Theme. Original theme : Monokai Soft"
-},
-{
-    "Title": "Seafoam Pastel Dark",
-    "FileName": "Seafoam-Pastel-Dark.tmTheme",
+    "Description": "A Sublime Text Color Theme suited for Material Design Theme. Original theme : Monokai Soft",
+    "FileName": "Monokai-Soft-MD.tmTheme",
+    "Title": "Monokai Soft MD"
+  },
+  {
     "Author": "unforswearing",
-    "Description": "A port of the Seafoam Pastel theme, originally for iTerm2. Easy on the eyes. https://github.com/unforswearing/seafoam-pastel-theme"
-},
-{
-    "Title": "Purple Haze",
-    "FileName": "PurpleHaze.tmTheme",
+    "Description": "A port of the Seafoam Pastel theme, originally for iTerm2. Easy on the eyes. https://github.com/unforswearing/seafoam-pastel-theme",
+    "FileName": "Seafoam-Pastel-Dark.tmTheme",
+    "Title": "Seafoam Pastel Dark"
+  },
+  {
     "Author": "Branko Tomić – klomontes",
-    "Description": "Custom dark theme for those who love purple. Contrast was adjusted to be easy for your eyes ad it makes your switch from Monokai easy."
-},
-{
-    "Title": "Feel Good",
-    "FileName": "feel_good.tmTheme",
+    "Description": "Custom dark theme for those who love purple. Contrast was adjusted to be easy for your eyes ad it makes your switch from Monokai easy.",
+    "FileName": "PurpleHaze.tmTheme",
+    "Title": "Purple Haze"
+  },
+  {
     "Author": "seanwooj",
-    "Description": "Relax in the bask of the pastels. Feel more human while coding."
-},
-{
-    "Title": "Neon Glow",
-    "FileName": "NeonGlow.tmTheme",
+    "Description": "Relax in the bask of the pastels. Feel more human while coding.",
+    "FileName": "feel_good.tmTheme",
+    "Title": "Feel Good"
+  },
+  {
     "Author": "Stephen Kamenar",
-    "Description": "Goes great with techno music. https://github.com/farzher/Sublime-Text-Themes"
-}, {
-    "Title": "Trixie",
-    "FileName": "Trixie.tmTheme",
+    "Description": "Goes great with techno music. https://github.com/farzher/Sublime-Text-Themes",
+    "FileName": "NeonGlow.tmTheme",
+    "Title": "Neon Glow"
+  },
+  {
     "Author": "Ivan Kuzmin",
-    "Description": "The great and powerful Trixie theme"
-}, {
-    "Title": "Hammer",
-    "FileName": "Hammer.tmTheme",
+    "Description": "The great and powerful Trixie theme",
+    "FileName": "Trixie.tmTheme",
+    "Title": "Trixie"
+  },
+  {
     "Author": "Jared Christensen",
-    "Description": "A Dark theme focused on front end languages. Based off of the Bespin theme fond in Notepad ++"
-}, {
-    "Title": "Henanigans",
-    "FileName": "Henanigans.tmTheme",
+    "Description": "A Dark theme focused on front end languages. Based off of the Bespin theme fond in Notepad ++",
+    "FileName": "Hammer.tmTheme",
+    "Title": "Hammer"
+  },
+  {
     "Author": "Alex Braun",
-    "Description": "Henanigans theme for Sublime.  Theme available for iPython Notebook, Stylish, iTerm and others."
-}, {
-    "Title": "Daguiheso",
-    "FileName": "Daguiheso.tmTheme",
+    "Description": "Henanigans theme for Sublime.  Theme available for iPython Notebook, Stylish, iTerm and others.",
+    "FileName": "Henanigans.tmTheme",
+    "Title": "Henanigans"
+  },
+  {
     "Author": "Daniel Hernandez",
-    "Description": "Black"
-}, {
-    "Title": "Anarchist",
+    "Description": "Black",
+    "FileName": "Daguiheso.tmTheme",
+    "Title": "Daguiheso"
+  },
+  {
+    "Author": "Ritashugisha",
+    "Description": "To be used with Spacegray UI",
     "FileName": "Anarchist.tmTheme",
+    "Title": "Anarchist"
+  },
+  {
     "Author": "Ritashugisha",
-    "Description": "To be used with Spacegray UI"
-}, {
-    "Title": "Anarchist Eighties",
+    "Description": "To be used with Spacegray Eighties UI",
     "FileName": "AnarchistEighties.tmTheme",
-    "Author": "Ritashugisha",
-    "Description": "To be used with Spacegray Eighties UI"
-}, {
-    "Title": "Golden Dragon",
+    "Title": "Anarchist Eighties"
+  },
+  {
+    "Author": "Zayn Ali",
+    "Description": "https://github.com/zaynali53/golden-dragon",
     "FileName": "GoldenDragon.tmTheme",
-    "Author": "Zayn Ali",
-    "Description": "https://github.com/zaynali53/golden-dragon"
-}, {
-    "Title": "Riot",
-    "FileName": "Riot.tmTheme",
+    "Title": "Golden Dragon"
+  },
+  {
     "Author": "Wes Cravens",
-    "Description": "A theme based on the riot.js guide. See https://muut.com/riotjs/guide/"
-}, {
-    "Title": "Monokai inversed",
-    "FileName": "monokai-inverse.tmTheme",
+    "Description": "A theme based on the riot.js guide. See https://muut.com/riotjs/guide/",
+    "FileName": "Riot.tmTheme",
+    "Title": "Riot"
+  },
+  {
     "Author": "Devin Rhode",
-    "Description": "Inverse all colors of Sublime's standard Monokai"
-}, {
-    "Title": "Purrora",
-    "FileName": "Purrora.tmTheme",
+    "Description": "Inverse all colors of Sublime's standard Monokai",
+    "FileName": "monokai-inverse.tmTheme",
+    "Title": "Monokai inversed"
+  },
+  {
     "Author": "Yucheng Tu",
-    "Description": "A purrety dark color scheme with contrast based on Aurora. See https://github.com/Pirolf/Colorsublime-Themes."
-}, {
-    "Title": "1337",
-    "FileName": "1337.tmTheme",
+    "Description": "A purrety dark color scheme with contrast based on Aurora. See https://github.com/Pirolf/Colorsublime-Themes.",
+    "FileName": "Purrora.tmTheme",
+    "Title": "Purrora"
+  },
+  {
     "Author": "Mark Michos",
-    "Description": "A color scheme for dark Sublime Text themes."
-}, {
-    "Title": "Dark Room (Normal)",
+    "Description": "A color scheme for dark Sublime Text themes.",
+    "FileName": "1337.tmTheme",
+    "Title": "1337"
+  },
+  {
+    "Author": "Neil Cresswell",
+    "Description": "Easy on eyes dark theme with accented comments and GitGutter support. See https://github.com/NeilCresswell/themes for other IDEs.",
     "FileName": "DarkRoomNormal.tmTheme",
-    "Author": "Neil Cresswell",
-    "Description": "Easy on eyes dark theme with accented comments and GitGutter support. See https://github.com/NeilCresswell/themes for other IDEs."
-}, {
-    "Title": "Dropin",
-    "FileName": "dropin.tmTheme",
+    "Title": "Dark Room (Normal)"
+  },
+  {
     "Author": "Cipriani Mike",
-    "Description": ""
-}, {
-    "Title": "Dark Room (Contrast)",
-    "FileName": "DarkRoomContrast.tmTheme",
+    "Description": "",
+    "FileName": "dropin.tmTheme",
+    "Title": "Dropin"
+  },
+  {
     "Author": "Neil Cresswell",
-    "Description": "Easy on eyes dark theme with accented comments and GitGutter support. See https://github.com/NeilCresswell/themes for other IDEs."
-}, {
-    "Title": "Dark-Dracula",
-    "FileName": "Dark-Dracula.tmTheme",
+    "Description": "Easy on eyes dark theme with accented comments and GitGutter support. See https://github.com/NeilCresswell/themes for other IDEs.",
+    "FileName": "DarkRoomContrast.tmTheme",
+    "Title": "Dark Room (Contrast)"
+  },
+  {
     "Author": "Zeno Rocha and Kaushalya Mandaliya",
-    "Description": "Just Changed background color and lineHighlight color in Dracula Theme (Which is developed by Zeno Rocha). For more info: https://github.com/krman009/Dark-Dracula-Theme"
-}, {
-    "Title": "Wild Cherry",
-    "FileName": "wild-cherry.tmTheme",
+    "Description": "Just Changed background color and lineHighlight color in Dracula Theme (Which is developed by Zeno Rocha). For more info: https://github.com/krman009/Dark-Dracula-Theme",
+    "FileName": "Dark-Dracula.tmTheme",
+    "Title": "Dark-Dracula"
+  },
+  {
     "Author": "Omar Mashaal",
-    "Description": "https://github.com/mashaal/wild-cherry"
-}, {
-    "Title": "Array",
-    "FileName": "Array.tmTheme",
+    "Description": "https://github.com/mashaal/wild-cherry",
+    "FileName": "wild-cherry.tmTheme",
+    "Title": "Wild Cherry"
+  },
+  {
     "Author": "George Kampolis",
-    "Description": "A dark theme making heavy use of color-coding (the author considers comments important)."
-}, {
-    "Title": "Frank Sinatra",
-    "FileName": "Frank_Sinatra.tmTheme",
+    "Description": "A dark theme making heavy use of color-coding (the author considers comments important).",
+    "FileName": "Array.tmTheme",
+    "Title": "Array"
+  },
+  {
     "Author": "Dave Luke Jr",
-    "Description": "If Frank were still with us today, he would code using this theme and this theme only"
-}, {
-    "Title": "Bittersweet",
-    "FileName": "Bittersweet.tmTheme",
+    "Description": "If Frank were still with us today, he would code using this theme and this theme only",
+    "FileName": "Frank_Sinatra.tmTheme",
+    "Title": "Frank Sinatra"
+  },
+  {
     "Author": "Nhat Nguyen",
-    "Description": "Dark and easy on the eyes theme"
-}, {
-    "Title": "BlockNinja",
-    "FileName": "blockninja.tmTheme",
+    "Description": "Dark and easy on the eyes theme",
+    "FileName": "Bittersweet.tmTheme",
+    "Title": "Bittersweet"
+  },
+  {
     "Author": "Alex Dunmow",
-    "Description": "Dark theme, with blues & purples"
-}, {
-    "Title": "Flatland Dark",
+    "Description": "Dark theme, with blues & purples",
+    "FileName": "blockninja.tmTheme",
+    "Title": "BlockNinja"
+  },
+  {
+    "Author": "Pixel Lab",
+    "Description": "A simple dark theme mostly derived from Soda.",
     "FileName": "Flatland_Dark.tmTheme",
+    "Title": "Flatland Dark"
+  },
+  {
     "Author": "Pixel Lab",
-    "Description": "A simple dark theme mostly derived from Soda."
-}, {
-    "Title": "Flatland Black",
+    "Description": "Flatland Dark theme with a pure black background.",
     "FileName": "Flatland_Black.tmTheme",
+    "Title": "Flatland Black"
+  },
+  {
     "Author": "Pixel Lab",
-    "Description": "Flatland Dark theme with a pure black background."
-}, {
-    "Title": "Flatland Monokai",
+    "Description": "Monokai theme with Flatland Dark's background color.",
     "FileName": "Flatland_Monokai.tmTheme",
-    "Author": "Pixel Lab",
-    "Description": "Monokai theme with Flatland Dark's background color."
-}, {
-    "Title": "IridiumStar",
-    "FileName": "IridiumStar.tmTheme",
+    "Title": "Flatland Monokai"
+  },
+  {
     "Author": "Justin Loudermilk",
-    "Description": "A bluish monokai."
-}, {
-    "Title": "Muukii",
-    "FileName": "Muukii.tmTheme",
+    "Description": "A bluish monokai.",
+    "FileName": "IridiumStar.tmTheme",
+    "Title": "IridiumStar"
+  },
+  {
     "Author": "Muukii",
-    "Description": "Inspired by monokai"
-}, {
-    "Title": "Coffee Dark Roast",
-    "FileName": "Coffee_Dark_Roast.tmTheme",
+    "Description": "Inspired by monokai",
+    "FileName": "Muukii.tmTheme",
+    "Title": "Muukii"
+  },
+  {
     "Author": "Todd Miller",
-    "Description": "Dark theme with an earthy flair. Full theme available at https://github.com/Toddses/coffee/"
-}, {
-    "Title": "3024 (Day)",
+    "Description": "Dark theme with an earthy flair. Full theme available at https://github.com/Toddses/coffee/",
+    "FileName": "Coffee_Dark_Roast.tmTheme",
+    "Title": "Coffee Dark Roast"
+  },
+  {
+    "Author": "Jan T. Sott",
+    "Description": "Bright theme inspired by Dutch artist Erosie",
     "FileName": "3024_Day.tmTheme",
+    "Title": "3024 (Day)"
+  },
+  {
     "Author": "Jan T. Sott",
-    "Description": "Bright theme inspired by Dutch artist Erosie"
-}, {
-    "Title": "3024 (Night)",
+    "Description": "Dark theme inspired by Dutch artist Erosie",
     "FileName": "3024_Night.tmTheme",
-    "Author": "Jan T. Sott",
-    "Description": "Dark theme inspired by Dutch artist Erosie"
-}, {
-    "Title": "Candy Land",
+    "Title": "3024 (Night)"
+  },
+  {
+    "Author": "Ryan Burgess",
+    "Description": "",
     "FileName": "CandyLand.tmTheme",
+    "Title": "Candy Land"
+  },
+  {
     "Author": "Ryan Burgess",
-    "Description": ""
-}, {
-    "Title": "Toy Machine",
+    "Description": "",
     "FileName": "ToyMachine.tmTheme",
-    "Author": "Ryan Burgess",
-    "Description": ""
-}, {
-    "Title": "Abyss",
+    "Title": "Toy Machine"
+  },
+  {
+    "Author": "Ofer Reichman",
+    "Description": "Pearls and the Spanish dancer",
     "FileName": "Abyss.tmTheme",
-    "Author": "Ofer Reichman",
-    "Description": "Pearls and the Spanish dancer"
-}, {
-    "Title": "Active4D",
+    "Title": "Abyss"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Active4D.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "All Hallows Eve",
-    "FileName": "All_Hallows_Eve.tmTheme",
+    "Title": "Active4D"
+  },
+  {
     "Author": "David Heinemeier Hansson",
-    "Description": ""
-}, {
-    "Title": "Amy",
-    "FileName": "Amy.tmTheme",
+    "Description": "",
+    "FileName": "All_Hallows_Eve.tmTheme",
+    "Title": "All Hallows Eve"
+  },
+  {
     "Author": "Amy",
-    "Description": ""
-}, {
-    "Title": "Ant",
-    "FileName": "ant.tmTheme",
+    "Description": "",
+    "FileName": "Amy.tmTheme",
+    "Title": "Amy"
+  },
+  {
     "Author": "Antonia Ciocodeica",
-    "Description": ""
-}, {
-    "Title": "Aurora",
-    "FileName": "Aurora.tmTheme",
+    "Description": "",
+    "FileName": "ant.tmTheme",
+    "Title": "Ant"
+  },
+  {
     "Author": "Palmer Oliveira",
-    "Description": "A dark theme inspired by an Aurora Borealis."
-}, {
-    "Title": "Blackboard",
-    "FileName": "Blackboard.tmTheme",
+    "Description": "A dark theme inspired by an Aurora Borealis.",
+    "FileName": "Aurora.tmTheme",
+    "Title": "Aurora"
+  },
+  {
     "Author": "Blackboard",
-    "Description": ""
-}, {
-    "Title": "BlackRain",
-    "FileName": "BlackRain.tmTheme",
+    "Description": "",
+    "FileName": "Blackboard.tmTheme",
+    "Title": "Blackboard"
+  },
+  {
     "Author": "Ed Heltze4l - Ginfuru",
-    "Description": "A Sublime Text color scheme that is bright and dark"
-}, {
-    "Title": "BlueDawn",
+    "Description": "A Sublime Text color scheme that is bright and dark",
+    "FileName": "BlackRain.tmTheme",
+    "Title": "BlackRain"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "BlueDawn.tmTheme",
+    "Title": "BlueDawn"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "BlueLover",
+    "Description": "",
     "FileName": "BlueLover.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Boron",
-    "FileName": "Boron.tmTheme",
+    "Title": "BlueLover"
+  },
+  {
     "Author": "Martin Jagusch",
-    "Description": "Colorful, dark color scheme based on the excellent Jellybeans color scheme for Vim."
-}, {
-    "Title": "BoxUK",
+    "Description": "Colorful, dark color scheme based on the excellent Jellybeans color scheme for Vim.",
+    "FileName": "Boron.tmTheme",
+    "Title": "Boron"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "BoxUK.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Brilliance Black",
+    "Title": "BoxUK"
+  },
+  {
+    "Author": "Thomas Aylott",
+    "Description": "",
     "FileName": "Brilliance_Black.tmTheme",
+    "Title": "Brilliance Black"
+  },
+  {
     "Author": "Thomas Aylott",
-    "Description": ""
-}, {
-    "Title": "Brilliance Dull",
+    "Description": "",
     "FileName": "Brilliance_Dull.tmTheme",
-    "Author": "Thomas Aylott",
-    "Description": ""
-}, {
-    "Title": "Brunette",
+    "Title": "Brilliance Dull"
+  },
+  {
+    "Author": "Ofer Reichman",
+    "Description": "A blend of clarity and rich warm colors",
     "FileName": "Brunette.tmTheme",
-    "Author": "Ofer Reichman",
-    "Description": "A blend of clarity and rich warm colors"
-}, {
-    "Title": "Carbonight",
+    "Title": "Brunette"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Carbonight.tmTheme",
+    "Title": "Carbonight"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "CarbonightBlue",
+    "Description": "",
     "FileName": "CarbonightBlue.tmTheme",
+    "Title": "CarbonightBlue"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Carbonnight",
+    "Description": "",
     "FileName": "Carbonnight.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Choco",
-    "FileName": "Choco.tmTheme",
+    "Title": "Carbonnight"
+  },
+  {
     "Author": "Ludvig Widman",
-    "Description": "Chocolate brown theme"
-}, {
-    "Title": "Chrome DevTools",
-    "FileName": "Chrome_DevTools.tmTheme",
+    "Description": "Chocolate brown theme",
+    "FileName": "Choco.tmTheme",
+    "Title": "Choco"
+  },
+  {
     "Author": "Austin Cummings",
-    "Description": ""
-}, {
-    "Title": "Clouds",
+    "Description": "",
+    "FileName": "Chrome_DevTools.tmTheme",
+    "Title": "Chrome DevTools"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Clouds.tmTheme",
+    "Title": "Clouds"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Clouds Midnight",
+    "Description": "",
     "FileName": "Clouds_Midnight.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Cobalt",
-    "FileName": "Cobalt.tmTheme",
+    "Title": "Clouds Midnight"
+  },
+  {
     "Author": "Jacob Rus",
-    "Description": ""
-}, {
-    "Title": "CodeWarrior",
-    "FileName": "CodeWarrior.tmTheme",
+    "Description": "",
+    "FileName": "Cobalt.tmTheme",
+    "Title": "Cobalt"
+  },
+  {
     "Author": "Blake Stephens",
-    "Description": "Modern evolution of the old CodeWarrior by MetroWorks theme"
-}, {
-    "Title": "Colonoscopy",
+    "Description": "Modern evolution of the old CodeWarrior by MetroWorks theme",
+    "FileName": "CodeWarrior.tmTheme",
+    "Title": "CodeWarrior"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Colonoscopy.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Dark Krystal",
-    "FileName": "Dark_Krystal.tmTheme",
+    "Title": "Colonoscopy"
+  },
+  {
     "Author": "Todd Budnikas",
-    "Description": ""
-}, {
-    "Title": "Darkside",
+    "Description": "",
+    "FileName": "Dark_Krystal.tmTheme",
+    "Title": "Dark Krystal"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Darkside.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Darkside (light selection)",
-    "FileName": "Darkside_light_selection.tmTheme",
+    "Title": "Darkside"
+  },
+  {
     "Author": "Sascha Wolf",
-    "Description": "The Darkside theme with a lighter selection for better readablility."
-}, {
-    "Title": "Dawn",
-    "FileName": "Dawn.tmTheme",
+    "Description": "The Darkside theme with a lighter selection for better readablility.",
+    "FileName": "Darkside_light_selection.tmTheme",
+    "Title": "Darkside (light selection)"
+  },
+  {
     "Author": "David Powers",
-    "Description": ""
-}, {
-    "Title": "Deep Blue See",
+    "Description": "",
+    "FileName": "Dawn.tmTheme",
+    "Title": "Dawn"
+  },
+  {
+    "Author": "JD Isaacks",
+    "Description": "",
     "FileName": "deep_blue_see.tmTheme",
-    "Author": "JD Isaacks",
-    "Description": ""
-}, {
-    "Title": "Dimmed",
+    "Title": "Deep Blue See"
+  },
+  {
+    "Author": "uonick",
+    "Description": "github.com/uonick",
     "FileName": "dimmed.tmTheme",
+    "Title": "Dimmed"
+  },
+  {
     "Author": "uonick",
-    "Description": "github.com/uonick"
-}, {
-    "Title": "Dimmed-Monokai",
+    "Description": "github.com/uonick",
     "FileName": "dimmed-monokai.tmTheme",
+    "Title": "Dimmed-Monokai"
+  },
+  {
     "Author": "uonick",
-    "Description": "github.com/uonick"
-}, {
-    "Title": "Dimmed-Monokai-NoContrast",
+    "Description": "github.com/uonick",
     "FileName": "dimmed-monokai-no-contrast.tmTheme",
+    "Title": "Dimmed-Monokai-NoContrast"
+  },
+  {
     "Author": "uonick",
-    "Description": "github.com/uonick"
-}, {
-    "Title": "Dimmed-Night",
+    "Description": "github.com/uonick",
     "FileName": "dimmed-night.tmTheme",
+    "Title": "Dimmed-Night"
+  },
+  {
     "Author": "uonick",
-    "Description": "github.com/uonick"
-}, {
-    "Title": "Dimmed-Storm",
+    "Description": "github.com/uonick",
     "FileName": "dimmed-storm.tmTheme",
-    "Author": "uonick",
-    "Description": "github.com/uonick"
-}, {
-    "Title": "Dracula",
-    "FileName": "Dracula.tmTheme",
+    "Title": "Dimmed-Storm"
+  },
+  {
     "Author": "zenorocha",
-    "Description": "https://github.com/zenorocha/dracula-theme"
-}, {
-    "Title": "Dreamweaver",
+    "Description": "https://github.com/zenorocha/dracula-theme",
+    "FileName": "Dracula.tmTheme",
+    "Title": "Dracula"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Dreamweaver.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Druid",
-    "FileName": "Druid.tmTheme",
+    "Title": "Dreamweaver"
+  },
+  {
     "Author": "Ofer Reichman",
-    "Description": "Have you hugged a tree today?"
-}, {
-    "Title": "Earthsong",
+    "Description": "Have you hugged a tree today?",
+    "FileName": "Druid.tmTheme",
+    "Title": "Druid"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Earthsong.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Preap",
-    "FileName": "preap.tmTheme",
+    "Title": "Earthsong"
+  },
+  {
     "Author": "Mattia Astorino",
-    "Description": "Preap theme released with Preap Dark UI (https://github.com/equinusocio/preap)"
-}, {
-    "Title": "EarthsongLight",
+    "Description": "Preap theme released with Preap Dark UI (https://github.com/equinusocio/preap)",
+    "FileName": "preap.tmTheme",
+    "Title": "Preap"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "earthsong-light.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Easyballs",
-    "FileName": "Easyballs.tmTheme",
+    "Title": "EarthsongLight"
+  },
+  {
     "Author": "dncrews",
-    "Description": "A dark theme full of greens and cool colors."
-}, {
-    "Title": "Eiffel",
-    "FileName": "Eiffel.tmTheme",
+    "Description": "A dark theme full of greens and cool colors.",
+    "FileName": "Easyballs.tmTheme",
+    "Title": "Easyballs"
+  },
+  {
     "Author": "Eiffel",
-    "Description": ""
-}, {
-    "Title": "Eggplant Parm",
-    "FileName": "EggplantParm.tmTheme",
+    "Description": "",
+    "FileName": "Eiffel.tmTheme",
+    "Title": "Eiffel"
+  },
+  {
     "Author": "Mims H. Wright",
-    "Description": "An delicious, aubergine color theme."
-}, {
-    "Title": "Espresso Libre",
+    "Description": "An delicious, aubergine color theme.",
+    "FileName": "EggplantParm.tmTheme",
+    "Title": "Eggplant Parm"
+  },
+  {
+    "Author": "Chris Thomas",
+    "Description": "",
     "FileName": "Espresso_Libre.tmTheme",
-    "Author": "Chris Thomas",
-    "Description": ""
-}, {
-    "Title": "Facebook",
-    "FileName": "Facebook.tmTheme",
+    "Title": "Espresso Libre"
+  },
+  {
     "Author": "Michael Obrocnik (mbixby)",
-    "Description": ""
-}, {
-    "Title": "FireCode",
-    "FileName": "FireCode.tmTheme",
+    "Description": "",
+    "FileName": "Facebook.tmTheme",
+    "Title": "Facebook"
+  },
+  {
     "Author": "Mark Herpich (Mark Michos)",
-    "Description": ""
-}, {
-    "Title": "Flatgrammer",
-    "FileName": "Flatgrammer.tmTheme",
+    "Description": "",
+    "FileName": "FireCode.tmTheme",
+    "Title": "FireCode"
+  },
+  {
     "Author": "ART-ifact Dev | Jeremias Arnstadt",
-    "Description": "Color Scheme of the Sublime Flatgrammer Theme"
-}, {
-    "Title": "FreshCut",
+    "Description": "Color Scheme of the Sublime Flatgrammer Theme",
+    "FileName": "Flatgrammer.tmTheme",
+    "Title": "Flatgrammer"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "FreshCut.tmTheme",
+    "Title": "FreshCut"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Frontier",
+    "Description": "",
     "FileName": "Frontier.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Frozen",
-    "FileName": "Frozen.tmTheme",
+    "Title": "Frontier"
+  },
+  {
     "Author": "Felipe Martinin",
-    "Description": "Cool your mind"
-}, {
-    "Title": "Future Funk",
-    "FileName": "Future_Funk.tmTheme",
+    "Description": "Cool your mind",
+    "FileName": "Frozen.tmTheme",
+    "Title": "Frozen"
+  },
+  {
     "Author": "Twiebie",
-    "Description": "An easy to read dark color scheme for Sublime Text."
-}, {
-    "Title": "Github",
+    "Description": "An easy to read dark color scheme for Sublime Text.",
+    "FileName": "Future_Funk.tmTheme",
+    "Title": "Future Funk"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Github.tmTheme",
+    "Title": "Github"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Gloom",
+    "Description": "",
     "FileName": "Gloom.tmTheme",
+    "Title": "Gloom"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Glowfish",
+    "Description": "",
     "FileName": "Glowfish.tmTheme",
+    "Title": "Glowfish"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Goldfish",
+    "Description": "",
     "FileName": "Goldfish.tmTheme",
+    "Title": "Goldfish"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Grunge",
+    "Description": "",
     "FileName": "Grunge.tmTheme",
+    "Title": "Grunge"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "HalfLife",
+    "Description": "",
     "FileName": "HalfLife.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Harper",
+    "Title": "HalfLife"
+  },
+  {
+    "Author": "Jan T. Sott",
+    "Description": "Color scheme inspired by the art of Charley Harper (1922-2007)",
     "FileName": "Harper.tmTheme",
-    "Author": "Jan T. Sott",
-    "Description": "Color scheme inspired by the art of Charley Harper (1922-2007)"
-}, {
-    "Title": "Hyrule",
+    "Title": "Harper"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Hyrule.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "IDLE",
+    "Title": "Hyrule"
+  },
+  {
+    "Author": "Domenico Carbotta",
+    "Description": "",
     "FileName": "IDLE.tmTheme",
-    "Author": "Domenico Carbotta",
-    "Description": ""
-}, {
-    "Title": "Iceberg",
+    "Title": "IDLE"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Iceberg.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "ILM",
+    "Title": "Iceberg"
+  },
+  {
+    "Author": "@codex8",
+    "Description": "ILM techno solutions",
     "FileName": "ILM.tmTheme",
+    "Title": "ILM"
+  },
+  {
     "Author": "@codex8",
-    "Description": "ILM techno solutions"
-}, {
-    "Title": "ILM Hackers",
+    "Description": "ILM techno solutions",
     "FileName": "ILMHackers.tmTheme",
+    "Title": "ILM Hackers"
+  },
+  {
     "Author": "@codex8",
-    "Description": "ILM techno solutions"
-}, {
-    "Title": "ILM Light",
+    "Description": "ILM techno solutions",
     "FileName": "ILMLight.tmTheme",
+    "Title": "ILM Light"
+  },
+  {
     "Author": "@codex8",
-    "Description": "ILM techno solutions"
-}, {
-    "Title": "ILM Shell",
+    "Description": "ILM techno solutions",
     "FileName": "ILMShell.tmTheme",
+    "Title": "ILM Shell"
+  },
+  {
     "Author": "@codex8",
-    "Description": "ILM techno solutions"
-}, {
-    "Title": "ILM Stream",
+    "Description": "ILM techno solutions",
     "FileName": "ILMStream.tmTheme",
-    "Author": "@codex8",
-    "Description": "ILM techno solutions"
-}, {
-    "Title": "IR_Black",
-    "FileName": "IR_Black.tmTheme",
+    "Title": "ILM Stream"
+  },
+  {
     "Author": "Todd Werth",
-    "Description": ""
-}, {
-    "Title": "Juicy",
+    "Description": "",
+    "FileName": "IR_Black.tmTheme",
+    "Title": "IR_Black"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Juicy.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Kane",
-    "FileName": "Kane.tmTheme",
+    "Title": "Juicy"
+  },
+  {
     "Author": "kaneofawesome",
-    "Description": "High contrast - dark with bright highlights"
-}, {
-    "Title": "Kimbie (dark)",
+    "Description": "High contrast - dark with bright highlights",
+    "FileName": "Kane.tmTheme",
+    "Title": "Kane"
+  },
+  {
+    "Author": "Jan T. Sott",
+    "Description": "Color scheme inspired by Mount Kimbie's second album",
     "FileName": "Kimbie_dark.tmTheme",
+    "Title": "Kimbie (dark)"
+  },
+  {
     "Author": "Jan T. Sott",
-    "Description": "Color scheme inspired by Mount Kimbie's second album"
-}, {
-    "Title": "Kimbie (light)",
+    "Description": "Color scheme inspired by Mount Kimbie's second album",
     "FileName": "Kimbie_light.tmTheme",
-    "Author": "Jan T. Sott",
-    "Description": "Color scheme inspired by Mount Kimbie's second album"
-}, {
-    "Title": "KoralGreen",
-    "FileName": "KoralGreen.tmTheme",
+    "Title": "Kimbie (light)"
+  },
+  {
     "Author": "Enrico Friede",
-    "Description": "A dark, relaxing, simple color scheme"
-}, {
-    "Title": "LAZY",
-    "FileName": "LAZY.tmTheme",
+    "Description": "A dark, relaxing, simple color scheme",
+    "FileName": "KoralGreen.tmTheme",
+    "Title": "KoralGreen"
+  },
+  {
     "Author": "Domenico Carbotta",
-    "Description": ""
-}, {
-    "Title": "Laravel",
+    "Description": "",
+    "FileName": "LAZY.tmTheme",
+    "Title": "LAZY"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Laravel.tmTheme",
+    "Title": "Laravel"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "LastNight",
+    "Description": "",
     "FileName": "LastNight.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Late Night",
-    "FileName": "Late_Night.tmTheme",
+    "Title": "LastNight"
+  },
+  {
     "Author": "YemSalat",
-    "Description": "A dark theme for better readablility"
-}, {
-    "Title": "Lava",
+    "Description": "A dark theme for better readablility",
+    "FileName": "Late_Night.tmTheme",
+    "Title": "Late Night"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Lava.tmTheme",
+    "Title": "Lava"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Lavender",
+    "Description": "",
     "FileName": "Lavender.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "MagicWB Amiga",
-    "FileName": "MagicWB_Amiga.tmTheme",
+    "Title": "Lavender"
+  },
+  {
     "Author": "Allan Odgaard",
-    "Description": ""
-}, {
-    "Title": "Material",
-    "FileName": "Material.tmTheme",
+    "Description": "",
+    "FileName": "MagicWB_Amiga.tmTheme",
+    "Title": "MagicWB Amiga"
+  },
+  {
     "Author": "Bernardo Anderson",
-    "Description": "A modified Material theme based on equinusocio's original"
-}, {
-    "Title": "Mcedit",
-    "FileName": "Mcedit.tmTheme",
+    "Description": "A modified Material theme based on equinusocio's original",
+    "FileName": "Material.tmTheme",
+    "Title": "Material"
+  },
+  {
     "Author": "Created by DeeJayy, http://deejayy.hu/",
-    "Description": ""
-}, {
-    "Title": "Mellow",
+    "Description": "",
+    "FileName": "Mcedit.tmTheme",
+    "Title": "Mcedit"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Mellow.tmTheme",
+    "Title": "Mellow"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Merbivore",
+    "Description": "",
     "FileName": "Merbivore.tmTheme",
+    "Title": "Merbivore"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Merbivore Soft",
+    "Description": "",
     "FileName": "Merbivore_Soft.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Monokai Fresh",
-    "FileName": "monokai_fresh.tmTheme",
+    "Title": "Merbivore Soft"
+  },
+  {
     "Author": "Johan Tique",
-    "Description": "Easy contrast, best scheme for your LCD monitor based on Monokai"
-}, {
-    "Title": "Monokai",
+    "Description": "Easy contrast, best scheme for your LCD monitor based on Monokai",
+    "FileName": "monokai_fresh.tmTheme",
+    "Title": "Monokai Fresh"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Monokai.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Monokai-soft",
-    "FileName": "Monokai-Soft.tmTheme",
+    "Title": "Monokai"
+  },
+  {
     "Author": "CalebAmesbury.com",
-    "Description": "A softer more enjoyable version of the useful classic, Monokai."
-}, {
-    "Title": "Mustard",
-    "FileName": "Mustard.tmTheme",
+    "Description": "A softer more enjoyable version of the useful classic, Monokai.",
+    "FileName": "Monokai-Soft.tmTheme",
+    "Title": "Monokai-soft"
+  },
+  {
     "Author": "Rafal Lindemann",
-    "Description": ""
-}, {
-    "Title": "NaturalContrast",
+    "Description": "",
+    "FileName": "Mustard.tmTheme",
+    "Title": "Mustard"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "NaturalContrast.tmTheme",
+    "Title": "NaturalContrast"
+  },
+  {
+    "Author": "Josh Trujillo",
+    "Description": "",
+    "FileName": "Neon_Kush.tmTheme",
+    "Title": "Neon Kush"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-	"Title": "Neon Kush",
-	"FileName": "Neon_Kush.tmTheme",
-	"Author": "Josh Trujillo",
-	"Description": ""
-}, {
-    "Title": "NetBeans",
+    "Description": "",
     "FileName": "NetBeans.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "North Pole",
-	"FileName": "NorthPole.tmTheme",
-	"Author": "Alvaro Carmona",
-	"Description": "This is an excellent and original theme, inspired by the frozen north polar passage and tundra"
-}, {
-    "Title": "Oblivion",
-    "FileName": "Oblivion.tmTheme",
+    "Title": "NetBeans"
+  },
+  {
+    "Author": "Alvaro Carmona",
+    "Description": "This is an excellent and original theme, inspired by the frozen north polar passage and tundra",
+    "FileName": "NorthPole.tmTheme",
+    "Title": "North Pole"
+  },
+  {
     "Author": "James Brooks",
-    "Description": ""
-}, {
-    "Title": "Paraiso (dark)",
+    "Description": "",
+    "FileName": "Oblivion.tmTheme",
+    "Title": "Oblivion"
+  },
+  {
+    "Author": "Jan T. Sott",
+    "Description": "Color scheme inspired by the art of Rubens LP ",
     "FileName": "Paraiso_dark.tmTheme",
+    "Title": "Paraiso (dark)"
+  },
+  {
     "Author": "Jan T. Sott",
-    "Description": "Color scheme inspired by the art of Rubens LP "
-}, {
-    "Title": "Paraiso (light)",
+    "Description": "Color scheme inspired by the art of Rubens LP ",
     "FileName": "Paraiso_light.tmTheme",
-    "Author": "Jan T. Sott",
-    "Description": "Color scheme inspired by the art of Rubens LP "
-}, {
-    "Title": "Pastels on Dark",
-    "FileName": "Pastels_on_Dark.tmTheme",
+    "Title": "Paraiso (light)"
+  },
+  {
     "Author": "Mats Persson",
-    "Description": ""
-}, {
-    "Title": "Patriot",
+    "Description": "",
+    "FileName": "Pastels_on_Dark.tmTheme",
+    "Title": "Pastels on Dark"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Patriot.tmTheme",
+    "Title": "Patriot"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Peacock",
+    "Description": "",
     "FileName": "Peacock.tmTheme",
+    "Title": "Peacock"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Potpourri",
+    "Description": "",
     "FileName": "Potpourri.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Poyeyo",
+    "Title": "Potpourri"
+  },
+  {
+    "Author": "Poyeyo",
+    "Description": "",
     "FileName": "Poyeyo.tmTheme",
+    "Title": "Poyeyo"
+  },
+  {
     "Author": "Poyeyo",
-    "Description": ""
-}, {
-    "Title": "Poyeyo Blue",
+    "Description": "",
     "FileName": "Poyeyo_Blue.tmTheme",
-    "Author": "Poyeyo",
-    "Description": ""
-}, {
-    "Title": "Rebecca gray",
+    "Title": "Poyeyo Blue"
+  },
+  {
+    "Author": "sam0hack",
+    "Description": "light gray background theme",
     "FileName": "Rebecca.tmTheme",
-    "Author": "sam0hack",
-    "Description": "light gray background theme"
-}, {
-    "Title": "Rebecca dark",
-    "FileName": "Rebecca-dark.tmTheme",
+    "Title": "Rebecca gray"
+  },
+  {
     "Author": "sam0hach",
-    "Description": "Dark rebecca theme"
-}, {
-    "Title": "Rebecca mint",
+    "Description": "Dark rebecca theme",
+    "FileName": "Rebecca-dark.tmTheme",
+    "Title": "Rebecca dark"
+  },
+  {
+    "Author": "sam0hack",
+    "Description": "mint theme",
     "FileName": "Rebecca-mint.tmTheme",
+    "Title": "Rebecca mint"
+  },
+  {
     "Author": "sam0hack",
-    "Description": "mint theme"
-}, {
-    "Title": "Rebecca sky",
+    "Description": "sky theme",
     "FileName": "Rebecca-sky.tmTheme",
-    "Author": "sam0hack",
-    "Description": "sky theme"
-}, {
-    "Title": "Revelation",
+    "Title": "Rebecca sky"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Revelation.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Seahorse",
-    "FileName": "Seahorse.tmTheme",
+    "Title": "Revelation"
+  },
+  {
     "Author": "JD Isaacks",
-    "Description": ""
-}, {
-    "Title": "Slime",
+    "Description": "",
+    "FileName": "Seahorse.tmTheme",
+    "Title": "Seahorse"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Slime.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Slush and Poppies",
+    "Title": "Slime"
+  },
+  {
+    "Author": "William D. Neumann",
+    "Description": "",
     "FileName": "Slush_and_Poppies.tmTheme",
-    "Author": "William D. Neumann",
-    "Description": ""
-}, {
-    "Title": "Snappy",
+    "Title": "Slush and Poppies"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Snappy.tmTheme",
+    "Title": "Snappy"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "SnappyLight",
+    "Description": "",
     "FileName": "snappy-light.tmTheme",
+    "Title": "SnappyLight"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Solarflare",
+    "Description": "",
     "FileName": "Solarflare.tmTheme",
+    "Title": "Solarflare"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Solarized dark",
+    "Description": "",
     "FileName": "Solarized-dark.tmTheme",
+    "Title": "Solarized dark"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Solarized light",
+    "Description": "",
     "FileName": "Solarized-light.tmTheme",
+    "Title": "Solarized light"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Sourlick",
+    "Description": "",
     "FileName": "Sourlick.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "SpaceCadet",
-    "FileName": "SpaceCadet.tmTheme",
+    "Title": "Sourlick"
+  },
+  {
     "Author": "Alex Ross",
-    "Description": ""
-}, {
-    "Title": "Spearmint",
+    "Description": "",
+    "FileName": "SpaceCadet.tmTheme",
+    "Title": "SpaceCadet"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Spearmint.tmTheme",
+    "Title": "Spearmint"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Stark",
+    "Description": "",
     "FileName": "Stark.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Sunburst",
-    "FileName": "Sunburst.tmTheme",
+    "Title": "Stark"
+  },
+  {
     "Author": "Stanley Rost",
-    "Description": ""
-}, {
-    "Title": "Themeby Dark v1",
+    "Description": "",
+    "FileName": "Sunburst.tmTheme",
+    "Title": "Sunburst"
+  },
+  {
+    "Author": "Aleksander Fras",
+    "Description": "Derivated from Visual Studio Dark Theme. Purpose of this theme is to make coding not as tiring for my eyes as it used to be. My focus was on php and javascript. I've also added some less compatibility.",
     "FileName": "ThemebyDarkV1.tmTheme",
+    "Title": "Themeby Dark v1"
+  },
+  {
     "Author": "Aleksander Fras",
-    "Description": "Derivated from Visual Studio Dark Theme. Purpose of this theme is to make coding not as tiring for my eyes as it used to be. My focus was on php and javascript. I've also added some less compatibility."
-}, {
-    "Title": "Themeby Dark v2",
+    "Description": "A modified version of Themeby Dark v1. Brighter background than in v1, embedded source background is a little bit darker.",
     "FileName": "ThemebyDarkV2.tmTheme",
-    "Author": "Aleksander Fras",
-    "Description": "A modified version of Themeby Dark v1. Brighter background than in v1, embedded source background is a little bit darker."
-}, {
-    "Title": "Tomorrow",
+    "Title": "Themeby Dark v2"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Tomorrow.tmTheme",
+    "Title": "Tomorrow"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Tomorrow Night",
+    "Description": "",
     "FileName": "Tomorrow_Night.tmTheme",
+    "Title": "Tomorrow Night"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Tomorrow Night Blue",
+    "Description": "",
     "FileName": "Tomorrow_Night_Blue.tmTheme",
+    "Title": "Tomorrow Night Blue"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Tomorrow Night Bright",
+    "Description": "",
     "FileName": "Tomorrow_Night_Bright.tmTheme",
+    "Title": "Tomorrow Night Bright"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Tomorrow Night Eighties",
+    "Description": "",
     "FileName": "Tomorrow_Night_Eighties.tmTheme",
+    "Title": "Tomorrow Night Eighties"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Tron",
+    "Description": "",
     "FileName": "Tron.tmTheme",
+    "Title": "Tron"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "TronLegacy",
+    "Description": "",
     "FileName": "TronLegacy.tmTheme",
+    "Title": "TronLegacy"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "TronLight",
+    "Description": "",
     "FileName": "TronLight.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Twilight",
-    "FileName": "Twilight.tmTheme",
+    "Title": "TronLight"
+  },
+  {
     "Author": "Michael Sheets",
-    "Description": ""
-}, {
-    "Title": "Two Stones",
-    "FileName": "TwoStones.tmTheme",
+    "Description": "",
+    "FileName": "Twilight.tmTheme",
+    "Title": "Twilight"
+  },
+  {
     "Author": "Anderson Brantes",
-    "Description": ""
-}, {
-    "Title": "Userscape",
+    "Description": "",
+    "FileName": "TwoStones.tmTheme",
+    "Title": "Two Stones"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Userscape.tmTheme",
+    "Title": "Userscape"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Vibrant Ink",
+    "Description": "",
     "FileName": "Vibrant_Ink.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Whiteboard",
-    "FileName": "Whiteboard.tmTheme",
+    "Title": "Vibrant Ink"
+  },
+  {
     "Author": "Whiteboard",
-    "Description": "A white version of the Blackboard theme."
-}, {
-    "Title": "Xcode default",
+    "Description": "A white version of the Blackboard theme.",
+    "FileName": "Whiteboard.tmTheme",
+    "Title": "Whiteboard"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "Xcode_default.tmTheme",
+    "Title": "Xcode default"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Yule",
+    "Description": "",
     "FileName": "Yule.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Zenburnesque",
-    "FileName": "Zenburnesque.tmTheme",
+    "Title": "Yule"
+  },
+  {
     "Author": "William D. Neumann",
-    "Description": ""
-}, {
-    "Title": "Zeus",
-    "FileName": "Zeus-Sublime-Text.tmTheme",
+    "Description": "",
+    "FileName": "Zenburnesque.tmTheme",
+    "Title": "Zenburnesque"
+  },
+  {
     "Author": "Zayn Ali",
-    "Description": "https://github.com/zaynali53/Zeus-Theme"
-}, {
-    "Title": "IPlastic",
-    "FileName": "iPlastic.tmTheme",
+    "Description": "https://github.com/zaynali53/Zeus-Theme",
+    "FileName": "Zeus-Sublime-Text.tmTheme",
+    "Title": "Zeus"
+  },
+  {
     "Author": "Jeroen van der Ham",
-    "Description": ""
-}, {
-    "Title": "IdleFingers",
+    "Description": "",
+    "FileName": "iPlastic.tmTheme",
+    "Title": "IPlastic"
+  },
+  {
+    "Author": "",
+    "Description": "",
     "FileName": "idleFingers.tmTheme",
+    "Title": "IdleFingers"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "KrTheme",
+    "Description": "",
     "FileName": "krTheme.tmTheme",
+    "Title": "KrTheme"
+  },
+  {
     "Author": "",
-    "Description": ""
-}, {
-    "Title": "Monoindustrial",
+    "Description": "",
     "FileName": "monoindustrial.tmTheme",
-    "Author": "",
-    "Description": ""
-}, {
-    "Title": "Textmate",
-    "FileName": "textmate.tmTheme",
+    "Title": "Monoindustrial"
+  },
+  {
     "Author": "Chris Thomas",
-    "Description": ""
-}, {
-    "Title": "Salmon On Ice",
-    "FileName": "SalmonOnIce.tmTheme",
+    "Description": "",
+    "FileName": "textmate.tmTheme",
+    "Title": "Textmate"
+  },
+  {
     "Author": "Koen Lageveen",
-    "Description": ""
-}, {
-    "Title": "Sweet Dreams",
-    "FileName": "Sweet_Dreams.tmTheme",
+    "Description": "",
+    "FileName": "SalmonOnIce.tmTheme",
+    "Title": "Salmon On Ice"
+  },
+  {
     "Author": "Luke Shiels",
-    "Description": ""
-}, {
-    "Title": "Solar Sooty",
-    "FileName": "SolarSooty.tmTheme",
+    "Description": "",
+    "FileName": "Sweet_Dreams.tmTheme",
+    "Title": "Sweet Dreams"
+  },
+  {
     "Author": "Chris Acky",
-    "Description": ""
-}, {
-    "Title": "WarpOS",
+    "Description": "",
+    "FileName": "SolarSooty.tmTheme",
+    "Title": "Solar Sooty"
+  },
+  {
+    "Author": "Jan T. Sott",
+    "Description": "",
     "FileName": "WarpOS.tmTheme",
-    "Author": "Jan T. Sott",
-    "Description": ""
-}, {
-    "Title": "Welded",
-    "FileName": "Welded.tmTheme",
+    "Title": "WarpOS"
+  },
+  {
     "Author": "Manuel Ebert",
-    "Description": "github.com/maebert"
-}, {
-    "Title": "Monokai Vivid",
-    "FileName": "Monokai-Vivid.tmTheme",
+    "Description": "github.com/maebert",
+    "FileName": "Welded.tmTheme",
+    "Title": "Welded"
+  },
+  {
     "Author": "Steve Lacy",
-    "Description": "github.com/stevelacy"
-}, {
-    "Title": "Spectral",
-    "FileName": "spectral.tmTheme",
+    "Description": "github.com/stevelacy",
+    "FileName": "Monokai-Vivid.tmTheme",
+    "Title": "Monokai Vivid"
+  },
+  {
     "Author": "Battlelore",
-    "Description": ""
-}, {
-    "Title": "Symfony Framework Documentation",
-    "FileName": "Symfony.tmTheme",
+    "Description": "",
+    "FileName": "spectral.tmTheme",
+    "Title": "Spectral"
+  },
+  {
     "Author": "Jefersson Nathan",
-    "Description": ""
-}, {
-    "Title": "Flat",
+    "Description": "",
+    "FileName": "Symfony.tmTheme",
+    "Title": "Symfony Framework Documentation"
+  },
+  {
+    "Author": "Ricardo Muniz Crespo",
+    "Description": "http://kotarodesign.com",
     "FileName": "Flat.tmTheme",
-    "Author": "Ricardo Muniz Crespo",
-    "Description": "http://kotarodesign.com"
-}, {
-    "Title": "Batman",
+    "Title": "Flat"
+  },
+  {
+    "Author": "Ethan Welborn",
+    "Description": "A dark theme inspired by the Dark Knight himself. https://github.com/welbornio",
     "FileName": "Batman.tmTheme",
+    "Title": "Batman"
+  },
+  {
     "Author": "Ethan Welborn",
-    "Description": "A dark theme inspired by the Dark Knight himself. https://github.com/welbornio"
-}, {
-    "Title": "BatmanLight",
+    "Description": "A lighter version of the Batman theme. https://github.com/welbornio",
     "FileName": "BatmanLight.tmTheme",
-    "Author": "Ethan Welborn",
-    "Description": "A lighter version of the Batman theme. https://github.com/welbornio"
-}, {
-    "Title": "Sublime Xoria",
-    "FileName": "sublime_xoria.tmTheme",
+    "Title": "BatmanLight"
+  },
+  {
     "Author": "Christopher Kaster",
-    "Description": "https://github.com/kasoki"
-}, {
-    "Title": "Zenburn",
-    "FileName": "zenburn.tmTheme",
+    "Description": "https://github.com/kasoki",
+    "FileName": "sublime_xoria.tmTheme",
+    "Title": "Sublime Xoria"
+  },
+  {
     "Author": "Colin T.A. Gray",
-    "Description": "https://github.com/colinta/zenburn"
-}, {
-    "Title": "Tricolor",
+    "Description": "https://github.com/colinta/zenburn",
+    "FileName": "zenburn.tmTheme",
+    "Title": "Zenburn"
+  },
+  {
+    "Author": "dbaker",
+    "Description": "Minimal dark theme using complementary colors",
     "FileName": "Tricolor.tmTheme",
+    "Title": "Tricolor"
+  },
+  {
     "Author": "dbaker",
-    "Description": "Minimal dark theme using complementary colors"
-}, {
-    "Title": "Tricolor Light",
+    "Description": "Light version of Tricolor for sunny days",
     "FileName": "TricolorLight.tmTheme",
-    "Author": "dbaker",
-    "Description": "Light version of Tricolor for sunny days"
-}, {
-    "Title": "Flat Dark",
-    "FileName": "Flat_Dark.tmTheme",
+    "Title": "Tricolor Light"
+  },
+  {
     "Author": "Ricardo Muniz Crespo",
-    "Description": "http://kotarodesign.com"
-}, {
-    "Title": "LastRoom Light",
+    "Description": "http://kotarodesign.com",
+    "FileName": "Flat_Dark.tmTheme",
+    "Title": "Flat Dark"
+  },
+  {
+    "Author": "@ralts00, @jceb",
+    "Description": "Pink beauty theme for day",
     "FileName": "LastRoom_Light.tmTheme",
+    "Title": "LastRoom Light"
+  },
+  {
     "Author": "@ralts00, @jceb",
-    "Description": "Pink beauty theme for day"
-}, {
-    "Title": "LastRoom Dark",
+    "Description": "Pink beauty theme for night",
     "FileName": "LastRoom_Dark.tmTheme",
-    "Author": "@ralts00, @jceb",
-    "Description": "Pink beauty theme for night"
-}, {
-    "Title": "Heroku",
-    "FileName": "Heroku.tmTheme",
+    "Title": "LastRoom Dark"
+  },
+  {
     "Author": "Rubens Stulzer",
-    "Description": "Color scheme inspired on Heroku dashboard colors"
-}, {
-    "Title": "WarmNeon",
-    "FileName": "WarmNeon.tmTheme",
+    "Description": "Color scheme inspired on Heroku dashboard colors",
+    "FileName": "Heroku.tmTheme",
+    "Title": "Heroku"
+  },
+  {
     "Author": "Onrik",
-    "Description": ""
-}, {
-    "Title": "Quiet Light",
-    "FileName": "QuietLight.tmTheme",
+    "Description": "",
+    "FileName": "WarmNeon.tmTheme",
+    "Title": "WarmNeon"
+  },
+  {
     "Author": "Martin Kühl",
-    "Description": "Similar to IR_Black, a calming theme made originally for Espresso by One Crayon"
-}, {
-    "Title": "Pastel",
-    "FileName": "Pastel.tmTheme",
+    "Description": "Similar to IR_Black, a calming theme made originally for Espresso by One Crayon",
+    "FileName": "QuietLight.tmTheme",
+    "Title": "Quiet Light"
+  },
+  {
     "Author": "Arjen de Vries",
-    "Description": "A theme full of pastels."
-}, {
-    "Title": "Nette",
-    "FileName": "Nette.tmTheme",
+    "Description": "A theme full of pastels.",
+    "FileName": "Pastel.tmTheme",
+    "Title": "Pastel"
+  },
+  {
     "Author": "@Jzechy",
-    "Description": "Theme inspired by Nette framework documentation."
-}, {
-    "Title": "Spring",
-    "FileName": "Spring.tmTheme",
+    "Description": "Theme inspired by Nette framework documentation.",
+    "FileName": "Nette.tmTheme",
+    "Title": "Nette"
+  },
+  {
     "Author": "@JZechy",
-    "Description": "Theme created in Spring colors."
-}, {
-    "Title": "Solarized Ocean",
+    "Description": "Theme created in Spring colors.",
+    "FileName": "Spring.tmTheme",
+    "Title": "Spring"
+  },
+  {
+    "Author": "Saad Quadri",
+    "Description": "Theme inspired by Solarized and base16 Ocean color schemes.",
     "FileName": "Solarized-ocean.tmTheme",
+    "Title": "Solarized Ocean"
+  },
+  {
     "Author": "Saad Quadri",
-    "Description": "Theme inspired by Solarized and base16 Ocean color schemes."
-}, {
-    "Title": "Hail",
+    "Description": "A modified version of Dayle Reese's Tron color scheme.",
     "FileName": "Hail.tmTheme",
+    "Title": "Hail"
+  },
+  {
     "Author": "Saad Quadri",
-    "Description": "A modified version of Dayle Reese's Tron color scheme."
-}, {
-    "Title": "Bliss",
+    "Description": "Theme inspired by the vivid colors used on JSHint.",
     "FileName": "Bliss.tmTheme",
+    "Title": "Bliss"
+  },
+  {
     "Author": "Saad Quadri",
-    "Description": "Theme inspired by the vivid colors used on JSHint."
-}, {
-    "Title": "Eden",
+    "Description": "Modified version of Tomorrow Night",
     "FileName": "Eden.tmTheme",
-    "Author": "Saad Quadri",
-    "Description": "Modified version of Tomorrow Night"
-}, {
-    "Title": "Nouba",
-    "FileName": "Nouba.tmTheme",
+    "Title": "Eden"
+  },
+  {
     "Author": "Fernando Guisso",
-    "Description": "Theme inspired by Cirque du Soleil, La Nouba"
-}, {
-    "Title": "Kabbotta",
-    "FileName": "Kabbotta.tmTheme",
+    "Description": "Theme inspired by Cirque du Soleil, La Nouba",
+    "FileName": "Nouba.tmTheme",
+    "Title": "Nouba"
+  },
+  {
     "Author": "Michael Chapman",
-    "Description": "A dark and earthy theme."
-}, {
-    "Title": "Acai",
-    "FileName": "Acai.tmTheme",
+    "Description": "A dark and earthy theme.",
+    "FileName": "Kabbotta.tmTheme",
+    "Title": "Kabbotta"
+  },
+  {
     "Author": "Travis Lehman",
-    "Description": "A dark theme designed to be easy on the eyes."
-}, {
-    "Title": "Monokai - Easy White for Retina",
-    "FileName": "MonokaiEasyForRetina.tmTheme",
+    "Description": "A dark theme designed to be easy on the eyes.",
+    "FileName": "Acai.tmTheme",
+    "Title": "Acai"
+  },
+  {
     "Author": "Marian Zagoruiko",
-    "Description": "Basic Monokai theme with grey instead of white and some other improvements."
-}, {
-    "Title": "Monokai Best",
-    "FileName": "monokai-best.tmTheme",
+    "Description": "Basic Monokai theme with grey instead of white and some other improvements.",
+    "FileName": "MonokaiEasyForRetina.tmTheme",
+    "Title": "Monokai - Easy White for Retina"
+  },
+  {
     "Author": "Shakeel Mohamed",
-    "Description": "Based on Monokai vivid with: Monokai's selection color, Monokai Gray's background color, and colored JSON."
-}, {
-    "Title": "Metropolis",
-    "FileName": "Metropolis.tmTheme",
+    "Description": "Based on Monokai vivid with: Monokai's selection color, Monokai Gray's background color, and colored JSON.",
+    "FileName": "monokai-best.tmTheme",
+    "Title": "Monokai Best"
+  },
+  {
     "Author": "Adi",
-    "Description": "A theme with lots of modern lite colors with dark blue background that works just perfect."
-}, {
-    "Title": "Ocean Dark Soda",
-    "FileName": "Ocean-Dark-Soda.tmTheme",
+    "Description": "A theme with lots of modern lite colors with dark blue background that works just perfect.",
+    "FileName": "Metropolis.tmTheme",
+    "Title": "Metropolis"
+  },
+  {
     "Author": "Saad Quadri",
-    "Description": "A modified version of Base16's Ocean Dark color scheme to match Soda's Dark theme."
-}, {
-    "Title": "MonoKate",
-    "FileName": "monokate.tmTheme",
+    "Description": "A modified version of Base16's Ocean Dark color scheme to match Soda's Dark theme.",
+    "FileName": "Ocean-Dark-Soda.tmTheme",
+    "Title": "Ocean Dark Soda"
+  },
+  {
     "Author": "Grant Eagon",
-    "Description": "Monokai like theme for Sublime Text that is easy on the eyes, like Kate Upton."
-}, {
-    "Title": "Monokai-Midnight",
-    "FileName": "Monokai-Midnight.tmTheme",
+    "Description": "Monokai like theme for Sublime Text that is easy on the eyes, like Kate Upton.",
+    "FileName": "monokate.tmTheme",
+    "Title": "MonoKate"
+  },
+  {
     "Author": "Evan Dull",
-    "Description": "Monokai, but with a pure black background."
-}, {
-    "Title": "Focus Dark",
+    "Description": "Monokai, but with a pure black background.",
+    "FileName": "Monokai-Midnight.tmTheme",
+    "Title": "Monokai-Midnight"
+  },
+  {
+    "Author": "Sindre Sorhus",
+    "Description": "Lets you focus on the content",
     "FileName": "Focus_Dark.tmTheme",
+    "Title": "Focus Dark"
+  },
+  {
     "Author": "Sindre Sorhus",
-    "Description": "Lets you focus on the content"
-}, {
-    "Title": "Focus Light",
+    "Description": "Lets you focus on the content",
     "FileName": "Focus_Light.tmTheme",
-    "Author": "Sindre Sorhus",
-    "Description": "Lets you focus on the content"
-}, {
-    "Title": "Capo Light",
+    "Title": "Focus Light"
+  },
+  {
+    "Author": "Cimpean Andrei",
+    "Description": "Cool relaxing light theme.",
     "FileName": "Capo-Light.tmTheme",
+    "Title": "Capo Light"
+  },
+  {
     "Author": "Cimpean Andrei",
-    "Description": "Cool relaxing light theme."
-}, {
-    "Title": "Capo Dark",
+    "Description": "Cool relaxing dark theme.",
     "FileName": "Capo-Dark.tmTheme",
-    "Author": "Cimpean Andrei",
-    "Description": "Cool relaxing dark theme."
-}, {
-    "Title": "Brogrammer",
-    "FileName": "Brogrammer.tmTheme",
+    "Title": "Capo Dark"
+  },
+  {
     "Author": "Ken Wheeler",
-    "Description": "Push ups not included."
-}, {
-    "Title": "Zombies Ate My Neighbors",
-    "FileName": "zombies_ate_my_neighbors.tmTheme",
+    "Description": "Push ups not included.",
+    "FileName": "Brogrammer.tmTheme",
+    "Title": "Brogrammer"
+  },
+  {
     "Author": "bmxryder711",
-    "Description": "Dark theme with cool colors."
-}, {
-    "Title": "Afterglow",
-    "FileName": "Afterglow.tmTheme",
+    "Description": "Dark theme with cool colors.",
+    "FileName": "zombies_ate_my_neighbors.tmTheme",
+    "Title": "Zombies Ate My Neighbors"
+  },
+  {
     "Author": "Yabata Design",
-    "Description": "A minimal dark Theme."
-}, {
-    "Title": "Grandson of Obsidian",
-    "FileName": "GrandsonOfObsidian.tmTheme",
+    "Description": "A minimal dark Theme.",
+    "FileName": "Afterglow.tmTheme",
+    "Title": "Afterglow"
+  },
+  {
     "Author": "José F. Romaniello",
-    "Description": "Dark theme inspired by Obsidian"
-}, {
-    "Title": "Chelevra Ayu",
+    "Description": "Dark theme inspired by Obsidian",
+    "FileName": "GrandsonOfObsidian.tmTheme",
+    "Title": "Grandson of Obsidian"
+  },
+  {
+    "Author": "Jonas Hermsmeier",
+    "Description": "Dark, minimal theme (perfect fit for Ayu UI theme)",
     "FileName": "Chelevra-Ayu.tmTheme",
+    "Title": "Chelevra Ayu"
+  },
+  {
     "Author": "Jonas Hermsmeier",
-    "Description": "Dark, minimal theme (perfect fit for Ayu UI theme)"
-}, {
-    "Title": "Chelevra Material",
+    "Description": "Dark, minimal theme (perfect fit for Material UI theme)",
     "FileName": "Chelevra-Material.tmTheme",
-    "Author": "Jonas Hermsmeier",
-    "Description": "Dark, minimal theme (perfect fit for Material UI theme)"
-}, {
-    "Title": "Monokai Aurora",
+    "Title": "Chelevra Material"
+  },
+  {
+    "Author": "Josema Enzo",
+    "Description": "The best of Monokai and Aurora themes.",
     "FileName": "Monokai-Aurora.tmTheme",
+    "Title": "Monokai Aurora"
+  },
+  {
     "Author": "Josema Enzo",
-    "Description": "The best of Monokai and Aurora themes."
-}, {
-    "Title": "dop",
+    "Description": "Distributed Object Protocol theme.",
     "FileName": "dop.tmTheme",
-    "Author": "Josema Enzo",
-    "Description": "Distributed Object Protocol theme."
-}, {
-    "Title": "Bungler",
-    "FileName": "Bungler.tmTheme",
+    "Title": "dop"
+  },
+  {
     "Author": "Josh Burgess",
-    "Description": "A colorful dark theme."
-}, {
-    "Title": "KyzDark",
-    "FileName": "KyzDark.tmTheme",
+    "Description": "A colorful dark theme.",
+    "FileName": "Bungler.tmTheme",
+    "Title": "Bungler"
+  },
+  {
     "Author": "Kiswono Prayogo",
-    "Description": "Dark Theme especially for Go."
-}, {
-    "Title": "X3-Alpha",
-    "FileName": "x3-alpha.tmTheme",
+    "Description": "Dark Theme especially for Go.",
+    "FileName": "KyzDark.tmTheme",
+    "Title": "KyzDark"
+  },
+  {
     "Author": "x3ns",
-    "Description": "This is a very balanced and soft scheme. Awesome for night work. For more info, see: https://github.com/x3ns/x3-alpha-theme/"
-}, {
-    "Title": "GhettoBerryBlast",
-    "FileName": "GhettoBerryBlast.tmTheme",
+    "Description": "This is a very balanced and soft scheme. Awesome for night work. For more info, see: https://github.com/x3ns/x3-alpha-theme/",
+    "FileName": "x3-alpha.tmTheme",
+    "Title": "X3-Alpha"
+  },
+  {
     "Author": "Justin .K (SirWags)",
-    "Description": "A berry flavored theme for Sublime"
-}, {
-    "Title": "Hopscotch",
-    "FileName": "Hopscotch.tmTheme",
+    "Description": "A berry flavored theme for Sublime",
+    "FileName": "GhettoBerryBlast.tmTheme",
+    "Title": "GhettoBerryBlast"
+  },
+  {
     "Author": "Jan T. Sott",
-    "Description": "Color scheme inspired by the Hopscotch learning platform for kids"
-}, {
-    "Title": "8 Color Dark",
-    "FileName": "8-Colour-Dark.tmTheme",
+    "Description": "Color scheme inspired by the Hopscotch learning platform for kids",
+    "FileName": "Hopscotch.tmTheme",
+    "Title": "Hopscotch"
+  },
+  {
     "Author": "Shane Knysh (shaneknysh)",
-    "Description": "A dark color scheme with only 8 defined colors"
-}, {
-    "Title": "Tireless",
-    "FileName": "Tireless.tmTheme",
+    "Description": "A dark color scheme with only 8 defined colors",
+    "FileName": "8-Colour-Dark.tmTheme",
+    "Title": "8 Color Dark"
+  },
+  {
     "Author": "Victor Fabiano Gomes[godotAndCoffee|BlackLeMore]",
-    "Description": "For programmers who have floaters like me."
-
-}, {
-    "Title": "Red",
-    "FileName": "red.tmTheme",
+    "Description": "For programmers who have floaters like me.",
+    "FileName": "Tireless.tmTheme",
+    "Title": "Tireless"
+  },
+  {
     "Author": "1ClickComputing",
-    "Description": "A striking dark red theme"
-}, {
-    "Title": "Wombat",
-    "FileName": "Wombat.tmTheme",
+    "Description": "A striking dark red theme",
+    "FileName": "red.tmTheme",
+    "Title": "Red"
+  },
+  {
     "Author": "Randy Lai, Jon Schlinkert",
-    "Description": "Derived from sublime-monokai-extended with Wombat color scheme. https://github.com/randy3k/Wombat"
-}, {
-    "Title": "Shadows",
-    "FileName": "Shadows.tmTheme",
+    "Description": "Derived from sublime-monokai-extended with Wombat color scheme. https://github.com/randy3k/Wombat",
+    "FileName": "Wombat.tmTheme",
+    "Title": "Wombat"
+  },
+  {
     "Author": "Michelle Liu (anonmily)",
-    "Description": "Dark (yet not too dark) theme with subtle highlighting of PHP code/comments, and LESS syntax coloring"
-}, {
-    "Title": "Code-Lover",
-    "FileName": "Code-Lover.tmTheme",
+    "Description": "Dark (yet not too dark) theme with subtle highlighting of PHP code/comments, and LESS syntax coloring",
+    "FileName": "Shadows.tmTheme",
+    "Title": "Shadows"
+  },
+  {
     "Author": "HaCk3D",
-    "Description": "A dark and colorful theme for coding :3"
-}, {
-    "Title": "arstotzka",
+    "Description": "A dark and colorful theme for coding :3",
+    "FileName": "Code-Lover.tmTheme",
+    "Title": "Code-Lover"
+  },
+  {
+    "Author": "Dayle Rees.",
+    "Description": "",
     "FileName": "arstotzka.tmTheme",
+    "Title": "arstotzka"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-
-}, {
-    "Title": "azure",
+    "Description": "",
     "FileName": "azure.tmTheme",
+    "Title": "azure"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "bold",
+    "Description": "",
     "FileName": "bold.tmTheme",
+    "Title": "bold"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "chocolate",
+    "Description": "",
     "FileName": "chocolate.tmTheme",
+    "Title": "chocolate"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "crisp",
+    "Description": "",
     "FileName": "crisp.tmTheme",
+    "Title": "crisp"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "keen",
+    "Description": "",
     "FileName": "keen.tmTheme",
+    "Title": "keen"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "kiwi",
+    "Description": "",
     "FileName": "kiwi.tmTheme",
+    "Title": "kiwi"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "legacy",
+    "Description": "",
     "FileName": "legacy.tmTheme",
+    "Title": "legacy"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "mintchoc",
+    "Description": "",
     "FileName": "mintchoc.tmTheme",
+    "Title": "mintchoc"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "mud",
+    "Description": "",
     "FileName": "mud.tmTheme",
+    "Title": "mud"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "otakon",
+    "Description": "",
     "FileName": "otakon.tmTheme",
+    "Title": "otakon"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "peacocks-in-space",
+    "Description": "",
     "FileName": "peacocks-in-space.tmTheme",
-    "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "Mars Peacock",
-    "FileName": "MarsPeacock.tmTheme",
+    "Title": "peacocks-in-space"
+  },
+  {
     "Author": "Odepax",
-    "Description": "A dark contrasted syntax color scheme for Sublime Text. Inspired by Peacock theme."
-}, {
-    "Title": "peel",
+    "Description": "A dark contrasted syntax color scheme for Sublime Text. Inspired by Peacock theme.",
+    "FileName": "MarsPeacock.tmTheme",
+    "Title": "Mars Peacock"
+  },
+  {
+    "Author": "Dayle Rees.",
+    "Description": "",
     "FileName": "peel.tmTheme",
+    "Title": "peel"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "piggy",
+    "Description": "",
     "FileName": "piggy.tmTheme",
+    "Title": "piggy"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "rainbow",
+    "Description": "",
     "FileName": "rainbow.tmTheme",
+    "Title": "rainbow"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "shrek",
+    "Description": "",
     "FileName": "shrek.tmTheme",
+    "Title": "shrek"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "slate",
+    "Description": "",
     "FileName": "slate.tmTheme",
-    "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "Those Lights",
-    "FileName": "those_lights.tmTheme",
+    "Title": "slate"
+  },
+  {
     "Author": "Ankush Thakur",
-    "Description": "A graceful, soothing dark color scheme for those seeking balance in colors"
-}, {
-    "Title": "super",
+    "Description": "A graceful, soothing dark color scheme for those seeking balance in colors",
+    "FileName": "those_lights.tmTheme",
+    "Title": "Those Lights"
+  },
+  {
+    "Author": "Dayle Rees.",
+    "Description": "",
     "FileName": "super.tmTheme",
+    "Title": "super"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "tonic",
+    "Description": "",
     "FileName": "tonic.tmTheme",
+    "Title": "tonic"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "tribal",
+    "Description": "",
     "FileName": "tribal.tmTheme",
+    "Title": "tribal"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "turnip",
+    "Description": "",
     "FileName": "turnip.tmTheme",
+    "Title": "turnip"
+  },
+  {
     "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-    "Title": "zacks",
+    "Description": "",
     "FileName": "zacks.tmTheme",
-    "Author": "Dayle Rees.",
-    "Description": ""
-}, {
-
-    "Title": "GitHub Clean White",
-    "FileName": "GitHubCleanWhite.tmTheme",
+    "Title": "zacks"
+  },
+  {
     "Author": "Ankur Gupta",
-    "Description": "GitHub-like color scheme. White background, bold and italic fonts, diff color highlighting and BracketHighlighter color."
-}, {
-    "Title": "Neon",
-    "FileName": "Neon.tmTheme",
+    "Description": "GitHub-like color scheme. White background, bold and italic fonts, diff color highlighting and BracketHighlighter color.",
+    "FileName": "GitHubCleanWhite.tmTheme",
+    "Title": "GitHub Clean White"
+  },
+  {
     "Author": "MattDMo",
-    "Description": "A colorful bright-on-black color scheme with multi-language support http://git.io/b4kU"
-
-}, {
-    "Title": "Deer Antler Dark",
-    "FileName": "DeerAntlerDark.tmTheme",
+    "Description": "A colorful bright-on-black color scheme with multi-language support http://git.io/b4kU",
+    "FileName": "Neon.tmTheme",
+    "Title": "Neon"
+  },
+  {
     "Author": "JP Fairchild",
-    "Description": "Dark Sublime Theme"
-}, {
-    "Title": "Amber",
+    "Description": "Dark Sublime Theme",
+    "FileName": "DeerAntlerDark.tmTheme",
+    "Title": "Deer Antler Dark"
+  },
+  {
+    "Author": "Kristopher Johnson",
+    "Description": "Amber monochrome terminal-like theme",
     "FileName": "Amber.tmTheme",
+    "Title": "Amber"
+  },
+  {
     "Author": "Kristopher Johnson",
-    "Description": "Amber monochrome terminal-like theme"
-}, {
-    "Title": "Green",
+    "Description": "Green monochrome terminal-like theme",
     "FileName": "Green.tmTheme",
+    "Title": "Green"
+  },
+  {
     "Author": "Kristopher Johnson",
-    "Description": "Green monochrome terminal-like theme"
-}, {
-    "Title": "Blueprint",
+    "Description": "Blue monochrome theme",
     "FileName": "Blueprint.tmTheme",
-    "Author": "Kristopher Johnson",
-    "Description": "Blue monochrome theme"
-}, {
-    "Title": "Oceanic Next",
-    "FileName": "Oceanic_Next.tmTheme",
+    "Title": "Blueprint"
+  },
+  {
     "Author": "Dmitri Voronianski",
-    "Description": "Color scheme optimized for babel-sublime JavaScript syntax highlighter. Inspired by Base16 Ocean Dark Theme."
-}, {
-    "Title": "Monokai Cobalt",
-    "FileName": "Monokai-Cobalt.tmTheme",
+    "Description": "Color scheme optimized for babel-sublime JavaScript syntax highlighter. Inspired by Base16 Ocean Dark Theme.",
+    "FileName": "Oceanic_Next.tmTheme",
+    "Title": "Oceanic Next"
+  },
+  {
     "Author": "Jarno van Rhijn",
-    "Description": "A Monokai color scheme (https://github.com/jarnovanrhijn) especially for cobalt 2 theme (https://github.com/wesbos/cobalt2)."
-}, {
-    "Title": "Jellybeams",
-    "FileName": "Jellybeams.tmTheme",
+    "Description": "A Monokai color scheme (https://github.com/jarnovanrhijn) especially for cobalt 2 theme (https://github.com/wesbos/cobalt2).",
+    "FileName": "Monokai-Cobalt.tmTheme",
+    "Title": "Monokai Cobalt"
+  },
+  {
     "Author": "Stephen Underwood",
-    "Description": "A dark color scheme, based on the awesome Jellybeans color scheme for vim"
-}, {
-    "Title": "Hot Dog Stand",
-    "FileName": "HotDogStand.tmTheme",
+    "Description": "A dark color scheme, based on the awesome Jellybeans color scheme for vim",
+    "FileName": "Jellybeams.tmTheme",
+    "Title": "Jellybeams"
+  },
+  {
     "Author": "Randall Koutnik",
-    "Description": "https://github.com/SomeKittens/ST-Hot-Dog-Stand"
-}, {
-    "Title": "Birds of Paradise",
-    "FileName": "Birds_of_Paradise.tmTheme",
+    "Description": "https://github.com/SomeKittens/ST-Hot-Dog-Stand",
+    "FileName": "HotDogStand.tmTheme",
+    "Title": "Hot Dog Stand"
+  },
+  {
     "Author": "Joe Bergantine",
-    "Description": "based on a warmer color palette than it’s older brother, Specials Board, it’s a little bit more natural, a little bit more tropcial. The background is a rich dark brown with complimentary colors over the top. Birds of Paradise is named for the Paradisaeidae family of birds in New Guinea from which it draws inspiration."
-}, {
-    "Title": "Daily Grind",
-    "FileName": "Daily-Grind.tmTheme",
+    "Description": "based on a warmer color palette than it’s older brother, Specials Board, it’s a little bit more natural, a little bit more tropcial. The background is a rich dark brown with complimentary colors over the top. Birds of Paradise is named for the Paradisaeidae family of birds in New Guinea from which it draws inspiration.",
+    "FileName": "Birds_of_Paradise.tmTheme",
+    "Title": "Birds of Paradise"
+  },
+  {
     "Author": "Paul Denya",
-    "Description": ""
-}, {
-    "Title": "Humane",
-    "FileName": "Humane.tmTheme",
+    "Description": "",
+    "FileName": "Daily-Grind.tmTheme",
+    "Title": "Daily Grind"
+  },
+  {
     "Author": "Damien Guard",
-    "Description": "Earthy background and consistent soft colours for reduced eye-strain"
-}, {
-    "Title": "Chameleon",
-    "FileName": "Chameleon.tmTheme",
+    "Description": "Earthy background and consistent soft colours for reduced eye-strain",
+    "FileName": "Humane.tmTheme",
+    "Title": "Humane"
+  },
+  {
     "Author": "Michael Hrishenko",
-    "Description": "Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure."
-}, {
-    "Title": "Smyck",
-    "FileName": "Smyck.tmTheme",
+    "Description": "Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure.",
+    "FileName": "Chameleon.tmTheme",
+    "Title": "Chameleon"
+  },
+  {
     "Author": "John-Paul Bader",
-    "Description": "This is a color scheme for terminals and text editors to create a homogenous work environment which is pleasant for the eyes. The colors are carefully chosen and should work well in many different situations."
-}, {
-    "Title": "Monokai-HighFructose",
-    "FileName": "Monokai-HighFructose.tmTheme",
+    "Description": "This is a color scheme for terminals and text editors to create a homogenous work environment which is pleasant for the eyes. The colors are carefully chosen and should work well in many different situations.",
+    "FileName": "Smyck.tmTheme",
+    "Title": "Smyck"
+  },
+  {
     "Author": "Jules Ries",
-    "Description": "A tangy, succulent Monokai that steals heavily from Shakeel Mohamed's Monokai Best."
-}, {
-    "Title": "DarkCF",
-    "FileName": "DarkCF.tmTheme",
+    "Description": "A tangy, succulent Monokai that steals heavily from Shakeel Mohamed's Monokai Best.",
+    "FileName": "Monokai-HighFructose.tmTheme",
+    "Title": "Monokai-HighFructose"
+  },
+  {
     "Author": "Nath Arduini",
-    "Description": "Dark syntax highlighting for cfml and html inspired by the One Dark theme in Atom -- best used with the 'Enhanced HTML and CFML' package"
-}, {
-    "Title": "Ascetic",
-    "FileName": "Ascetic.tmTheme",
+    "Description": "Dark syntax highlighting for cfml and html inspired by the One Dark theme in Atom -- best used with the 'Enhanced HTML and CFML' package",
+    "FileName": "DarkCF.tmTheme",
+    "Title": "DarkCF"
+  },
+  {
     "Author": "Tomek Wiszniewski",
-    "Description": "Downright minimal."
-}, {
-    "Title": "Ascetic-Night",
-    "FileName": "Ascetic-Night.tmTheme",
+    "Description": "Downright minimal.",
+    "FileName": "Ascetic.tmTheme",
+    "Title": "Ascetic"
+  },
+  {
     "Author": "Dmitry Pinchukov",
-    "Description": "Night variant of Ascetic: inverted and slightly tuned colors. Credits to Tomek Wiszniewski for the original theme."
-}, {
-    "Title": "Resesif",
-    "FileName": "Resesif.tmTheme",
+    "Description": "Night variant of Ascetic: inverted and slightly tuned colors. Credits to Tomek Wiszniewski for the original theme.",
+    "FileName": "Ascetic-Night.tmTheme",
+    "Title": "Ascetic-Night"
+  },
+  {
     "Author": "Nick Eddy",
-    "Description": "A dark theme found at http://www.textmatetheme.com/resesif"
-},
-{
-    "Title": "Monokai Contrast",
-    "FileName": "Monokai-Contrast.tmTheme",
+    "Description": "A dark theme found at http://www.textmatetheme.com/resesif",
+    "FileName": "Resesif.tmTheme",
+    "Title": "Resesif"
+  },
+  {
     "Author": "Manuel Barkhau",
-    "Description": "A high contrast variant of Monokai. Black background and bright colors."
-},
-{
-    "Title": "Gooey",
+    "Description": "A high contrast variant of Monokai. Black background and bright colors.",
+    "FileName": "Monokai-Contrast.tmTheme",
+    "Title": "Monokai Contrast"
+  },
+  {
+    "Author": "Simon Goellner",
+    "Description": "A pretty, gooey theme in mostly greens and blues.",
     "FileName": "Gooey.tmTheme",
+    "Title": "Gooey"
+  },
+  {
     "Author": "Simon Goellner",
-    "Description": "A pretty, gooey theme in mostly greens and blues."
-},
-{
-    "Title": "Gooey Pastel",
+    "Description": "A more sudued gooey.",
     "FileName": "GooeyPastel.tmTheme",
-    "Author": "Simon Goellner",
-    "Description": "A more sudued gooey."
-},
-{
-    "Title": "Space Rave",
-    "FileName": "SpaceRave.tmTheme",
+    "Title": "Gooey Pastel"
+  },
+  {
     "Author": "Younes Zakaria",
-    "Description": "A dark and techy theme, with a blue background and bright, neon-like colors."
-},
-{
-    "Title": "Wildlife-Day",
+    "Description": "A dark and techy theme, with a blue background and bright, neon-like colors.",
+    "FileName": "SpaceRave.tmTheme",
+    "Title": "Space Rave"
+  },
+  {
+    "Author": "Taiwo Kareem",
+    "Description": "A vibrant light color scheme with support for over 75 languages, gitgutter and sublime linter",
     "FileName": "Wildlife-Day.tmTheme",
+    "Title": "Wildlife-Day"
+  },
+  {
     "Author": "Taiwo Kareem",
-    "Description": "A vibrant light color scheme with support for over 75 languages, gitgutter and sublime linter"
-},
-{
-    "Title": "Wildlife-Night",
+    "Description": "A vibrant dark color scheme with support for over 75 languages, gitgutter and sublime linter",
     "FileName": "Wildlife-Night.tmTheme",
-    "Author": "Taiwo Kareem",
-    "Description": "A vibrant dark color scheme with support for over 75 languages, gitgutter and sublime linter"
-},
-{
-    "Title": "Meteor",
-    "FileName": "Meteor.tmTheme",
+    "Title": "Wildlife-Night"
+  },
+  {
     "Author": "Alex King",
-    "Description": "A bright theme inspired by the Artwork Meteor by Nina Geometrieva. Best Paired with the Flatron theme."
-},{
-    "Title": "santojon",
+    "Description": "A bright theme inspired by the Artwork Meteor by Nina Geometrieva. Best Paired with the Flatron theme.",
+    "FileName": "Meteor.tmTheme",
+    "Title": "Meteor"
+  },
+  {
+    "Author": "Jonathan Santos",
+    "Description": "A theme to keep it clean. And vibrant. And light.",
     "FileName": "santojon.tmTheme",
+    "Title": "santojon"
+  },
+  {
     "Author": "Jonathan Santos",
-    "Description": "A theme to keep it clean. And vibrant. And light."
-},
-{
-    "Title": "santojon dark",
+    "Description": "A theme to keep it clean. And vibrant. But dark.",
     "FileName": "santojon-dark.tmTheme",
-    "Author": "Jonathan Santos",
-    "Description": "A theme to keep it clean. And vibrant. But dark."
-},
-{
-    "Title": "LightBulb",
+    "Title": "santojon dark"
+  },
+  {
+    "Author": "@rselwyn",
+    "Description": "A dark theme with bright offset colors.",
     "FileName": "LightBulb.tmTheme",
+    "Title": "LightBulb"
+  },
+  {
     "Author": "@rselwyn",
-    "Description": "A dark theme with bright offset colors."
-},
-{
-    "Title": "Hacker",
+    "Description": "A dark background with bright green, red, and blue code highlighting.",
     "FileName": "Hacker.tmTheme",
-    "Author": "@rselwyn",
-    "Description": "A dark background with bright green, red, and blue code highlighting."
-},
-{
-    "Title": "Better JS",
-    "FileName": "Better_JS.tmTheme",
+    "Title": "Hacker"
+  },
+  {
     "Author": "Arkadiusz Wieczorek",
-    "Description": "A theme for better highlighting JavaScript syntax. https://github.com/debian-sh"
-},
-{
-    "Title": "New Day",
-    "FileName": "New-Day.tmTheme",
+    "Description": "A theme for better highlighting JavaScript syntax. https://github.com/debian-sh",
+    "FileName": "Better_JS.tmTheme",
+    "Title": "Better JS"
+  },
+  {
     "Author": "Luca Reghellin",
-    "Description": "A light theme, prepared for html, scss, javascript, php, jade, smarty"
-},
-{
-    "Title": "Monokai Dev",
-    "FileName": "Monokai-Dev.tmTheme",
+    "Description": "A light theme, prepared for html, scss, javascript, php, jade, smarty",
+    "FileName": "New-Day.tmTheme",
+    "Title": "New Day"
+  },
+  {
     "Author": "Maximiliano Canellas",
-    "Description": "A Monokai Contrast based theme for programmers"
-},
-{
-    "Title": "Poppins",
-    "FileName": "Poppins.tmTheme",
+    "Description": "A Monokai Contrast based theme for programmers",
+    "FileName": "Monokai-Dev.tmTheme",
+    "Title": "Monokai Dev"
+  },
+  {
     "Author": "Praveen Puglia",
-    "Description": "A light theme with popping colors for razor sharp clarity."
-},
-{
-    "Title": "Legacy Pack",
-    "FileName": "LegacyPack.tmTheme",
+    "Description": "A light theme with popping colors for razor sharp clarity.",
+    "FileName": "Poppins.tmTheme",
+    "Title": "Poppins"
+  },
+  {
     "Author": "Ryan Pack",
-    "Description": "A Sublime Text theme based off of TronLegacy."
-},
-{
-    "Title": "VivoSub",
-    "FileName": "VivoSub.tmTheme",
+    "Description": "A Sublime Text theme based off of TronLegacy.",
+    "FileName": "LegacyPack.tmTheme",
+    "Title": "Legacy Pack"
+  },
+  {
     "Author": "Victor Volle",
-    "Description": "A dark theme with muted colours and little variation"
-},
-{
-    "Title": "Into the Dark",
-    "FileName": "Into-the-Dark.tmTheme",
+    "Description": "A dark theme with muted colours and little variation",
+    "FileName": "VivoSub.tmTheme",
+    "Title": "VivoSub"
+  },
+  {
     "Author": "Ben de Castro",
-    "Description": "Based on the 'Tomorrow Night' Theme"
-},
-{
-    "Title": "Earthworm",
-    "FileName": "Earthworm.tmTheme",
+    "Description": "Based on the 'Tomorrow Night' Theme",
+    "FileName": "Into-the-Dark.tmTheme",
+    "Title": "Into the Dark"
+  },
+  {
     "Author": "Dave Tate",
-    "Description": "Dark color scheme, low-contrast, natural tones."
-},
-{
-    "Title": "Cake",
-    "FileName": "Cake.tmTheme",
+    "Description": "Dark color scheme, low-contrast, natural tones.",
+    "FileName": "Earthworm.tmTheme",
+    "Title": "Earthworm"
+  },
+  {
     "Author": "Daniel Pintilei",
-    "Description": "Yummy syntax theme. https://danielpintilei.cf/Cake"
-},
-{
-    "Title": "GitHub v2",
+    "Description": "Yummy syntax theme. https://danielpintilei.cf/Cake",
+    "FileName": "Cake.tmTheme",
+    "Title": "Cake"
+  },
+  {
+    "Author": "Consigliere",
+    "Description": "Github color scheme version 2",
     "FileName": "Github-v2.tmTheme",
+    "Title": "GitHub v2"
+  },
+  {
     "Author": "Consigliere",
-    "Description": "Github color scheme version 2"
-},
-{
-    "Title": "Solarized Dark (Nitrous.io version)",
+    "Description": "Solarized Dark theme used in Nitrous.io",
     "FileName": "Solarized-dark-Nitrous.io.tmTheme",
-    "Author": "Consigliere",
-    "Description": "Solarized Dark theme used in Nitrous.io"
-},
-{
-    "Title": "DarkMosquito Color Scheme",
-    "FileName": "DarkMosquito.tmTheme",
+    "Title": "Solarized Dark (Nitrous.io version)"
+  },
+  {
     "Author": "Giovane de Oliveira",
-    "Description": "A dark color scheme for Sublime Text, the colors are based on Google Chrome Dev Tools (Default Dark Theme). https://github.com/Mosquito13/DarkMosquito-Color-Scheme"
-},
-{
-    "Title": "Humble Night",
-    "FileName": "Humble.tmTheme",
+    "Description": "A dark color scheme for Sublime Text, the colors are based on Google Chrome Dev Tools (Default Dark Theme). https://github.com/Mosquito13/DarkMosquito-Color-Scheme",
+    "FileName": "DarkMosquito.tmTheme",
+    "Title": "DarkMosquito Color Scheme"
+  },
+  {
     "Author": "weop",
-    "Description": "A minimalistic dark color theme that's easy on the eyes."
-},
-{
-    "Title": "Monokai Charcoal",
-    "FileName": "Monokai-Charcoal.tmTheme",
+    "Description": "A minimalistic dark color theme that's easy on the eyes.",
+    "FileName": "Humble.tmTheme",
+    "Title": "Humble Night"
+  },
+  {
     "Author": "Luka Kotar",
-    "Description": "A Monokai theme with a near-black purple background and a soft orange selection color."
-},
-{
-    "Title": "Toothpaste",
-    "FileName": "toothpaste.tmTheme",
+    "Description": "A Monokai theme with a near-black purple background and a soft orange selection color.",
+    "FileName": "Monokai-Charcoal.tmTheme",
+    "Title": "Monokai Charcoal"
+  },
+  {
     "Author": "Cat Noone",
-    "Description": "A custom editor theme with flavorful colors that pop and are muted where necessary. https://github.com/imcatnoone/toothpaste"
-},
-{
-    "Title": "Candy_Brights",
+    "Description": "A custom editor theme with flavorful colors that pop and are muted where necessary. https://github.com/imcatnoone/toothpaste",
+    "FileName": "toothpaste.tmTheme",
+    "Title": "Toothpaste"
+  },
+  {
+    "Author": "fullerenedream",
+    "Description": "Candy Land modified to have some more saturated colors. https://github.com/fullerenedream/sublime-themes/blob/master/Candy_Brights.tmTheme",
     "FileName": "Candy_Brights.tmTheme",
+    "Title": "Candy_Brights"
+  },
+  {
     "Author": "fullerenedream",
-    "Description": "Candy Land modified to have some more saturated colors. https://github.com/fullerenedream/sublime-themes/blob/master/Candy_Brights.tmTheme"
-},
-{
-    "Title": "FluoroMachine",
+    "Description": "Evokes the glow of fluorescent pigments under ultraviolet light. https://github.com/fullerenedream/sublime-themes/blob/master/FluoroMachine.tmTheme",
     "FileName": "FluoroMachine.tmTheme",
-    "Author": "fullerenedream",
-    "Description": "Evokes the glow of fluorescent pigments under ultraviolet light. https://github.com/fullerenedream/sublime-themes/blob/master/FluoroMachine.tmTheme"
-},
-{
-    "Title": "Another Kolor (Dark)",
+    "Title": "FluoroMachine"
+  },
+  {
+    "Author": "danyadsmith",
+    "Description": "A dark theme inspired by Kolor for Espresso 2. https://github.com/danyadsmith/AnotherKolor/",
     "FileName": "Another_Kolor_Dark.tmTheme",
-    "Author": "danyadsmith",
-    "Description": "A dark theme inspired by Kolor for Espresso 2. https://github.com/danyadsmith/AnotherKolor/"
-},
-{
-    "Title": "Foggy Evening",
+    "Title": "Another Kolor (Dark)"
+  },
+  {
+    "Author": "Brian Mock (@wavebeem)",
+    "Description": "A dark and foggy theme https://github.com/wavebeem/sublime-theme-foggy-evening",
     "FileName": "Foggy-Evening.tmTheme",
+    "Title": "Foggy Evening"
+  },
+  {
     "Author": "Brian Mock (@wavebeem)",
-    "Description": "A dark and foggy theme https://github.com/wavebeem/sublime-theme-foggy-evening"
-},
-{
-    "Title": "Foggy Morning",
+    "Description": "A light and foggy theme https://github.com/wavebeem/sublime-theme-foggy-morning",
     "FileName": "Foggy-Morning.tmTheme",
-    "Author": "Brian Mock (@wavebeem)",
-    "Description": "A light and foggy theme https://github.com/wavebeem/sublime-theme-foggy-morning"
-},
-{
-    "Title": "Another Kolor (Light)",
-    "FileName": "Another_Kolor_Light.tmTheme",
+    "Title": "Foggy Morning"
+  },
+  {
     "Author": "danyadsmith",
-    "Description": "A light theme inspired by Kolor for Espresso 2. https://github.com/danyadsmith/AnotherKolor/"
-},
-{
-    "Title": "Dark Korokai",
-    "FileName": "DarkKorokai.tmTheme",
+    "Description": "A light theme inspired by Kolor for Espresso 2. https://github.com/danyadsmith/AnotherKolor/",
+    "FileName": "Another_Kolor_Light.tmTheme",
+    "Title": "Another Kolor (Light)"
+  },
+  {
     "Author": "WhosMyName",
-    "Description": "A darker theme inspired by Monokai for Sublime, VSCode and others. Black Background and a Striking Color Scheme. https://github.com/WhosMyName/Dark-Korokai"
-},
-{
-    "Title": "Cozy",
-    "FileName": "Cozy.tmTheme",
+    "Description": "A darker theme inspired by Monokai for Sublime, VSCode and others. Black Background and a Striking Color Scheme. https://github.com/WhosMyName/Dark-Korokai",
+    "FileName": "DarkKorokai.tmTheme",
+    "Title": "Dark Korokai"
+  },
+  {
     "Author": "zchen9",
-    "Description": "A custom editor theme with colorful colors. https://github.com/zchen9/sublime-color-scheme"
-},
-{
-    "Title": "LightBlue",
-    "FileName": "LightBlue.tmTheme",
+    "Description": "A custom editor theme with colorful colors. https://github.com/zchen9/sublime-color-scheme",
+    "FileName": "Cozy.tmTheme",
+    "Title": "Cozy"
+  },
+  {
     "Author": "svencicky",
-    "Description": "A simple light blue theme. https://github.com/svencicky/sublime"
-},
-{
-    "Title": "Gruvbox-N",
-    "FileName": "Gruvbox-N.tmTheme",
+    "Description": "A simple light blue theme. https://github.com/svencicky/sublime",
+    "FileName": "LightBlue.tmTheme",
+    "Title": "LightBlue"
+  },
+  {
     "Author": "Nicola Peduzzi",
-    "Description": "A Gruvbox inspired theme with a retro look, pastel colors."
-},
-{
-    "Title": "Zero Dark Matrix",
-    "FileName": "ZeroDarkMatrix.tmTheme",
+    "Description": "A Gruvbox inspired theme with a retro look, pastel colors.",
+    "FileName": "Gruvbox-N.tmTheme",
+    "Title": "Gruvbox-N"
+  },
+  {
     "Author": "Maurice Cruz",
-    "Description": "Zero Dark Matrix for SublimeText. https://gist.github.com/mauricecruz/9e0501a34ec1382fb509"
-},
-{
-    "Title": "Angular-io-Code",
-    "FileName": "Angular-io-Code.tmTheme",
+    "Description": "Zero Dark Matrix for SublimeText. https://gist.github.com/mauricecruz/9e0501a34ec1382fb509",
+    "FileName": "ZeroDarkMatrix.tmTheme",
+    "Title": "Zero Dark Matrix"
+  },
+  {
     "Author": "Ivo Stratev",
-    "Description": "Angular.io inspired Color Theme"
-},
-{
-    "Title": "EditPlus",
-    "FileName": "EditPlus.tmTheme",
+    "Description": "Angular.io inspired Color Theme",
+    "FileName": "Angular-io-Code.tmTheme",
+    "Title": "Angular-io-Code"
+  },
+  {
     "Author": "George Stockfisch, orig. auth Kobzarev Mikhail ",
-    "Description": "A copy of the ditplus theme, originally from https://github.com/mihdan/Editplus-Theme-for-Sublime-Text-2/blob/master/EditPlus.tmTheme"
-},
-{
-    "Title": "Muted Rainbow",
-    "FileName": "mutedrainbow_sky.tmTheme",
+    "Description": "A copy of the ditplus theme, originally from https://github.com/mihdan/Editplus-Theme-for-Sublime-Text-2/blob/master/EditPlus.tmTheme",
+    "FileName": "EditPlus.tmTheme",
+    "Title": "EditPlus"
+  },
+  {
     "Author": "lxzdxmxn",
-    "Description": ""
-},
-{
-    "Title": "2112",
-    "FileName": "2112.tmTheme",
+    "Description": "",
+    "FileName": "mutedrainbow_sky.tmTheme",
+    "Title": "Muted Rainbow"
+  },
+  {
     "Author": "Glenn Arseneau",
-    "Description": "Inspired by Rush's 2112 album. https://github.com/garseneau/2112-Sublime-theme"
-},
-    "Title": "Turn Off Syntax Highlighting",
-    "FileName": "Turn-Off-Syntax-Highlighting.tmTheme",
+    "Description": "Inspired by Rush's 2112 album. https://github.com/garseneau/2112-Sublime-theme",
+    "FileName": "2112.tmTheme",
+    "Title": "2112"
+  },
+  {
     "Author": "maxpleaner",
-    "Description": "Super minimal: grey on black with yellow cursor and only grey outline for selections"
-},
-{
-    "Title": "Minteresting",
-    "FileName": "Minteresting.tmTheme",
+    "Description": "Super minimal: grey on black with yellow cursor and only grey outline for selections",
+    "FileName": "Turn-Off-Syntax-Highlighting.tmTheme",
+    "Title": "Turn Off Syntax Highlighting"
+  },
+  {
     "Author": "Dayton Nolan",
-    "Description": "A minty theme that's easy on the eyes."
-},
-{
-    "Title": "Candy Crush",
-    "FileName": "candy-crush.tmTheme",
+    "Description": "A minty theme that's easy on the eyes.",
+    "FileName": "Minteresting.tmTheme",
+    "Title": "Minteresting"
+  },
+  {
     "Author": "Sandeep Yadav",
-    "Description": "A soft dark theme. https://github.com/sande3p/candy-crush.tmTheme"
-},
-{
-    "Title": "Big Bend",
-    "FileName": "BigBend.tmTheme",
+    "Description": "A soft dark theme. https://github.com/sande3p/candy-crush.tmTheme",
+    "FileName": "candy-crush.tmTheme",
+    "Title": "Candy Crush"
+  },
+  {
     "Author": "Abraham Howland",
-    "Description": "A theme loosely inspired by the national park."
-},
-{
-    "Title": "RamdaJS",
-    "FileName": "RamdaJS.tmTheme",
+    "Description": "A theme loosely inspired by the national park.",
+    "FileName": "BigBend.tmTheme",
+    "Title": "Big Bend"
+  },
+  {
     "Author": "Kenji Katahira",
-    "Description": "A syntax theme based on the RamdaJS"
-
-}
+    "Description": "A syntax theme based on the RamdaJS",
+    "FileName": "RamdaJS.tmTheme",
+    "Title": "RamdaJS"
+  }
 ]
