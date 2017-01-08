@@ -78,6 +78,12 @@
     "Description": "A port of the Seafoam Pastel theme, originally for iTerm2. Easy on the eyes. https://github.com/unforswearing/seafoam-pastel-theme"
 },
 {
+    "Title": "Seth",
+    "FileName": "seth.tmTheme",
+    "Author": "bertolinimarco",
+    "Description": "A more readable and low eyestrain focused Sublime Text color scheme. https://github.com/bertolinimarco/Seth-Color-Scheme"
+},
+{
     "Title": "Monokai Soft MD",
     "FileName": "Monokai-Soft-MD.tmTheme",
     "Author": "Youssef Haiti, youssman",
