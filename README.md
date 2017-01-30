@@ -101,3 +101,4 @@ Themes creators
  - Odepax ([Mars Peacock](https://github.com/Odepax/mars-peacock))
  - weop ([weop](https://github.com/weop))
  - Abraham Howland ([liminalisht](http://github.com/liminalisht))
+ - Rune Warhuus ([DinkDonk](https://github.com/DinkDonk))

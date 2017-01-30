@@ -2056,5 +2056,11 @@
     "Description": "A syntax theme based on the RamdaJS",
     "FileName": "RamdaJS.tmTheme",
     "Title": "RamdaJS"
+  },
+  {
+    "Author": "Rune Warhuus",
+    "Description": "A dark color scheme for happy coders",
+    "FileName": "DinkDonk.tmTheme",
+    "Title": "DinkDonk"
   }
 ]
