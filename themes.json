@@ -1686,6 +1686,12 @@
     "Title": "Amber"
   },
   {
+    "Author": "Jakob Gaardsted",
+    "Description": "Green monochrome terminal-like theme",
+    "FileName": "GreenTerm.tmTheme",
+    "Title": "GreenTerm"
+  },
+  {
     "Author": "Kristopher Johnson",
     "Description": "Green monochrome terminal-like theme",
     "FileName": "Green.tmTheme",
