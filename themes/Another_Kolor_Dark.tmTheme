@@ -158,7 +158,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ba3182</string>
+				<string>#4EA828</string>
 			</dict>
 		</dict>
 		<dict>
@@ -182,7 +182,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e0972b</string>
+				<string>#E642A2</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
@@ -230,7 +230,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e0972b</string>
+				<string>#E642A2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -267,7 +267,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9fc233</string>
+				<string>#4EA828</string>
 			</dict>
 		</dict>
 		<dict>
@@ -278,7 +278,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FCD660</string>
+				<string>#FFAF47</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -291,7 +291,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f0d06c</string>
+				<string>#FFAF47</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -346,6 +346,28 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>JavaScript: DOM Object</string>
+			<key>scope</key>
+			<string>source.js meta.block.js meta.conditional.js meta.group.js support.type.object.dom.js, source.js support.type.object.dom.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ba3182</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JavaScript: Subclass or Property</string>
+			<key>scope</key>
+			<string>meta.property.object.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CA7FB3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>JavaScript: Double Quoted String</string>
 			<key>scope</key>
 			<string>string.quoted.double.js</string>
@@ -363,7 +385,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E23399</string>
+				<string>#4EA828</string>
 			</dict>
 		</dict>
 		<dict>
@@ -392,7 +414,7 @@
 		</dict>		
 		<dict>
 			<key>name</key>
-			<string>=========== Clojure ==========</string>
+			<string>=========== Cucumber/Gherkin ==========</string>
 			<key>scope</key>
 			<string></string>
 			<key>settings</key>
@@ -405,6 +427,51 @@
 				<string></string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gherkin Keywords</string>
+			<key>scope</key>
+			<string>keyword.language.gherkin.feature, keyword.language.gherkin.feature.scenario, keyword.language.gherkin.feature.step</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string></string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#31AED8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gherkin Titles</string>
+			<key>scope</key>
+			<string>string.language.gherkin.feature.title, string.language.gherkin.scenario.title.title</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string></string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#eeee9d</string>
+			</dict>
+		</dict>		
+		<dict>
+			<key>name</key>
+			<string>Gherkin Tables</string>
+			<key>scope</key>
+			<string>keyword.control.cucumber.table</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string></string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#4EA828</string>
+			</dict>
+		</dict>				
 		<dict>
 			<key>name</key>
 			<string>=========== Ruby ==========</string>
@@ -2057,12 +2124,72 @@
         <string>#C02B83</string>
     </dict>
 </dict>
+<dict>
+	<key>name</key>
+	<string>=========== BASH/ZSH ==========</string>
+	<key>scope</key>
+	<string></string>
+	<key>settings</key>
+	<dict>
+		<key>background</key>
+		<string></string>
+		<key>fontStyle</key>
+		<string></string>
+		<key>foreground</key>
+		<string></string>
+	</dict>
+</dict>
+<dict>
+	<key>name</key>
+	<string>Shell Source</string>
+	<key>scope</key>
+	<string>source.shell</string>
+	<key>settings</key>
+	<dict>
+		<key>background</key>
+		<string></string>
+		<key>fontStyle</key>
+		<string></string>
+		<key>foreground</key>
+		<string>#eeee9d</string>
+	</dict>
+</dict>
+<dict>
+	<key>name</key>
+	<string>Shell Assignment Operator</string>
+	<key>scope</key>
+	<string>source.shell keyword.operator.assign.shell</string>
+	<key>settings</key>
+	<dict>
+		<key>background</key>
+		<string></string>
+		<key>fontStyle</key>
+		<string></string>
+		<key>foreground</key>
+		<string>#31AED8</string>
+	</dict>
+</dict>
+<dict>
+	<key>name</key>
+	<string>Shell Variable</string>
+	<key>scope</key>
+	<string>source.shell variable.other.normal.shell punctuation.definition.variable.shell</string>
+	<key>settings</key>
+	<dict>
+		<key>background</key>
+		<string></string>
+		<key>fontStyle</key>
+		<string>italic</string>
+		<key>foreground</key>
+		<string>#90c9d3</string>
+	</dict>
+</dict>
 </array>
 	<key>uuid</key>
 	<string>00fe7322-e57c-4c29-bc2e-c1a7119a280e</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.another_kolor</string>
+	<string>theme.dark.another_kolor_dark</string>
 </dict>
 </plist>
