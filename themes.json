@@ -2068,5 +2068,11 @@
     "Description": "A dark color scheme for happy coders",
     "FileName": "DinkDonk.tmTheme",
     "Title": "DinkDonk"
+  },
+  {
+    "Author": "Gustavo Cavalcante",
+    "Description": "A dark theme based on ocean",
+    "FileName": "Oceanic-Reef.tmTheme",
+    "Title": "Oceanic Reef"   
   }
 ]
