@@ -102,3 +102,4 @@ Themes creators
  - weop ([weop](https://github.com/weop))
  - Abraham Howland ([liminalisht](http://github.com/liminalisht))
  - Rune Warhuus ([DinkDonk](https://github.com/DinkDonk))
+ - [Nico Schuele](https://twitter.com/nicoschuele) ([Snakecasts](https://github.com/nicoschuele/snakecasts-theme))

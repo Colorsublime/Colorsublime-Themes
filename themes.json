@@ -2073,6 +2073,12 @@
     "Author": "Gustavo Cavalcante",
     "Description": "A dark theme based on ocean",
     "FileName": "Oceanic-Reef.tmTheme",
-    "Title": "Oceanic Reef"   
+    "Title": "Oceanic Reef"
+  },
+  {
+    "Author": "Nico Schuele",
+    "Description": "A dark theme used by Snakecasts.com",
+    "FileName": "Snakecasts.tmTheme",
+    "Title": "Snakecasts"
   }
 ]
