@@ -156,6 +156,17 @@
             </dict>
             <dict>
                 <key>name</key>
+                <string>Python Interpolated String</string>
+                <key>scope</key>
+                <string>meta.interpolated.format.fstring.python.3</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#A7DBD8</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
                 <string>Class name</string>
                 <key>scope</key>
                 <string>entity.name.type.class</string>
