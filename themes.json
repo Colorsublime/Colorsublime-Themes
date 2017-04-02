@@ -1,5 +1,11 @@
 [
   {
+    "Title": "1-Pastel JavaScript",
+    "FileName": "1Pastel.tmTheme",
+    "Author": "Marius Pop",
+    "Description": "Keep it simple."
+  },
+  {
     "Author": "Robert Englund",
     "Description": "A theme that has nice colors like nature in it!",
     "FileName": "Nature.tmTheme",
