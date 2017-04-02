@@ -2080,5 +2080,11 @@
     "Description": "A dark theme used by Snakecasts.com",
     "FileName": "Snakecasts.tmTheme",
     "Title": "Snakecasts"
-  }
+  },
+  {
+	"Title": "Butterfly",
+	"FileName": "Butterfly.tmTheme",
+	"Author": "Charlotte Weaver",
+	"Description": "A light feminine theme with bright colors."
+}
 ]
