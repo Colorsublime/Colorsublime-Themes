@@ -6,8 +6,10 @@
 <!-- code: https://github.com/aziz/tmTheme-Editor -->
 <plist version="1.0">
 <dict>
+	<key>comment</key>
+	<string>A dark theme so you can have your 3.141592653589793238 and eat it too.</string>
 	<key>name</key>
-	<string>Monokai</string>
+	<string>Piodine</string>
 	<key>settings</key>
 	<array>
 		<dict>
