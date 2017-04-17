@@ -2100,6 +2100,18 @@
     "Title": "Codecademy"
   },
   {
+    "Author": "Geno Racklin Asher",
+    "Description": "A dark theme so you can have your 3.141592653589793238 and eat it too.",
+    "FileName": "Piodine.tmTheme",
+    "Title": "Piodine"
+  },
+  {
+    "Author": "Geno Racklin Asher",
+    "Description": "Soft colours for easy viewing.",
+    "FileName": "Softly.tmTheme",
+    "Title": "Softly"
+  },
+  {
 	"Title": "Butterfly",
 	"FileName": "Butterfly.tmTheme",
 	"Author": "Charlotte Weaver",
