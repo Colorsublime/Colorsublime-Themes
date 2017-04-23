@@ -56,7 +56,7 @@ Themes creators
  - Chris Thomas
  - Michael Obrocnik (mbixby)
  - Martin Kühl
- - Luke Shiels ([DancingPanda](https://github.com/shielsasaurus))
+ - Luke Shiels ([lukeshiels](https://github.com/lukeshiels))
  - Domenico Carbotta
  - Todd Werth
  - Allan Odgaard
