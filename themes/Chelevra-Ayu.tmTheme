@@ -44,11 +44,23 @@
       <key>name</key>
       <string>Strings</string>
       <key>scope</key>
-      <string>string.quoted</string>
+      <string>string.quoted, string.template</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
         <string>#91E1FF</string>
+      </dict>
+    </dict>
+    <!-- String Template expression -->
+    <dict>
+      <key>name</key>
+      <string>string.template.expression</string>
+      <key>scope</key>
+      <string>meta.template.expression</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string></string>
       </dict>
     </dict>
     <!-- Variable -->
@@ -349,9 +361,53 @@
     <!-- Diff / GitGutter Plugin -->
     <dict>
       <key>name</key>
+      <string>diff.source</string>
+      <key>scope</key>
+      <string>source.diff</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#E6E1CF</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>diff.range.unified</string>
+      <key>scope</key>
+      <string>meta.diff.range.unified, punctuation.definition.range.diff</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FFD75F</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>diff.from-file</string>
+      <key>scope</key>
+      <string>source.diff meta.diff.header.from-file</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#E6E1CF8F</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>diff.to-file</string>
+      <key>scope</key>
+      <string>source.diff meta.diff.header.to-file</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#E6E1CF8F</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
       <string>diff.deleted</string>
       <key>scope</key>
-      <string>markup.deleted</string>
+      <string>markup.deleted, punctuation.definition.from-file.diff</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -362,7 +418,7 @@
       <key>name</key>
       <string>diff.inserted</string>
       <key>scope</key>
-      <string>markup.inserted</string>
+      <string>markup.inserted, punctuation.definition.to-file.diff</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -390,6 +446,135 @@
       <dict>
         <key>foreground</key>
         <string>#FFFFFF40</string>
+      </dict>
+    </dict>
+    <!-- Markdown -->
+    <dict>
+      <key>name</key>
+      <string>markdown.bold</string>
+      <key>scope</key>
+      <string>markup.bold.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>bold</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>markdown.italic</string>
+      <key>scope</key>
+      <string>markup.italic.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>italic</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>markdown</string>
+      <key>scope</key>
+      <string>text.html.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#E6E1CF</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>markdown.punctuation</string>
+      <key>scope</key>
+      <string>text.html.markdown punctuation</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#E6E1CF6F</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>markdown.heading</string>
+      <key>scope</key>
+      <string>markup.heading.markdown entity.name.section.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>bold</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>markdown.heading.marker</string>
+      <key>scope</key>
+      <string>punctuation.definition.heading.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#E6E1CF8F</string>
+        <key>fontStyle</key>
+        <string>bold</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>markdown.link.name</string>
+      <key>scope</key>
+      <string>string.other.link.title.markdown, constant.other.reference.link.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#9DBAD2</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>markdown.link.url</string>
+      <key>scope</key>
+      <string>markup.underline.link.markdown, meta.link.inline.markdown punctuation.definition.metadata.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#E6E1CF5F</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>markdown.code</string>
+      <key>scope</key>
+      <string>markup.raw.inline.markdown, markup.raw.block.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#E6E1CFAF</string>
+      </dict>
+    </dict>
+    <!-- Makefile -->
+    <dict>
+      <key>name</key>
+      <string>makefile.fn</string>
+      <key>scope</key>
+      <string>entity.name.function.makefile</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#C6F56A</string>
+        <key>fontStyle</key>
+        <string>italic</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>makefile.prerequisites</string>
+      <key>scope</key>
+      <string>meta.function.prerequisites.makefile</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>italic</string>
+        <key>foreground</key>
+        <string>#F5F1F2AF</string>
       </dict>
     </dict>
   </array>
