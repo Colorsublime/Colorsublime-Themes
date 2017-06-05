@@ -56,7 +56,7 @@
   {
     "Author": "@sayhellotovanessa",
     "Description": "Based on the BBC show, Dr.Who.",
-    "FileName": "SisterTardis.tmTheme",
+    "FileName": "SisterTardis.tmTheme",F8
     "Title": "Sister Tardis"
   },
   {
@@ -1492,12 +1492,6 @@
     "Description": "Color scheme inspired by the Hopscotch learning platform for kids",
     "FileName": "Hopscotch.tmTheme",
     "Title": "Hopscotch"
-  },
-  {
-    "Author": "Shane Knysh (shaneknysh)",
-    "Description": "A dark color scheme with only 8 defined colors",
-    "FileName": "8-Colour-Dark.tmTheme",
-    "Title": "8 Color Dark"
   },
   {
     "Author": "Victor Fabiano Gomes[godotAndCoffee|BlackLeMore]",
