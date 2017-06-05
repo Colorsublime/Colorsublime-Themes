@@ -1493,13 +1493,7 @@
     "FileName": "Hopscotch.tmTheme",
     "Title": "Hopscotch"
   },
-  {
-    "Author": "Shane Knysh (shaneknysh)",
-    "Description": "A dark color scheme with only 8 defined colors",
-    "FileName": "8-Colour-Dark.tmTheme",
-    "Title": "8 Color Dark"
-  },
-  {
+    {
     "Author": "Victor Fabiano Gomes[godotAndCoffee|BlackLeMore]",
     "Description": "For programmers who have floaters like me.",
     "FileName": "Tireless.tmTheme",
