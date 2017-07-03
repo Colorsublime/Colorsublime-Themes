@@ -2128,5 +2128,11 @@
     "FileName": "bluloco-dark.tmTheme",
     "Author": "Umut Topuzoğlu",
     "Description": "A fancy but yet sophisticated dark designer color scheme."
+  },
+  {
+    "Title": "Bluloco Light",
+    "FileName": "bluloco-light.tmTheme",
+    "Author": "Umut Topuzoğlu",
+    "Description": "A fancy but yet sophisticated light designer color scheme."
   }
 ]
