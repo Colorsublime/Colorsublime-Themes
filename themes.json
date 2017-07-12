@@ -1,15 +1,15 @@
 [
   {
-    "Title": "Ease",
-    "FileName": "Ease.tmTheme",
     "Author": "Angrypygmy",
-    "Description": "Angrypygmy - Ease"
+    "Description": "Angrypygmy - Ease",
+    "FileName": "Ease.tmTheme",
+    "Title": "Ease"
   },
   {
-    "Title": "1-Pastel JavaScript",
-    "FileName": "1Pastel.tmTheme",
     "Author": "Marius Pop",
-    "Description": "Keep it simple."
+    "Description": "Keep it simple.",
+    "FileName": "1Pastel.tmTheme",
+    "Title": "1-Pastel JavaScript"
   },
   {
     "Author": "Robert Englund",
@@ -1493,7 +1493,7 @@
     "FileName": "Hopscotch.tmTheme",
     "Title": "Hopscotch"
   },
-    {
+  {
     "Author": "Victor Fabiano Gomes[godotAndCoffee|BlackLeMore]",
     "Description": "For programmers who have floaters like me.",
     "FileName": "Tireless.tmTheme",
@@ -1524,10 +1524,10 @@
     "Title": "Code-Lover"
   },
   {
-    "Title": "Legatus",
-    "FileName": "Legatus.tmTheme",
     "Author": "Interdictor",
-    "Description": "Beautiful southern Europe colours"
+    "Description": "Beautiful southern Europe colours",
+    "FileName": "Legatus.tmTheme",
+    "Title": "Legatus"
   },
   {
     "Author": "Dayle Rees.",
@@ -2112,32 +2112,33 @@
     "Title": "Softly"
   },
   {
-    "Title": "Butterfly",
-    "FileName": "Butterfly.tmTheme",
     "Author": "Charlotte Weaver",
-    "Description": "A light feminine theme with bright colors."
+    "Description": "A light feminine theme with bright colors.",
+    "FileName": "Butterfly.tmTheme",
+    "Title": "Butterfly"
   },
   {
-    "Title": "Watermelon",
-    "FileName": "Watermelon.tmTheme",
     "Author": "Thomas van der Velde",
-    "Description": "Dark Theme with fruity colors"
+    "Description": "Dark Theme with fruity colors",
+    "FileName": "Watermelon.tmTheme",
+    "Title": "Watermelon"
   },
   {
-    "Title": "Kashmir-Light",
-    "FileName": "Kashmir-Light.tmTheme",
     "Author": "Imran Nazir",
-    "Description": "A modified solarized theme to aid in coding JS/HTML/CSS"
-  },
-    "Title": "Bluloco Dark",
-    "FileName": "bluloco-dark.tmTheme",
-    "Author": "Umut Topuzoğlu",
-    "Description": "A fancy but yet sophisticated dark designer color scheme."
+    "Description": "A modified solarized theme to aid in coding JS/HTML/CSS",
+    "FileName": "Kashmir-Light.tmTheme",
+    "Title": "Kashmir-Light"
   },
   {
-    "Title": "Bluloco Light",
-    "FileName": "bluloco-light.tmTheme",
     "Author": "Umut Topuzoğlu",
-    "Description": "A fancy but yet sophisticated light designer color scheme."
+    "Description": "A fancy but yet sophisticated dark designer color scheme.",
+    "FileName": "bluloco-dark.tmTheme",
+    "Title": "Bluloco Dark"
+  },
+  {
+    "Author": "Umut Topuzoğlu",
+    "Description": "A fancy but yet sophisticated light designer color scheme.",
+    "FileName": "bluloco-light.tmTheme",
+    "Title": "Bluloco Light"
   }
 ]
