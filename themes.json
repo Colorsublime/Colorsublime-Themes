@@ -2122,5 +2122,11 @@
     "FileName": "Watermelon.tmTheme",
     "Author": "Thomas van der Velde",
     "Description": "Dark Theme with fruity colors"
+  },
+  {
+    "Title": "Kashmir-Light",
+    "FileName": "Kashmir-Light.tmTheme",
+    "Author": "Imran Nazir",
+    "Description": "A modified solarized theme to aid in coding JS/HTML/CSS"
   }
 ]
