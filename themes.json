@@ -2112,10 +2112,10 @@
     "Title": "Softly"
   },
   {
-	"Title": "Butterfly",
-	"FileName": "Butterfly.tmTheme",
-	"Author": "Charlotte Weaver",
-	"Description": "A light feminine theme with bright colors."
+    "Title": "Butterfly",
+    "FileName": "Butterfly.tmTheme",
+    "Author": "Charlotte Weaver",
+    "Description": "A light feminine theme with bright colors."
   },
   {
     "Title": "Watermelon",
@@ -2124,6 +2124,11 @@
     "Description": "Dark Theme with fruity colors"
   },
   {
+    "Title": "Kashmir-Light",
+    "FileName": "Kashmir-Light.tmTheme",
+    "Author": "Imran Nazir",
+    "Description": "A modified solarized theme to aid in coding JS/HTML/CSS"
+  },
     "Title": "Bluloco Dark",
     "FileName": "bluloco-dark.tmTheme",
     "Author": "Umut Topuzoğlu",
