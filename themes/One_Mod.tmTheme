@@ -6,6 +6,8 @@
 	<string>Jztsaurabh (http://twitter/jztsaurabh)</string>
 	<key>name</key>
 	<string>One_mod</string>
+	<key>semanticClass</key>
+	<string>theme.dark.one_mod</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
@@ -61,7 +63,7 @@
 				<key>foreground</key>
 				<string>#5C6370</string>
 				<key>fontStyle</key>
-				<string> italic</string>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -118,7 +120,7 @@
 				<key>foreground</key>
 				<string>#61AFEF</string>
 				<key>fontStyle</key>
-				<string> italic</string>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -252,7 +254,7 @@
 				<key>foreground</key>
 				<string>#D19A66</string>
 				<key>fontStyle</key>
-				<string> italic</string>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -750,7 +752,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>ABB2BF</string>
+				<string>#ABB2BF</string>
 			</dict>
 		</dict>
 		<dict>
