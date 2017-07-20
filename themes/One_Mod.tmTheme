@@ -537,7 +537,7 @@
 			<key>name</key>
 			<string>Json key</string>
 			<key>scope</key>
-			<string>source.json                           meta.structure.dictionary.json                              string.quoted.double.json</string>
+			<string>source.json meta.structure.dictionary.json string.quoted.double.json</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -548,7 +548,7 @@
 			<key>name</key>
 			<string>Json value</string>
 			<key>scope</key>
-			<string>source.json                       meta.structure.dictionary.json                           meta.structure.dictionary.value.json                       string.quoted.double.json</string>
+			<string>source.json meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -559,7 +559,7 @@
 			<key>name</key>
 			<string>json sub key</string>
 			<key>scope</key>
-			<string>source.json                           meta.structure.dictionary.json                          meta.structure.dictionary.value.json                        meta.structure.dictionary.json                      string.quoted.double.json</string>
+			<string>source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json string.quoted.double.json</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -570,7 +570,7 @@
 			<key>name</key>
 			<string>Json sub value</string>
 			<key>scope</key>
-			<string>source.json                       meta.structure.dictionary.json                        meta.structure.dictionary.value.json                       meta.structure.dictionary.json                          meta.structure.dictionary.value.json                            string.quoted.double.json</string>
+			<string>source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -647,7 +647,7 @@
 			<key>name</key>
 			<string>javascript meta constant</string>
 			<key>scope</key>
-			<string>source.js                              meta.function.js                       support.constant.js</string>
+			<string>source.js meta.function.js support.constant.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -720,9 +720,5 @@
 			</dict>
 		</dict>
 	</array>
-	<key>uuid</key>
-	<string>32bd64fa-d60a-4858-a5fc-5164cc49a2b8</string>
-	<key>comment</key>
-	<string>A clone of not yet maintained One Dark theme </string>
 </dict>
 </plist>
