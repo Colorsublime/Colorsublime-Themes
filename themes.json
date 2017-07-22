@@ -2140,5 +2140,11 @@
     "Description": "A fancy but yet sophisticated light designer color scheme.",
     "FileName": "bluloco-light.tmTheme",
     "Title": "Bluloco Light"
+  },
+  {
+    "Author": "John Mooney",
+    "Description": "A theme for coders on the red planet.",
+    "FileName": "Martian.tmTheme",
+    "Title": "Martian"
   }
 ]
