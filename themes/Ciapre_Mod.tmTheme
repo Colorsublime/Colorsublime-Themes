@@ -19,7 +19,7 @@
 				<key>foreground</key>
 				<string>#CFD9C8</string>
 				<key>invisibles</key>
-				<string>#BFBFBF</string>
+				<string>#ABABAB50</string>
 				<key>lineHighlight</key>
 				<string>#BCC4CC20</string>
 				<key>selection</key>
@@ -257,7 +257,7 @@
 				<key>foreground</key>
 				<string>#E6E633</string>
 				<key>background</key>
-				<string>#EEEEDD13</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -298,7 +298,7 @@
 				<key>background</key>
 				<string></string>
 				<key>fontStyle</key>
-				<string> bold  </string>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
