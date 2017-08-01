@@ -4,7 +4,7 @@ Colorsublime Themes
 
 [![Build Status](https://travis-ci.org/Colorsublime/Colorsublime-Themes.svg?branch=master)](https://travis-ci.org/Colorsublime/Colorsublime-Themes)
 
-This repo hosts all the themes you can try and download on http://colorsublime.com/
+This repo hosts all the themes you can try and download on https://colorsublime.github.io/
 
 If you want to submit new Sublime Text themes please fork this repo and send us a pull request including them inside the themes folder remembering to update also the themes.json file.
 
