@@ -34,7 +34,7 @@
 				<key>guide</key>
 				<string>#3D4752</string>
 				<key>gutter</key>
-				<string>#313335</string>
+				<string>#030428</string>
 				<key>gutterForeground</key>
 				<string>#606060</string>
 				<key>inactiveBackground</key>
@@ -134,8 +134,6 @@ a {
 			<dict>
 				<key>foreground</key>
 				<string>#16CCC9</string>
-				<key>fontStyle</key>
-				<string>bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -206,15 +204,28 @@ a {
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>String, Symbols, Inherited Class, Markup Heading</string>
+			<string>String, Symbols, Markup Heading</string>
 			<key>scope</key>
-			<string>string, keyword.other.template, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js</string>
+			<string>string, keyword.other.template, constant.other.symbol, constant.other.key, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string>normal</string>
 				<key>foreground</key>
 				<string>#D77A9E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Inherited Class</string>
+			<key>scope</key>
+			<string>entity.other.inherited-class</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#cac8c3</string>
 			</dict>
 		</dict>
 		<dict>
