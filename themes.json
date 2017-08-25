@@ -1,5 +1,12 @@
 [
   {
+
+    "Author": "Jonathan Moore",
+    "Description": "Elegant clear text for coding, JSON and markdown on a dark blue background",
+    "FileName": "RefinedBlue.tmTheme",
+    "Title": "Refined Blue"
+  },
+  {
     "Author": "Mike Gieson",
     "Description": "Clean, intuitive and full-featured. Deep support for web stuff.",
     "FileName": "Smoothy_7.tmTheme",
