@@ -8,7 +8,7 @@
 <!-- code: https://github.com/aziz/tmTheme-Editor -->
 <plist version="1.0">
 <dict>
-	<key>Ramda</key>
+	<key>name</key>
 	<string>Ramda</string>
 	<key>settings</key>
 	<array>
