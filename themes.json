@@ -2159,5 +2159,11 @@
     "Description": "A theme for coders on the red planet.",
     "FileName": "Martian.tmTheme",
     "Title": "Martian"
+  },
+  {
+    "Author": "Guillaume VanderEst",
+    "Description": "A theme that makes my eyes happy.",
+    "FileName": "Exodus.tmTheme",
+    "Title": "Exodus"
   }
 ]
