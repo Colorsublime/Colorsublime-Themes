@@ -242,7 +242,6 @@ function extractStyles(theme) {
 }
 
 describe('The themes can be parsed correctly', function() {
-	this.timeout(15000);
 	var themes = themesFiles.map(function(theme, i) {
 		return {
 			'body': fs.readFileSync(THEMES_DIR + theme.name, 'utf8'),
@@ -251,11 +250,12 @@ describe('The themes can be parsed correctly', function() {
 	});
 
 	it('Themes are valid XML', function(done) {
+		this.timeout(15000);
 		themes.forEach(function(theme, i) {
 			try {
 				var res = libxml.parseXml(theme.body);
 				if (res.errors.length > 0) {
-					throw new Error(JSON.stringify(res.errors));
+					throw new Error(theme.name + ' doesn\'t appear to be valid XML, see the following errors: ' + JSON.stringify(res.errors));
 				}
 			} catch (e) {
 				e.message = 'Can\'t parse ' + theme.name + '. ' + e.message;
@@ -266,6 +266,7 @@ describe('The themes can be parsed correctly', function() {
 	});
 
 	it('I could get the colors for all the themes', function(done) {
+		this.timeout(15000);
 		themes.forEach(function(theme, i) {
 			currentTheme = theme.name;
 			var themeParsed = plist.parse(theme.body);
@@ -275,6 +276,7 @@ describe('The themes can be parsed correctly', function() {
 	});
 
 	it('Themes have a valid name', function(done) {
+		this.timeout(15000);
 		themes.forEach(function(theme, i) {
 			var themeParsed = plist.parse(theme.body);
 			if (themeParsed.name === undefined || themeParsed.name.trim().length === 0) {
