@@ -253,7 +253,10 @@ describe('The themes can be parsed correctly', function() {
 		this.timeout(15000);
 		themes.forEach(function(theme, i) {
 			try {
-				libxml.parseXmlString(theme.body);
+				var res = libxml.parseXml(theme.body);
+				if (res.errors.length > 0) {
+					throw new Error(JSON.stringify(res.errors));
+				}
 			} catch (e) {
 				e.message = 'Can\'t parse ' + theme.name + '. ' + e.message;
 				throw e;
