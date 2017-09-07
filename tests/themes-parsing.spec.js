@@ -275,6 +275,7 @@ describe('The themes can be parsed correctly', function() {
 	});
 
 	it('Themes are valid', function(done) {
+		this.timeout(15000);
 		themes.forEach(function(theme, i) {
 			function testLooseText(s) {
 				if (s) {
@@ -297,7 +298,7 @@ describe('The themes can be parsed correctly', function() {
 				}
 				// anything other than <string> is an error
 				else if (value.tag !== 'string') {
-					throw new Error('Unexpected tag in ' + collectionName + ' ' + value.tag);
+					throw new Error('Unexpected tag in ' + collectionName + ' ' + value.tag + '" found in theme ' + theme.name);
 				}
 			}
 
@@ -318,7 +319,7 @@ describe('The themes can be parsed correctly', function() {
 						foundKey = false;
 					}
 					else {
-						throw new Error('Mismatching key-value pair in dict, see the XML element object: ' + JSON.stringify(dict));
+						throw new Error('Mismatching key-value pair in dict, see the XML element object: ' + JSON.stringify(dict) + '" found in theme ' + theme.name);
 					}
 				}
 			}
