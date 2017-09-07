@@ -242,6 +242,7 @@ function extractStyles(theme) {
 }
 
 describe('The themes can be parsed correctly', function() {
+	this.timeout(15000);
 	var themes = themesFiles.map(function(theme, i) {
 		return {
 			'body': fs.readFileSync(THEMES_DIR + theme.name, 'utf8'),
@@ -250,7 +251,6 @@ describe('The themes can be parsed correctly', function() {
 	});
 
 	it('Themes are valid XML', function(done) {
-		this.timeout(15000);
 		themes.forEach(function(theme, i) {
 			try {
 				var res = libxml.parseXml(theme.body);
@@ -266,11 +266,20 @@ describe('The themes can be parsed correctly', function() {
 	});
 
 	it('I could get the colors for all the themes', function(done) {
-		this.timeout(15000);
 		themes.forEach(function(theme, i) {
 			currentTheme = theme.name;
 			var themeParsed = plist.parse(theme.body);
 			extractStyles(themeParsed);
+			if (i === themes.length - 1) {done();}
+		});
+	});
+
+	it('Themes have a valid name', function(done) {
+		themes.forEach(function(theme, i) {
+			var themeParsed = plist.parse(theme.body);
+			if (themeParsed.name === undefined || themeParsed.name.trim().length === 0) {
+				throw new Error(theme.name + ' is missing a key-string pair for "name".');
+			}
 			if (i === themes.length - 1) {done();}
 		});
 	});
