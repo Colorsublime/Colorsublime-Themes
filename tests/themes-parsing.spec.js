@@ -10,7 +10,6 @@ var plist = require('plist'),
 	colorParser = require('color-parser'),
 	fs = require('fs'),
 	et = require('elementtree'),
-	assert = require('assert'),
 	THEMES_DIR = './themes/',
 	unsupportedScopes = {},
 	currentTheme,
@@ -280,7 +279,7 @@ describe('The themes can be parsed correctly', function() {
 			function testLooseText(s) {
 				if (s) {
 					var str = s.trim();
-					assert.equal('', str, 'Unexpected loose text="' + str + '" found in theme ' + theme.name);
+					expect(str).to.equal('', 'Unexpected loose text="' + str + '" found in theme ' + theme.name);
 				}
 			}
 
@@ -337,13 +336,13 @@ describe('The themes can be parsed correctly', function() {
 
 			var plist = et.parse(theme.body).getroot();
 			// <plist>
-			assert.equal('plist', plist.tag);
+			expect(plist.tag).to.equal('plist');
 			testLooseText(plist.tail);
 			testLooseText(plist.text);
 			// <dict>
 			var children = plist.getchildren();
-			assert.equal(1, children.length);
-			assert.equal('dict', children[0].tag);
+			expect(children.length).to.equal(1);
+			expect(children[0].tag).to.equal('dict');
 			testDict(children[0]);
 
 			if (i === themes.length - 1) {done();}
