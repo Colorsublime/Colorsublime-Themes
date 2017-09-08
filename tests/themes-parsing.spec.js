@@ -254,7 +254,10 @@ describe('The themes can be parsed correctly', function() {
 		this.timeout(15000);
 		themes.forEach(function(theme, i) {
 			try {
-				libxml.parseXmlString(theme.body);
+				var res = libxml.parseXml(theme.body);
+				if (res.errors.length > 0) {
+					throw new Error(theme.name + ' doesn\'t appear to be valid XML, see the following errors: ' + JSON.stringify(res.errors));
+				}
 			} catch (e) {
 				e.message = 'Can\'t parse ' + theme.name + '. ' + e.message;
 				throw e;
@@ -269,6 +272,17 @@ describe('The themes can be parsed correctly', function() {
 			currentTheme = theme.name;
 			var themeParsed = plist.parse(theme.body);
 			extractStyles(themeParsed);
+			if (i === themes.length - 1) {done();}
+		});
+	});
+
+	it('Themes have a valid name', function(done) {
+		this.timeout(15000);
+		themes.forEach(function(theme, i) {
+			var themeParsed = plist.parse(theme.body);
+			if (themeParsed.name === undefined || themeParsed.name.trim().length === 0) {
+				throw new Error(theme.name + ' is missing a key-string pair for "name".');
+			}
 			if (i === themes.length - 1) {done();}
 		});
 	});
@@ -344,7 +358,6 @@ describe('The themes can be parsed correctly', function() {
 			expect(children.length).to.equal(1);
 			expect(children[0].tag).to.equal('dict');
 			testDict(children[0]);
-
 			if (i === themes.length - 1) {done();}
 		});
 	});
