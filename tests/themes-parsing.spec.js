@@ -9,6 +9,7 @@ var plist = require('plist'),
 	libxml = require('libxmljs'),
 	colorParser = require('color-parser'),
 	fs = require('fs'),
+	et = require('elementtree'),
 	THEMES_DIR = './themes/',
 	unsupportedScopes = {},
 	currentTheme,
@@ -282,6 +283,81 @@ describe('The themes can be parsed correctly', function() {
 			if (themeParsed.name === undefined || themeParsed.name.trim().length === 0) {
 				throw new Error(theme.name + ' is missing a key-string pair for "name".');
 			}
+			if (i === themes.length - 1) {done();}
+		});
+	});
+
+	it('Themes are valid', function(done) {
+		this.timeout(15000);
+		themes.forEach(function(theme, i) {
+			function testLooseText(s) {
+				if (s) {
+					var str = s.trim();
+					expect(str).to.equal('', 'Unexpected loose text="' + str + '" found in theme ' + theme.name);
+				}
+			}
+
+			function testValue(value, collectionName) {
+				if (!collectionName) {
+					collectionName = 'unknown';
+				}
+				// <dict>
+				if (value.tag === 'dict') {
+					testDict(value);
+				}
+				// <array>
+				else if (value.tag === 'array') {
+					testArray(value);
+				}
+				// anything other than <string> is an error
+				else if (value.tag !== 'string') {
+					throw new Error('Unexpected tag in ' + collectionName + ' ' + value.tag + '" found in theme ' + theme.name);
+				}
+			}
+
+			function testDict(dict) {
+				testLooseText(dict.tail);
+				testLooseText(dict.text);
+				var foundKey = false;
+				var children = dict.getchildren();
+				for (var idx in children) {
+					var n = children[idx];
+					testLooseText(n.tail);
+					// <key>
+					if (!foundKey && n.tag === 'key') {
+						foundKey = true;
+					}
+					else if (foundKey) {
+						testValue(n, 'dict');
+						foundKey = false;
+					}
+					else {
+						throw new Error('Mismatching key-value pair in dict, see the XML element object: ' + JSON.stringify(dict) + '" found in theme ' + theme.name);
+					}
+				}
+			}
+
+			function testArray(array) {
+				testLooseText(array.tail);
+				testLooseText(array.text);
+				var children = array.getchildren();
+				for (var idx in children) {
+					var n = children[idx];
+					testLooseText(n.tail);
+					testValue(n, 'array');
+				}
+			}
+
+			var plist = et.parse(theme.body).getroot();
+			// <plist>
+			expect(plist.tag).to.equal('plist');
+			testLooseText(plist.tail);
+			testLooseText(plist.text);
+			// <dict>
+			var children = plist.getchildren();
+			expect(children.length).to.equal(1);
+			expect(children[0].tag).to.equal('dict');
+			testDict(children[0]);
 			if (i === themes.length - 1) {done();}
 		});
 	});
