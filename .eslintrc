@@ -1,0 +1,11 @@
+{
+  "extends": "eslint-config-riot",
+  "env": {
+    "mocha": true
+  },
+  "globals": {
+    "themesFiles": true,
+    "expect": true,
+    "themesJSON": true
+  }
+}
