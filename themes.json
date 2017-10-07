@@ -1,9 +1,28 @@
 [
   {
-    "Author": "cPhost",
-    "Description": "A theme that has nice colors!",
-    "FileName": "cP-Code.tmTheme",
-    "Title": "cP-Code"
+
+    "Author": "Jonathan Moore",
+    "Description": "Elegant clear text for coding, JSON and markdown on a dark blue background",
+    "FileName": "RefinedBlue.tmTheme",
+    "Title": "Refined Blue"
+  },
+  {
+    "Author": "Mike Gieson",
+    "Description": "Clean, intuitive and full-featured. Deep support for web stuff.",
+    "FileName": "Smoothy_7.tmTheme",
+    "Title": "Smoothy 7"
+  },
+  {
+    "Author": "Angrypygmy",
+    "Description": "Angrypygmy - Ease",
+    "FileName": "Ease.tmTheme",
+    "Title": "Ease"
+  },
+  {
+    "Author": "Marius Pop",
+    "Description": "Keep it simple.",
+    "FileName": "1Pastel.tmTheme",
+    "Title": "1-Pastel JavaScript"
   },
   {
     "Author": "Robert Englund",
@@ -1488,12 +1507,6 @@
     "Title": "Hopscotch"
   },
   {
-    "Author": "Shane Knysh (shaneknysh)",
-    "Description": "A dark color scheme with only 8 defined colors",
-    "FileName": "8-Colour-Dark.tmTheme",
-    "Title": "8 Color Dark"
-  },
-  {
     "Author": "Victor Fabiano Gomes[godotAndCoffee|BlackLeMore]",
     "Description": "For programmers who have floaters like me.",
     "FileName": "Tireless.tmTheme",
@@ -1522,6 +1535,12 @@
     "Description": "A dark and colorful theme for coding :3",
     "FileName": "Code-Lover.tmTheme",
     "Title": "Code-Lover"
+  },
+  {
+    "Author": "Interdictor",
+    "Description": "Beautiful southern Europe colours",
+    "FileName": "Legatus.tmTheme",
+    "Title": "Legatus"
   },
   {
     "Author": "Dayle Rees.",
@@ -1690,6 +1709,12 @@
     "Description": "Amber monochrome terminal-like theme",
     "FileName": "Amber.tmTheme",
     "Title": "Amber"
+  },
+  {
+    "Author": "Jakob Gaardsted",
+    "Description": "Green monochrome terminal-like theme",
+    "FileName": "GreenTerm.tmTheme",
+    "Title": "GreenTerm"
   },
   {
     "Author": "Kristopher Johnson",
@@ -2062,5 +2087,89 @@
     "Description": "A syntax theme based on the RamdaJS",
     "FileName": "RamdaJS.tmTheme",
     "Title": "RamdaJS"
+  },
+  {
+    "Author": "Rune Warhuus",
+    "Description": "A dark color scheme for happy coders",
+    "FileName": "DinkDonk.tmTheme",
+    "Title": "DinkDonk"
+  },
+  {
+    "Author": "Gustavo Cavalcante",
+    "Description": "A dark theme based on ocean",
+    "FileName": "Oceanic-Reef.tmTheme",
+    "Title": "Oceanic Reef"
+  },
+  {
+    "Author": "Nico Schuele",
+    "Description": "A dark theme used by Snakecasts.com",
+    "FileName": "Snakecasts.tmTheme",
+    "Title": "Snakecasts"
+  },
+  {
+    "Author": "Geno Racklin Asher",
+    "Description": "A theme very similar to Codecademy's, borrowing elements from 'Tomorrow Night - Bright' and Pacific Dark.",
+    "FileName": "Codecademy.tmTheme",
+    "Title": "Codecademy"
+  },
+  {
+    "Author": "Geno Racklin Asher",
+    "Description": "A dark theme so you can have your 3.141592653589793238 and eat it too.",
+    "FileName": "Piodine.tmTheme",
+    "Title": "Piodine"
+  },
+  {
+    "Author": "Geno Racklin Asher",
+    "Description": "Soft colours for easy viewing.",
+    "FileName": "Softly.tmTheme",
+    "Title": "Softly"
+  },
+  {
+    "Author": "Charlotte Weaver",
+    "Description": "A light feminine theme with bright colors.",
+    "FileName": "Butterfly.tmTheme",
+    "Title": "Butterfly"
+  },
+  {
+    "Author": "Thomas van der Velde",
+    "Description": "Dark Theme with fruity colors",
+    "FileName": "Watermelon.tmTheme",
+    "Title": "Watermelon"
+  },
+  {
+    "Author": "Imran Nazir",
+    "Description": "A modified solarized theme to aid in coding JS/HTML/CSS",
+    "FileName": "Kashmir-Light.tmTheme",
+    "Title": "Kashmir-Light"
+  },
+  {
+    "Author": "Umut Topuzoğlu",
+    "Description": "A fancy but yet sophisticated dark designer color scheme.",
+    "FileName": "bluloco-dark.tmTheme",
+    "Title": "Bluloco Dark"
+  },
+  {
+    "Author": "Umut Topuzoğlu",
+    "Description": "A fancy but yet sophisticated light designer color scheme.",
+    "FileName": "bluloco-light.tmTheme",
+    "Title": "Bluloco Light"
+  },
+  {
+    "Author": "John Mooney",
+    "Description": "A theme for coders on the red planet.",
+    "FileName": "Martian.tmTheme",
+    "Title": "Martian"
+  },
+  {
+    "Author": "Guillaume VanderEst",
+    "Description": "A theme that makes my eyes happy.",
+    "FileName": "Exodus.tmTheme",
+    "Title": "Exodus"
+  }, 
+  {
+    "Author": "cPhost",
+    "Description": "A theme that has nice colors!",
+    "FileName": "cP-Code.tmTheme",
+    "Title": "cP-Code"
   }
 ]

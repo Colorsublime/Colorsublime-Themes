@@ -1,32 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!-- A theme based on the RamdaJS                 -->
-<!-- Kenji Katahira  						      -->
-<!-- Generated with TmTheme-Editor                -->
-<!-- ============================================ -->
-<!-- app:  http://tmtheme-editor.herokuapp.com    -->
-<!-- code: https://github.com/aziz/tmTheme-Editor -->
+
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Ramda</string>
+	<string>Ease</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#27282E</string>
+				<string>#1F1F27</string>
 				<key>caret</key>
-				<string>#FFFFFF</string>
+				<string>#F8F8F0</string>
 				<key>foreground</key>
-				<string>#F0F0F0</string>
+				<string>#CFBFAD</string>
 				<key>invisibles</key>
-				<string>#5C5B53</string>
+				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#424135</string>
+				<string>#2D2D44</string>
 				<key>selection</key>
-				<string>#C9CEF00A</string>
+				<string>#8B8BFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -37,7 +32,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6272A4</string>
+				<string>#75715E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -48,7 +43,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F1FA8C</string>
+				<string>#8BED80</string>
 			</dict>
 		</dict>
 		<dict>
@@ -59,7 +54,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BD93F9</string>
+				<string>#AE81FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -70,7 +65,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BD93F9</string>
+				<string>#ac80ed</string>
 			</dict>
 		</dict>
 		<dict>
@@ -81,7 +76,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BD93F9</string>
+				<string>#AE81FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -93,8 +88,6 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
-				<key>foreground</key>
-				<string>#FF79C6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -105,7 +98,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF79C6</string>
+				<string>#ED808B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -118,7 +111,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF79C6</string>
+				<string>#808BED</string>
 			</dict>
 		</dict>
 		<dict>
@@ -129,7 +122,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF79C6</string>
+				<string>#66D9EF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -140,9 +133,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF79C6</string>
-				<key>fontStyle</key>
-				<string> underline</string>
+				<string>#ED808B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -152,10 +143,8 @@
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string> underline</string>
 				<key>foreground</key>
-				<string>#FF79C6</string>
+				<string>#8BED80</string>
 			</dict>
 		</dict>
 		<dict>
@@ -165,8 +154,10 @@
 			<string>entity.name.function</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#50FA7B</string>
+				<string>#8BED80</string>
 			</dict>
 		</dict>
 		<dict>
@@ -177,7 +168,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FD971F</string>
+				<string>#ED808B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -187,8 +178,10 @@
 			<string>entity.name.tag</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#808BED</string>
 			</dict>
 		</dict>
 		<dict>
@@ -201,7 +194,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#8BED80</string>
 			</dict>
 		</dict>
 		<dict>
@@ -214,7 +207,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#808BED</string>
 			</dict>
 		</dict>
 		<dict>
@@ -227,7 +220,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#808BED</string>
 			</dict>
 		</dict>
 		<dict>
@@ -237,10 +230,8 @@
 			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
-				<string>#66d9ef</string>
+				<string>#808BED</string>
 			</dict>
 		</dict>
 		<dict>
@@ -250,8 +241,8 @@
 			<string>support.other.variable</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<key>fontStyle</key>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -266,7 +257,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#F8F8F0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -279,7 +270,7 @@
 				<key>background</key>
 				<string>#AE81FF</string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#F8F8F0</string>
 			</dict>
 		</dict>
 	</array>

@@ -4,7 +4,8 @@
   "description": "Colorsublime themes collection http://colorsublime.com",
   "main": "Gruntfile.js",
   "scripts": {
-    "test": "mocha tests/runner.js"
+    "lint": "eslint tests",
+    "test": "npm run lint && mocha tests/runner.js"
   },
   "repository": {
     "type": "git",
@@ -22,11 +23,14 @@
   },
   "homepage": "http://colorsublime.com",
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.1.2",
     "color-parser": "^0.1.0",
-    "libxmljs": "^0.18.0",
-    "mocha": "^3.2.0",
-    "plist": "^1.1.0",
+    "elementtree": "^0.1.7",
+    "eslint": "^4.6.1",
+    "eslint-config-riot": "^1.0.0",
+    "libxmljs": "^0.18.7",
+    "mocha": "^3.5.0",
+    "plist": "^2.1.0",
     "walk": "^2.3.9"
   }
 }
