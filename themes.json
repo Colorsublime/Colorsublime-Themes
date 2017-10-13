@@ -2165,5 +2165,11 @@
     "Description": "A theme that makes my eyes happy.",
     "FileName": "Exodus.tmTheme",
     "Title": "Exodus"
+  },
+  {
+    "Author": "Casey Cole",
+    "Description": "Subtle Colors For Long Days",
+    "FileName": "Beige_highlights.tmTheme",
+    "Title": "Beige Highlight"
   }
 ]
