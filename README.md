@@ -214,6 +214,7 @@ Themes creators
 -   Sascha Wolf
 -   @sayhellotovanessa
 -   Sean Ballinger
+-   [Sean Carpenter](https://github.com/Seancarpenter10)
 -   seanwooj
 -   Shakeel Mohamed ([_Shakeel](http://twitter.com/_Shakeel))
 -   Shakeel Mohamed
