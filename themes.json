@@ -2161,6 +2161,18 @@
     "Title": "Martian"
   },
   {
+    "Author": "Sean Carpenter",
+    "Description": "A darker version of Earthsong.",
+    "FileName": "Earthsong_Dark.tmTheme",
+    "Title": "Earthsong Dark"
+  },
+  {
+    "Author": "Sean Carpenter",
+    "Description": "A muted vintage theme.",
+    "FileName": "Propeller.tmTheme",
+    "Title": "Propeller"
+  },
+  {
     "Author": "Guillaume VanderEst",
     "Description": "A theme that makes my eyes happy.",
     "FileName": "Exodus.tmTheme",
