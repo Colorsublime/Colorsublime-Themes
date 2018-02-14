@@ -2177,5 +2177,11 @@
     "Description": "A theme that makes my eyes happy.",
     "FileName": "Exodus.tmTheme",
     "Title": "Exodus"
+  },
+  {
+    "Author": "Katrina Theodosopoulos",
+    "Description": "A light theme aimed at making a language's different syntax/semantics easily distinguishable.",
+    "FileName": "Phoebe.tmTheme",
+    "Title": "Phoebe"
   }
 ]
