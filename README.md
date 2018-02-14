@@ -146,6 +146,7 @@ Themes creators
 -   @JZechy
 -   kaneofawesome
 -   [Kary Foundation](https://github.com/karyfoundation)
+-   [Katrina Theodosopoulos](https://github.com/GreeKatrina)
 -   Kaushalya Mandaliya
 -   Ken Wheeler
 -   Kenji Katahira
