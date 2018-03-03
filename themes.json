@@ -2183,6 +2183,11 @@
 	"FileName": "myPascal2018.tmTheme",
 	"Author": "Abdullah Mohammed",
 	"Description": "Re-live your old coding days in 8-ish bit color. (My old Turbo Pascal 7.0 color scheme)"
+  }, 
+  {
+    "Author": "cPhost",
+    "Description": "A theme that has nice colors!",
+    "FileName": "cP-Code.tmTheme",
+    "Title": "cP-Code"
   }
-  
 ]
