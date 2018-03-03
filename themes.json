@@ -2183,6 +2183,12 @@
     "Description": "A light theme aimed at making a language's different syntax/semantics easily distinguishable.",
     "FileName": "Phoebe.tmTheme",
     "Title": "Phoebe"
+  },
+  {
+    "Title": "myPascal 2018 (Green Hacker)",
+    "FileName": "myPascal2018.tmTheme",
+    "Author": "Abdullah Mohammed",
+    "Description": "Re-live your old coding days in 8-ish bit color. (My old Turbo Pascal 7.0 color scheme)"
   }, 
   {
     "Author": "cPhost",
