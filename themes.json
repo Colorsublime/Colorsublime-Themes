@@ -2183,5 +2183,11 @@
     "Description": "A light theme aimed at making a language's different syntax/semantics easily distinguishable.",
     "FileName": "Phoebe.tmTheme",
     "Title": "Phoebe"
+  }, 
+  {
+    "Author": "cPhost",
+    "Description": "A theme that has nice colors!",
+    "FileName": "cP-Code.tmTheme",
+    "Title": "cP-Code"
   }
 ]
