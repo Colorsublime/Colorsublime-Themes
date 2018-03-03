@@ -2177,5 +2177,11 @@
     "Description": "A theme that makes my eyes happy.",
     "FileName": "Exodus.tmTheme",
     "Title": "Exodus"
+  }, 
+  {
+    "Author": "cPhost",
+    "Description": "A theme that has nice colors!",
+    "FileName": "cP-Code.tmTheme",
+    "Title": "cP-Code"
   }
 ]
