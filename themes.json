@@ -2189,5 +2189,11 @@
     "Description": "A theme that has nice colors!",
     "FileName": "cP-Code.tmTheme",
     "Title": "cP-Code"
+  },
+  {
+    "Author": "muuko",
+    "Description": "A dark, easygoing color scheme",
+    "FileName": "Easygoing.tmTheme",
+    "Title": "Easygoing"
   }
 ]
