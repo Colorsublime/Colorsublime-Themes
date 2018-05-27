@@ -2183,5 +2183,11 @@
     "Description": "A theme that has nice colors!",
     "FileName": "cP-Code.tmTheme",
     "Title": "cP-Code"
+  },
+  {
+    "Author": "muuko",
+    "Description": "A dark, easygoing theme, based on Monokai.",
+    "FileName": "Easygoing.tmTheme",
+    "Title": "Easygoing"
   }
 ]
