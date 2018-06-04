@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
   <key>name</key>
-  <string>Mariana Filter Machine</string>
-  <key>author</key>
   <string>Bijan</string>
+  <key>author</key>
+  <string>Bijan Rahnema</string>
   <key>settings</key>
   <array>
     <dict>

@@ -1,6 +1,5 @@
 [
   {
-
     "Author": "Jonathan Moore",
     "Description": "Elegant clear text for coding, JSON and markdown on a dark blue background",
     "FileName": "RefinedBlue.tmTheme",
@@ -2177,11 +2176,17 @@
     "Description": "A theme that makes my eyes happy.",
     "FileName": "Exodus.tmTheme",
     "Title": "Exodus"
-  }, 
+  },
   {
     "Author": "cPhost",
     "Description": "A theme that has nice colors!",
     "FileName": "cP-Code.tmTheme",
     "Title": "cP-Code"
-  }
+  },
+  {
+    "Author": "Bijan Rahnema",
+    "Description": "Mariana meets Monokai Filter Machine",
+    "FileName": "Bijan.tmTheme",
+    "Title": "Bijan"
+  },
 ]
