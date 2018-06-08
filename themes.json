@@ -2183,5 +2183,11 @@
     "Description": "A theme that has nice colors!",
     "FileName": "cP-Code.tmTheme",
     "Title": "cP-Code"
+  },
+  {
+    "Author": "Lee Garkusha",
+    "Description": "A scrumptious theme inspired by berries.",
+    "FileName": "BerryNice.tmTheme",
+    "Title": "Berry Nice"
   }
 ]
