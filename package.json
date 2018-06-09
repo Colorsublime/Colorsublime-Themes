@@ -5,7 +5,7 @@
   "main": "Gruntfile.js",
   "scripts": {
     "lint": "eslint tests",
-    "test": "npm run lint && mocha tests/runner.js"
+    "test": "npm run lint && mocha tests/runner.js --timeout 10000"
   },
   "repository": {
     "type": "git",
