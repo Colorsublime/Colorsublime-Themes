@@ -1,6 +1,5 @@
 [
   {
-
     "Author": "Jonathan Moore",
     "Description": "Elegant clear text for coding, JSON and markdown on a dark blue background",
     "FileName": "RefinedBlue.tmTheme",
@@ -2177,11 +2176,53 @@
     "Description": "A theme that makes my eyes happy.",
     "FileName": "Exodus.tmTheme",
     "Title": "Exodus"
-  }, 
+  },
   {
     "Author": "cPhost",
     "Description": "A theme that has nice colors!",
     "FileName": "cP-Code.tmTheme",
     "Title": "cP-Code"
+  },
+  {
+    "Author": "Bijan Rahnema",
+    "Description": "Mariana meets Monokai Filter Machine.",
+    "FileName": "Bijan.tmTheme",
+    "Title": "Bijan"
+  },
+  {
+    "Author": "Bastien Dejean",
+    "Description": "A dark and lispy theme.",
+    "FileName": "Coal_Graal.tmTheme",
+    "Title": "Coal Graal"
+  },
+  {
+    "Author": "Ian Hill",
+    "Description": "A modified version of Espresso Tutti Colori.",
+    "FileName": "Espresso_Soda.tmTheme",
+    "Title": "Espresso Soda"
+  },
+  {
+    "Author": "Ian Hill",
+    "Description": "A modified version of Monokai.",
+    "FileName": "Monokai_Soda.tmTheme",
+    "Title": "Monokai Soda"
+  },
+  {
+    "Author": "GitHub",
+    "Description": "GitHub's official syntax themes as TextMate themes.",
+    "FileName": "GitHub_Light.tmTheme",
+    "Title": "GitHub Light (official)"
+  },
+  {
+    "Author": "GitHub",
+    "Description": "GitHub's official syntax themes as TextMate themes.",
+    "FileName": "GitHub_Dark.tmTheme",
+    "Title": "GitHub Dark (official)"
+  },
+  {
+    "Author": "Martin (zeroelink)",
+    "Description": "Tricolore Themes for Sublime Text.",
+    "FileName": "Tricolore.tmTheme",
+    "Title": "Tricolore"
   }
 ]
