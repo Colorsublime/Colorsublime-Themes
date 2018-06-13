@@ -1,5 +1,11 @@
 [
   {
+    "Author": "A.J. Bale",
+    "Description": "Easy to read earth tones on dark background. Especially deep support for HTML, CSS, JS, and Python",
+    "FileName": "Forest_Focus.tmTheme",
+    "Title": "Forest Focus"
+  },
+  {
     "Author": "Jonathan Moore",
     "Description": "Elegant clear text for coding, JSON and markdown on a dark blue background",
     "FileName": "RefinedBlue.tmTheme",
