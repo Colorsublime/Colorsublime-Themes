@@ -346,7 +346,33 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#718242</string>
+				<string>#5EAB30</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword</string>
+			<key>scope</key>
+			<string>keyword.operator.assignment.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#5EAB30</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword</string>
+			<key>scope</key>
+			<string>keyword.operator.arithmetic.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#5EAB30</string>
 			</dict>
 		</dict>
 		<dict>
@@ -391,8 +417,6 @@
 			<string>punctuation.section.group.begin.js, punctuation.section.group.end.js</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#5fafb0ff</string>
 			</dict>
@@ -404,8 +428,6 @@
 			<string>punctuation.section.block.begin.js, punctuation.section.block.end.js</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#9FB760</string>
 			</dict>
@@ -417,8 +439,6 @@
 			<string>punctuation.terminator.statement.js</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#E0B60D</string>
 			</dict>
@@ -478,6 +498,19 @@
 			<string>string.quoted.double.js</string>
 			<key>settings</key>
 			<dict>
+				<key>foreground</key>
+				<string>#9FB760</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
+			<string>punctuation.definition.string</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#9FB760</string>
 			</dict>
@@ -3061,6 +3094,83 @@
 				<string>#888888FF</string>
 				<key>foreground</key>
 				<string>#080808FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_54982BFF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#54982BFF</string>
+				<key>foreground</key>
+				<string>#F7F7F7FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_5EAB30FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#5EAB30FF</string>
+				<key>foreground</key>
+				<string>#050505FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_050505FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#050505FF</string>
+				<key>foreground</key>
+				<string>#858585FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_858585FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#858585FF</string>
+				<key>foreground</key>
+				<string>#050505FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_8BA057FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#8BA057FF</string>
+				<key>foreground</key>
+				<string>#111111FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_111111FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#111111FF</string>
+				<key>foreground</key>
+				<string>#919191FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_919191FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#919191FF</string>
+				<key>foreground</key>
+				<string>#111111FF</string>
 			</dict>
 		</dict>
 	</array>
