@@ -2236,5 +2236,11 @@
     "Description": "Tricolore Themes for Sublime Text.",
     "FileName": "Tricolore.tmTheme",
     "Title": "Tricolore"
+  },
+  {
+    "Author": "muuko",
+    "Description": "A dark, colorful, easygoing theme.",
+    "FileName": "Easygoing.tmTheme",
+    "Title": "Easygoing"
   }
 ]
