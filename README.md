@@ -40,7 +40,7 @@ $ npm run test
 
 Themes creators
 -   1ClickComputing
--   A.J. Bale
+-   [A.J. Bale](https://www.linkedin.com/in/abalejr) ([abalejr](https://github.com/abalejr))
 -   ART-ifact Dev | Jeremias Arnstadt
 -   Abraham Howland ([liminalisht](http://github.com/liminalisht))
 -   Adi
