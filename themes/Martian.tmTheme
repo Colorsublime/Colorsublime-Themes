@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+
+	Name:		Martian
+    Author:		John Mooney
+    License:	GNU General Public License 3.0
+    URL:		https://github.com/jmooney/ColorSchemes
+
+-->
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>John Mooney</string>
+	<key>name</key>
+	<string>TBD</string>
+	<key>comment</key>
+	<string>https://github.com/MY_URL</string>
+
+	<key>settings</key>
+	<array>
+
+		<!-- =============================================================== -->
+		<!-- General Settings -->
+		<!-- =============================================================== -->
+
+		<!-- General -->
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#352f28</string> <!-- Black Orange -->
+				<key>caret</key>
+				<string>#ede6de</string> <!-- White Orange -->
+				<key>foreground</key>
+				<string>#c9c5b7</string> <!-- Light Tan -->
+				<key>lineHighlight</key>
+				<string>#4a4843</string> <!-- Dark Tan -->
+			</dict>
+		</dict>
+
+		<!-- Brackets -->
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>bracketsOptions</key>
+				<string>underline</string>
+				<key>bracketsForeground</key>
+				<string>#4a4843</string> <!-- Dark Tan -->
+				<key>bracketContentsOptions</key>
+				<string>underline</string>
+				<key>bracketContentsForeground</key>
+				<string>#eeeeee</string> <!-- Off White -->
+			</dict>
+		</dict>
+
+		<!-- Tags -->
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>tagsOptions</key>
+				<string>underline</string>
+				<key>tagsForeground</key>
+				<string>#eeeeee</string> <!-- Off White -->
+			</dict>
+		</dict>
+
+		<!-- Find -->
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>findHighlight</key>
+				<string>#92eeff</string> <!-- Light Blue -->
+				<key>findHighlightForeground</key>
+				<string>#000000</string> <!-- Black -->
+			</dict>
+		</dict>
+
+		<!-- Selection -->
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>selection</key>
+				<string>#4a4843</string> <!-- Dark Tan -->
+				<key>selectionBorder</key>
+				<string>#c9c5b7</string> <!-- Tan -->
+				<key>inactiveSelection</key>
+				<string>#282724</string> <!-- Black Tan -->
+			</dict>
+		</dict>
+
+		<!-- =============================================================== -->
+		<!-- Syntax Settings -->
+		<!-- =============================================================== -->
+
+		<!-- Comments -->
+		<dict>
+			<key>name</key>
+			<string>Line Comments</string>
+			<key>scope</key>
+			<string>comment, comment.line</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6d6460</string> <!-- Light Tan-Red -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Block Comments</string>
+			<key>scope</key>
+			<string>comment.block</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7c7168</string> <!-- Lighter Tan-Orange -->
+			</dict>
+		</dict>
+
+		<!-- Constants & Strings-->
+		<dict>
+			<key>name</key>
+			<string>Numbers</string>
+			<key>scope</key>
+			<string>constant, constant.numeric</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#b5c5ff</string> <!-- Light Lavender -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Language</string>
+			<key>scope</key>
+			<string>constant.language</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#a366dd</string> <!-- Lavender -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Special Strings</string>
+			<key>scope</key>
+			<string>constant.character, constant.character.escape,
+					constant.other, constant.other.placeholder</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#53894f</string> <!-- Forest Green -->
+			</dict>
+		</dict>
+
+		<!-- Entity Names -->
+		<dict>
+			<key>name</key>
+			<string>Class Types</string>
+			<key>scope</key>
+			<string>entity.name, entity.name.enum, entity.name.class,
+			 		entity.name.struct, entity.name.union, entity.name.interface,
+			 		entity.name.enum,  entity.name.trait, entity.name.type</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d6d1c5</string> <!-- White Tan-Orange -->
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Special Class Types</string>
+			<key>scope</key>
+			<string>entity.name.class.forward-decl, entity.other.inherited-class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c9c5b7</string> <!-- Tan -->
+				<key>fontStyle</key>
+				<string>none</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Functions</string>
+			<key>scope</key>
+			<string>entity.name.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffb92d</string> <!-- Neon Orange -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Preprocessor or Constants</string>
+			<key>scope</key>
+			<string>entity.name.constant, variable.other.constant</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#eeeeee</string> <!-- Off White -->
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
+		<!-- Tags -->
+		<dict>
+			<key>name</key>
+			<string>HTML</string>
+			<key>scope</key>
+			<string>entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#dd510f</string> <!-- Burnt Orange -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HTML</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#efb747</string> <!-- Light Orange -->
+			</dict>
+		</dict>
+
+		<!-- Markdown -->
+		<dict>
+			<key>name</key>
+			<string>Markdown</string>
+			<key>scope</key>
+			<string>entity.name.section</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#dd510f</string> <!-- Burnt Orange -->
+			</dict>
+		</dict>
+
+		<!-- Invalids -->
+		<dict>
+			<key>name</key>
+			<string>Invalid Text</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Invalid deprecated</string>
+		    <key>scope</key>
+		    <string>invalid.deprecated</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>background</key>
+		        <string>#382b07</string>
+		    </dict>
+		</dict>
+
+		<!-- Keywords -->
+		<dict>
+			<key>name</key>
+			<string>Control Keywords</string>
+			<key>scope</key>
+			<string>keyword, keyword.control, punctuation.definition.keyword,
+					keyword.other, keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#dd510f</string> <!-- Burnt Orange -->
+			</dict>
+		</dict>
+
+		<!-- Punctuation -->
+		<dict>
+			<key>name</key>
+			<string>Continuation Characters</string>
+			<key>scope</key>
+			<string>punctuation.separator.continuation</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6d6460</string> <!-- Light Tan-Red -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Accessors</string>
+			<key>scope</key>
+			<string>punctuation.accessor</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#dd510f</string> <!-- Burnt Orange -->
+			</dict>
+		</dict>
+
+		<!-- Storage Modifiers -->
+		<dict>
+			<key>name</key>
+			<string>Storage Type</string>
+			<key>scope</key>
+			<string>storage, storage.type</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#dd510f</string> <!-- Burnt Orange -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Storage Modifier</string>
+			<key>scope</key>
+			<string>storage.modifier</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffff66</string> <!-- Light Yellow -->
+			</dict>
+		</dict>
+
+		<!-- Strings -->
+		<dict>
+			<key>name</key>
+			<string>Single Quote String</string>
+			<key>scope</key>
+			<string>string, string.quoted.single,
+					string.quoted.other, string.quoted.double</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#78e294</string> <!-- Jasmine Green -->
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Double Quote String</string>
+			<key>scope</key>
+			<string>string.quoted.triple, string.unquoted, string.regexp</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#1ba34d</string> <!-- Dark Jasmine Green -->
+			</dict>
+		</dict>
+
+		<!-- Support Library Code -->
+		<dict>
+			<key>name</key>
+			<string>Library class/type</string>
+			<key>scope</key>
+			<string>support.type, support.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#eeeeee</string> <!-- Off White -->
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>background</key>
+				<string>#384c4f</string> <!-- Gray Blue -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Library constant</string>
+			<key>scope</key>
+			<string>support.constant</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#eeeeee</string> <!-- Off White -->
+				<key>background</key>
+				<string>#384c4f</string> <!-- Gray Blue -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Library function</string>
+			<key>scope</key>
+            <string>support, support.function</string>
+            <key>settings</key>
+            <dict>
+            	<key>foreground</key>
+            	<string>#79d5fc</string> <!-- Ocean Blue -->
+            </dict>
+        </dict>
+
+		<!-- Variables -->
+		<dict>
+			<key>name</key>
+			<string>Regular Variables</string>
+			<key>scope</key>
+			<string>variable, variable.other, punctuation.definition.variable,
+					variable.other.member</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c9c5b7</string> <!-- Light Tan -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Special Variables</string>
+			<key>scope</key>
+			<string>variable.language</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffffff</string> <!-- White -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Paramter Variables</string>
+			<key>scope</key>
+			<string>variable.parameter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffffff</string> <!-- White -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Called Functions</string>
+			<key>scope</key>
+			<string>variable.function</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>none</string>
+			</dict>
+		</dict>
+
+		<!-- =============================================================== -->
+		<!-- JSON Settings -->
+		<!-- =============================================================== -->
+
+		<dict>
+		    <key>name</key>
+		    <string>JSON String</string>
+		    <key>scope</key>
+		    <string>meta.structure.dictionary.json string.quoted.double.json</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+				<string>#dd510f</string> <!-- Burnt Orange -->
+		    </dict>
+		</dict>
+		<dict>
+		    <key>scope</key>
+		    <string>meta.structure.dictionary.value.json string.quoted.double.json</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+				<string>#c9c5b7</string> <!-- Light Tan -->
+			</dict>
+		</dict>
+
+		<!-- =============================================================== -->
+		<!-- DIFF Settings -->
+		<!-- =============================================================== -->
+
+		<dict>
+		    <key>name</key>
+		    <string>diff.header</string>
+		    <key>scope</key>
+		    <string>meta.diff, meta.diff.header</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+				<string>#6d6460</string> <!-- Light Tan-Red -->
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>diff.deleted</string>
+		    <key>scope</key>
+		    <string>markup.deleted</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+				<string>#dd510f</string> <!-- Burnt Orange -->
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>diff.inserted</string>
+		    <key>scope</key>
+		    <string>markup.inserted</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+				<string>#78e294</string> <!-- Jasmine Green -->
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>diff.changed</string>
+		    <key>scope</key>
+		    <string>markup.changed</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+				<string>#fff9a0</string> <!-- Pale Yellow -->
+		    </dict>
+		</dict>
+
+		<!-- =============================================================== -->
+		<!-- Markdown Support -->
+		<!-- =============================================================== -->
+
+		<dict>
+		    <key>name</key>
+		    <string>Markdown Title Hash</string>
+		    <key>scope</key>
+		    <string>punctuation.definition.heading.markdown</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+				<string>#dd510f</string> <!-- Burnt Orange -->
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Markdown Raw</string>
+		    <key>scope</key>
+		    <string>markup.raw.inline.markdown</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+				<string>#dd510f</string> <!-- Burnt Orange -->
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Markdown bold stars</string>
+		    <key>scope</key>
+		    <string>punctuation.definition.bold.markdown, punctuation.definition.italic.markdown</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+				<string>#dd510f</string> <!-- Burnt Orange -->
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Markdown link title braces</string>
+		    <key>scope</key>
+		    <string>punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+				<string>#1ba34d</string> <!-- Dark Jasmine Green -->
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Markdown link braces</string>
+		    <key>scope</key>
+		    <string>punctuation.definition.metadata.markdown</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+				<string>#d6d1c5</string> <!-- White Tan-Orange -->
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Markdown link</string>
+		    <key>scope</key>
+		    <string>markup.underline.link.markdown, markup.underline.link.image.markdown, meta.image.inline.markdown</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+				<string>#b5c5ff</string> <!-- Light Lavender -->
+		        <key>fontStyle</key>
+		        <string>italic</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Markdown bold/italic</string>
+		    <key>scope</key>
+		    <string>markup.bold.markdown, markup.italic.markdown</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+				<string>#ffffff</string> <!-- White -->
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Markdown bold/italic</string>
+		    <key>scope</key>
+		    <string>markup.italic.markdown</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>fontStyle</key>
+		        <string>italic</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Markdown bold/italic</string>
+		    <key>scope</key>
+		    <string>markup.bold.markdown</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>fontStyle</key>
+		        <string>bold</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Markdown pre</string>
+		    <key>scope</key>
+		    <string>markup.raw.block.markdown</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+				<string>#efb747</string> <!-- Light Orange -->
+		    </dict>
+		</dict>
+	</array>
+</dict>
+</plist>

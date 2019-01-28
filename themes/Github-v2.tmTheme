@@ -39,11 +39,11 @@
                     <key>lineHighlight</key>
                     <string>#faffbb</string>
                     <key>findHighlight</key>
-                    <string>#f8eec7</string>
+                    <string>#dfb511</string>
                     <key>findHighlightForeground</key>
                     <string>#323232</string>
                     <key>selection</key>
-                    <string>#f8eeaa</string>
+                    <string>#e2c500</string>
                     <key>selectionBorder</key>
                     <string>#ffffff</string>
 
@@ -313,7 +313,9 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#323232</string>
+                    <string>#bc3405</string>
+                    <key>fontStyle</key>
+                    <string>italic</string>
                 </dict>
             </dict>
 
@@ -328,7 +330,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#63a35c</string>
+                    <string>#43843c</string>
                 </dict>
             </dict>
 
@@ -358,7 +360,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#62a35c</string>
+                    <string>#43843c</string>
                 </dict>
             </dict>
 
@@ -1508,6 +1510,18 @@
             <!--
                 Ruby
             -->
+            <!-- Keyword -->
+            <dict>
+                <key>name</key>
+                <string>Keyword</string>
+                <key>scope</key>
+                <string>keyword.control.class.ruby, keyword.control.def.ruby, keyword.control.ruby, keyword.control.start-block.ruby</string>
+                <key>settings</key>
+                <dict>
+                    <key>fontStyle</key>
+                    <string>bold</string>
+                </dict>
+            </dict>
             <!-- Language Variable -->
             <dict>
                 <key>name</key>

@@ -6,36 +6,25 @@
 <!-- code: https://github.com/aziz/tmTheme-Editor -->
 <plist version="1.0">
 <dict>
-	<key>gutterSettings</key>
-	<dict>
-		<key>background</key>
-		<string>#49483E</string>
-		<key>divider</key>
-		<string>#75715E</string>
-		<key>foreground</key>
-		<string>#75715E</string>
-	</dict>
 	<key>name</key>
-	<string>Code-Lover</string>
-	<key>semanticClass</key>
-	<string>theme.dark.code_lover</string>
+	<string>Oceanic Reef</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0a1e36</string>
+				<string>#0D2839</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
-				<string>#F8F8F2</string>
+				<string>#F8F8F0</string>
 				<key>invisibles</key>
-				<string>#49483E</string>
+				<string>#234154</string>
 				<key>lineHighlight</key>
-				<string>#123561</string>
+				<string>#234154</string>
 				<key>selection</key>
-				<string>#1e4678</string>
+				<string>#4D4D4D87</string>
 			</dict>
 		</dict>
 		<dict>
@@ -46,68 +35,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#515671</string>
+				<string>#6D6D6D73</string>
 			</dict>
 		</dict>
-
-		<!-- Git Gutter -->
-		<dict>
-			<key>name</key>
-			<string>GitGutter deleted</string>
-			<key>scope</key>
-			<string>markup.deleted.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#F92672</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>GitGutter inserted</string>
-			<key>scope</key>
-			<string>markup.inserted.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#A6E22E</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>GitGutter changed</string>
-			<key>scope</key>
-			<string>markup.changed.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#967EFB</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>GitGutter ignored</string>
-			<key>scope</key>
-			<string>markup.ignored.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#565656</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>GitGutter untracked</string>
-			<key>scope</key>
-			<string>markup.untracked.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#565656</string>
-			</dict>
-		</dict>
-		<!-- Git Gutter -->
-
 		<dict>
 			<key>name</key>
 			<string>String</string>
@@ -116,7 +46,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1eae28</string>
+				<string>#9EE3A8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -127,7 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff3e3e</string>
+				<string>#78BDD6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -138,7 +68,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#be8cf0</string>
+				<string>#FFB266</string>
 			</dict>
 		</dict>
 		<dict>
@@ -149,7 +79,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1fb82b</string>
+				<string>#FFB266</string>
 			</dict>
 		</dict>
 		<dict>
@@ -160,7 +90,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e9ed4e</string>
+				<string>#A8E8FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -171,7 +101,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#864ff9</string>
+				<string>#D95757</string>
+				<key>fontStyle</key>
+				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -182,7 +114,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#FFB266</string>
 			</dict>
 		</dict>
 		<dict>
@@ -192,10 +124,10 @@
 			<string>storage.type</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
-				<string>#5ef7df</string>
+				<string>#D95757</string>
+				<key>fontStyle</key>
+				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -206,7 +138,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#65eb38</string>
+				<string>#F8F8F0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -216,8 +148,8 @@
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic </string>
+				<key>foreground</key>
+				<string>#78BDD6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -230,7 +162,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#64eb37</string>
+				<string>#FFB266</string>
 			</dict>
 		</dict>
 		<dict>
@@ -240,10 +172,8 @@
 			<string>variable.parameter</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
-				<string>#FD971F</string>
+				<string>#FFCB96</string>
 			</dict>
 		</dict>
 		<dict>
@@ -256,7 +186,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#EB8B2A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -269,7 +199,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#FFB266</string>
 			</dict>
 		</dict>
 		<dict>
@@ -279,10 +209,8 @@
 			<string>support.function</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
-				<string>#67beed</string>
+				<string>#56D1A7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -292,6 +220,8 @@
 			<string>support.constant</string>
 			<key>settings</key>
 			<dict>
+				<key>foreground</key>
+				<string>#56D1A7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -301,10 +231,8 @@
 			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
-				<string>#65b8ef</string>
+				<string>#56D1A7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -314,6 +242,10 @@
 			<string>support.other.variable</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -324,9 +256,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F92672</string>
+				<string>#D95757</string>
 				<key>fontStyle</key>
-				<string></string>
+				<string> bold</string>
 				<key>foreground</key>
 				<string>#F8F8F0</string>
 			</dict>
@@ -339,9 +271,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#AE81FF</string>
+				<string>#D95757</string>
 				<key>foreground</key>
 				<string>#F8F8F0</string>
+				<key>fontStyle</key>
+				<string> bold</string>
 			</dict>
 		</dict>
 	</array>
@@ -349,9 +283,9 @@
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
+	<key>semanticClass</key>
+	<string>theme.dark.oceanic_reef</string>
 	<key>author</key>
-	<string>HaCk3D</string>
-	<key>comment</key>
-	<string>dark theme for coders</string>
+	<string>Gustavo Cavalcante</string>
 </dict>
 </plist>
