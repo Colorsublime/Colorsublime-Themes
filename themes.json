@@ -1,7 +1,7 @@
 [
   {
     "Author": "A.J. Bale",
-    "Description": "Easy to read earth tones on dark background. Especially deep support for HTML, CSS/Sass/SCSS, JavaScript, Python, and PHP",
+    "Description": "Easy to read earth tones on dark background. Especially deep support for HTML, CSS, JS, and Python",
     "FileName": "Forest_Focus.tmTheme",
     "Title": "Forest Focus"
   },
@@ -760,6 +760,18 @@
     "Description": "A dark, relaxing, simple color scheme",
     "FileName": "KoralGreen.tmTheme",
     "Title": "KoralGreen"
+  },
+  {
+    "Author": "Enrico Friede",
+    "Description": "A dark, relaxing, simple color scheme",
+    "FileName": "KoralGreen2.tmTheme",
+    "Title": "KoralGreen2"
+  },
+  {
+    "Author": "Enrico Friede",
+    "Description": "A dark, relaxing, simple color scheme",
+    "FileName": "Monokai_dimmed_76.tmTheme",
+    "Title": "Monokai dimmed 76"
   },
   {
     "Author": "Domenico Carbotta",
