@@ -762,6 +762,18 @@
     "Title": "KoralGreen"
   },
   {
+    "Author": "Enrico Friede",
+    "Description": "A dark, relaxing, simple color scheme",
+    "FileName": "KoralGreen2.tmTheme",
+    "Title": "KoralGreen2"
+  },
+  {
+    "Author": "Enrico Friede",
+    "Description": "A dark, relaxing, simple color scheme",
+    "FileName": "KoralGreen2_(SL).tmTheme",
+    "Title": "Monokai dimmed 76"
+  },
+  {
     "Author": "Domenico Carbotta",
     "Description": "",
     "FileName": "LAZY.tmTheme",
