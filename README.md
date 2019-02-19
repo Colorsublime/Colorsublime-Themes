@@ -134,7 +134,7 @@ Themes creators
 -   Joe Bergantine
 -   Johan Tique
 -   John-Paul Bader
--   Jonas Hermsmeier
+-   Jonas Hermsmeier ([jhermsmeier](https://github.com/jhermsmeier))
 -   Jonathan Santos
 -   Josema Enzo
 -   Josh Burgess
