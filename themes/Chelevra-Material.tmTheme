@@ -19,6 +19,8 @@
 				<string>underline</string>
 				<key>caret</key>
 				<string>#91E1FB</string>
+				<key>block_caret</key>
+				<string>#91E1FB</string>
 				<key>findHighlight</key>
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>
@@ -166,7 +168,7 @@
 			<key>name</key>
 			<string>Storage</string>
 			<key>scope</key>
-			<string>storage</string>
+			<string>storage,source.c++ support.type, storage.type</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -497,7 +499,7 @@
 			<key>name</key>
 			<string>markdown.heading</string>
 			<key>scope</key>
-			<string>markup.heading.markdown entity.name.section.markdown</string>
+			<string>markup.heading entity.name.section.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
