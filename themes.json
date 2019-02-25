@@ -2254,5 +2254,11 @@
     "Description": "A dark, colorful, easygoing theme.",
     "FileName": "Easygoing.tmTheme",
     "Title": "Easygoing"
+  },
+  {
+    "Title": "Sahara",
+    "FileName": "Sahara.tmTheme",
+    "Author": "Christopher Jaoude",
+    "Description": "Unique sand theme: high endurance, low eye strain. (v0.5)"
   }
 ]
