@@ -2260,5 +2260,17 @@
     "FileName": "Sahara.tmTheme",
     "Author": "Christopher Jaoude",
     "Description": "Unique sand theme: high endurance, low eye strain. (v0.5)"
+  },
+  {
+    "Author": "Sri",
+    "Description": "Unofficial GitLab inspired light color scheme",
+    "FileName": "gitlab-light.sublime-color-scheme",
+    "Title": "GitLab Light (Unofficial)"
+  },
+  {
+    "Author": "Sri",
+    "Description": "Unofficial GitLab inspired dark color scheme",
+    "FileName": "gitlab-dark.sublime-color-scheme",
+    "Title": "GitLab Dark (Unofficial)"
   }
 ]

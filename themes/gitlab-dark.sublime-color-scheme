@@ -1,0 +1,68 @@
+{
+    "name": "GitLab Dark Color Scheme",
+    "variables":
+    {
+        "orange_light": "#fca121",
+        "orange": "#fc6d26",
+        "red": "#db3b21",
+        "purple_light": "#6e49cb",
+        "purple": "#380d75",
+        "gray_dark": "#2e2e2e",
+        "gray_light": "#9e9e9e",
+        "white": "#fff",
+        "white_faded": "#f9f9f9",
+    },
+    "globals":
+    {
+        "background": "var(gray_dark)",
+        "foreground": "var(white_faded)",
+        "caret": "var(white_faded)",
+        "selection_foreground": "var(white)",
+    },
+    "rules":
+    [
+        {
+            "name": "Comment",
+            "scope": "comment",
+            "foreground": "var(gray_light)",
+        },
+        {
+            "name": "Invalid",
+            "scope": "invalid",
+            "foreground": "var(gray_light)",
+        },
+        {
+            "name": "String",
+            "scope": "string",
+            "foreground": "var(orange_light)",
+        },
+        {
+            "name": "Number",
+            "scope": "constant.numeric",
+            "foreground": "var(orange_light)",
+        },
+        {
+            "name": "Variable",
+            "scope": "variable",
+            "foreground": "var(orange)",
+        },
+        {
+            "name": "Entity",
+            "scope": "entity",
+            "foreground": "var(orange)",
+            "font_style": "italic",
+        },
+        {
+            "name": "Keyword",
+            "scope": "keyword",
+            "foreground": "var(orange)",
+            "font_style": "italic",
+        },
+        {
+            "name": "Storage",
+            "scope": "storage",
+            "foreground": "var(orange)",
+            "font_style": "italic",
+        },
+    ]
+}
