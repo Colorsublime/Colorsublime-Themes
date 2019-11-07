@@ -175,7 +175,7 @@ Themes creators
 -   Maximiliano Canellas
 -   maxpleaner
 -   Michael Chapman
--   Michael Hrishenko
+-   Michael Hrishenko ([ifiht](http://github.com/ifiht))
 -   Michael Obrocnik (mbixby)
 -   Michael Sheets
 -   Michelle Liu([anonmily](http://github.com/anonmily))
