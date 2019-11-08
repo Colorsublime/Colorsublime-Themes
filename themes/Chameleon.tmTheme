@@ -52,7 +52,7 @@
       <key>name</key>
       <string>Keyword</string>
       <key>scope</key>
-      <string>keyword, storage</string>
+      <string>keyword</string>
       <key>settings</key>
       <dict>
         <key>fontStyle</key>
@@ -179,7 +179,7 @@
       <key>name</key>
       <string>Metacode</string>
       <key>scope</key>
-      <string>meta.function.body.code, support</string>
+      <string>meta.function.body.code, support, keyword.control.clojure</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -199,6 +199,21 @@
         <string>#FA5300</string>
         <key>background</key>
         <string>#FCE5800F</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>MetaStor</string>
+      <key>scope</key>
+      <string>storage</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FA5300</string>
+        <key>background</key>
+        <string>#FCE5800F</string>
+        <key>fontStyle</key>
+        <string> bold</string>
       </dict>
     </dict>
     <dict>
@@ -275,9 +290,9 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>Metaexpression</string>
+      <string>Metasymbol</string>
       <key>scope</key>
-      <string>meta.expression</string>
+      <string>meta.symbol</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
