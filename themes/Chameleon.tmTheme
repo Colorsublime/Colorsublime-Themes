@@ -6,8 +6,6 @@
 <!-- code: https://github.com/aziz/tmTheme-Editor -->
 <plist version="1.0">
 <dict>
-  <key>author</key>
-  <string>ifiht</string>
   <key>comment</key>
   <string>Dark theme, rainbow contrasts with emphasis on user defined code portions.</string>
   <key>name</key>
@@ -54,7 +52,7 @@
       <key>name</key>
       <string>Keyword</string>
       <key>scope</key>
-      <string>keyword</string>
+      <string>keyword, storage</string>
       <key>settings</key>
       <dict>
         <key>fontStyle</key>
@@ -181,7 +179,7 @@
       <key>name</key>
       <string>Metacode</string>
       <key>scope</key>
-      <string>meta.function.body.code, support, keyword.control.clojure</string>
+      <string>meta.function.body.code, support</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -201,21 +199,6 @@
         <string>#FA5300</string>
         <key>background</key>
         <string>#FCE5800F</string>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>MetaStor</string>
-      <key>scope</key>
-      <string>storage</string>
-      <key>settings</key>
-      <dict>
-        <key>foreground</key>
-        <string>#FA5300</string>
-        <key>background</key>
-        <string>#FCE5800F</string>
-        <key>fontStyle</key>
-        <string> bold</string>
       </dict>
     </dict>
     <dict>
@@ -292,9 +275,9 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>Metasymbol</string>
+      <string>Metaexpression</string>
       <key>scope</key>
-      <string>meta.symbol</string>
+      <string>meta.expression</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -358,5 +341,7 @@
   <string>sRGB</string>
   <key>semanticClass</key>
   <string>theme.dark.chameleon</string>
+  <key>author</key>
+  <string>ifiht</string>
 </dict>
 </plist>
