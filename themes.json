@@ -2260,5 +2260,11 @@
     "FileName": "Sahara.tmTheme",
     "Author": "Christopher Jaoude",
     "Description": "Unique sand theme: high endurance, low eye strain. (v0.5)"
+  },
+  {
+    "Title": "Shock-Dark",
+    "FileName": "Shock-Dark-Theme.tmTheme",
+    "Author": "K. Rosborough"
+    "Description": "A bold, colourful theme with very high contrast colours on a dark background.
   }
 ]
