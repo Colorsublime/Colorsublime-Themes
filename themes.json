@@ -2260,5 +2260,17 @@
     "FileName": "Sahara.tmTheme",
     "Author": "Christopher Jaoude",
     "Description": "Unique sand theme: high endurance, low eye strain. (v0.5)"
+  },
+  {
+    "Title": "Cyberpunk",
+    "FileName": "cyberpunk.tmTheme",
+    "Author": "Abdulrahman Asaad",
+    "Description": "Live in the future!, inspired by Abyss theme."
+  },
+  {
+    "Title": "Cyberpunk Glow",
+    "FileName": "cyberpunk-glow.tmTheme",
+    "Author": "Abdulrahman Asaad",
+    "Description": "Live in the future!, inspired by Abyss theme."
   }
 ]
