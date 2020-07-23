@@ -240,6 +240,7 @@ Themes creators
 -   uonick
 -   Victor Fabiano Gomes[godotAndCoffee|BlackLeMore]
 -   Victor Volle
+-   [vidann1](https://github.com/vidann1)
 -   weop ([weop](https://github.com/weop))
 -   Wes Cravens
 -   Whiteboard
