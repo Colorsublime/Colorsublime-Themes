@@ -237,7 +237,7 @@
 			</dict>
 		</dict>
 		<dict>
-			<key a="asd">name</key>
+			<key>name</key>
 			<string>Tag attribute</string>
 			<key>scope</key>
 			<string>entity.other.attribute-name</string>
