@@ -64,6 +64,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>[Meta] - The main color for Meta</string>
+			<key>scope</key>
+			<string>meta</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6C99BB</string>
+			</dict>
+
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Entity</string>
 			<key>scope</key>
 			<string>entity</string>
@@ -434,6 +446,28 @@
 			<dict>
 				<key>foreground</key>
 				<string>#6C99BB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>[Python] - Color for Self Argument</string>
+			<key>scope</key>
+			<string>variable.parameter.function.language.special.self.python</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6C99BB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>[Python] - functions</string>
+			<key>scope</key>
+			<string> meta.function-call.python, meta.function-call.generic.python, support.function.builtin.python</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EFAC32</string>
 			</dict>
 		</dict>
 	</array>
