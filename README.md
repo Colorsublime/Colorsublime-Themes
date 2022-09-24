@@ -196,6 +196,7 @@ Themes creators
 -   [Pixel Lab](http://thinkpixellab.com/)
 -   Poyeyo
 -   [Praveen Puglia](http://praveenpuglia.com)
+-	Rachel Lowe ([11BelowStudio](https://github.com/11BelowStudio))
 -   Rafal Lindemann
 -   @ralts00
 -   Randall Koutnik

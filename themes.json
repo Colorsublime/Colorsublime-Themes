@@ -2278,5 +2278,11 @@
     "FileName": "Visual_Studio_Dark_Plus.tmTheme",
     "Author": "vidann1",
     "Description": "Visual Studio Code Dark+ Color Scheme for Sublime Text 3"
+  },
+  {
+    "Title": "Draculuhh",
+    "FileName": "Draculuhh.tmTheme",
+    "Author": "Rachel Lowe (11BelowStudio)",
+    "Description": "Not Quite Dracula!"
   }
 ]
