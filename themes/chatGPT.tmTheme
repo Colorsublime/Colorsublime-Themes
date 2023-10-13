@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>ChatGPT</string>
+	<string>Exodus</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1E1E1E</string>
+				<string>#000000</string>
 				<key>caret</key>
-				<string>#D4D4D4</string>
+				<string>#FFCC00</string>
 				<key>foreground</key>
-				<string>#D4D4D4</string>
+				<string>#A0B8B8</string>
 				<key>invisibles</key>
-				<string>#3B3A32</string>
+				<string>#536D7982</string>
 				<key>lineHighlight</key>
-				<string>#3D3D3D</string>
+				<string>#171717</string>
 				<key>selection</key>
-				<string>#676767</string>
+				<string>#32464B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -31,7 +31,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6d6d6d</string>
+				<string>#7D7D7D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -42,7 +42,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fbe3bf</string>
+				<string>#099474</string>
 			</dict>
 		</dict>
 		<dict>
@@ -53,7 +53,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fdb082</string>
+				<string>#df3079</string>
 			</dict>
 		</dict>
 		<dict>
@@ -64,7 +64,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff8942</string>
+				<string>df3079</string>
 			</dict>
 		</dict>
 		<dict>
@@ -75,7 +75,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fdb082</string>
+				<string>#df3079</string>
 			</dict>
 		</dict>
 		<dict>
@@ -85,8 +85,10 @@
 			<string>variable</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#e9fdac</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -97,7 +99,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff5e5e</string>
+				<string>#2E95D3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -110,7 +112,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff5e5e</string>
+				<string>#9992EB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -123,7 +125,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#fbdfb5</string>
+				<string>#C9CC89</string>
 			</dict>
 		</dict>
 		<dict>
@@ -136,7 +138,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#8cdaff</string>
+				<string>#FFCB6B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -149,7 +151,7 @@
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#8cdaff</string>
+				<string>#C3E88D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -162,7 +164,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8cdaff</string>
+				<string>#75C0E0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -175,7 +177,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#fc9354</string>
+				<string>#FD971F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -188,7 +190,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff5e5e</string>
+				<string>#FF5370</string>
 			</dict>
 		</dict>
 		<dict>
@@ -201,7 +203,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#97d8ea</string>
+				<string>#FFCB6B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -214,7 +216,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6699cc</string>
+				<string>#E9950D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -227,7 +229,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ecfdb9</string>
+				<string>#df3079</string>
 			</dict>
 		</dict>
 		<dict>
@@ -237,8 +239,10 @@
 			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 				<key>foreground</key>
-				<string>#fbe3bf</string>
+				<string>#7FCAC3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -250,160 +254,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>PHP Namespaces</string>
-			<key>scope</key>
-			<string>support.other.namespace, entity.name.type.namespace</string>
-			<key>settings</key>
-			<dict>
 				<key>foreground</key>
-				<string>#FFB2F9</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>PHP Namespace Alias</string>
-			<key>scope</key>
-			<string>support.other.namespace.use-as.php</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#66D9EF</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>PHP Namespace Keyword</string>
-			<key>scope</key>
-			<string>variable.language.namespace.php</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#D66990</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>PHP Namespace Separator</string>
-			<key>scope</key>
-			<string>punctuation.separator.inheritance.php</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#F92672</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>CSS Functions &#x2f; Property Values</string>
-			<key>scope</key>
-			<string>support.function.misc.css, support.constant.property-value.css, support.constant.font-name.css</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#fdb082</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Twig Tagbraces</string>
-			<key>scope</key>
-			<string>meta.tag.template.value.twig, meta.tag.template.block.twig</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#CD5AC5</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Twig Keywords</string>
-			<key>scope</key>
-			<string>keyword.control.twig</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E05D8C</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Twig Objects</string>
-			<key>scope</key>
-			<string>variable.other.twig</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E5A5E0</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Twig Object Properties</string>
-			<key>scope</key>
-			<string>variable.other.property.twig</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FFE1FC</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Twig Language Constants</string>
-			<key>scope</key>
-			<string>constant.language.twig</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FFD2A6</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Twig Numerical Constants</string>
-			<key>scope</key>
-			<string>constant.numeric.twig</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FFD0FB</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Twig Filters</string>
-			<key>scope</key>
-			<string>support.function.twig</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#90E7F7</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Twig User-Defined Filters</string>
-			<key>scope</key>
-			<string>meta.function-call.other.twig</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FAB85A</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Twig Macros</string>
-			<key>scope</key>
-			<string>meta.function-call.twig</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FAB85A</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -414,7 +266,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#f92649</string>
+				<string>#F92672</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
@@ -429,50 +281,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ff9664</string>
+				<string>#7D7D7D</string>
 				<key>foreground</key>
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
-		<dict>
-			<key>name</key>
-			<string>Punctuation</string>
-			<key>scope</key>
-			<string>punctuation.definition.string, punctuation.definition.variable, punctuation.definition.string, punctuation.definition.parameters, punctuation.definition.string, punctuation.definition.array</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#ffffff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Text</string>
-			<key>scope</key>
-			<string>variable.parameter.function</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#d0d0d0</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Attribute IDs</string>
-			<key>scope</key>
-			<string>entity.other.attribute-name.id, punctuation.definition.entity</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#66a9ec</string>
-			</dict>
-		</dict>
 	</array>
-	<key>uuid</key>
-	<string>233F0694-0B9C-43E3-A44A-ECECF7DF6C73</string>
-	<key>colorSpaceName</key>
-	<string>sRGB</string>
-	<key>semanticClass</key>
-	<string>theme.chatGPT</string>
 </dict>
 </plist>
