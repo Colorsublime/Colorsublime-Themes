@@ -1,4 +1,12 @@
 [
+
+{
+    "Author": "toulefan",
+    "Description": "ChatGPT lookalike",
+    "FileName": "chatGPT.tmTheme",
+    "Title": "OpenAI"
+  },
+  
   {
     "Author": "A.J. Bale",
     "Description": "Easy to read earth tones on dark background. Especially deep support for HTML, CSS, JS, and Python",
@@ -2254,5 +2262,35 @@
     "Description": "A dark, colorful, easygoing theme.",
     "FileName": "Easygoing.tmTheme",
     "Title": "Easygoing"
+  },
+  {
+    "Title": "Sahara",
+    "FileName": "Sahara.tmTheme",
+    "Author": "Christopher Jaoude",
+    "Description": "Unique sand theme: high endurance, low eye strain. (v0.5)"
+  },
+  {
+    "Title": "Cyberpunk",
+    "FileName": "cyberpunk.tmTheme",
+    "Author": "Abdulrahman Asaad",
+    "Description": "Live in the future!, inspired by Abyss theme."
+  },
+  {
+    "Title": "Cyberpunk Glow",
+    "FileName": "cyberpunk-glow.tmTheme",
+    "Author": "Abdulrahman Asaad",
+    "Description": "Live in the future!, inspired by Abyss theme."
+  },
+  {
+    "Title": "Dark+",
+    "FileName": "Visual_Studio_Dark_Plus.tmTheme",
+    "Author": "vidann1",
+    "Description": "Visual Studio Code Dark+ Color Scheme for Sublime Text 3"
+  },
+  {
+    "Title": "Draculuhh",
+    "FileName": "Draculuhh.tmTheme",
+    "Author": "Rachel Lowe (11BelowStudio)",
+    "Description": "Not Quite Dracula!"
   }
 ]

@@ -134,7 +134,7 @@ Themes creators
 -   Joe Bergantine
 -   Johan Tique
 -   John-Paul Bader
--   Jonas Hermsmeier
+-   Jonas Hermsmeier ([jhermsmeier](https://github.com/jhermsmeier))
 -   Jonathan Santos
 -   Josema Enzo
 -   Josh Burgess
@@ -175,7 +175,7 @@ Themes creators
 -   Maximiliano Canellas
 -   maxpleaner
 -   Michael Chapman
--   Michael Hrishenko
+-   Michael Hrishenko ([ifiht](http://github.com/ifiht))
 -   Michael Obrocnik (mbixby)
 -   Michael Sheets
 -   Michelle Liu([anonmily](http://github.com/anonmily))
@@ -196,6 +196,7 @@ Themes creators
 -   [Pixel Lab](http://thinkpixellab.com/)
 -   Poyeyo
 -   [Praveen Puglia](http://praveenpuglia.com)
+-	Rachel Lowe ([11BelowStudio](https://github.com/11BelowStudio))
 -   Rafal Lindemann
 -   @ralts00
 -   Randall Koutnik
@@ -240,6 +241,7 @@ Themes creators
 -   uonick
 -   Victor Fabiano Gomes[godotAndCoffee|BlackLeMore]
 -   Victor Volle
+-   [vidann1](https://github.com/vidann1)
 -   weop ([weop](https://github.com/weop))
 -   Wes Cravens
 -   Whiteboard
@@ -255,3 +257,4 @@ Themes creators
 -   zchen9
 -   zenorocha
 -   Zeno Rocha
+-   [Abdulrahman Asaad](https://github.com/abdulrahman19)
